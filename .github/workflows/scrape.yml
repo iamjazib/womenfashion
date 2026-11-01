@@ -1,0 +1,34 @@
+name: Automated Fashion Sale Scraper
+
+on:
+  schedule:
+    # Runs automatically every 6 hours
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Allows manual trigger from GitHub web interface
+
+jobs:
+  scrape-and-update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Run Brand Scraper Engine
+        run: |
+          node scripts/fetch-real-products.mjs
+
+      - name: Commit and Push Updated Deals
+        run: |
+          git config --global user.name "Fashion Scraper Bot"
+          git config --global user.email "bot@womenfashion.local"
+          git add data/products.ts data/brand-counts.json
+          git diff --staged --quiet || git commit -m "Auto-update live brand sales [skip ci]"
+          git push
