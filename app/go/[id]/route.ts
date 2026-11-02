@@ -6,35 +6,32 @@ export async function GET(
   request: NextRequest,
   { params }: { params: Promise<{ id: string }> }
 ) {
-  const { id } = await params;
+  const { id: rawId } = await params;
+  const id = decodeURIComponent(rawId);
 
   // Find product in catalog
   const product = INITIAL_PRODUCTS.find((p) => p.id === id);
 
   if (!product) {
+    // Check if user clicked a brand ID directly
+    const directBrand = BRANDS.find((b) => b.id === id || b.slug === id);
+    if (directBrand) {
+      return NextResponse.redirect(directBrand.saleUrl, { status: 302 });
+    }
     return NextResponse.redirect(new URL("/", request.url));
   }
 
   const brand = BRANDS.find((b) => b.id === product.brandId);
 
-  // In production with Supabase, record click event:
-  // await supabase.from('clicks').insert({
-  //   product_id: product.id,
-  //   brand_id: product.brandId,
-  //   user_agent: request.headers.get('user-agent'),
-  //   referrer: request.headers.get('referer'),
-  //   clicked_at: new Date().toISOString()
-  // });
+  // Fallback to brand official sale page if productUrl is missing or incomplete
+  let targetUrl = product.productUrl || brand?.saleUrl || brand?.website || "/";
 
-  // Build outbound affiliate URL
-  let targetUrl = product.productUrl;
-
-  // Append affiliate tag if available (e.g. ?utm_source=saletracker&utm_medium=affiliate)
+  // Append affiliate tracking parameters
   try {
     const url = new URL(targetUrl);
-    url.searchParams.set("utm_source", "sabkapray_tracker");
-    url.searchParams.set("utm_medium", "affiliate_aggregator");
-    url.searchParams.set("utm_campaign", "live_sale_tracker");
+    url.searchParams.set("utm_source", "womenfashion");
+    url.searchParams.set("utm_medium", "affiliate");
+    url.searchParams.set("utm_campaign", "sale_tracker");
     targetUrl = url.toString();
   } catch (err) {
     // If malformed, fallback to raw url
