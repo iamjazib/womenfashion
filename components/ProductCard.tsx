@@ -1,8 +1,10 @@
 "use client";
 
 import React from "react";
+import Link from "next/link";
 import { Product } from "@/types";
-import { Heart, ExternalLink, TrendingDown, Sparkles } from "lucide-react";
+import { Heart, ExternalLink, TrendingDown, Sparkles, ArrowLeftRight, Check } from "lucide-react";
+import { useCompare } from "@/context/CompareContext";
 
 interface ProductCardProps {
   product: Product;
@@ -17,6 +19,8 @@ export const ProductCard: React.FC<ProductCardProps> = ({
   onToggleSave,
   onOpenHistory,
 }) => {
+  const { isInCompare, toggleCompare } = useCompare();
+  const compared = isInCompare(product.id);
   const savings = product.originalPrice - product.salePrice;
 
   return (
@@ -36,11 +40,15 @@ export const ProductCard: React.FC<ProductCardProps> = ({
 
         {/* Top Badges */}
         <div className="absolute top-2.5 left-2.5 right-2.5 flex items-start justify-between gap-1 pointer-events-none">
-          <div className="flex flex-col gap-1">
-            {/* Brand Badge */}
-            <span className="bg-neutral-900/90 backdrop-blur-xs text-white text-[10px] font-black uppercase tracking-wider px-2 py-0.5 rounded shadow-xs">
+          <div className="flex flex-col gap-1 pointer-events-auto">
+            {/* Brand Badge with link to brand page */}
+            <Link
+              href={`/brand/${product.brandId}`}
+              className="bg-neutral-900/90 hover:bg-neutral-800 backdrop-blur-xs text-white text-[10px] font-black uppercase tracking-wider px-2 py-0.5 rounded shadow-xs transition-colors"
+              title={`View all ${product.brandName} sales`}
+            >
               {product.brandName}
-            </span>
+            </Link>
             {/* Lowest Price Ever Badge */}
             {product.isLowestPrice && (
               <span className="bg-emerald-600/95 backdrop-blur-xs text-white text-[9px] font-bold tracking-tight px-1.5 py-0.5 rounded flex items-center gap-0.5 shadow-xs">
@@ -58,18 +66,38 @@ export const ProductCard: React.FC<ProductCardProps> = ({
           </div>
         </div>
 
-        {/* Wishlist Button */}
-        <button
-          onClick={() => onToggleSave(product.id)}
-          className="absolute bottom-2.5 right-2.5 p-2 rounded-full bg-white/90 backdrop-blur-xs text-neutral-700 hover:text-rose-600 shadow-md transition-colors"
-          title="Save deal"
-        >
-          <Heart
-            className={`w-4 h-4 ${
-              isSaved ? "fill-rose-600 text-rose-600" : "text-neutral-600"
+        {/* Action Icons Floating on Image (Wishlist & Compare) */}
+        <div className="absolute bottom-2.5 right-2.5 flex items-center gap-1.5">
+          {/* Compare Button */}
+          <button
+            onClick={() => toggleCompare(product)}
+            className={`p-2 rounded-full backdrop-blur-xs shadow-md transition-all ${
+              compared
+                ? "bg-rose-600 text-white"
+                : "bg-white/90 text-neutral-700 hover:text-rose-600 hover:bg-white"
             }`}
-          />
-        </button>
+            title={compared ? "Remove from comparison" : "Add to comparison"}
+          >
+            {compared ? (
+              <Check className="w-4 h-4" />
+            ) : (
+              <ArrowLeftRight className="w-4 h-4" />
+            )}
+          </button>
+
+          {/* Wishlist Button */}
+          <button
+            onClick={() => onToggleSave(product.id)}
+            className="p-2 rounded-full bg-white/90 backdrop-blur-xs text-neutral-700 hover:text-rose-600 shadow-md transition-colors"
+            title="Save deal"
+          >
+            <Heart
+              className={`w-4 h-4 ${
+                isSaved ? "fill-rose-600 text-rose-600" : "text-neutral-600"
+              }`}
+            />
+          </button>
+        </div>
 
         {/* Quick Fabric Tag */}
         {product.fabric && (

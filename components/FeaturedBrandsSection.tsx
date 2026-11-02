@@ -1,8 +1,9 @@
 "use client";
 
 import React from "react";
+import Link from "next/link";
 import { Brand } from "@/types";
-import { Sparkles, ArrowRight, Tag } from "lucide-react";
+import { Sparkles, ArrowRight, ExternalLink } from "lucide-react";
 
 interface FeaturedBrandsSectionProps {
   brands: Brand[];
@@ -67,91 +68,87 @@ export const FeaturedBrandsSection: React.FC<FeaturedBrandsSectionProps> = ({
               Featured Pakistani Women's Brands
             </h2>
             <p className="text-xs sm:text-sm text-neutral-500 mt-1">
-              Direct live sale trackers for Pakistan's most revered women's couture and lawn labels.
+              Dedicated storefronts and live sale trackers for Pakistan's most revered women's couture houses.
             </p>
           </div>
-          <span className="text-xs font-semibold text-neutral-600">
-            {brands.length} Verified Brand Partners
-          </span>
+          <div className="flex items-center gap-3">
+            <Link
+              href="/brands"
+              className="text-xs font-bold text-neutral-900 hover:text-rose-600 flex items-center gap-1 transition-colors"
+            >
+              <span>View All Brands Directory</span>
+              <ArrowRight className="w-3.5 h-3.5" />
+            </Link>
+          </div>
         </div>
 
         {/* Brand Cards Grid */}
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
           {featuredList.map((brand) => {
             const profile = brandProfiles[brand.id];
-            const isSelected = selectedBrand === brand.id;
+            const brandSlug = brand.slug || brand.id;
 
             return (
               <div
                 key={brand.id}
-                onClick={() => {
-                  onSelectBrand(brand.id);
-                  // Smooth scroll to catalog section
-                  const el = document.getElementById("catalog-section");
-                  if (el) el.scrollIntoView({ behavior: "smooth" });
-                }}
-                className={`group cursor-pointer relative overflow-hidden rounded-2xl border transition-all duration-300 p-5 flex flex-col justify-between shadow-2xs hover:shadow-xl ${
-                  isSelected
-                    ? "bg-neutral-900 text-white border-neutral-900"
-                    : "bg-white text-neutral-900 border-neutral-200 hover:border-neutral-900"
-                }`}
+                className="group relative overflow-hidden rounded-2xl border border-neutral-200 hover:border-neutral-900 bg-white text-neutral-900 transition-all duration-300 p-5 flex flex-col justify-between shadow-2xs hover:shadow-xl"
               >
                 {/* Top Info */}
                 <div>
                   <div className="flex items-center justify-between mb-3">
-                    <span
-                      className={`text-xs font-black uppercase tracking-wider px-2.5 py-1 rounded-md ${
-                        isSelected
-                          ? "bg-rose-500 text-white"
-                          : "bg-rose-50 text-rose-600 border border-rose-200"
-                      }`}
-                    >
+                    <span className="text-xs font-black uppercase tracking-wider px-2.5 py-1 rounded-md bg-rose-50 text-rose-600 border border-rose-200">
                       {profile?.tag || "Active Sale"}
                     </span>
-                    <span
-                      className={`text-xs font-semibold ${
-                        isSelected ? "text-neutral-300" : "text-neutral-400"
-                      }`}
-                    >
+                    <span className="text-xs font-semibold text-neutral-400">
                       {brand.totalDeals} live sales
                     </span>
                   </div>
 
-                  <h3 className="text-xl font-serif font-black tracking-tight mb-1">
+                  <h3 className="text-xl font-serif font-black tracking-tight mb-1 group-hover:text-rose-600 transition-colors">
                     {brand.name}
                   </h3>
-                  <p
-                    className={`text-xs line-clamp-1 mb-4 ${
-                      isSelected ? "text-neutral-300" : "text-neutral-500"
-                    }`}
-                  >
+                  <p className="text-xs line-clamp-1 mb-4 text-neutral-500">
                     {profile?.headline}
                   </p>
                 </div>
 
                 {/* Visual Image Preview */}
-                <div className="relative h-32 rounded-xl overflow-hidden bg-neutral-100 mb-4">
+                <Link
+                  href={`/brand/${brandSlug}`}
+                  className="relative h-32 rounded-xl overflow-hidden bg-neutral-100 mb-4 block"
+                >
                   <img
                     src={profile?.image}
                     alt={brand.name}
                     className="w-full h-full object-cover object-center group-hover:scale-105 transition-transform duration-500"
                   />
                   <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent"></div>
-                  <div className="absolute bottom-2.5 left-3 text-white text-xs font-bold">
-                    Official Brand Storefront
+                  <div className="absolute bottom-2.5 left-3 text-white text-xs font-bold flex items-center gap-1">
+                    <span>Explore {brand.name} Storefront</span>
+                    <ArrowRight className="w-3 h-3" />
                   </div>
-                </div>
+                </Link>
 
-                {/* Footer Action */}
-                <div
-                  className={`flex items-center justify-between pt-3 border-t text-xs font-bold transition-colors ${
-                    isSelected
-                      ? "border-neutral-800 text-rose-400"
-                      : "border-neutral-100 text-neutral-900 group-hover:text-rose-600"
-                  }`}
-                >
-                  <span>{isSelected ? "Currently Filtering" : "View Live Discounts"}</span>
-                  <ArrowRight className="w-4 h-4 transform group-hover:translate-x-1 transition-transform" />
+                {/* Footer Action Links */}
+                <div className="flex items-center justify-between pt-3 border-t border-neutral-100 text-xs font-bold">
+                  <Link
+                    href={`/brand/${brandSlug}`}
+                    className="text-neutral-900 group-hover:text-rose-600 flex items-center gap-1 transition-colors"
+                  >
+                    <span>View Brand Page</span>
+                    <ArrowRight className="w-3.5 h-3.5" />
+                  </Link>
+
+                  <button
+                    onClick={() => {
+                      onSelectBrand(brand.id);
+                      const el = document.getElementById("catalog-section");
+                      if (el) el.scrollIntoView({ behavior: "smooth" });
+                    }}
+                    className="text-neutral-500 hover:text-neutral-900 text-[11px] underline"
+                  >
+                    Filter in Catalog
+                  </button>
                 </div>
               </div>
             );

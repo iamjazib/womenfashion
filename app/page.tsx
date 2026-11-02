@@ -92,16 +92,28 @@ export default function Home() {
     return selected.slice(0, 10);
   }, [products]);
 
-  // Single Star Featured Product Spotlight
-  const starFeaturedProduct = useMemo(() => {
-    return (
-      products.find(
-        (p) =>
-          p.discountPct >= 45 &&
-          p.imageUrl &&
-          (p.brandId === "asimjofa" || p.brandId === "baroque" || p.brandId === "gulahmed")
-      ) || products[0]
-    );
+  // Curated products for 5-Second Featured Slider across ALL categories
+  const featuredCategorySliderProducts = useMemo(() => {
+    const list: Product[] = [];
+    const categories: Array<Product["category"]> = ["unstitched", "festive", "pret", "western"];
+
+    // 1. Pick highest discount item from each of the 4 main categories
+    for (const cat of categories) {
+      const match = products
+        .filter((p) => p.category === cat && p.imageUrl)
+        .sort((a, b) => b.discountPct - a.discountPct)[0];
+      if (match) list.push(match);
+    }
+
+    // 2. Add top overall clearance deals to complete the luxury rotation
+    const additionalMatches = products
+      .filter((p) => p.imageUrl && !list.some((item) => item.id === p.id) && p.discountPct >= 40)
+      .sort((a, b) => b.discountPct - a.discountPct)
+      .slice(0, 2);
+
+    list.push(...additionalMatches);
+
+    return list;
   }, [products]);
 
   // Filter & Sort logic
@@ -231,9 +243,9 @@ export default function Home() {
         savedIds={savedIds}
       />
 
-      {/* Section 2: Single Star Featured Product Spotlight */}
+      {/* Section 2: 5-Second Category Slider Spotlight */}
       <SingleFeaturedProduct
-        product={starFeaturedProduct}
+        products={featuredCategorySliderProducts}
         onOpenHistory={setModalProduct}
       />
 

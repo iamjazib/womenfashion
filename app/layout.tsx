@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import { CompareProvider } from "@/context/CompareContext";
+import { CompareBar } from "@/components/CompareBar";
 
 export const metadata: Metadata = {
   title: "Women Fashion • Pakistani Women's Clothing Sale Tracker",
@@ -14,7 +16,12 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" className="h-full antialiased font-sans">
-      <body className="min-h-full flex flex-col">{children}</body>
+      <body className="min-h-full flex flex-col">
+        <CompareProvider>
+          {children}
+          <CompareBar />
+        </CompareProvider>
+      </body>
     </html>
   );
 }
