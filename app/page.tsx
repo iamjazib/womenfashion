@@ -47,11 +47,49 @@ export default function Home() {
     );
   };
 
-  // Top products for Hero Slider (with highest discounts & verified images)
+  // Top 10 diversified products for Hero Slider across ALL categories and brands
   const heroSliderProducts = useMemo(() => {
-    return products
-      .filter((p) => p.discountPct >= 35 && p.imageUrl)
-      .slice(0, 6);
+    const selected: Product[] = [];
+    const seenBrands = new Set<string>();
+    const categories: Array<Product["category"]> = ["unstitched", "festive", "pret", "western"];
+
+    // 1. Pick a top deal from each category across diverse brands
+    for (const cat of categories) {
+      const match = products.find(
+        (p) => p.category === cat && !seenBrands.has(p.brandId) && p.imageUrl && p.discountPct >= 30
+      );
+      if (match) {
+        selected.push(match);
+        seenBrands.add(match.brandId);
+      }
+    }
+
+    // 2. Pick a top deal from every other remaining brand
+    const remainingBrandIds = ["asimjofa", "baroque", "sanasafinaz", "alkaram", "zellbury", "limelight", "gulahmed"];
+    for (const b of remainingBrandIds) {
+      if (selected.length >= 10) break;
+      if (!seenBrands.has(b)) {
+        const match = products.find((p) => p.brandId === b && p.imageUrl);
+        if (match) {
+          selected.push(match);
+          seenBrands.add(b);
+        }
+      }
+    }
+
+    // 3. Fill up to 10 with other high-value luxury designer deals
+    const luxuryBrands = ["asimjofa", "baroque", "gulahmed", "limelight", "sanasafinaz"];
+    for (const b of luxuryBrands) {
+      if (selected.length >= 10) break;
+      const match = products.find(
+        (p) => p.brandId === b && !selected.some((s) => s.id === p.id) && p.imageUrl
+      );
+      if (match) {
+        selected.push(match);
+      }
+    }
+
+    return selected.slice(0, 10);
   }, [products]);
 
   // Single Star Featured Product Spotlight

@@ -9,9 +9,9 @@ interface StackedCardShuffleProps {
 }
 
 export const StackedCardShuffle: React.FC<StackedCardShuffleProps> = ({ products }) => {
-  // Take top 6 products for the deck
+  // Take top 10 products for the deck
   const deckProducts = React.useMemo(() => {
-    return products.slice(0, 6);
+    return products.slice(0, 10);
   }, [products]);
 
   const [cards, setCards] = useState<Product[]>(deckProducts);
