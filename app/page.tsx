@@ -120,16 +120,18 @@ export default function Home() {
   const filteredProducts = useMemo(() => {
     return products
       .filter((p) => {
-        // Search query filter
+        // Multi-keyword smart search filter
         if (searchQuery.trim()) {
           const q = searchQuery.toLowerCase();
-          const matchTitle = p.title.toLowerCase().includes(q);
-          const matchBrand = p.brandName.toLowerCase().includes(q);
-          const matchFabric = p.fabric?.toLowerCase().includes(q);
-          const matchPiece = p.pieceCount?.toLowerCase().includes(q);
-          if (!matchTitle && !matchBrand && !matchFabric && !matchPiece) {
-            return false;
-          }
+          const words = q.split(/\s+/).filter(Boolean);
+          const matches = words.every((w) =>
+            p.title.toLowerCase().includes(w) ||
+            p.brandName.toLowerCase().includes(w) ||
+            (p.fabric && p.fabric.toLowerCase().includes(w)) ||
+            (p.pieceCount && p.pieceCount.toLowerCase().includes(w)) ||
+            p.category.toLowerCase().includes(w)
+          );
+          if (!matches) return false;
         }
 
         // Brand filter
@@ -275,6 +277,10 @@ export default function Home() {
 
         {/* Multi-Filters & Sorting Bar */}
         <FilterBar
+          selectedCategory={selectedCategory}
+          setSelectedCategory={setSelectedCategory}
+          selectedBrand={selectedBrand}
+          setSelectedBrand={setSelectedBrand}
           minDiscount={minDiscount}
           setMinDiscount={setMinDiscount}
           maxPrice={maxPrice}
@@ -285,7 +291,12 @@ export default function Home() {
           setOnlyLowestEver={setOnlyLowestEver}
           pieceFilter={pieceFilter}
           setPieceFilter={setPieceFilter}
+          searchQuery={searchQuery}
+          setSearchQuery={setSearchQuery}
           totalFiltered={filteredProducts.length}
+          totalDeals={products.length}
+          onResetFilters={resetFilters}
+          brandName={BRANDS.find((b) => b.id === selectedBrand)?.name}
         />
 
         {/* Main Product Grid (Cleanly limited to 12 items initially) */}

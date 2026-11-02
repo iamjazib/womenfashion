@@ -23,7 +23,10 @@ export const CategoryGridSection: React.FC<CategoryGridSectionProps> = ({
       subtitle: "3-Piece & 2-Piece suits from Gul Ahmed, Alkaram & Sana Safinaz",
       image: "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?w=600&h=700&fit=crop&q=80",
       badge: "Most Popular",
-      action: () => onSelectCategory("unstitched"),
+      action: () => {
+        onSelectCategory("unstitched");
+        onSelectPriceCap(100000); // Reset price cap so dresses aren't filtered out
+      },
     },
     {
       id: "pret",
@@ -31,7 +34,10 @@ export const CategoryGridSection: React.FC<CategoryGridSectionProps> = ({
       subtitle: "Stitched kurtas, shirts & daily co-ords from Limelight & J.",
       image: "https://images.unsplash.com/photo-1610030469983-98e550d6193c?w=600&h=700&fit=crop&q=80",
       badge: "Fast Selling",
-      action: () => onSelectCategory("pret"),
+      action: () => {
+        onSelectCategory("pret");
+        onSelectPriceCap(100000);
+      },
     },
     {
       id: "festive",
@@ -39,7 +45,10 @@ export const CategoryGridSection: React.FC<CategoryGridSectionProps> = ({
       subtitle: "Chiffon, Silk & Embroidered Wedding collections from Asim Jofa & Baroque",
       image: "https://images.unsplash.com/photo-1518049362265-d5b2a6467637?w=600&h=700&fit=crop&q=80",
       badge: "Up to 50% OFF",
-      action: () => onSelectCategory("festive"),
+      action: () => {
+        onSelectCategory("festive");
+        onSelectPriceCap(100000);
+      },
     },
     {
       id: "budget-coords",

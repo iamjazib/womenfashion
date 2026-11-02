@@ -166,6 +166,46 @@ function extractCategory(title, productType = "", defaultCat = "pret") {
   return defaultCat;
 }
 
+function isStrictlyFemaleClothing(title, handle, body = "") {
+  const text = `${title} ${handle} ${body}`.toLowerCase();
+  const maleKeywords = [
+    /\bmen\b/i,
+    /\bmens\b/i,
+    /\bmen's\b/i,
+    /\bman\b/i,
+    /\bgents\b/i,
+    /\bgent\b/i,
+    /\bgent's\b/i,
+    /\bboy\b/i,
+    /\bboys\b/i,
+    /\bboys'\b/i,
+    /\bkid\b/i,
+    /\bkids\b/i,
+    /\binfant\b/i,
+    /\bbaby\b/i,
+    /\btoddler\b/i,
+    /\bwaistcoat\b/i,
+    /\bsherwani\b/i,
+    /\bprince coat\b/i,
+    /\bkurta pajama\b/i,
+    /\bpolo\b/i,
+    /\btees\b/i,
+    /\bt-shirt\b/i,
+    /\bt shirt\b/i,
+    /\bcasual shirts\b/i,
+    /\bbasic suits\b/i,
+    /\bmn-\b/i,
+    /\bsk-\b/i,
+    /\bjtk-\b/i,
+    /\bjtks-\b/i,
+    /\bjik-\b/i,
+  ];
+  for (const regex of maleKeywords) {
+    if (regex.test(text)) return false;
+  }
+  return true;
+}
+
 async function fetchRealProducts() {
   console.log("Fetching live brand products from official Pakistani stores with polite delays...");
   const allProducts = [];
@@ -192,6 +232,7 @@ async function fetchRealProducts() {
       let count = 0;
       for (const item of rawProducts) {
         if (!item.variants || item.variants.length === 0) continue;
+        if (!isStrictlyFemaleClothing(item.title, item.handle, item.body_html || "")) continue;
 
         // Choose variant with best discount
         let chosenVariant = item.variants[0];

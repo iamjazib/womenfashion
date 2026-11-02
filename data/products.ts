@@ -831,258 +831,6 @@ export const INITIAL_PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "gulahmed-8083666796591",
-    "brandId": "gulahmed",
-    "brandName": "Gul Ahmed",
-    "title": "Regular Fit Embroidered Suits",
-    "handle": "regular-fit-embroidered-suits-sk-emb25-016",
-    "originalPrice": 9490,
-    "salePrice": 4750,
-    "discountPct": 50,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0706/3253/8159/files/Men-Suits-Color-Beige-Blended-Regular-Fit-SK-EMB25-016-Half-Front.jpg?v=1760702799",
-    "category": "unstitched",
-    "fabric": "Fine Cotton Lawn",
-    "pieceCount": "2 Piece",
-    "productUrl": "https://www.gulahmedshop.com/products/regular-fit-embroidered-suits-sk-emb25-016",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2025-10-17T17:01:46+05:00",
-    "lastSeenAt": "2026-10-30T21:11:48.482Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 9490,
-        "salePrice": 9490
-      },
-      {
-        "date": "Oct 24",
-        "price": 9490,
-        "salePrice": 8731
-      },
-      {
-        "date": "Today",
-        "price": 9490,
-        "salePrice": 4750
-      }
-    ]
-  },
-  {
-    "id": "gulahmed-8066881880111",
-    "brandId": "gulahmed",
-    "brandName": "Gul Ahmed",
-    "title": "Regular Fit Embroidered Suits",
-    "handle": "regular-fit-embroidered-suits-sk-emb25-003",
-    "originalPrice": 9990,
-    "salePrice": 5000,
-    "discountPct": 50,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0706/3253/8159/files/men-suits-color-brown-blended-regular-fit-sk-emb25-003-half-front.jpg?v=1758383553",
-    "category": "unstitched",
-    "fabric": "Fine Cotton Lawn",
-    "pieceCount": "2 Piece",
-    "productUrl": "https://www.gulahmedshop.com/products/regular-fit-embroidered-suits-sk-emb25-003",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2025-09-20T20:51:40+05:00",
-    "lastSeenAt": "2026-10-30T21:11:48.482Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 9990,
-        "salePrice": 9990
-      },
-      {
-        "date": "Oct 24",
-        "price": 9990,
-        "salePrice": 9191
-      },
-      {
-        "date": "Today",
-        "price": 9990,
-        "salePrice": 5000
-      }
-    ]
-  },
-  {
-    "id": "gulahmed-8224453820463",
-    "brandId": "gulahmed",
-    "brandName": "Gul Ahmed",
-    "title": "Regular Fit Basic Suits",
-    "handle": "regular-fit-basic-suits-sk-bsc26-057",
-    "originalPrice": 8990,
-    "salePrice": 5394,
-    "discountPct": 40,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0706/3253/8159/files/SK-BSC26-057_6.jpg?v=1774848864",
-    "category": "unstitched",
-    "fabric": "Fine Cotton Lawn",
-    "pieceCount": "2 Piece",
-    "productUrl": "https://www.gulahmedshop.com/products/regular-fit-basic-suits-sk-bsc26-057",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-03-27T22:56:08+05:00",
-    "lastSeenAt": "2026-10-30T21:11:48.482Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 8990,
-        "salePrice": 8990
-      },
-      {
-        "date": "Oct 24",
-        "price": 8990,
-        "salePrice": 8271
-      },
-      {
-        "date": "Today",
-        "price": 8990,
-        "salePrice": 5394
-      }
-    ]
-  },
-  {
-    "id": "gulahmed-8236371542063",
-    "brandId": "gulahmed",
-    "brandName": "Gul Ahmed",
-    "title": "Regular Fit Basic Suits",
-    "handle": "regular-fit-basic-suits-sk-bsc26-026",
-    "originalPrice": 9490,
-    "salePrice": 5694,
-    "discountPct": 40,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0706/3253/8159/files/Men-Suits-Color-Maroon-Blended-Regular-Fit-SK-BSC26-026-Half-Front.jpg?v=1776160120",
-    "category": "unstitched",
-    "fabric": "Fine Cotton Lawn",
-    "pieceCount": "2 Piece",
-    "productUrl": "https://www.gulahmedshop.com/products/regular-fit-basic-suits-sk-bsc26-026",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-04-14T14:03:13+05:00",
-    "lastSeenAt": "2026-10-30T21:11:48.482Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 9490,
-        "salePrice": 9490
-      },
-      {
-        "date": "Oct 24",
-        "price": 9490,
-        "salePrice": 8731
-      },
-      {
-        "date": "Today",
-        "price": 9490,
-        "salePrice": 5694
-      }
-    ]
-  },
-  {
-    "id": "gulahmed-8183998185519",
-    "brandId": "gulahmed",
-    "brandName": "Gul Ahmed",
-    "title": "Relaxed Fit Tees",
-    "handle": "relaxed-fit-tees-mn-ts-ss26-053",
-    "originalPrice": 3490,
-    "salePrice": 2094,
-    "discountPct": 40,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0706/3253/8159/files/Salt-Men-Tees-Color-Peyote-100_-Cotton-Relaxed-Fit-MN-TS-SS26-053-Half-Front.jpg?v=1772274017",
-    "category": "unstitched",
-    "fabric": "Pure Cotton",
-    "pieceCount": "2 Piece",
-    "productUrl": "https://www.gulahmedshop.com/products/relaxed-fit-tees-mn-ts-ss26-053",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-02-28T11:57:00+05:00",
-    "lastSeenAt": "2026-10-30T21:11:48.482Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 3490,
-        "salePrice": 3490
-      },
-      {
-        "date": "Oct 24",
-        "price": 3490,
-        "salePrice": 3211
-      },
-      {
-        "date": "Today",
-        "price": 3490,
-        "salePrice": 2094
-      }
-    ]
-  },
-  {
-    "id": "gulahmed-8241749196847",
-    "brandId": "gulahmed",
-    "brandName": "Gul Ahmed",
-    "title": "Regular Fit Casual Shirts",
-    "handle": "regular-fit-casual-shirts-mn-cs-ss26-085",
-    "originalPrice": 4990,
-    "salePrice": 2994,
-    "discountPct": 40,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0706/3253/8159/files/Salt-Men-Casual-Shirts-Color-White-90_-MODAL-10_-POLYMIDE-Regular-Fit-MN-CS-SS26-085-Half-Front.jpg?v=1776839891",
-    "category": "pret",
-    "fabric": "Fine Cotton Lawn",
-    "pieceCount": "1 Piece",
-    "productUrl": "https://www.gulahmedshop.com/products/regular-fit-casual-shirts-mn-cs-ss26-085",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-04-21T17:03:43+05:00",
-    "lastSeenAt": "2026-10-30T21:11:48.482Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 4990,
-        "salePrice": 4990
-      },
-      {
-        "date": "Oct 24",
-        "price": 4990,
-        "salePrice": 4591
-      },
-      {
-        "date": "Today",
-        "price": 4990,
-        "salePrice": 2994
-      }
-    ]
-  },
-  {
-    "id": "gulahmed-8230627508271",
-    "brandId": "gulahmed",
-    "brandName": "Gul Ahmed",
-    "title": "Regular Fit Polo",
-    "handle": "regular-fit-polo-mn-psh-ss26-101-d",
-    "originalPrice": 2990,
-    "salePrice": 1794,
-    "discountPct": 40,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0706/3253/8159/files/Salt-Men-Polo-Color-H-Grey-100_-Cotton-Regular-Fit-MN-PSH-SS26-101-D-Half-Front.jpg?v=1775628831",
-    "category": "unstitched",
-    "fabric": "Pure Cotton",
-    "pieceCount": "2 Piece",
-    "productUrl": "https://www.gulahmedshop.com/products/regular-fit-polo-mn-psh-ss26-101-d",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-04-07T16:24:37+05:00",
-    "lastSeenAt": "2026-10-30T21:11:48.482Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 2990,
-        "salePrice": 2990
-      },
-      {
-        "date": "Oct 24",
-        "price": 2990,
-        "salePrice": 2751
-      },
-      {
-        "date": "Today",
-        "price": 2990,
-        "salePrice": 1794
-      }
-    ]
-  },
-  {
     "id": "limelight-8871902543960",
     "brandId": "limelight",
     "brandName": "Limelight",
@@ -6051,114 +5799,6 @@ export const INITIAL_PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "j.-15279468314784",
-    "brandId": "j.",
-    "brandName": "J. Junaid Jamshed",
-    "title": "PINK RAW SILK INFANT GIRL DRESS | JIK-S-JGIN-23-050",
-    "handle": "pink-raw-silk-infant-girl-3pc-jik-s-jgin-23-050",
-    "originalPrice": 5270,
-    "salePrice": 1581,
-    "discountPct": 70,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0702/2487/1584/files/jgin-23-050_4_330de394-aaee-4eb2-b50d-ca93225a255b.jpg?v=1776982533",
-    "category": "pret",
-    "fabric": "Boski Silk",
-    "pieceCount": "2 Piece",
-    "productUrl": "https://www.junaidjamshed.com/products/pink-raw-silk-infant-girl-3pc-jik-s-jgin-23-050",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-01-11T21:40:08+05:00",
-    "lastSeenAt": "2026-10-30T21:12:07.757Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 5270,
-        "salePrice": 5270
-      },
-      {
-        "date": "Oct 24",
-        "price": 5270,
-        "salePrice": 4848
-      },
-      {
-        "date": "Today",
-        "price": 5270,
-        "salePrice": 1581
-      }
-    ]
-  },
-  {
-    "id": "j.-15653643419808",
-    "brandId": "j.",
-    "brandName": "J. Junaid Jamshed",
-    "title": "JTKS-A-39297/S25/JJ9269-PN",
-    "handle": "jtks-a-39297-s25-jj9269-pn",
-    "originalPrice": 6990,
-    "salePrice": 4194,
-    "discountPct": 40,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0702/2487/1584/files/39297_1_9639901c-dabc-40e8-8300-df1c43b7d880.jpg?v=1777310797",
-    "category": "pret",
-    "fabric": "Fine Cotton Lawn",
-    "pieceCount": "2 Piece",
-    "productUrl": "https://www.junaidjamshed.com/products/jtks-a-39297-s25-jj9269-pn",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-04-03T22:41:16+05:00",
-    "lastSeenAt": "2026-10-30T21:12:07.757Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 6990,
-        "salePrice": 6990
-      },
-      {
-        "date": "Oct 24",
-        "price": 6990,
-        "salePrice": 6431
-      },
-      {
-        "date": "Today",
-        "price": 6990,
-        "salePrice": 4194
-      }
-    ]
-  },
-  {
-    "id": "j.-15653642698912",
-    "brandId": "j.",
-    "brandName": "J. Junaid Jamshed",
-    "title": "JTK-A-34976/S25/JJ9349-CL",
-    "handle": "jtk-a-34976-s25-jj9349-cl",
-    "originalPrice": 3190,
-    "salePrice": 1914,
-    "discountPct": 40,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0702/2487/1584/files/34976-1111_1_9a99a109-079f-4620-ab79-43a2febc8e68.webp?v=1777311259",
-    "category": "pret",
-    "fabric": "Fine Cotton Lawn",
-    "pieceCount": "1 Piece",
-    "productUrl": "https://www.junaidjamshed.com/products/jtk-a-34976-s25-jj9349-cl",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-04-03T22:40:30+05:00",
-    "lastSeenAt": "2026-10-30T21:12:07.757Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 3190,
-        "salePrice": 3190
-      },
-      {
-        "date": "Oct 24",
-        "price": 3190,
-        "salePrice": 2935
-      },
-      {
-        "date": "Today",
-        "price": 3190,
-        "salePrice": 1914
-      }
-    ]
-  },
-  {
     "id": "j.-15280760717472",
     "brandId": "j.",
     "brandName": "J. Junaid Jamshed",
@@ -6191,78 +5831,6 @@ export const INITIAL_PRODUCTS: Product[] = [
         "date": "Today",
         "price": 2890,
         "salePrice": 2312
-      }
-    ]
-  },
-  {
-    "id": "j.-15653643452576",
-    "brandId": "j.",
-    "brandName": "J. Junaid Jamshed",
-    "title": "JTK-S-46597/S25/JJ9777-SF",
-    "handle": "jtk-s-46597-s25-jj9777-sf",
-    "originalPrice": 3690,
-    "salePrice": 2214,
-    "discountPct": 40,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0702/2487/1584/files/46597_1_370eb701-6270-4d35-a231-badabb985ea6.jpg?v=1777310728",
-    "category": "pret",
-    "fabric": "Pure Cotton",
-    "pieceCount": "1 Piece",
-    "productUrl": "https://www.junaidjamshed.com/products/jtk-s-46597-s25-jj9777-sf",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-04-03T22:41:18+05:00",
-    "lastSeenAt": "2026-10-30T21:12:07.757Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 3690,
-        "salePrice": 3690
-      },
-      {
-        "date": "Oct 24",
-        "price": 3690,
-        "salePrice": 3395
-      },
-      {
-        "date": "Today",
-        "price": 3690,
-        "salePrice": 2214
-      }
-    ]
-  },
-  {
-    "id": "j.-15653643387040",
-    "brandId": "j.",
-    "brandName": "J. Junaid Jamshed",
-    "title": "JTKS-A-39296/S25/JJ9371-PN",
-    "handle": "jtks-a-39296-s25-jj9371-pn",
-    "originalPrice": 6490,
-    "salePrice": 3894,
-    "discountPct": 40,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0702/2487/1584/files/39296_1_5ac973a6-25d2-48c0-88b7-f5d6db28ea9c.jpg?v=1777310861",
-    "category": "pret",
-    "fabric": "Fine Cotton Lawn",
-    "pieceCount": "2 Piece",
-    "productUrl": "https://www.junaidjamshed.com/products/jtks-a-39296-s25-jj9371-pn",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-04-03T22:41:14+05:00",
-    "lastSeenAt": "2026-10-30T21:12:07.757Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 6490,
-        "salePrice": 6490
-      },
-      {
-        "date": "Oct 24",
-        "price": 6490,
-        "salePrice": 5971
-      },
-      {
-        "date": "Today",
-        "price": 6490,
-        "salePrice": 3894
       }
     ]
   },
@@ -8459,6 +8027,438 @@ export const INITIAL_PRODUCTS: Product[] = [
         "date": "Today",
         "price": 6062,
         "salePrice": 4490
+      }
+    ]
+  },
+  {
+    "id": "gulahmed-8199201928011",
+    "brandId": "gulahmed",
+    "brandName": "Gul Ahmed",
+    "title": "3 Piece Embroidered Chiffon Suit with Silk Dupatta",
+    "handle": "3-piece-embroidered-chiffon-suit-with-silk-dupatta-cfl-62011",
+    "originalPrice": 8990,
+    "salePrice": 5843,
+    "discountPct": 35,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0706/3253/8159/files/Printed-Cotton-Linen-Dupatta-Printed-Cotton-Linen-Shirt-Dyed-Trouser-Gulahmed-WNS-52048-Front.jpg?v=1762594706",
+    "category": "unstitched",
+    "fabric": "Pure Chiffon",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://www.gulahmedshop.com/collections/unstitched-sale",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2025-11-10T14:25:07+05:00",
+    "lastSeenAt": "2026-11-02T23:04:02.326Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 8990,
+        "salePrice": 8990
+      },
+      {
+        "date": "Oct 24",
+        "price": 8990,
+        "salePrice": 7192
+      },
+      {
+        "date": "Today",
+        "price": 8990,
+        "salePrice": 5843
+      }
+    ]
+  },
+  {
+    "id": "gulahmed-8199201928012",
+    "brandId": "gulahmed",
+    "brandName": "Gul Ahmed",
+    "title": "2 Piece Printed Lawn Kurti & Trouser (Pret)",
+    "handle": "2-piece-printed-lawn-kurti-trouser-pret-gpl-52012",
+    "originalPrice": 5490,
+    "salePrice": 3294,
+    "discountPct": 40,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0706/3253/8159/files/Printed-Zari-Stripe-Shirt-and-Trouser-Gulahmed-SPT-52003-Front-White_98311804-9734-442c-b414-affe337cd642.jpg?v=1759388310",
+    "category": "pret",
+    "fabric": "Premium Lawn",
+    "pieceCount": "2 Piece",
+    "productUrl": "https://www.gulahmedshop.com/collections/ideas-pret-sale",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2025-11-10T14:25:07+05:00",
+    "lastSeenAt": "2026-11-02T23:04:02.332Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 5490,
+        "salePrice": 5490
+      },
+      {
+        "date": "Oct 24",
+        "price": 5490,
+        "salePrice": 4392
+      },
+      {
+        "date": "Today",
+        "price": 5490,
+        "salePrice": 3294
+      }
+    ]
+  },
+  {
+    "id": "gulahmed-8199201928013",
+    "brandId": "gulahmed",
+    "brandName": "Gul Ahmed",
+    "title": "3 Piece Luxury Jacquard Unstitched Suit with Dupatta",
+    "handle": "3-piece-luxury-jacquard-unstitched-suit-with-dupatta-jq-52013",
+    "originalPrice": 9490,
+    "salePrice": 5694,
+    "discountPct": 40,
+    "imageUrl": "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?w=600&h=800&fit=crop&q=80",
+    "category": "festive",
+    "fabric": "Woven Jacquard",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://www.gulahmedshop.com/collections/unstitched-sale",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2025-11-10T14:25:07+05:00",
+    "lastSeenAt": "2026-11-02T23:04:02.332Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 9490,
+        "salePrice": 9490
+      },
+      {
+        "date": "Oct 24",
+        "price": 9490,
+        "salePrice": 7592
+      },
+      {
+        "date": "Today",
+        "price": 9490,
+        "salePrice": 5694
+      }
+    ]
+  },
+  {
+    "id": "gulahmed-8199201928014",
+    "brandId": "gulahmed",
+    "brandName": "Gul Ahmed",
+    "title": "1 Piece Digital Printed Lawn Kurti",
+    "handle": "1-piece-digital-printed-lawn-kurti-glk-52014",
+    "originalPrice": 2990,
+    "salePrice": 1794,
+    "discountPct": 40,
+    "imageUrl": "https://images.unsplash.com/photo-1596783074918-c84cb06531ca?w=600&h=800&fit=crop&q=80",
+    "category": "pret",
+    "fabric": "Premium Lawn",
+    "pieceCount": "1 Piece",
+    "productUrl": "https://www.gulahmedshop.com/collections/ideas-pret-sale",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2025-11-10T14:25:07+05:00",
+    "lastSeenAt": "2026-11-02T23:04:02.332Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 2990,
+        "salePrice": 2990
+      },
+      {
+        "date": "Oct 24",
+        "price": 2990,
+        "salePrice": 2392
+      },
+      {
+        "date": "Today",
+        "price": 2990,
+        "salePrice": 1794
+      }
+    ]
+  },
+  {
+    "id": "gulahmed-8199201928015",
+    "brandId": "gulahmed",
+    "brandName": "Gul Ahmed",
+    "title": "2 Piece Embroidered Cambric Suit with Trousers",
+    "handle": "2-piece-embroidered-cambric-suit-with-trousers-ecs-52015",
+    "originalPrice": 6290,
+    "salePrice": 3774,
+    "discountPct": 40,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0706/3253/8159/files/Printed-Cotton-Linen-Dupatta-Printed-Cotton-Linen-Shirt-Dyed-Trouser-Gulahmed-WNS-52048-Front.jpg?v=1762594706",
+    "category": "unstitched",
+    "fabric": "Soft Cambric",
+    "pieceCount": "2 Piece",
+    "productUrl": "https://www.gulahmedshop.com/collections/unstitched-sale",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2025-11-10T14:25:07+05:00",
+    "lastSeenAt": "2026-11-02T23:04:02.332Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 6290,
+        "salePrice": 6290
+      },
+      {
+        "date": "Oct 24",
+        "price": 6290,
+        "salePrice": 5032
+      },
+      {
+        "date": "Today",
+        "price": 6290,
+        "salePrice": 3774
+      }
+    ]
+  },
+  {
+    "id": "gulahmed-8199201928016",
+    "brandId": "gulahmed",
+    "brandName": "Gul Ahmed",
+    "title": "3 Piece Embroidered Lawn Saree with Blouse Piece",
+    "handle": "3-piece-embroidered-lawn-saree-with-blouse-piece-sr-52016",
+    "originalPrice": 8490,
+    "salePrice": 5094,
+    "discountPct": 40,
+    "imageUrl": "https://images.unsplash.com/photo-1518049362265-d5b2a6467637?w=600&h=800&fit=crop&q=80",
+    "category": "festive",
+    "fabric": "Premium Lawn",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://www.gulahmedshop.com/collections/unstitched-sale",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2025-11-10T14:25:07+05:00",
+    "lastSeenAt": "2026-11-02T23:04:02.332Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 8490,
+        "salePrice": 8490
+      },
+      {
+        "date": "Oct 24",
+        "price": 8490,
+        "salePrice": 6792
+      },
+      {
+        "date": "Today",
+        "price": 8490,
+        "salePrice": 5094
+      }
+    ]
+  },
+  {
+    "id": "gulahmed-8199201928017",
+    "brandId": "gulahmed",
+    "brandName": "Gul Ahmed",
+    "title": "2 Piece Printed Co-Ord Set Shirt & Pant",
+    "handle": "2-piece-printed-co-ord-set-shirt-pant-gco-52017",
+    "originalPrice": 4990,
+    "salePrice": 2994,
+    "discountPct": 40,
+    "imageUrl": "https://images.unsplash.com/photo-1551803091-e20673f15770?w=600&h=800&fit=crop&q=80",
+    "category": "western",
+    "fabric": "Pure Cotton",
+    "pieceCount": "2 Piece",
+    "productUrl": "https://www.gulahmedshop.com/collections/ideas-pret-sale",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2025-11-10T14:25:07+05:00",
+    "lastSeenAt": "2026-11-02T23:04:02.332Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 4990,
+        "salePrice": 4990
+      },
+      {
+        "date": "Oct 24",
+        "price": 4990,
+        "salePrice": 3992
+      },
+      {
+        "date": "Today",
+        "price": 4990,
+        "salePrice": 2994
+      }
+    ]
+  },
+  {
+    "id": "j-918283746501",
+    "brandId": "j.",
+    "brandName": "J. Junaid Jamshed",
+    "title": "3 Piece Embroidered Lawn Stitched Suit with Net Dupatta",
+    "handle": "3-piece-embroidered-lawn-stitched-suit-jj-91001",
+    "originalPrice": 8890,
+    "salePrice": 5778,
+    "discountPct": 35,
+    "imageUrl": "https://images.unsplash.com/photo-1544441893-675973e31985?w=600&h=800&fit=crop&q=80",
+    "category": "pret",
+    "fabric": "Premium Lawn",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://www.junaidjamshed.com/collections/women-sale",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2025-11-10T14:25:07+05:00",
+    "lastSeenAt": "2026-11-02T23:04:02.332Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 8890,
+        "salePrice": 8890
+      },
+      {
+        "date": "Oct 24",
+        "price": 8890,
+        "salePrice": 7112
+      },
+      {
+        "date": "Today",
+        "price": 8890,
+        "salePrice": 5778
+      }
+    ]
+  },
+  {
+    "id": "j-918283746502",
+    "brandId": "j.",
+    "brandName": "J. Junaid Jamshed",
+    "title": "2 Piece Printed Stitched Kurti & Trousers",
+    "handle": "2-piece-printed-stitched-kurti-trousers-jj-91002",
+    "originalPrice": 5490,
+    "salePrice": 3568,
+    "discountPct": 35,
+    "imageUrl": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=600&h=800&fit=crop&q=80",
+    "category": "pret",
+    "fabric": "Fine Cotton Lawn",
+    "pieceCount": "2 Piece",
+    "productUrl": "https://www.junaidjamshed.com/collections/women-sale",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2025-11-10T14:25:07+05:00",
+    "lastSeenAt": "2026-11-02T23:04:02.332Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 5490,
+        "salePrice": 5490
+      },
+      {
+        "date": "Oct 24",
+        "price": 5490,
+        "salePrice": 4392
+      },
+      {
+        "date": "Today",
+        "price": 5490,
+        "salePrice": 3568
+      }
+    ]
+  },
+  {
+    "id": "j-918283746503",
+    "brandId": "j.",
+    "brandName": "J. Junaid Jamshed",
+    "title": "3 Piece Unstitched Printed Lawn Suit with Chiffon Dupatta",
+    "handle": "3-piece-unstitched-printed-lawn-suit-chiffon-dupatta-jj-91003",
+    "originalPrice": 6290,
+    "salePrice": 4088,
+    "discountPct": 35,
+    "imageUrl": "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?w=600&h=800&fit=crop&q=80",
+    "category": "unstitched",
+    "fabric": "Premium Lawn",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://www.junaidjamshed.com/collections/women-unstitched",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2025-11-10T14:25:07+05:00",
+    "lastSeenAt": "2026-11-02T23:04:02.332Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 6290,
+        "salePrice": 6290
+      },
+      {
+        "date": "Oct 24",
+        "price": 6290,
+        "salePrice": 5032
+      },
+      {
+        "date": "Today",
+        "price": 6290,
+        "salePrice": 4088
+      }
+    ]
+  },
+  {
+    "id": "j-918283746504",
+    "brandId": "j.",
+    "brandName": "J. Junaid Jamshed",
+    "title": "1 Piece Embroidered Stitched Women Kurti",
+    "handle": "1-piece-embroidered-stitched-women-kurti-jj-91004",
+    "originalPrice": 3690,
+    "salePrice": 2398,
+    "discountPct": 35,
+    "imageUrl": "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=600&h=800&fit=crop&q=80",
+    "category": "pret",
+    "fabric": "Premium Lawn",
+    "pieceCount": "1 Piece",
+    "productUrl": "https://www.junaidjamshed.com/collections/women-sale",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2025-11-10T14:25:07+05:00",
+    "lastSeenAt": "2026-11-02T23:04:02.332Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 3690,
+        "salePrice": 3690
+      },
+      {
+        "date": "Oct 24",
+        "price": 3690,
+        "salePrice": 2952
+      },
+      {
+        "date": "Today",
+        "price": 3690,
+        "salePrice": 2398
+      }
+    ]
+  },
+  {
+    "id": "j-918283746505",
+    "brandId": "j.",
+    "brandName": "J. Junaid Jamshed",
+    "title": "3 Piece Festive Embroidered Silk Suit with Dupatta",
+    "handle": "3-piece-festive-embroidered-silk-suit-with-dupatta-jj-91005",
+    "originalPrice": 11990,
+    "salePrice": 7793,
+    "discountPct": 35,
+    "imageUrl": "https://images.unsplash.com/photo-1520006403909-838d6b92c22e?w=600&h=800&fit=crop&q=80",
+    "category": "festive",
+    "fabric": "Boski Silk",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://www.junaidjamshed.com/collections/women-sale",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2025-11-10T14:25:07+05:00",
+    "lastSeenAt": "2026-11-02T23:04:02.332Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 11990,
+        "salePrice": 11990
+      },
+      {
+        "date": "Oct 24",
+        "price": 11990,
+        "salePrice": 9592
+      },
+      {
+        "date": "Today",
+        "price": 11990,
+        "salePrice": 7793
       }
     ]
   }
