@@ -182,7 +182,7 @@ export default function ComparePage() {
                   className="inline-flex items-center gap-2 bg-neutral-100 hover:bg-neutral-200 text-neutral-900 font-bold text-xs sm:text-sm px-6 py-3 rounded-full transition-colors"
                 >
                   <Plus className="w-4 h-4" />
-                  <span>Pick from 235 Products</span>
+                  <span>Pick from 223 Products</span>
                 </button>
               </div>
             </div>

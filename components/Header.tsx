@@ -20,7 +20,7 @@ export const Header: React.FC<HeaderProps> = ({
   savedCount = 0,
   selectedCategory = "all",
   setSelectedCategory,
-  totalDeals = 235,
+  totalDeals = 223,
 }) => {
   const { compareItems } = useCompare();
 

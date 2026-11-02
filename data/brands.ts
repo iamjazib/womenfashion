@@ -11,7 +11,7 @@ export const BRANDS: Brand[] = [
     saleUrl: "https://www.gulahmedshop.com/sale",
     primaryColor: "#047857",
     active: true,
-    totalDeals: 30,
+    totalDeals: 23,
   },
   {
     id: "limelight",
@@ -71,7 +71,7 @@ export const BRANDS: Brand[] = [
     saleUrl: "https://www.junaidjamshed.com/collections/sale",
     primaryColor: "#111827",
     active: true,
-    totalDeals: 30,
+    totalDeals: 25,
   },
   {
     id: "alkaram",
