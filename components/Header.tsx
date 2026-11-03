@@ -2,8 +2,9 @@
 
 import React from "react";
 import Link from "next/link";
-import { Search, Heart, ShieldCheck, ArrowLeftRight, Sparkles } from "lucide-react";
+import { Search, Heart, ShieldCheck, ArrowLeftRight, Sparkles, Timer } from "lucide-react";
 import { useCompare } from "@/context/CompareContext";
+import { useSaleCountdown } from "@/hooks/useSaleCountdown";
 
 interface HeaderProps {
   searchQuery?: string;
@@ -23,6 +24,7 @@ export const Header: React.FC<HeaderProps> = ({
   totalDeals = 223,
 }) => {
   const { compareItems } = useCompare();
+  const { days, hours, minutes, seconds, formattedEndDate, mounted } = useSaleCountdown();
 
   const categories = [
     { id: "all", label: "All Sales" },
@@ -34,20 +36,37 @@ export const Header: React.FC<HeaderProps> = ({
 
   return (
     <header className="sticky top-0 z-40 bg-white/95 backdrop-blur-md border-b border-gray-100 shadow-xs">
-      {/* Top Notification Bar */}
+      {/* Top Notification Bar with Live 30-Day Sale Ender Countdown */}
       <div className="bg-neutral-950 text-white text-xs py-1.5 px-4 border-b border-neutral-900">
-        <div className="max-w-7xl mx-auto flex items-center justify-between">
+        <div className="max-w-7xl mx-auto flex flex-wrap items-center justify-between gap-2">
           <div className="flex items-center gap-2">
             <span className="inline-block w-2 h-2 rounded-full bg-rose-500 animate-pulse"></span>
             <span className="font-medium text-neutral-200">
               Women Fashion Live Radar:{" "}
-              <span className="text-rose-400 font-semibold">{totalDeals}</span> active discounts tracked across Pakistani women's brands
+              <span className="text-rose-400 font-semibold">{totalDeals}</span> active discounts tracked
             </span>
           </div>
+
+          {/* 30-Day Sale Ender Live Countdown */}
+          <div className="flex items-center gap-2 text-[11px] sm:text-xs">
+            <span className="inline-flex items-center gap-1 text-amber-300 font-semibold">
+              <Timer className="w-3.5 h-3.5 text-amber-400" />
+              <span>30-Day Sale Ender:</span>
+            </span>
+            <span className="bg-neutral-900 border border-neutral-800 text-rose-400 px-2 py-0.5 rounded font-mono font-bold tracking-wider">
+              {mounted
+                ? `${days}d ${String(hours).padStart(2, "0")}h ${String(minutes).padStart(2, "0")}m ${String(seconds).padStart(2, "0")}s`
+                : "30d 00h 00m 00s"}
+            </span>
+            <span className="hidden lg:inline text-neutral-400">
+              (Ends: <strong className="text-neutral-200">{formattedEndDate}</strong>)
+            </span>
+          </div>
+
           <div className="hidden md:flex items-center gap-4 text-neutral-300">
             <span className="flex items-center gap-1 text-emerald-400">
               <ShieldCheck className="w-3.5 h-3.5" />
-              Verified Price Drop Protection
+              Verified Direct Links
             </span>
             <span>•</span>
             <span className="text-neutral-400">Updated every 3 hours</span>

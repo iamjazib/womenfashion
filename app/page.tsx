@@ -6,6 +6,7 @@ import { INITIAL_PRODUCTS } from "@/data/products";
 import { Product } from "@/types";
 import { Header } from "@/components/Header";
 import { HeroSection } from "@/components/HeroSection";
+import { SaleCountdownSection } from "@/components/SaleCountdownSection";
 import { FeaturedDealsSection } from "@/components/FeaturedDealsSection";
 import { SingleFeaturedProduct } from "@/components/SingleFeaturedProduct";
 import { FeaturedBrandsSection } from "@/components/FeaturedBrandsSection";
@@ -216,7 +217,7 @@ export default function Home() {
 
   return (
     <div className="min-h-screen bg-neutral-100/60 flex flex-col font-sans selection:bg-rose-500 selection:text-white">
-      {/* SabKapray Style Sticky Header */}
+      {/* SabKapray Style Sticky Header with Live Countdown */}
       <Header
         searchQuery={searchQuery}
         setSearchQuery={setSearchQuery}
@@ -237,7 +238,10 @@ export default function Home() {
         totalDeals={products.length}
       />
 
-      {/* Section 1: Flash Sale Highlights (Top 4 Big Discounts) */}
+      {/* Section 1: 30-Day Seasonal Clearance Sale Ender Countdown & End Date */}
+      <SaleCountdownSection />
+
+      {/* Section 2: Flash Sale Highlights (Top 4 Big Discounts) */}
       <FeaturedDealsSection
         products={products}
         onOpenHistory={setModalProduct}
@@ -245,20 +249,20 @@ export default function Home() {
         savedIds={savedIds}
       />
 
-      {/* Section 2: 5-Second Category Slider Spotlight */}
+      {/* Section 3: 5-Second Category Slider Spotlight */}
       <SingleFeaturedProduct
         products={featuredCategorySliderProducts}
         onOpenHistory={setModalProduct}
       />
 
-      {/* Section 3: Featured Brands Showcase (Baroque, Asim Jofa, Gul Ahmed, etc.) */}
+      {/* Section 4: Featured Brands Showcase (Baroque, Asim Jofa, Gul Ahmed, etc.) */}
       <FeaturedBrandsSection
         brands={BRANDS}
         selectedBrand={selectedBrand}
         onSelectBrand={setSelectedBrand}
       />
 
-      {/* Section 4: Shop by Category Across All Brands (Lawn, Pret, Festive, Co-ords) */}
+      {/* Section 5: Shop by Category Across All Brands (Lawn, Pret, Festive, Co-ords) */}
       <CategoryGridSection
         selectedCategory={selectedCategory}
         onSelectCategory={setSelectedCategory}
@@ -266,7 +270,7 @@ export default function Home() {
         onSelectPriceCap={setMaxPrice}
       />
 
-      {/* Section 5: Live Sale Catalog (With Search & Interactive Filters) */}
+      {/* Section 6: Live Sale Catalog (With Search & Interactive Filters) */}
       <div id="catalog-section" className="scroll-mt-20">
         {/* Brand Horizontal Carousel / Pill Bar */}
         <BrandBar
@@ -359,13 +363,13 @@ export default function Home() {
         </main>
       </div>
 
-      {/* Section 6: About Us Section */}
+      {/* Section 7: About Us Section */}
       <AboutSection />
 
-      {/* Section 7: FAQ Accordion Section */}
+      {/* Section 8: FAQ Accordion Section */}
       <FAQSection />
 
-      {/* Section 8: Call To Action (Sale Alerts) */}
+      {/* Section 9: Call To Action (Sale Alerts) */}
       <CTASection />
 
       {/* Price History & Fake Sale Modal */}
