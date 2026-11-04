@@ -19,7 +19,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-11-08T14:25:07+05:00",
-    "lastSeenAt": "2026-11-04T03:49:46.351Z",
+    "lastSeenAt": "2026-11-04T13:27:05.840Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -55,7 +55,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-10-02T11:51:23+05:00",
-    "lastSeenAt": "2026-11-04T03:49:46.353Z",
+    "lastSeenAt": "2026-11-04T13:27:05.841Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -91,7 +91,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-17T16:32:06+05:00",
-    "lastSeenAt": "2026-11-04T03:49:46.353Z",
+    "lastSeenAt": "2026-11-04T13:27:05.841Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -127,7 +127,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-09-20T20:07:23+05:00",
-    "lastSeenAt": "2026-11-04T03:49:46.353Z",
+    "lastSeenAt": "2026-11-04T13:27:05.841Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -163,7 +163,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-17T16:31:58+05:00",
-    "lastSeenAt": "2026-11-04T03:49:46.353Z",
+    "lastSeenAt": "2026-11-04T13:27:05.841Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -199,7 +199,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-09-20T20:06:56+05:00",
-    "lastSeenAt": "2026-11-04T03:49:46.353Z",
+    "lastSeenAt": "2026-11-04T13:27:05.842Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -235,7 +235,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-09-20T20:07:22+05:00",
-    "lastSeenAt": "2026-11-04T03:49:46.353Z",
+    "lastSeenAt": "2026-11-04T13:27:05.842Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -271,7 +271,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-04-01T12:05:36+05:00",
-    "lastSeenAt": "2026-11-04T03:49:46.353Z",
+    "lastSeenAt": "2026-11-04T13:27:05.842Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -307,7 +307,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-09-20T20:07:04+05:00",
-    "lastSeenAt": "2026-11-04T03:49:46.353Z",
+    "lastSeenAt": "2026-11-04T13:27:05.842Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -343,7 +343,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-09-20T19:34:15+05:00",
-    "lastSeenAt": "2026-11-04T03:49:46.353Z",
+    "lastSeenAt": "2026-11-04T13:27:05.842Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -379,7 +379,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-09-20T19:34:17+05:00",
-    "lastSeenAt": "2026-11-04T03:49:46.353Z",
+    "lastSeenAt": "2026-11-04T13:27:05.843Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -415,7 +415,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-17T15:58:44+05:00",
-    "lastSeenAt": "2026-11-04T03:49:46.354Z",
+    "lastSeenAt": "2026-11-04T13:27:05.843Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -451,7 +451,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-10-30T14:06:17+05:00",
-    "lastSeenAt": "2026-11-04T03:49:46.354Z",
+    "lastSeenAt": "2026-11-04T13:27:05.844Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -487,7 +487,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-11-10T15:26:08+05:00",
-    "lastSeenAt": "2026-11-04T03:49:46.354Z",
+    "lastSeenAt": "2026-11-04T13:27:05.844Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -523,7 +523,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-12-04T13:01:22+05:00",
-    "lastSeenAt": "2026-11-04T03:49:46.354Z",
+    "lastSeenAt": "2026-11-04T13:27:05.844Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -559,7 +559,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-24T22:13:50+05:00",
-    "lastSeenAt": "2026-11-04T03:49:46.354Z",
+    "lastSeenAt": "2026-11-04T13:27:05.844Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -595,7 +595,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-10-18T12:33:05+05:00",
-    "lastSeenAt": "2026-11-04T03:49:46.354Z",
+    "lastSeenAt": "2026-11-04T13:27:05.844Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -631,7 +631,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-09-20T19:40:39+05:00",
-    "lastSeenAt": "2026-11-04T03:49:46.355Z",
+    "lastSeenAt": "2026-11-04T13:27:05.844Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -667,7 +667,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-11-13T15:45:17+05:00",
-    "lastSeenAt": "2026-11-04T03:49:46.355Z",
+    "lastSeenAt": "2026-11-04T13:27:05.844Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -703,7 +703,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-10-06T20:50:33+05:00",
-    "lastSeenAt": "2026-11-04T03:49:46.355Z",
+    "lastSeenAt": "2026-11-04T13:27:05.844Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -739,7 +739,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-10-30T14:06:19+05:00",
-    "lastSeenAt": "2026-11-04T03:49:46.355Z",
+    "lastSeenAt": "2026-11-04T13:27:05.845Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -775,7 +775,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-09-20T19:31:46+05:00",
-    "lastSeenAt": "2026-11-04T03:49:46.355Z",
+    "lastSeenAt": "2026-11-04T13:27:05.845Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -811,7 +811,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-09-20T19:31:46+05:00",
-    "lastSeenAt": "2026-11-04T03:49:46.355Z",
+    "lastSeenAt": "2026-11-04T13:27:05.845Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -847,7 +847,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-21T15:58:09+05:00",
-    "lastSeenAt": "2026-11-04T03:49:50.137Z",
+    "lastSeenAt": "2026-11-04T13:27:09.559Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -883,7 +883,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-21T15:57:51+05:00",
-    "lastSeenAt": "2026-11-04T03:49:50.137Z",
+    "lastSeenAt": "2026-11-04T13:27:09.559Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -919,7 +919,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-21T15:57:34+05:00",
-    "lastSeenAt": "2026-11-04T03:49:50.137Z",
+    "lastSeenAt": "2026-11-04T13:27:09.559Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -955,7 +955,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-21T15:57:32+05:00",
-    "lastSeenAt": "2026-11-04T03:49:50.137Z",
+    "lastSeenAt": "2026-11-04T13:27:09.559Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -991,7 +991,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-21T15:57:30+05:00",
-    "lastSeenAt": "2026-11-04T03:49:50.137Z",
+    "lastSeenAt": "2026-11-04T13:27:09.559Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1027,7 +1027,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-21T15:57:28+05:00",
-    "lastSeenAt": "2026-11-04T03:49:50.137Z",
+    "lastSeenAt": "2026-11-04T13:27:09.559Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1063,7 +1063,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-21T11:03:08+05:00",
-    "lastSeenAt": "2026-11-04T03:49:50.137Z",
+    "lastSeenAt": "2026-11-04T13:27:09.559Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1099,7 +1099,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-21T11:02:58+05:00",
-    "lastSeenAt": "2026-11-04T03:49:50.137Z",
+    "lastSeenAt": "2026-11-04T13:27:09.559Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1135,7 +1135,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-21T11:02:56+05:00",
-    "lastSeenAt": "2026-11-04T03:49:50.137Z",
+    "lastSeenAt": "2026-11-04T13:27:09.559Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1171,7 +1171,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-06T17:16:59+05:00",
-    "lastSeenAt": "2026-11-04T03:49:50.137Z",
+    "lastSeenAt": "2026-11-04T13:27:09.559Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1207,7 +1207,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-06T17:16:58+05:00",
-    "lastSeenAt": "2026-11-04T03:49:50.137Z",
+    "lastSeenAt": "2026-11-04T13:27:09.559Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1243,7 +1243,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-06T17:16:54+05:00",
-    "lastSeenAt": "2026-11-04T03:49:50.137Z",
+    "lastSeenAt": "2026-11-04T13:27:09.560Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1279,7 +1279,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-02T15:21:11+05:00",
-    "lastSeenAt": "2026-11-04T03:49:50.137Z",
+    "lastSeenAt": "2026-11-04T13:27:09.560Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1315,7 +1315,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-02T15:21:06+05:00",
-    "lastSeenAt": "2026-11-04T03:49:50.137Z",
+    "lastSeenAt": "2026-11-04T13:27:09.560Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1351,7 +1351,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-02T15:21:05+05:00",
-    "lastSeenAt": "2026-11-04T03:49:50.137Z",
+    "lastSeenAt": "2026-11-04T13:27:09.560Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1387,7 +1387,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-02T15:21:03+05:00",
-    "lastSeenAt": "2026-11-04T03:49:50.137Z",
+    "lastSeenAt": "2026-11-04T13:27:09.560Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1423,7 +1423,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-02T15:21:01+05:00",
-    "lastSeenAt": "2026-11-04T03:49:50.137Z",
+    "lastSeenAt": "2026-11-04T13:27:09.560Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1459,7 +1459,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-02T15:20:59+05:00",
-    "lastSeenAt": "2026-11-04T03:49:50.137Z",
+    "lastSeenAt": "2026-11-04T13:27:09.560Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1495,7 +1495,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-30T15:09:08+05:00",
-    "lastSeenAt": "2026-11-04T03:49:50.137Z",
+    "lastSeenAt": "2026-11-04T13:27:09.560Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1531,7 +1531,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-30T15:09:06+05:00",
-    "lastSeenAt": "2026-11-04T03:49:50.137Z",
+    "lastSeenAt": "2026-11-04T13:27:09.560Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1567,7 +1567,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-30T15:08:54+05:00",
-    "lastSeenAt": "2026-11-04T03:49:50.137Z",
+    "lastSeenAt": "2026-11-04T13:27:09.560Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1603,7 +1603,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-30T15:08:52+05:00",
-    "lastSeenAt": "2026-11-04T03:49:50.137Z",
+    "lastSeenAt": "2026-11-04T13:27:09.560Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1639,7 +1639,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-30T15:08:51+05:00",
-    "lastSeenAt": "2026-11-04T03:49:50.137Z",
+    "lastSeenAt": "2026-11-04T13:27:09.560Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1675,7 +1675,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-30T15:08:49+05:00",
-    "lastSeenAt": "2026-11-04T03:49:50.137Z",
+    "lastSeenAt": "2026-11-04T13:27:09.560Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1711,7 +1711,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-30T15:08:46+05:00",
-    "lastSeenAt": "2026-11-04T03:49:50.137Z",
+    "lastSeenAt": "2026-11-04T13:27:09.560Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1747,7 +1747,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-30T15:08:39+05:00",
-    "lastSeenAt": "2026-11-04T03:49:50.137Z",
+    "lastSeenAt": "2026-11-04T13:27:09.560Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1783,7 +1783,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-30T15:08:37+05:00",
-    "lastSeenAt": "2026-11-04T03:49:50.137Z",
+    "lastSeenAt": "2026-11-04T13:27:09.560Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1819,7 +1819,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-30T15:08:36+05:00",
-    "lastSeenAt": "2026-11-04T03:49:50.137Z",
+    "lastSeenAt": "2026-11-04T13:27:09.560Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1855,7 +1855,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-30T15:08:34+05:00",
-    "lastSeenAt": "2026-11-04T03:49:50.138Z",
+    "lastSeenAt": "2026-11-04T13:27:09.560Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1891,7 +1891,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-30T15:08:33+05:00",
-    "lastSeenAt": "2026-11-04T03:49:50.138Z",
+    "lastSeenAt": "2026-11-04T13:27:09.560Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1927,7 +1927,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-02T16:35:37+05:00",
-    "lastSeenAt": "2026-11-04T03:49:53.886Z",
+    "lastSeenAt": "2026-11-04T13:27:13.273Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1963,7 +1963,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-04-25T13:06:37+05:00",
-    "lastSeenAt": "2026-11-04T03:49:53.886Z",
+    "lastSeenAt": "2026-11-04T13:27:13.273Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1983,38 +1983,38 @@ export const INITIAL_PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "baroque-7438360969283",
+    "id": "baroque-7684178870339",
     "brandId": "baroque",
     "brandName": "Baroque",
-    "title": "EMBROIDERED LAWN UF-4212",
-    "handle": "embroidered-lawn-uf-4212",
-    "originalPrice": 10950,
-    "salePrice": 7665,
-    "discountPct": 30,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/2277/5269/files/28_de486aef-d9b2-4388-b840-07b6339a955a.jpg?v=1772267623",
+    "title": "EMBROIDERED JACQUARD PR-1375",
+    "handle": "embroidered-jacquard-pr-1375",
+    "originalPrice": 12950,
+    "salePrice": 6475,
+    "discountPct": 50,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/2277/5269/files/56_1ae52906-4e00-4c29-b68a-aa9a7d601bcc.jpg?v=1780988356",
     "category": "festive",
-    "fabric": "Premium Lawn",
+    "fabric": "Pure Chiffon",
     "pieceCount": "3 Piece",
-    "productUrl": "https://baroque.pk/products/embroidered-lawn-uf-4212",
+    "productUrl": "https://baroque.pk/products/embroidered-jacquard-pr-1375",
     "isLowestPrice": true,
     "onSale": true,
-    "firstSeenAt": "2025-06-20T16:21:26+05:00",
-    "lastSeenAt": "2026-11-04T03:49:53.887Z",
+    "firstSeenAt": "2026-06-09T11:48:18+05:00",
+    "lastSeenAt": "2026-11-04T13:27:13.273Z",
     "priceHistory": [
       {
         "date": "Oct 15",
-        "price": 10950,
-        "salePrice": 10950
+        "price": 12950,
+        "salePrice": 12950
       },
       {
         "date": "Oct 24",
-        "price": 10950,
-        "salePrice": 10074
+        "price": 12950,
+        "salePrice": 11914
       },
       {
         "date": "Today",
-        "price": 10950,
-        "salePrice": 7665
+        "price": 12950,
+        "salePrice": 6475
       }
     ]
   },
@@ -2035,7 +2035,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-02T11:36:02+05:00",
-    "lastSeenAt": "2026-11-04T03:49:53.887Z",
+    "lastSeenAt": "2026-11-04T13:27:13.273Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2071,7 +2071,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-16T16:03:20+05:00",
-    "lastSeenAt": "2026-11-04T03:49:53.887Z",
+    "lastSeenAt": "2026-11-04T13:27:13.273Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2107,7 +2107,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-02T11:26:32+05:00",
-    "lastSeenAt": "2026-11-04T03:49:53.887Z",
+    "lastSeenAt": "2026-11-04T13:27:13.273Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2143,7 +2143,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-02T16:37:41+05:00",
-    "lastSeenAt": "2026-11-04T03:49:53.887Z",
+    "lastSeenAt": "2026-11-04T13:27:13.273Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2179,7 +2179,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-20T16:29:35+05:00",
-    "lastSeenAt": "2026-11-04T03:49:53.887Z",
+    "lastSeenAt": "2026-11-04T13:27:13.273Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2215,7 +2215,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-03T15:37:48+05:00",
-    "lastSeenAt": "2026-11-04T03:49:53.887Z",
+    "lastSeenAt": "2026-11-04T13:27:13.273Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2251,7 +2251,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-20T16:25:51+05:00",
-    "lastSeenAt": "2026-11-04T03:49:53.887Z",
+    "lastSeenAt": "2026-11-04T13:27:13.273Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2287,7 +2287,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-02-06T18:16:39+05:00",
-    "lastSeenAt": "2026-11-04T03:49:53.887Z",
+    "lastSeenAt": "2026-11-04T13:27:13.273Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2323,7 +2323,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-20T16:30:27+05:00",
-    "lastSeenAt": "2026-11-04T03:49:53.887Z",
+    "lastSeenAt": "2026-11-04T13:27:13.273Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2359,7 +2359,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-05-26T13:26:40+05:00",
-    "lastSeenAt": "2026-11-04T03:49:53.887Z",
+    "lastSeenAt": "2026-11-04T13:27:13.273Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2395,7 +2395,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-07T16:06:45+05:00",
-    "lastSeenAt": "2026-11-04T03:49:53.887Z",
+    "lastSeenAt": "2026-11-04T13:27:13.273Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2431,7 +2431,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-02T16:36:47+05:00",
-    "lastSeenAt": "2026-11-04T03:49:53.887Z",
+    "lastSeenAt": "2026-11-04T13:27:13.273Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2467,7 +2467,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-03-06T12:18:17+05:00",
-    "lastSeenAt": "2026-11-04T03:49:53.887Z",
+    "lastSeenAt": "2026-11-04T13:27:13.273Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2503,7 +2503,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-03T15:38:42+05:00",
-    "lastSeenAt": "2026-11-04T03:49:53.887Z",
+    "lastSeenAt": "2026-11-04T13:27:13.273Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2539,7 +2539,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-03-06T12:15:23+05:00",
-    "lastSeenAt": "2026-11-04T03:49:53.887Z",
+    "lastSeenAt": "2026-11-04T13:27:13.273Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2575,7 +2575,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2024-02-15T14:33:40+05:00",
-    "lastSeenAt": "2026-11-04T03:49:53.887Z",
+    "lastSeenAt": "2026-11-04T13:27:13.273Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2611,7 +2611,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-11T14:39:51+05:00",
-    "lastSeenAt": "2026-11-04T03:49:53.887Z",
+    "lastSeenAt": "2026-11-04T13:27:13.273Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2647,7 +2647,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-02T16:44:03+05:00",
-    "lastSeenAt": "2026-11-04T03:49:53.887Z",
+    "lastSeenAt": "2026-11-04T13:27:13.273Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2683,7 +2683,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-04-25T13:04:09+05:00",
-    "lastSeenAt": "2026-11-04T03:49:53.887Z",
+    "lastSeenAt": "2026-11-04T13:27:13.273Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2719,7 +2719,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2023-08-03T10:57:59+05:00",
-    "lastSeenAt": "2026-11-04T03:49:53.887Z",
+    "lastSeenAt": "2026-11-04T13:27:13.273Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2755,7 +2755,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-04-25T13:03:04+05:00",
-    "lastSeenAt": "2026-11-04T03:49:53.887Z",
+    "lastSeenAt": "2026-11-04T13:27:13.273Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2791,7 +2791,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-02-04T13:28:43+05:00",
-    "lastSeenAt": "2026-11-04T03:49:53.887Z",
+    "lastSeenAt": "2026-11-04T13:27:13.273Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2827,7 +2827,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-02-04T13:27:43+05:00",
-    "lastSeenAt": "2026-11-04T03:49:53.887Z",
+    "lastSeenAt": "2026-11-04T13:27:13.274Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2863,7 +2863,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-02-04T13:24:39+05:00",
-    "lastSeenAt": "2026-11-04T03:49:53.887Z",
+    "lastSeenAt": "2026-11-04T13:27:13.274Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2899,7 +2899,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-04-09T17:17:15+05:00",
-    "lastSeenAt": "2026-11-04T03:49:53.887Z",
+    "lastSeenAt": "2026-11-04T13:27:13.274Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2935,7 +2935,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-07-22T15:58:15+05:00",
-    "lastSeenAt": "2026-11-04T03:49:53.887Z",
+    "lastSeenAt": "2026-11-04T13:27:13.274Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2971,7 +2971,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-04-09T17:13:15+05:00",
-    "lastSeenAt": "2026-11-04T03:49:53.887Z",
+    "lastSeenAt": "2026-11-04T13:27:13.274Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3007,7 +3007,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-03T14:35:21+05:00",
-    "lastSeenAt": "2026-11-04T03:49:57.665Z",
+    "lastSeenAt": "2026-11-04T13:27:16.987Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3043,7 +3043,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-02T14:55:52+05:00",
-    "lastSeenAt": "2026-11-04T03:49:57.665Z",
+    "lastSeenAt": "2026-11-04T13:27:16.987Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3079,7 +3079,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-20T17:37:25+05:00",
-    "lastSeenAt": "2026-11-04T03:49:57.665Z",
+    "lastSeenAt": "2026-11-04T13:27:16.987Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3115,7 +3115,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-03T13:59:15+05:00",
-    "lastSeenAt": "2026-11-04T03:49:57.665Z",
+    "lastSeenAt": "2026-11-04T13:27:16.988Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3151,7 +3151,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-02T14:39:12+05:00",
-    "lastSeenAt": "2026-11-04T03:49:57.665Z",
+    "lastSeenAt": "2026-11-04T13:27:16.988Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3187,7 +3187,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-20T17:44:46+05:00",
-    "lastSeenAt": "2026-11-04T03:49:57.665Z",
+    "lastSeenAt": "2026-11-04T13:27:16.988Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3223,7 +3223,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-02T14:25:01+05:00",
-    "lastSeenAt": "2026-11-04T03:49:57.665Z",
+    "lastSeenAt": "2026-11-04T13:27:16.988Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3259,7 +3259,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-02T14:52:34+05:00",
-    "lastSeenAt": "2026-11-04T03:49:57.666Z",
+    "lastSeenAt": "2026-11-04T13:27:16.988Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3295,7 +3295,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-20T17:51:51+05:00",
-    "lastSeenAt": "2026-11-04T03:49:57.666Z",
+    "lastSeenAt": "2026-11-04T13:27:16.988Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3331,7 +3331,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-02T11:57:48+05:00",
-    "lastSeenAt": "2026-11-04T03:49:57.666Z",
+    "lastSeenAt": "2026-11-04T13:27:16.988Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3367,7 +3367,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-20T17:29:03+05:00",
-    "lastSeenAt": "2026-11-04T03:49:57.666Z",
+    "lastSeenAt": "2026-11-04T13:27:16.988Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3403,7 +3403,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-12-31T16:31:15+05:00",
-    "lastSeenAt": "2026-11-04T03:49:57.666Z",
+    "lastSeenAt": "2026-11-04T13:27:16.988Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3439,7 +3439,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-02T11:43:55+05:00",
-    "lastSeenAt": "2026-11-04T03:49:57.666Z",
+    "lastSeenAt": "2026-11-04T13:27:16.988Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3475,7 +3475,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2023-04-14T12:47:33+05:00",
-    "lastSeenAt": "2026-11-04T03:49:57.666Z",
+    "lastSeenAt": "2026-11-04T13:27:16.988Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3511,7 +3511,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-12-31T17:14:45+05:00",
-    "lastSeenAt": "2026-11-04T03:49:57.666Z",
+    "lastSeenAt": "2026-11-04T13:27:16.988Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3547,7 +3547,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-12-31T17:04:12+05:00",
-    "lastSeenAt": "2026-11-04T03:49:57.666Z",
+    "lastSeenAt": "2026-11-04T13:27:16.988Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3583,7 +3583,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2023-01-29T15:35:27+05:00",
-    "lastSeenAt": "2026-11-04T03:49:57.666Z",
+    "lastSeenAt": "2026-11-04T13:27:16.988Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3619,7 +3619,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-12-31T16:15:21+05:00",
-    "lastSeenAt": "2026-11-04T03:49:57.666Z",
+    "lastSeenAt": "2026-11-04T13:27:16.988Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3655,7 +3655,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2023-01-29T15:08:57+05:00",
-    "lastSeenAt": "2026-11-04T03:49:57.666Z",
+    "lastSeenAt": "2026-11-04T13:27:16.988Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3691,7 +3691,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-20T16:57:54+05:00",
-    "lastSeenAt": "2026-11-04T03:49:57.666Z",
+    "lastSeenAt": "2026-11-04T13:27:16.989Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3727,7 +3727,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-12-31T16:49:22+05:00",
-    "lastSeenAt": "2026-11-04T03:49:57.666Z",
+    "lastSeenAt": "2026-11-04T13:27:16.989Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3763,7 +3763,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-20T17:41:27+05:00",
-    "lastSeenAt": "2026-11-04T03:49:57.666Z",
+    "lastSeenAt": "2026-11-04T13:27:16.989Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3799,7 +3799,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-03-25T14:37:45+05:00",
-    "lastSeenAt": "2026-11-04T03:49:57.666Z",
+    "lastSeenAt": "2026-11-04T13:27:16.989Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3835,7 +3835,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-23T20:46:53+05:00",
-    "lastSeenAt": "2026-11-04T03:49:57.666Z",
+    "lastSeenAt": "2026-11-04T13:27:16.989Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3871,7 +3871,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-20T17:33:52+05:00",
-    "lastSeenAt": "2026-11-04T03:49:57.666Z",
+    "lastSeenAt": "2026-11-04T13:27:16.989Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3907,7 +3907,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-24T18:05:02+05:00",
-    "lastSeenAt": "2026-11-04T03:49:57.666Z",
+    "lastSeenAt": "2026-11-04T13:27:16.989Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3943,7 +3943,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-03-04T03:04:03+05:00",
-    "lastSeenAt": "2026-11-04T03:49:57.667Z",
+    "lastSeenAt": "2026-11-04T13:27:16.989Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3979,7 +3979,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-20T17:17:39+05:00",
-    "lastSeenAt": "2026-11-04T03:49:57.667Z",
+    "lastSeenAt": "2026-11-04T13:27:16.990Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4015,7 +4015,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-05-13T17:38:21+05:00",
-    "lastSeenAt": "2026-11-04T03:49:57.667Z",
+    "lastSeenAt": "2026-11-04T13:27:16.990Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4051,7 +4051,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-04-17T21:33:16+05:00",
-    "lastSeenAt": "2026-11-04T03:49:57.667Z",
+    "lastSeenAt": "2026-11-04T13:27:16.990Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4067,330 +4067,6 @@ export const INITIAL_PRODUCTS: Product[] = [
         "date": "Today",
         "price": 8890,
         "salePrice": 6223
-      }
-    ]
-  },
-  {
-    "id": "sanasafinaz-9358658011368",
-    "brandId": "sanasafinaz",
-    "brandName": "Sana Safinaz",
-    "title": "Stitched Printed Lawn Shirt+ Culotte",
-    "handle": "stitched-printed-lawn-shirt-culotte-1",
-    "originalPrice": 7934,
-    "salePrice": 4760,
-    "discountPct": 40,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/SS26BSP150P2T_1_976baffc-c348-48a8-85b4-a0cb4d619b91.jpg?v=1775740045",
-    "category": "pret",
-    "fabric": "Premium Lawn",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://www.sanasafinaz.com/products/stitched-printed-lawn-shirt-culotte-1",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-03-30T10:29:28+05:00",
-    "lastSeenAt": "2026-11-04T03:50:01.482Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 7934,
-        "salePrice": 7934
-      },
-      {
-        "date": "Oct 24",
-        "price": 7934,
-        "salePrice": 7299
-      },
-      {
-        "date": "Today",
-        "price": 7934,
-        "salePrice": 4760
-      }
-    ]
-  },
-  {
-    "id": "sanasafinaz-9378478489832",
-    "brandId": "sanasafinaz",
-    "brandName": "Sana Safinaz",
-    "title": "Stitched Printed Lawn Shirt+ Culotte",
-    "handle": "stitched-printed-lawn-shirt-culotte-ss26bsp217p2t",
-    "originalPrice": 6324,
-    "salePrice": 3794,
-    "discountPct": 40,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/SS26BSP217P2T_2_4f44f94a-c0fb-48ba-be80-fc54bc234c2e.jpg?v=1784611363",
-    "category": "pret",
-    "fabric": "Premium Lawn",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://www.sanasafinaz.com/products/stitched-printed-lawn-shirt-culotte-ss26bsp217p2t",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-04-15T16:14:10+05:00",
-    "lastSeenAt": "2026-11-04T03:50:01.482Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 6324,
-        "salePrice": 6324
-      },
-      {
-        "date": "Oct 24",
-        "price": 6324,
-        "salePrice": 5818
-      },
-      {
-        "date": "Today",
-        "price": 6324,
-        "salePrice": 3794
-      }
-    ]
-  },
-  {
-    "id": "sanasafinaz-9442617622760",
-    "brandId": "sanasafinaz",
-    "brandName": "Sana Safinaz",
-    "title": "Stitched Printed Lawn Shirt+ Culotte",
-    "handle": "stitched-printed-lawn-shirt-culotte-ss26bsp215p2t",
-    "originalPrice": 6324,
-    "salePrice": 3794,
-    "discountPct": 40,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/SS26BSP215_2_49dbfed0-15ec-4918-b15a-42dce1bd42c9.jpg?v=1784610478",
-    "category": "pret",
-    "fabric": "Premium Lawn",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://www.sanasafinaz.com/products/stitched-printed-lawn-shirt-culotte-ss26bsp215p2t",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-04-24T09:52:43+05:00",
-    "lastSeenAt": "2026-11-04T03:50:01.482Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 6324,
-        "salePrice": 6324
-      },
-      {
-        "date": "Oct 24",
-        "price": 6324,
-        "salePrice": 5818
-      },
-      {
-        "date": "Today",
-        "price": 6324,
-        "salePrice": 3794
-      }
-    ]
-  },
-  {
-    "id": "sanasafinaz-9466958020840",
-    "brandId": "sanasafinaz",
-    "brandName": "Sana Safinaz",
-    "title": "Stitched Embroidered Lawn Shirt+ Shalwar",
-    "handle": "stitched-embroidered-lawn-shirt-shalwar-ss26ese327p2t",
-    "originalPrice": 8739,
-    "salePrice": 6117,
-    "discountPct": 30,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/SS26ESE327P2T_1_0c714677-f64d-490a-884d-c1032b999ae8.jpg?v=1778745181",
-    "category": "pret",
-    "fabric": "Premium Lawn",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://www.sanasafinaz.com/products/stitched-embroidered-lawn-shirt-shalwar-ss26ese327p2t",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-04-29T17:20:31+05:00",
-    "lastSeenAt": "2026-11-04T03:50:01.482Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 8739,
-        "salePrice": 8739
-      },
-      {
-        "date": "Oct 24",
-        "price": 8739,
-        "salePrice": 8040
-      },
-      {
-        "date": "Today",
-        "price": 8739,
-        "salePrice": 6117
-      }
-    ]
-  },
-  {
-    "id": "sanasafinaz-9488097837288",
-    "brandId": "sanasafinaz",
-    "brandName": "Sana Safinaz",
-    "title": "Stitched Printed Lawn Shirt+ Culotte",
-    "handle": "stitched-printed-lawn-shirt-culotte-ss26bsp176p2t",
-    "originalPrice": 7819,
-    "salePrice": 5473,
-    "discountPct": 30,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/SS26BSP176P2T_1_3dae306a-e34d-49cd-9628-f826f1af909a.jpg?v=1784610313",
-    "category": "pret",
-    "fabric": "Premium Lawn",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://www.sanasafinaz.com/products/stitched-printed-lawn-shirt-culotte-ss26bsp176p2t",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-05-05T12:52:13+05:00",
-    "lastSeenAt": "2026-11-04T03:50:01.482Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 7819,
-        "salePrice": 7819
-      },
-      {
-        "date": "Oct 24",
-        "price": 7819,
-        "salePrice": 7193
-      },
-      {
-        "date": "Today",
-        "price": 7819,
-        "salePrice": 5473
-      }
-    ]
-  },
-  {
-    "id": "sanasafinaz-9488109666536",
-    "brandId": "sanasafinaz",
-    "brandName": "Sana Safinaz",
-    "title": "Stitched Printed Basic Viscose Shirt+ Culotte",
-    "handle": "stitched-printed-basic-viscose-shirt-culotte-ss26bsp152p2t",
-    "originalPrice": 7589,
-    "salePrice": 5312,
-    "discountPct": 30,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/SS26BSP152P2T_3_b0e68d70-6d5d-47b5-8475-c7a7a4234e24.jpg?v=1784610238",
-    "category": "pret",
-    "fabric": "Fine Cotton Lawn",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://www.sanasafinaz.com/products/stitched-printed-basic-viscose-shirt-culotte-ss26bsp152p2t",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-05-05T13:05:49+05:00",
-    "lastSeenAt": "2026-11-04T03:50:01.482Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 7589,
-        "salePrice": 7589
-      },
-      {
-        "date": "Oct 24",
-        "price": 7589,
-        "salePrice": 6982
-      },
-      {
-        "date": "Today",
-        "price": 7589,
-        "salePrice": 5312
-      }
-    ]
-  },
-  {
-    "id": "sanasafinaz-9496892997864",
-    "brandId": "sanasafinaz",
-    "brandName": "Sana Safinaz",
-    "title": "Stitched Printed Lawn Shirt+ Culotte",
-    "handle": "stitched-printed-lawn-shirt-culotte-5",
-    "originalPrice": 7474,
-    "salePrice": 5231,
-    "discountPct": 30,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/SS26BSP373P2T_1_50c8c090-6e42-4e4d-8436-cfce93a89236.jpg?v=1784611864",
-    "category": "pret",
-    "fabric": "Premium Lawn",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://www.sanasafinaz.com/products/stitched-printed-lawn-shirt-culotte-5",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-05-11T14:23:53+05:00",
-    "lastSeenAt": "2026-11-04T03:50:01.482Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 7474,
-        "salePrice": 7474
-      },
-      {
-        "date": "Oct 24",
-        "price": 7474,
-        "salePrice": 6876
-      },
-      {
-        "date": "Today",
-        "price": 7474,
-        "salePrice": 5231
-      }
-    ]
-  },
-  {
-    "id": "sanasafinaz-9503880544488",
-    "brandId": "sanasafinaz",
-    "brandName": "Sana Safinaz",
-    "title": "Unstitched Embroidered 3 Piece Muzlin Suit",
-    "handle": "unstitched-embroidered-3-piece-muzlin-suit-38",
-    "originalPrice": 10119,
-    "salePrice": 7083,
-    "discountPct": 30,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/M262-020A-DC.jpg?v=1781092066",
-    "category": "unstitched",
-    "fabric": "Premium Lawn",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://www.sanasafinaz.com/products/unstitched-embroidered-3-piece-muzlin-suit-38",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-05-18T14:43:57+05:00",
-    "lastSeenAt": "2026-11-04T03:50:01.482Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 10119,
-        "salePrice": 10119
-      },
-      {
-        "date": "Oct 24",
-        "price": 10119,
-        "salePrice": 9309
-      },
-      {
-        "date": "Today",
-        "price": 10119,
-        "salePrice": 7083
-      }
-    ]
-  },
-  {
-    "id": "sanasafinaz-9504860176616",
-    "brandId": "sanasafinaz",
-    "brandName": "Sana Safinaz",
-    "title": "Stitched Printed Satin Shirt+ Culotte",
-    "handle": "stitched-printed-satin-shirt-culotte-8",
-    "originalPrice": 14949,
-    "salePrice": 10464,
-    "discountPct": 30,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/SS26STP736.jpg?v=1779192664",
-    "category": "pret",
-    "fabric": "Silk Satin",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://www.sanasafinaz.com/products/stitched-printed-satin-shirt-culotte-8",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-05-19T17:13:28+05:00",
-    "lastSeenAt": "2026-11-04T03:50:01.482Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 14949,
-        "salePrice": 14949
-      },
-      {
-        "date": "Oct 24",
-        "price": 14949,
-        "salePrice": 13753
-      },
-      {
-        "date": "Today",
-        "price": 14949,
-        "salePrice": 10464
       }
     ]
   },
@@ -4411,7 +4087,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-05-20T10:06:07+05:00",
-    "lastSeenAt": "2026-11-04T03:50:01.482Z",
+    "lastSeenAt": "2026-11-04T13:27:20.771Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4427,42 +4103,6 @@ export const INITIAL_PRODUCTS: Product[] = [
         "date": "Today",
         "price": 13799,
         "salePrice": 9659
-      }
-    ]
-  },
-  {
-    "id": "sanasafinaz-9505271611624",
-    "brandId": "sanasafinaz",
-    "brandName": "Sana Safinaz",
-    "title": "Lawn Embroidered Dupatta",
-    "handle": "lawn-embroidered-dupatta-1",
-    "originalPrice": 7819,
-    "salePrice": 5473,
-    "discountPct": 30,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/SS26SGE419P2T_1_d9529db4-cc60-47ab-b58c-19b9d4f1a8a6.jpg?v=1779253776",
-    "category": "unstitched",
-    "fabric": "Premium Lawn",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://www.sanasafinaz.com/products/lawn-embroidered-dupatta-1",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-05-20T10:10:50+05:00",
-    "lastSeenAt": "2026-11-04T03:50:01.482Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 7819,
-        "salePrice": 7819
-      },
-      {
-        "date": "Oct 24",
-        "price": 7819,
-        "salePrice": 7193
-      },
-      {
-        "date": "Today",
-        "price": 7819,
-        "salePrice": 5473
       }
     ]
   },
@@ -4483,7 +4123,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-05-20T10:26:22+05:00",
-    "lastSeenAt": "2026-11-04T03:50:01.483Z",
+    "lastSeenAt": "2026-11-04T13:27:20.771Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4499,42 +4139,6 @@ export const INITIAL_PRODUCTS: Product[] = [
         "date": "Today",
         "price": 17479,
         "salePrice": 12235
-      }
-    ]
-  },
-  {
-    "id": "sanasafinaz-9505273774312",
-    "brandId": "sanasafinaz",
-    "brandName": "Sana Safinaz",
-    "title": "Stitched Printed Lawn Suit",
-    "handle": "stitched-printed-lawn-suit-ss26mhy110ap3",
-    "originalPrice": 8739,
-    "salePrice": 6117,
-    "discountPct": 30,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/SS26MHY110A_1_1.jpg?v=1792476393",
-    "category": "pret",
-    "fabric": "Premium Lawn",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://www.sanasafinaz.com/products/stitched-printed-lawn-suit-ss26mhy110ap3",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-05-20T10:29:25+05:00",
-    "lastSeenAt": "2026-11-04T03:50:01.483Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 8739,
-        "salePrice": 8739
-      },
-      {
-        "date": "Oct 24",
-        "price": 8739,
-        "salePrice": 8040
-      },
-      {
-        "date": "Today",
-        "price": 8739,
-        "salePrice": 6117
       }
     ]
   },
@@ -4555,7 +4159,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-18T15:31:19+05:00",
-    "lastSeenAt": "2026-11-04T03:50:01.483Z",
+    "lastSeenAt": "2026-11-04T13:27:20.771Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4571,42 +4175,6 @@ export const INITIAL_PRODUCTS: Product[] = [
         "date": "Today",
         "price": 6324,
         "salePrice": 4426
-      }
-    ]
-  },
-  {
-    "id": "sanasafinaz-9531155022056",
-    "brandId": "sanasafinaz",
-    "brandName": "Sana Safinaz",
-    "title": "Stitched Printed Lawn Shirt+ Shalwar",
-    "handle": "stitched-printed-lawn-shirt-shalwar-ss26bsp233p2t",
-    "originalPrice": 7934,
-    "salePrice": 6347,
-    "discountPct": 20,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/SS26BSP233P2T_1.jpg?v=1782194809",
-    "category": "pret",
-    "fabric": "Premium Lawn",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://www.sanasafinaz.com/products/stitched-printed-lawn-shirt-shalwar-ss26bsp233p2t",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-06-23T10:56:03+05:00",
-    "lastSeenAt": "2026-11-04T03:50:01.483Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 7934,
-        "salePrice": 7934
-      },
-      {
-        "date": "Oct 24",
-        "price": 7934,
-        "salePrice": 7299
-      },
-      {
-        "date": "Today",
-        "price": 7934,
-        "salePrice": 6347
       }
     ]
   },
@@ -4627,7 +4195,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-23T11:41:21+05:00",
-    "lastSeenAt": "2026-11-04T03:50:01.483Z",
+    "lastSeenAt": "2026-11-04T13:27:20.771Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4663,7 +4231,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-29T16:58:06+05:00",
-    "lastSeenAt": "2026-11-04T03:50:01.483Z",
+    "lastSeenAt": "2026-11-04T13:27:20.771Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4699,7 +4267,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-29T17:09:10+05:00",
-    "lastSeenAt": "2026-11-04T03:50:01.483Z",
+    "lastSeenAt": "2026-11-04T13:27:20.772Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4735,7 +4303,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-01T15:02:03+05:00",
-    "lastSeenAt": "2026-11-04T03:50:01.483Z",
+    "lastSeenAt": "2026-11-04T13:27:20.772Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4751,150 +4319,6 @@ export const INITIAL_PRODUCTS: Product[] = [
         "date": "Today",
         "price": 6324,
         "salePrice": 4426
-      }
-    ]
-  },
-  {
-    "id": "sanasafinaz-9538598830312",
-    "brandId": "sanasafinaz",
-    "brandName": "Sana Safinaz",
-    "title": "Stitched Embroidered Khaadi Silk Shirt+ Shalwar",
-    "handle": "stitched-embroidered-khaadi-silk-shirt-shalwar",
-    "originalPrice": 14374,
-    "salePrice": 11499,
-    "discountPct": 20,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/SS26SGE516P2T_6.jpg?v=1783075235",
-    "category": "pret",
-    "fabric": "Boski Silk",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://www.sanasafinaz.com/products/stitched-embroidered-khaadi-silk-shirt-shalwar",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-07-03T15:44:22+05:00",
-    "lastSeenAt": "2026-11-04T03:50:01.483Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 14374,
-        "salePrice": 14374
-      },
-      {
-        "date": "Oct 24",
-        "price": 14374,
-        "salePrice": 13224
-      },
-      {
-        "date": "Today",
-        "price": 14374,
-        "salePrice": 11499
-      }
-    ]
-  },
-  {
-    "id": "sanasafinaz-9539880354024",
-    "brandId": "sanasafinaz",
-    "brandName": "Sana Safinaz",
-    "title": "Stitched Embroidered Muzlin Lawn Suit",
-    "handle": "stitched-embroidered-muzlin-lawn-suit",
-    "originalPrice": 16099,
-    "salePrice": 12879,
-    "discountPct": 20,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/SS26MUZ111BP3_1.jpg?v=1783313993",
-    "category": "pret",
-    "fabric": "Premium Lawn",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://www.sanasafinaz.com/products/stitched-embroidered-muzlin-lawn-suit",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-07-06T10:02:05+05:00",
-    "lastSeenAt": "2026-11-04T03:50:01.483Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 16099,
-        "salePrice": 16099
-      },
-      {
-        "date": "Oct 24",
-        "price": 16099,
-        "salePrice": 14811
-      },
-      {
-        "date": "Today",
-        "price": 16099,
-        "salePrice": 12879
-      }
-    ]
-  },
-  {
-    "id": "sanasafinaz-9539882680552",
-    "brandId": "sanasafinaz",
-    "brandName": "Sana Safinaz",
-    "title": "Stitched Embroidered Lawn Shirt+ Shalwar",
-    "handle": "stitched-embroidered-lawn-shirt-shalwar-18",
-    "originalPrice": 18974,
-    "salePrice": 15179,
-    "discountPct": 20,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/SS26SGE468P2T_1.jpg?v=1783314431",
-    "category": "pret",
-    "fabric": "Premium Lawn",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://www.sanasafinaz.com/products/stitched-embroidered-lawn-shirt-shalwar-18",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-07-06T10:08:33+05:00",
-    "lastSeenAt": "2026-11-04T03:50:01.483Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 18974,
-        "salePrice": 18974
-      },
-      {
-        "date": "Oct 24",
-        "price": 18974,
-        "salePrice": 17456
-      },
-      {
-        "date": "Today",
-        "price": 18974,
-        "salePrice": 15179
-      }
-    ]
-  },
-  {
-    "id": "sanasafinaz-9539900440808",
-    "brandId": "sanasafinaz",
-    "brandName": "Sana Safinaz",
-    "title": "Stitched Printed Crepe Suit",
-    "handle": "stitched-printed-crepe-suit-ss26stp760p3",
-    "originalPrice": 19549,
-    "salePrice": 15639,
-    "discountPct": 20,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/SS26STP760P3_1.jpg?v=1783317924",
-    "category": "pret",
-    "fabric": "Fine Cotton Lawn",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://www.sanasafinaz.com/products/stitched-printed-crepe-suit-ss26stp760p3",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-07-06T11:14:27+05:00",
-    "lastSeenAt": "2026-11-04T03:50:01.483Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 19549,
-        "salePrice": 19549
-      },
-      {
-        "date": "Oct 24",
-        "price": 19549,
-        "salePrice": 17985
-      },
-      {
-        "date": "Today",
-        "price": 19549,
-        "salePrice": 15639
       }
     ]
   },
@@ -4915,7 +4339,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-15T11:46:45+05:00",
-    "lastSeenAt": "2026-11-04T03:50:01.483Z",
+    "lastSeenAt": "2026-11-04T13:27:20.772Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4951,7 +4375,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-16T11:54:48+05:00",
-    "lastSeenAt": "2026-11-04T03:50:01.483Z",
+    "lastSeenAt": "2026-11-04T13:27:20.772Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4967,42 +4391,6 @@ export const INITIAL_PRODUCTS: Product[] = [
         "date": "Today",
         "price": 6324,
         "salePrice": 5059
-      }
-    ]
-  },
-  {
-    "id": "sanasafinaz-9556776550632",
-    "brandId": "sanasafinaz",
-    "brandName": "Sana Safinaz",
-    "title": "Stitched Embroidered Khaadi Silk Shirt+ Culotte",
-    "handle": "stitched-embroidered-khaadi-silk-shirt-culotte",
-    "originalPrice": 12879,
-    "salePrice": 10303,
-    "discountPct": 20,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/SS26SGE500P2T_6.jpg?v=1784265495",
-    "category": "pret",
-    "fabric": "Boski Silk",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://www.sanasafinaz.com/products/stitched-embroidered-khaadi-silk-shirt-culotte",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-07-17T10:21:21+05:00",
-    "lastSeenAt": "2026-11-04T03:50:01.483Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 12879,
-        "salePrice": 12879
-      },
-      {
-        "date": "Oct 24",
-        "price": 12879,
-        "salePrice": 11849
-      },
-      {
-        "date": "Today",
-        "price": 12879,
-        "salePrice": 10303
       }
     ]
   },
@@ -5023,7 +4411,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-27T16:29:56+05:00",
-    "lastSeenAt": "2026-11-04T03:50:01.483Z",
+    "lastSeenAt": "2026-11-04T13:27:20.772Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5059,7 +4447,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-27T16:39:58+05:00",
-    "lastSeenAt": "2026-11-04T03:50:01.483Z",
+    "lastSeenAt": "2026-11-04T13:27:20.772Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5075,6 +4463,618 @@ export const INITIAL_PRODUCTS: Product[] = [
         "date": "Today",
         "price": 32774,
         "salePrice": 26219
+      }
+    ]
+  },
+  {
+    "id": "sanasafinaz-9358658011368",
+    "brandId": "sanasafinaz",
+    "brandName": "Sana Safinaz",
+    "title": "Stitched Printed Lawn Shirt+ Culotte",
+    "handle": "stitched-printed-lawn-shirt-culotte-1",
+    "originalPrice": 7934,
+    "salePrice": 4760,
+    "discountPct": 40,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/SS26BSP150P2T_1_976baffc-c348-48a8-85b4-a0cb4d619b91.jpg?v=1775740045",
+    "category": "pret",
+    "fabric": "Premium Lawn",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://www.sanasafinaz.com/products/stitched-printed-lawn-shirt-culotte-1",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-03-30T10:29:28+05:00",
+    "lastSeenAt": "2026-11-04T13:27:20.772Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 7934,
+        "salePrice": 7934
+      },
+      {
+        "date": "Oct 24",
+        "price": 7934,
+        "salePrice": 7299
+      },
+      {
+        "date": "Today",
+        "price": 7934,
+        "salePrice": 4760
+      }
+    ]
+  },
+  {
+    "id": "sanasafinaz-9378478489832",
+    "brandId": "sanasafinaz",
+    "brandName": "Sana Safinaz",
+    "title": "Stitched Printed Lawn Shirt+ Culotte",
+    "handle": "stitched-printed-lawn-shirt-culotte-ss26bsp217p2t",
+    "originalPrice": 6324,
+    "salePrice": 3794,
+    "discountPct": 40,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/SS26BSP217P2T_2_4f44f94a-c0fb-48ba-be80-fc54bc234c2e.jpg?v=1784611363",
+    "category": "pret",
+    "fabric": "Premium Lawn",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://www.sanasafinaz.com/products/stitched-printed-lawn-shirt-culotte-ss26bsp217p2t",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-04-15T16:14:10+05:00",
+    "lastSeenAt": "2026-11-04T13:27:20.774Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 6324,
+        "salePrice": 6324
+      },
+      {
+        "date": "Oct 24",
+        "price": 6324,
+        "salePrice": 5818
+      },
+      {
+        "date": "Today",
+        "price": 6324,
+        "salePrice": 3794
+      }
+    ]
+  },
+  {
+    "id": "sanasafinaz-9442617622760",
+    "brandId": "sanasafinaz",
+    "brandName": "Sana Safinaz",
+    "title": "Stitched Printed Lawn Shirt+ Culotte",
+    "handle": "stitched-printed-lawn-shirt-culotte-ss26bsp215p2t",
+    "originalPrice": 6324,
+    "salePrice": 3794,
+    "discountPct": 40,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/SS26BSP215_2_49dbfed0-15ec-4918-b15a-42dce1bd42c9.jpg?v=1784610478",
+    "category": "pret",
+    "fabric": "Premium Lawn",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://www.sanasafinaz.com/products/stitched-printed-lawn-shirt-culotte-ss26bsp215p2t",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-04-24T09:52:43+05:00",
+    "lastSeenAt": "2026-11-04T13:27:20.774Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 6324,
+        "salePrice": 6324
+      },
+      {
+        "date": "Oct 24",
+        "price": 6324,
+        "salePrice": 5818
+      },
+      {
+        "date": "Today",
+        "price": 6324,
+        "salePrice": 3794
+      }
+    ]
+  },
+  {
+    "id": "sanasafinaz-9466958020840",
+    "brandId": "sanasafinaz",
+    "brandName": "Sana Safinaz",
+    "title": "Stitched Embroidered Lawn Shirt+ Shalwar",
+    "handle": "stitched-embroidered-lawn-shirt-shalwar-ss26ese327p2t",
+    "originalPrice": 8739,
+    "salePrice": 6117,
+    "discountPct": 30,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/SS26ESE327P2T_1_0c714677-f64d-490a-884d-c1032b999ae8.jpg?v=1778745181",
+    "category": "pret",
+    "fabric": "Premium Lawn",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://www.sanasafinaz.com/products/stitched-embroidered-lawn-shirt-shalwar-ss26ese327p2t",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-04-29T17:20:31+05:00",
+    "lastSeenAt": "2026-11-04T13:27:20.774Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 8739,
+        "salePrice": 8739
+      },
+      {
+        "date": "Oct 24",
+        "price": 8739,
+        "salePrice": 8040
+      },
+      {
+        "date": "Today",
+        "price": 8739,
+        "salePrice": 6117
+      }
+    ]
+  },
+  {
+    "id": "sanasafinaz-9488097837288",
+    "brandId": "sanasafinaz",
+    "brandName": "Sana Safinaz",
+    "title": "Stitched Printed Lawn Shirt+ Culotte",
+    "handle": "stitched-printed-lawn-shirt-culotte-ss26bsp176p2t",
+    "originalPrice": 7819,
+    "salePrice": 5473,
+    "discountPct": 30,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/SS26BSP176P2T_1_3dae306a-e34d-49cd-9628-f826f1af909a.jpg?v=1784610313",
+    "category": "pret",
+    "fabric": "Premium Lawn",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://www.sanasafinaz.com/products/stitched-printed-lawn-shirt-culotte-ss26bsp176p2t",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-05-05T12:52:13+05:00",
+    "lastSeenAt": "2026-11-04T13:27:20.774Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 7819,
+        "salePrice": 7819
+      },
+      {
+        "date": "Oct 24",
+        "price": 7819,
+        "salePrice": 7193
+      },
+      {
+        "date": "Today",
+        "price": 7819,
+        "salePrice": 5473
+      }
+    ]
+  },
+  {
+    "id": "sanasafinaz-9488109666536",
+    "brandId": "sanasafinaz",
+    "brandName": "Sana Safinaz",
+    "title": "Stitched Printed Basic Viscose Shirt+ Culotte",
+    "handle": "stitched-printed-basic-viscose-shirt-culotte-ss26bsp152p2t",
+    "originalPrice": 7589,
+    "salePrice": 5312,
+    "discountPct": 30,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/SS26BSP152P2T_3_b0e68d70-6d5d-47b5-8475-c7a7a4234e24.jpg?v=1784610238",
+    "category": "pret",
+    "fabric": "Fine Cotton Lawn",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://www.sanasafinaz.com/products/stitched-printed-basic-viscose-shirt-culotte-ss26bsp152p2t",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-05-05T13:05:49+05:00",
+    "lastSeenAt": "2026-11-04T13:27:20.774Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 7589,
+        "salePrice": 7589
+      },
+      {
+        "date": "Oct 24",
+        "price": 7589,
+        "salePrice": 6982
+      },
+      {
+        "date": "Today",
+        "price": 7589,
+        "salePrice": 5312
+      }
+    ]
+  },
+  {
+    "id": "sanasafinaz-9496892997864",
+    "brandId": "sanasafinaz",
+    "brandName": "Sana Safinaz",
+    "title": "Stitched Printed Lawn Shirt+ Culotte",
+    "handle": "stitched-printed-lawn-shirt-culotte-5",
+    "originalPrice": 7474,
+    "salePrice": 5231,
+    "discountPct": 30,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/SS26BSP373P2T_1_50c8c090-6e42-4e4d-8436-cfce93a89236.jpg?v=1784611864",
+    "category": "pret",
+    "fabric": "Premium Lawn",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://www.sanasafinaz.com/products/stitched-printed-lawn-shirt-culotte-5",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-05-11T14:23:53+05:00",
+    "lastSeenAt": "2026-11-04T13:27:20.774Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 7474,
+        "salePrice": 7474
+      },
+      {
+        "date": "Oct 24",
+        "price": 7474,
+        "salePrice": 6876
+      },
+      {
+        "date": "Today",
+        "price": 7474,
+        "salePrice": 5231
+      }
+    ]
+  },
+  {
+    "id": "sanasafinaz-9503880544488",
+    "brandId": "sanasafinaz",
+    "brandName": "Sana Safinaz",
+    "title": "Unstitched Embroidered 3 Piece Muzlin Suit",
+    "handle": "unstitched-embroidered-3-piece-muzlin-suit-38",
+    "originalPrice": 10119,
+    "salePrice": 7083,
+    "discountPct": 30,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/M262-020A-DC.jpg?v=1781092066",
+    "category": "unstitched",
+    "fabric": "Premium Lawn",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://www.sanasafinaz.com/products/unstitched-embroidered-3-piece-muzlin-suit-38",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-05-18T14:43:57+05:00",
+    "lastSeenAt": "2026-11-04T13:27:20.774Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 10119,
+        "salePrice": 10119
+      },
+      {
+        "date": "Oct 24",
+        "price": 10119,
+        "salePrice": 9309
+      },
+      {
+        "date": "Today",
+        "price": 10119,
+        "salePrice": 7083
+      }
+    ]
+  },
+  {
+    "id": "sanasafinaz-9504860176616",
+    "brandId": "sanasafinaz",
+    "brandName": "Sana Safinaz",
+    "title": "Stitched Printed Satin Shirt+ Culotte",
+    "handle": "stitched-printed-satin-shirt-culotte-8",
+    "originalPrice": 14949,
+    "salePrice": 10464,
+    "discountPct": 30,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/SS26STP736.jpg?v=1779192664",
+    "category": "pret",
+    "fabric": "Silk Satin",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://www.sanasafinaz.com/products/stitched-printed-satin-shirt-culotte-8",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-05-19T17:13:28+05:00",
+    "lastSeenAt": "2026-11-04T13:27:20.774Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 14949,
+        "salePrice": 14949
+      },
+      {
+        "date": "Oct 24",
+        "price": 14949,
+        "salePrice": 13753
+      },
+      {
+        "date": "Today",
+        "price": 14949,
+        "salePrice": 10464
+      }
+    ]
+  },
+  {
+    "id": "sanasafinaz-9505271611624",
+    "brandId": "sanasafinaz",
+    "brandName": "Sana Safinaz",
+    "title": "Lawn Embroidered Dupatta",
+    "handle": "lawn-embroidered-dupatta-1",
+    "originalPrice": 7819,
+    "salePrice": 5473,
+    "discountPct": 30,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/SS26SGE419P2T_1_d9529db4-cc60-47ab-b58c-19b9d4f1a8a6.jpg?v=1779253776",
+    "category": "unstitched",
+    "fabric": "Premium Lawn",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://www.sanasafinaz.com/products/lawn-embroidered-dupatta-1",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-05-20T10:10:50+05:00",
+    "lastSeenAt": "2026-11-04T13:27:20.774Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 7819,
+        "salePrice": 7819
+      },
+      {
+        "date": "Oct 24",
+        "price": 7819,
+        "salePrice": 7193
+      },
+      {
+        "date": "Today",
+        "price": 7819,
+        "salePrice": 5473
+      }
+    ]
+  },
+  {
+    "id": "sanasafinaz-9505273774312",
+    "brandId": "sanasafinaz",
+    "brandName": "Sana Safinaz",
+    "title": "Stitched Printed Lawn Suit",
+    "handle": "stitched-printed-lawn-suit-ss26mhy110ap3",
+    "originalPrice": 8739,
+    "salePrice": 6117,
+    "discountPct": 30,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/SS26MHY110A_1_1.jpg?v=1792476393",
+    "category": "pret",
+    "fabric": "Premium Lawn",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://www.sanasafinaz.com/products/stitched-printed-lawn-suit-ss26mhy110ap3",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-05-20T10:29:25+05:00",
+    "lastSeenAt": "2026-11-04T13:27:20.774Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 8739,
+        "salePrice": 8739
+      },
+      {
+        "date": "Oct 24",
+        "price": 8739,
+        "salePrice": 8040
+      },
+      {
+        "date": "Today",
+        "price": 8739,
+        "salePrice": 6117
+      }
+    ]
+  },
+  {
+    "id": "sanasafinaz-9531155022056",
+    "brandId": "sanasafinaz",
+    "brandName": "Sana Safinaz",
+    "title": "Stitched Printed Lawn Shirt+ Shalwar",
+    "handle": "stitched-printed-lawn-shirt-shalwar-ss26bsp233p2t",
+    "originalPrice": 7934,
+    "salePrice": 6347,
+    "discountPct": 20,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/SS26BSP233P2T_1.jpg?v=1782194809",
+    "category": "pret",
+    "fabric": "Premium Lawn",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://www.sanasafinaz.com/products/stitched-printed-lawn-shirt-shalwar-ss26bsp233p2t",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-06-23T10:56:03+05:00",
+    "lastSeenAt": "2026-11-04T13:27:20.774Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 7934,
+        "salePrice": 7934
+      },
+      {
+        "date": "Oct 24",
+        "price": 7934,
+        "salePrice": 7299
+      },
+      {
+        "date": "Today",
+        "price": 7934,
+        "salePrice": 6347
+      }
+    ]
+  },
+  {
+    "id": "sanasafinaz-9538598830312",
+    "brandId": "sanasafinaz",
+    "brandName": "Sana Safinaz",
+    "title": "Stitched Embroidered Khaadi Silk Shirt+ Shalwar",
+    "handle": "stitched-embroidered-khaadi-silk-shirt-shalwar",
+    "originalPrice": 14374,
+    "salePrice": 11499,
+    "discountPct": 20,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/SS26SGE516P2T_6.jpg?v=1783075235",
+    "category": "pret",
+    "fabric": "Boski Silk",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://www.sanasafinaz.com/products/stitched-embroidered-khaadi-silk-shirt-shalwar",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-07-03T15:44:22+05:00",
+    "lastSeenAt": "2026-11-04T13:27:20.774Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 14374,
+        "salePrice": 14374
+      },
+      {
+        "date": "Oct 24",
+        "price": 14374,
+        "salePrice": 13224
+      },
+      {
+        "date": "Today",
+        "price": 14374,
+        "salePrice": 11499
+      }
+    ]
+  },
+  {
+    "id": "sanasafinaz-9539880354024",
+    "brandId": "sanasafinaz",
+    "brandName": "Sana Safinaz",
+    "title": "Stitched Embroidered Muzlin Lawn Suit",
+    "handle": "stitched-embroidered-muzlin-lawn-suit",
+    "originalPrice": 16099,
+    "salePrice": 12879,
+    "discountPct": 20,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/SS26MUZ111BP3_1.jpg?v=1783313993",
+    "category": "pret",
+    "fabric": "Premium Lawn",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://www.sanasafinaz.com/products/stitched-embroidered-muzlin-lawn-suit",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-07-06T10:02:05+05:00",
+    "lastSeenAt": "2026-11-04T13:27:20.774Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 16099,
+        "salePrice": 16099
+      },
+      {
+        "date": "Oct 24",
+        "price": 16099,
+        "salePrice": 14811
+      },
+      {
+        "date": "Today",
+        "price": 16099,
+        "salePrice": 12879
+      }
+    ]
+  },
+  {
+    "id": "sanasafinaz-9539882680552",
+    "brandId": "sanasafinaz",
+    "brandName": "Sana Safinaz",
+    "title": "Stitched Embroidered Lawn Shirt+ Shalwar",
+    "handle": "stitched-embroidered-lawn-shirt-shalwar-18",
+    "originalPrice": 18974,
+    "salePrice": 15179,
+    "discountPct": 20,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/SS26SGE468P2T_1.jpg?v=1783314431",
+    "category": "pret",
+    "fabric": "Premium Lawn",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://www.sanasafinaz.com/products/stitched-embroidered-lawn-shirt-shalwar-18",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-07-06T10:08:33+05:00",
+    "lastSeenAt": "2026-11-04T13:27:20.774Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 18974,
+        "salePrice": 18974
+      },
+      {
+        "date": "Oct 24",
+        "price": 18974,
+        "salePrice": 17456
+      },
+      {
+        "date": "Today",
+        "price": 18974,
+        "salePrice": 15179
+      }
+    ]
+  },
+  {
+    "id": "sanasafinaz-9539900440808",
+    "brandId": "sanasafinaz",
+    "brandName": "Sana Safinaz",
+    "title": "Stitched Printed Crepe Suit",
+    "handle": "stitched-printed-crepe-suit-ss26stp760p3",
+    "originalPrice": 19549,
+    "salePrice": 15639,
+    "discountPct": 20,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/SS26STP760P3_1.jpg?v=1783317924",
+    "category": "pret",
+    "fabric": "Fine Cotton Lawn",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://www.sanasafinaz.com/products/stitched-printed-crepe-suit-ss26stp760p3",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-07-06T11:14:27+05:00",
+    "lastSeenAt": "2026-11-04T13:27:20.774Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 19549,
+        "salePrice": 19549
+      },
+      {
+        "date": "Oct 24",
+        "price": 19549,
+        "salePrice": 17985
+      },
+      {
+        "date": "Today",
+        "price": 19549,
+        "salePrice": 15639
+      }
+    ]
+  },
+  {
+    "id": "sanasafinaz-9556776550632",
+    "brandId": "sanasafinaz",
+    "brandName": "Sana Safinaz",
+    "title": "Stitched Embroidered Khaadi Silk Shirt+ Culotte",
+    "handle": "stitched-embroidered-khaadi-silk-shirt-culotte",
+    "originalPrice": 12879,
+    "salePrice": 10303,
+    "discountPct": 20,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/SS26SGE500P2T_6.jpg?v=1784265495",
+    "category": "pret",
+    "fabric": "Boski Silk",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://www.sanasafinaz.com/products/stitched-embroidered-khaadi-silk-shirt-culotte",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-07-17T10:21:21+05:00",
+    "lastSeenAt": "2026-11-04T13:27:20.774Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 12879,
+        "salePrice": 12879
+      },
+      {
+        "date": "Oct 24",
+        "price": 12879,
+        "salePrice": 11849
+      },
+      {
+        "date": "Today",
+        "price": 12879,
+        "salePrice": 10303
       }
     ]
   },
@@ -5095,7 +5095,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-29T10:15:12+05:00",
-    "lastSeenAt": "2026-11-04T03:50:01.483Z",
+    "lastSeenAt": "2026-11-04T13:27:20.774Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5131,7 +5131,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-29T11:15:44+05:00",
-    "lastSeenAt": "2026-11-04T03:50:01.483Z",
+    "lastSeenAt": "2026-11-04T13:27:20.774Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5167,7 +5167,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T18:47:13+05:00",
-    "lastSeenAt": "2026-11-04T03:50:05.166Z",
+    "lastSeenAt": "2026-11-04T13:27:24.484Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5203,7 +5203,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T18:47:19+05:00",
-    "lastSeenAt": "2026-11-04T03:50:05.166Z",
+    "lastSeenAt": "2026-11-04T13:27:24.484Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5229,8 +5229,8 @@ export const INITIAL_PRODUCTS: Product[] = [
     "title": "BLUE LAWN PRINTED TROUSER",
     "handle": "blue-lawn-printed-trouser-jjlt-s-25-362-fb-essentials-14",
     "originalPrice": 1990,
-    "salePrice": 1490,
-    "discountPct": 25,
+    "salePrice": 690,
+    "discountPct": 65,
     "imageUrl": "https://cdn.shopify.com/s/files/1/0702/2487/1584/files/jlt-25-362_7f24ad80-4fc5-4a89-8221-509cf9daf3f0.jpg?v=1776976748",
     "category": "pret",
     "fabric": "Premium Lawn",
@@ -5239,7 +5239,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T18:35:33+05:00",
-    "lastSeenAt": "2026-11-04T03:50:05.166Z",
+    "lastSeenAt": "2026-11-04T13:27:24.484Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5254,7 +5254,7 @@ export const INITIAL_PRODUCTS: Product[] = [
       {
         "date": "Today",
         "price": 1990,
-        "salePrice": 1490
+        "salePrice": 690
       }
     ]
   },
@@ -5265,8 +5265,8 @@ export const INITIAL_PRODUCTS: Product[] = [
     "title": "BLUE CAMBRIC PRINTED TROUSERS | JJLT-W-24-3065",
     "handle": "blue-cambric-printed-trousers-jjlt-w-24-3065",
     "originalPrice": 1890,
-    "salePrice": 1490,
-    "discountPct": 21,
+    "salePrice": 690,
+    "discountPct": 63,
     "imageUrl": "https://cdn.shopify.com/s/files/1/0702/2487/1584/files/jlt-24-3065_c3adf4db-466c-48c5-a333-66f47d91ca80.jpg?v=1776978285",
     "category": "pret",
     "fabric": "Soft Cambric",
@@ -5275,7 +5275,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T10:11:08+05:00",
-    "lastSeenAt": "2026-11-04T03:50:05.167Z",
+    "lastSeenAt": "2026-11-04T13:27:24.485Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5290,7 +5290,7 @@ export const INITIAL_PRODUCTS: Product[] = [
       {
         "date": "Today",
         "price": 1890,
-        "salePrice": 1490
+        "salePrice": 690
       }
     ]
   },
@@ -5301,8 +5301,8 @@ export const INITIAL_PRODUCTS: Product[] = [
     "title": "MULTICOLOR CAMBRIC PRINTED TROUSERS | JJLT-W-24-3066",
     "handle": "multicolor-cambric-printed-trousers-jjlt-w-24-3066",
     "originalPrice": 1890,
-    "salePrice": 1490,
-    "discountPct": 21,
+    "salePrice": 690,
+    "discountPct": 63,
     "imageUrl": "https://cdn.shopify.com/s/files/1/0702/2487/1584/files/jlt-24-3066_c71154d8-dbd1-4f13-9b34-920ebb551df9.jpg?v=1776978285",
     "category": "pret",
     "fabric": "Soft Cambric",
@@ -5311,7 +5311,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T10:11:04+05:00",
-    "lastSeenAt": "2026-11-04T03:50:05.167Z",
+    "lastSeenAt": "2026-11-04T13:27:24.485Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5326,7 +5326,7 @@ export const INITIAL_PRODUCTS: Product[] = [
       {
         "date": "Today",
         "price": 1890,
-        "salePrice": 1490
+        "salePrice": 690
       }
     ]
   },
@@ -5337,8 +5337,8 @@ export const INITIAL_PRODUCTS: Product[] = [
     "title": "PINK CAMBRIC PRINTED TROUSERS | JJLT-W-24-3064",
     "handle": "pink-cambric-printed-trousers-jjlt-w-24-3064",
     "originalPrice": 1890,
-    "salePrice": 1490,
-    "discountPct": 21,
+    "salePrice": 690,
+    "discountPct": 63,
     "imageUrl": "https://cdn.shopify.com/s/files/1/0702/2487/1584/files/jlt-24-3064_51254f23-59c3-4344-a102-f3dd959066fb.jpg?v=1776978285",
     "category": "pret",
     "fabric": "Soft Cambric",
@@ -5347,7 +5347,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T10:11:03+05:00",
-    "lastSeenAt": "2026-11-04T03:50:05.167Z",
+    "lastSeenAt": "2026-11-04T13:27:24.485Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5362,7 +5362,7 @@ export const INITIAL_PRODUCTS: Product[] = [
       {
         "date": "Today",
         "price": 1890,
-        "salePrice": 1490
+        "salePrice": 690
       }
     ]
   },
@@ -5373,8 +5373,8 @@ export const INITIAL_PRODUCTS: Product[] = [
     "title": "MUSTARD CAMBRIC PRINTED TROUSERS | JJLT-W-24-3063",
     "handle": "mustard-cambric-printed-trousers-jjlt-w-24-3063",
     "originalPrice": 1890,
-    "salePrice": 1490,
-    "discountPct": 21,
+    "salePrice": 690,
+    "discountPct": 63,
     "imageUrl": "https://cdn.shopify.com/s/files/1/0702/2487/1584/files/jlt-24-3063_258d8339-1a2b-4955-bf22-98e80c9e0b28.jpg?v=1776978285",
     "category": "pret",
     "fabric": "Soft Cambric",
@@ -5383,7 +5383,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T10:11:06+05:00",
-    "lastSeenAt": "2026-11-04T03:50:05.167Z",
+    "lastSeenAt": "2026-11-04T13:27:24.485Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5398,7 +5398,7 @@ export const INITIAL_PRODUCTS: Product[] = [
       {
         "date": "Today",
         "price": 1890,
-        "salePrice": 1490
+        "salePrice": 690
       }
     ]
   },
@@ -5409,8 +5409,8 @@ export const INITIAL_PRODUCTS: Product[] = [
     "title": "YELLOW CAMBRIC PRINTED TROUSERS | JJLT-W-24-3071",
     "handle": "yellow-cambric-printed-trousers-jjlt-w-24-3071",
     "originalPrice": 1890,
-    "salePrice": 1490,
-    "discountPct": 21,
+    "salePrice": 690,
+    "discountPct": 63,
     "imageUrl": "https://cdn.shopify.com/s/files/1/0702/2487/1584/files/jws-24-3071_3_-_copy_1_5c2d4f70-2f99-4099-8d3e-6ca43c87e013.jpg?v=1776978285",
     "category": "pret",
     "fabric": "Soft Cambric",
@@ -5419,7 +5419,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T10:10:55+05:00",
-    "lastSeenAt": "2026-11-04T03:50:05.167Z",
+    "lastSeenAt": "2026-11-04T13:27:24.485Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5434,7 +5434,7 @@ export const INITIAL_PRODUCTS: Product[] = [
       {
         "date": "Today",
         "price": 1890,
-        "salePrice": 1490
+        "salePrice": 690
       }
     ]
   },
@@ -5445,8 +5445,8 @@ export const INITIAL_PRODUCTS: Product[] = [
     "title": "BLACK CAMBRIC PRINTED TROUSERS | JJLT-W-24-3062",
     "handle": "black-cambric-printed-trousers-jjlt-w-24-3062",
     "originalPrice": 1890,
-    "salePrice": 1490,
-    "discountPct": 21,
+    "salePrice": 690,
+    "discountPct": 63,
     "imageUrl": "https://cdn.shopify.com/s/files/1/0702/2487/1584/files/jlt-24-3062_00baeaa2-653f-4339-8063-abb7771ea9c4.jpg?v=1776978285",
     "category": "pret",
     "fabric": "Soft Cambric",
@@ -5455,7 +5455,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T10:11:10+05:00",
-    "lastSeenAt": "2026-11-04T03:50:05.167Z",
+    "lastSeenAt": "2026-11-04T13:27:24.485Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5470,7 +5470,7 @@ export const INITIAL_PRODUCTS: Product[] = [
       {
         "date": "Today",
         "price": 1890,
-        "salePrice": 1490
+        "salePrice": 690
       }
     ]
   },
@@ -5481,8 +5481,8 @@ export const INITIAL_PRODUCTS: Product[] = [
     "title": "BROWN SHALWAR | JJLT-W-24-3070",
     "handle": "brown-shalwar-jjlt-w-24-3070",
     "originalPrice": 2090,
-    "salePrice": 1490,
-    "discountPct": 29,
+    "salePrice": 690,
+    "discountPct": 67,
     "imageUrl": "https://cdn.shopify.com/s/files/1/0702/2487/1584/files/jlt-24-3070_1_cf49a726-372a-4922-8739-1251015bee30.jpg?v=1776978244",
     "category": "pret",
     "fabric": "Fine Cotton Lawn",
@@ -5491,7 +5491,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T10:16:44+05:00",
-    "lastSeenAt": "2026-11-04T03:50:05.167Z",
+    "lastSeenAt": "2026-11-04T13:27:24.485Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5506,7 +5506,7 @@ export const INITIAL_PRODUCTS: Product[] = [
       {
         "date": "Today",
         "price": 2090,
-        "salePrice": 1490
+        "salePrice": 690
       }
     ]
   },
@@ -5517,8 +5517,8 @@ export const INITIAL_PRODUCTS: Product[] = [
     "title": "BLUE SHALWAR | JJLT-W-24-3073",
     "handle": "blue-shalwar-jjlt-w-24-3073",
     "originalPrice": 2090,
-    "salePrice": 1490,
-    "discountPct": 29,
+    "salePrice": 690,
+    "discountPct": 67,
     "imageUrl": "https://cdn.shopify.com/s/files/1/0702/2487/1584/files/24-3073_1_89bfd2ba-d481-4a7f-8625-785ca84691f9.jpg?v=1776978244",
     "category": "pret",
     "fabric": "Fine Cotton Lawn",
@@ -5527,7 +5527,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T10:16:42+05:00",
-    "lastSeenAt": "2026-11-04T03:50:05.167Z",
+    "lastSeenAt": "2026-11-04T13:27:24.485Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5542,7 +5542,7 @@ export const INITIAL_PRODUCTS: Product[] = [
       {
         "date": "Today",
         "price": 2090,
-        "salePrice": 1490
+        "salePrice": 690
       }
     ]
   },
@@ -5553,8 +5553,8 @@ export const INITIAL_PRODUCTS: Product[] = [
     "title": "MULTICOLOR CAMBRIC PRINTED TROUSERS | JJLT-W-24-3069",
     "handle": "multicolor-cambric-printed-trousers-jjlt-w-24-3069",
     "originalPrice": 1890,
-    "salePrice": 1490,
-    "discountPct": 21,
+    "salePrice": 690,
+    "discountPct": 63,
     "imageUrl": "https://cdn.shopify.com/s/files/1/0702/2487/1584/files/jws-24-3069_3_-_copy_e237cc72-b697-4f05-93dd-76dde60fe83e.jpg?v=1776978285",
     "category": "pret",
     "fabric": "Soft Cambric",
@@ -5563,7 +5563,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T10:10:57+05:00",
-    "lastSeenAt": "2026-11-04T03:50:05.167Z",
+    "lastSeenAt": "2026-11-04T13:27:24.485Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5578,7 +5578,7 @@ export const INITIAL_PRODUCTS: Product[] = [
       {
         "date": "Today",
         "price": 1890,
-        "salePrice": 1490
+        "salePrice": 690
       }
     ]
   },
@@ -5589,8 +5589,8 @@ export const INITIAL_PRODUCTS: Product[] = [
     "title": "BROWN CAMBRIC PRINTED TROUSERS | JJLT-W-24-3072",
     "handle": "brown-cambric-printed-trousers-jjlt-w-24-3072",
     "originalPrice": 1890,
-    "salePrice": 1490,
-    "discountPct": 21,
+    "salePrice": 690,
+    "discountPct": 63,
     "imageUrl": "https://cdn.shopify.com/s/files/1/0702/2487/1584/files/jws-24-3072_3_-_copy_77f381fa-1715-4eef-b4bf-52d55d12dba3.jpg?v=1776978285",
     "category": "pret",
     "fabric": "Soft Cambric",
@@ -5599,7 +5599,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T10:10:54+05:00",
-    "lastSeenAt": "2026-11-04T03:50:05.167Z",
+    "lastSeenAt": "2026-11-04T13:27:24.485Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5614,7 +5614,7 @@ export const INITIAL_PRODUCTS: Product[] = [
       {
         "date": "Today",
         "price": 1890,
-        "salePrice": 1490
+        "salePrice": 690
       }
     ]
   },
@@ -5635,7 +5635,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T14:44:07+05:00",
-    "lastSeenAt": "2026-11-04T03:50:05.167Z",
+    "lastSeenAt": "2026-11-04T13:27:24.485Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5671,7 +5671,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-11T22:05:52+05:00",
-    "lastSeenAt": "2026-11-04T03:50:05.167Z",
+    "lastSeenAt": "2026-11-04T13:27:24.485Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5707,7 +5707,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-11T21:35:52+05:00",
-    "lastSeenAt": "2026-11-04T03:50:05.167Z",
+    "lastSeenAt": "2026-11-04T13:27:24.485Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5743,7 +5743,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-11T22:09:35+05:00",
-    "lastSeenAt": "2026-11-04T03:50:05.167Z",
+    "lastSeenAt": "2026-11-04T13:27:24.485Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5779,7 +5779,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-11T22:19:45+05:00",
-    "lastSeenAt": "2026-11-04T03:50:05.167Z",
+    "lastSeenAt": "2026-11-04T13:27:24.485Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5815,7 +5815,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T21:37:17+05:00",
-    "lastSeenAt": "2026-11-04T03:50:05.168Z",
+    "lastSeenAt": "2026-11-04T13:27:24.486Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5851,7 +5851,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T21:37:15+05:00",
-    "lastSeenAt": "2026-11-04T03:50:05.168Z",
+    "lastSeenAt": "2026-11-04T13:27:24.486Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5887,7 +5887,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T21:37:19+05:00",
-    "lastSeenAt": "2026-11-04T03:50:05.168Z",
+    "lastSeenAt": "2026-11-04T13:27:24.486Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5923,7 +5923,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T21:37:21+05:00",
-    "lastSeenAt": "2026-11-04T03:50:05.168Z",
+    "lastSeenAt": "2026-11-04T13:27:24.486Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5959,7 +5959,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T21:31:47+05:00",
-    "lastSeenAt": "2026-11-04T03:50:05.168Z",
+    "lastSeenAt": "2026-11-04T13:27:24.486Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5985,8 +5985,8 @@ export const INITIAL_PRODUCTS: Product[] = [
     "title": "BLACK DOBBY DYED CO-ORD SET",
     "handle": "black-dobby-dyed-2pc-stitched-jst252222s",
     "originalPrice": 6990,
-    "salePrice": 4893,
-    "discountPct": 30,
+    "salePrice": 3495,
+    "discountPct": 50,
     "imageUrl": "https://cdn.shopify.com/s/files/1/0702/2487/1584/files/25-2222_2.jpg?v=1779531435",
     "category": "western",
     "fabric": "Fine Cotton Lawn",
@@ -5995,7 +5995,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T21:29:40+05:00",
-    "lastSeenAt": "2026-11-04T03:50:05.168Z",
+    "lastSeenAt": "2026-11-04T13:27:24.486Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6010,7 +6010,7 @@ export const INITIAL_PRODUCTS: Product[] = [
       {
         "date": "Today",
         "price": 6990,
-        "salePrice": 4893
+        "salePrice": 3495
       }
     ]
   },
@@ -6021,8 +6021,8 @@ export const INITIAL_PRODUCTS: Product[] = [
     "title": "BLACK SILK DIGITAL PRINTED CO-ORD SET",
     "handle": "black-silk-digital-printed-2pc-stitched-jst252153s",
     "originalPrice": 6990,
-    "salePrice": 4194,
-    "discountPct": 40,
+    "salePrice": 3495,
+    "discountPct": 50,
     "imageUrl": "https://cdn.shopify.com/s/files/1/0702/2487/1584/files/2153_1_f2175ae5-cc43-46dd-8c62-1e8c18a06694.jpg?v=1776976098",
     "category": "western",
     "fabric": "Boski Silk",
@@ -6031,7 +6031,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T21:31:06+05:00",
-    "lastSeenAt": "2026-11-04T03:50:05.168Z",
+    "lastSeenAt": "2026-11-04T13:27:24.486Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6046,7 +6046,7 @@ export const INITIAL_PRODUCTS: Product[] = [
       {
         "date": "Today",
         "price": 6990,
-        "salePrice": 4194
+        "salePrice": 3495
       }
     ]
   },
@@ -6067,7 +6067,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-04-13T12:49:21+05:00",
-    "lastSeenAt": "2026-11-04T03:50:08.830Z",
+    "lastSeenAt": "2026-11-04T13:27:28.202Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6103,7 +6103,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-06T13:10:22+05:00",
-    "lastSeenAt": "2026-11-04T03:50:08.830Z",
+    "lastSeenAt": "2026-11-04T13:27:28.203Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6139,7 +6139,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-04-13T12:49:25+05:00",
-    "lastSeenAt": "2026-11-04T03:50:08.830Z",
+    "lastSeenAt": "2026-11-04T13:27:28.203Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6175,7 +6175,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-10T18:17:42+05:00",
-    "lastSeenAt": "2026-11-04T03:50:08.830Z",
+    "lastSeenAt": "2026-11-04T13:27:28.203Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6211,7 +6211,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-13T14:39:11+05:00",
-    "lastSeenAt": "2026-11-04T03:50:08.830Z",
+    "lastSeenAt": "2026-11-04T13:27:28.203Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6247,7 +6247,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-06T13:09:44+05:00",
-    "lastSeenAt": "2026-11-04T03:50:08.830Z",
+    "lastSeenAt": "2026-11-04T13:27:28.203Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6283,7 +6283,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-10-02T18:00:09+05:00",
-    "lastSeenAt": "2026-11-04T03:50:08.830Z",
+    "lastSeenAt": "2026-11-04T13:27:28.203Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6319,7 +6319,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-06T13:10:01+05:00",
-    "lastSeenAt": "2026-11-04T03:50:08.830Z",
+    "lastSeenAt": "2026-11-04T13:27:28.203Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6355,7 +6355,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-06T13:10:55+05:00",
-    "lastSeenAt": "2026-11-04T03:50:08.830Z",
+    "lastSeenAt": "2026-11-04T13:27:28.203Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6391,7 +6391,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-10T18:16:37+05:00",
-    "lastSeenAt": "2026-11-04T03:50:08.831Z",
+    "lastSeenAt": "2026-11-04T13:27:28.203Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6427,7 +6427,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-06T13:09:37+05:00",
-    "lastSeenAt": "2026-11-04T03:50:08.831Z",
+    "lastSeenAt": "2026-11-04T13:27:28.203Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6463,7 +6463,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-06T13:11:16+05:00",
-    "lastSeenAt": "2026-11-04T03:50:08.831Z",
+    "lastSeenAt": "2026-11-04T13:27:28.203Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6499,7 +6499,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-10-02T17:58:09+05:00",
-    "lastSeenAt": "2026-11-04T03:50:08.831Z",
+    "lastSeenAt": "2026-11-04T13:27:28.203Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6535,7 +6535,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-10T18:17:01+05:00",
-    "lastSeenAt": "2026-11-04T03:50:08.831Z",
+    "lastSeenAt": "2026-11-04T13:27:28.203Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6571,7 +6571,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-06T13:11:08+05:00",
-    "lastSeenAt": "2026-11-04T03:50:08.831Z",
+    "lastSeenAt": "2026-11-04T13:27:28.203Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6587,42 +6587,6 @@ export const INITIAL_PRODUCTS: Product[] = [
         "date": "Today",
         "price": 2590,
         "salePrice": 1813
-      }
-    ]
-  },
-  {
-    "id": "alkaram-8020334215348",
-    "brandId": "alkaram",
-    "brandName": "Alkaram Studio",
-    "title": "RTS | SHIRT & TROUSER",
-    "handle": "rts-shirt-trouser-bd54-2p26-light-grey",
-    "originalPrice": 2790,
-    "salePrice": 1953,
-    "discountPct": 30,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/BD54-2P26-LightGrey-1.jpg?v=1768645901",
-    "category": "pret",
-    "fabric": "Premium Lawn",
-    "pieceCount": "2 Piece",
-    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-bd54-2p26-light-grey",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-01-06T13:10:20+05:00",
-    "lastSeenAt": "2026-11-04T03:50:08.831Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 2790,
-        "salePrice": 2790
-      },
-      {
-        "date": "Oct 24",
-        "price": 2790,
-        "salePrice": 2567
-      },
-      {
-        "date": "Today",
-        "price": 2790,
-        "salePrice": 1953
       }
     ]
   },
@@ -6643,7 +6607,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-10-02T17:57:32+05:00",
-    "lastSeenAt": "2026-11-04T03:50:08.831Z",
+    "lastSeenAt": "2026-11-04T13:27:28.203Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6679,7 +6643,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-06T13:09:30+05:00",
-    "lastSeenAt": "2026-11-04T03:50:08.831Z",
+    "lastSeenAt": "2026-11-04T13:27:28.203Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6715,7 +6679,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-04-13T12:49:04+05:00",
-    "lastSeenAt": "2026-11-04T03:50:08.831Z",
+    "lastSeenAt": "2026-11-04T13:27:28.203Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6751,7 +6715,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-10-02T17:58:02+05:00",
-    "lastSeenAt": "2026-11-04T03:50:08.831Z",
+    "lastSeenAt": "2026-11-04T13:27:28.203Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6787,7 +6751,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-06T13:10:53+05:00",
-    "lastSeenAt": "2026-11-04T03:50:08.831Z",
+    "lastSeenAt": "2026-11-04T13:27:28.203Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6823,7 +6787,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-10-02T18:00:16+05:00",
-    "lastSeenAt": "2026-11-04T03:50:08.831Z",
+    "lastSeenAt": "2026-11-04T13:27:28.203Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6859,7 +6823,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-10T18:19:39+05:00",
-    "lastSeenAt": "2026-11-04T03:50:08.831Z",
+    "lastSeenAt": "2026-11-04T13:27:28.203Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6895,7 +6859,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-10T18:20:11+05:00",
-    "lastSeenAt": "2026-11-04T03:50:08.831Z",
+    "lastSeenAt": "2026-11-04T13:27:28.203Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6931,7 +6895,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-06T13:10:59+05:00",
-    "lastSeenAt": "2026-11-04T03:50:08.831Z",
+    "lastSeenAt": "2026-11-04T13:27:28.203Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6967,7 +6931,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-02-17T12:38:31+05:00",
-    "lastSeenAt": "2026-11-04T03:50:08.831Z",
+    "lastSeenAt": "2026-11-04T13:27:28.203Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7003,7 +6967,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-06T13:11:01+05:00",
-    "lastSeenAt": "2026-11-04T03:50:08.831Z",
+    "lastSeenAt": "2026-11-04T13:27:28.203Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7039,7 +7003,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-10-02T18:00:07+05:00",
-    "lastSeenAt": "2026-11-04T03:50:08.831Z",
+    "lastSeenAt": "2026-11-04T13:27:28.203Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7075,7 +7039,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-10-02T17:58:07+05:00",
-    "lastSeenAt": "2026-11-04T03:50:08.831Z",
+    "lastSeenAt": "2026-11-04T13:27:28.203Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7111,7 +7075,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-10T18:17:25+05:00",
-    "lastSeenAt": "2026-11-04T03:50:08.831Z",
+    "lastSeenAt": "2026-11-04T13:27:28.203Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7127,6 +7091,42 @@ export const INITIAL_PRODUCTS: Product[] = [
         "date": "Today",
         "price": 4290,
         "salePrice": 2789
+      }
+    ]
+  },
+  {
+    "id": "alkaram-8001175093428",
+    "brandId": "alkaram",
+    "brandName": "Alkaram Studio",
+    "title": "RTS | SHIRT & DUPATTA",
+    "handle": "rts-shirt-dupatta-fw-166-25-2-gray",
+    "originalPrice": 3290,
+    "salePrice": 2139,
+    "discountPct": 35,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/FW-166-25-2-Grey-1.jpg?v=1763366135",
+    "category": "pret",
+    "fabric": "Fine Cotton Lawn",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-dupatta-fw-166-25-2-gray",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2025-11-01T00:45:59+05:00",
+    "lastSeenAt": "2026-11-04T13:27:28.203Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 3290,
+        "salePrice": 3290
+      },
+      {
+        "date": "Oct 24",
+        "price": 3290,
+        "salePrice": 3027
+      },
+      {
+        "date": "Today",
+        "price": 3290,
+        "salePrice": 2139
       }
     ]
   },
@@ -7147,7 +7147,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-19T15:00:14+05:00",
-    "lastSeenAt": "2026-11-04T03:50:12.521Z",
+    "lastSeenAt": "2026-11-04T13:27:31.983Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7183,7 +7183,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-19T15:01:08+05:00",
-    "lastSeenAt": "2026-11-04T03:50:12.522Z",
+    "lastSeenAt": "2026-11-04T13:27:31.983Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7219,7 +7219,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-19T15:00:28+05:00",
-    "lastSeenAt": "2026-11-04T03:50:12.522Z",
+    "lastSeenAt": "2026-11-04T13:27:31.983Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7255,7 +7255,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-19T15:00:57+05:00",
-    "lastSeenAt": "2026-11-04T03:50:12.522Z",
+    "lastSeenAt": "2026-11-04T13:27:31.983Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7291,7 +7291,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-19T15:00:46+05:00",
-    "lastSeenAt": "2026-11-04T03:50:12.522Z",
+    "lastSeenAt": "2026-11-04T13:27:31.983Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7327,7 +7327,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-19T15:00:40+05:00",
-    "lastSeenAt": "2026-11-04T03:50:12.522Z",
+    "lastSeenAt": "2026-11-04T13:27:31.983Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7363,7 +7363,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-19T15:00:50+05:00",
-    "lastSeenAt": "2026-11-04T03:50:12.522Z",
+    "lastSeenAt": "2026-11-04T13:27:31.983Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7399,7 +7399,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-19T15:00:59+05:00",
-    "lastSeenAt": "2026-11-04T03:50:12.522Z",
+    "lastSeenAt": "2026-11-04T13:27:31.983Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7435,7 +7435,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-19T15:00:21+05:00",
-    "lastSeenAt": "2026-11-04T03:50:12.522Z",
+    "lastSeenAt": "2026-11-04T13:27:31.983Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7471,7 +7471,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-19T15:00:36+05:00",
-    "lastSeenAt": "2026-11-04T03:50:12.522Z",
+    "lastSeenAt": "2026-11-04T13:27:31.983Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7507,7 +7507,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-19T15:00:57+05:00",
-    "lastSeenAt": "2026-11-04T03:50:12.522Z",
+    "lastSeenAt": "2026-11-04T13:27:31.983Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7543,7 +7543,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-19T15:01:07+05:00",
-    "lastSeenAt": "2026-11-04T03:50:12.522Z",
+    "lastSeenAt": "2026-11-04T13:27:31.983Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7579,7 +7579,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-08T11:08:14+05:00",
-    "lastSeenAt": "2026-11-04T03:50:12.522Z",
+    "lastSeenAt": "2026-11-04T13:27:31.983Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7615,7 +7615,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-08T11:08:49+05:00",
-    "lastSeenAt": "2026-11-04T03:50:12.522Z",
+    "lastSeenAt": "2026-11-04T13:27:31.983Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7651,7 +7651,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-08T11:08:48+05:00",
-    "lastSeenAt": "2026-11-04T03:50:12.522Z",
+    "lastSeenAt": "2026-11-04T13:27:31.983Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7687,7 +7687,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-08T11:08:41+05:00",
-    "lastSeenAt": "2026-11-04T03:50:12.522Z",
+    "lastSeenAt": "2026-11-04T13:27:31.983Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7723,7 +7723,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-08T11:08:41+05:00",
-    "lastSeenAt": "2026-11-04T03:50:12.522Z",
+    "lastSeenAt": "2026-11-04T13:27:31.983Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7759,7 +7759,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-08T11:08:09+05:00",
-    "lastSeenAt": "2026-11-04T03:50:12.522Z",
+    "lastSeenAt": "2026-11-04T13:27:31.983Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7795,7 +7795,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-08T11:08:29+05:00",
-    "lastSeenAt": "2026-11-04T03:50:12.522Z",
+    "lastSeenAt": "2026-11-04T13:27:31.983Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7831,7 +7831,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-08T11:08:55+05:00",
-    "lastSeenAt": "2026-11-04T03:50:12.522Z",
+    "lastSeenAt": "2026-11-04T13:27:31.983Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7867,7 +7867,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-08T11:08:37+05:00",
-    "lastSeenAt": "2026-11-04T03:50:12.522Z",
+    "lastSeenAt": "2026-11-04T13:27:31.983Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7887,23 +7887,23 @@ export const INITIAL_PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "zellbury-8505278791727",
+    "id": "zellbury-8505278136367",
     "brandId": "zellbury",
     "brandName": "Zellbury",
-    "title": "Shirt Shalwar Dupatta - 0161",
-    "handle": "shirt-shalwar-dupatta-wuwq1x30161",
+    "title": "Shirt Shalwar Dupatta - 0159",
+    "handle": "shirt-shalwar-dupatta-wuwq1x30159",
     "originalPrice": 3632,
     "salePrice": 2690,
     "discountPct": 26,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0595/3260/7535/files/WUWQ1X30161_-_4.png?v=1791456158",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0595/3260/7535/files/WUWQ1X30159_-_4.jpg?v=1791456100",
     "category": "unstitched",
     "fabric": "Cotton Khaddar",
     "pieceCount": "3 Piece",
-    "productUrl": "https://zellbury.com/products/shirt-shalwar-dupatta-wuwq1x30161",
+    "productUrl": "https://zellbury.com/products/shirt-shalwar-dupatta-wuwq1x30159",
     "isLowestPrice": true,
     "onSale": true,
-    "firstSeenAt": "2026-10-08T11:08:56+05:00",
-    "lastSeenAt": "2026-11-04T03:50:12.522Z",
+    "firstSeenAt": "2026-10-08T11:08:38+05:00",
+    "lastSeenAt": "2026-11-04T13:27:31.983Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7939,7 +7939,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-08-20T11:48:52+05:00",
-    "lastSeenAt": "2026-11-04T03:50:12.522Z",
+    "lastSeenAt": "2026-11-04T13:27:31.983Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7975,7 +7975,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-08-20T11:48:32+05:00",
-    "lastSeenAt": "2026-11-04T03:50:12.522Z",
+    "lastSeenAt": "2026-11-04T13:27:31.983Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7995,23 +7995,23 @@ export const INITIAL_PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "zellbury-8479758745647",
+    "id": "zellbury-8429023756335",
     "brandId": "zellbury",
     "brandName": "Zellbury",
-    "title": "Shirt Shalwar Dupatta - 0133",
-    "handle": "shirt-shalwar-dupatta-wuwq1x30133",
+    "title": "Shirt Shalwar Dupatta - 0023",
+    "handle": "shirt-shalwar-dupatta-wucq1x30023",
     "originalPrice": 3362,
     "salePrice": 2490,
     "discountPct": 26,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0595/3260/7535/files/WUWQ1X30133_7.png?v=1789733081",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0595/3260/7535/files/WUCQ1X30023_4.png?v=1787222564",
     "category": "unstitched",
-    "fabric": "Cotton Khaddar",
+    "fabric": "Pure Cotton",
     "pieceCount": "3 Piece",
-    "productUrl": "https://zellbury.com/products/shirt-shalwar-dupatta-wuwq1x30133",
+    "productUrl": "https://zellbury.com/products/shirt-shalwar-dupatta-wucq1x30023",
     "isLowestPrice": true,
     "onSale": true,
-    "firstSeenAt": "2026-09-18T11:36:21+05:00",
-    "lastSeenAt": "2026-11-04T03:50:12.522Z",
+    "firstSeenAt": "2026-08-20T11:48:36+05:00",
+    "lastSeenAt": "2026-11-04T13:27:31.983Z",
     "priceHistory": [
       {
         "date": "Oct 15",
