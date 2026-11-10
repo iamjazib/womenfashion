@@ -66,7 +66,7 @@ export default function Home() {
     }
 
     // 2. Pick a top deal from every other remaining brand
-    const remainingBrandIds = ["asimjofa", "baroque", "sanasafinaz", "alkaram", "zellbury", "limelight", "gulahmed"];
+    const remainingBrandIds = ["asimjofa", "baroque", "sanasafinaz", "alkaram", "zellbury", "limelight", "gulahmed", "nishat", "sapphire", "j."];
     for (const b of remainingBrandIds) {
       if (selected.length >= 10) break;
       if (!seenBrands.has(b)) {

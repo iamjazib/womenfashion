@@ -1,4 +1,4 @@
-// Generated automatically from live Pakistani brand Shopify feeds
+// Generated automatically from live Pakistani brand feeds
 import { Product } from "@/types";
 
 export const INITIAL_PRODUCTS: Product[] = [
@@ -8027,6 +8027,1233 @@ export const INITIAL_PRODUCTS: Product[] = [
         "date": "Today",
         "price": 3362,
         "salePrice": 2490
+      }
+    ]
+  },
+  {
+    "id": "nishat-15480491770055",
+    "brandId": "nishat",
+    "brandName": "Nishat Linen",
+    "title": "Black Long Coat-1719400103",
+    "handle": "nl26-06-black",
+    "originalPrice": 24287,
+    "salePrice": 17990,
+    "discountPct": 26,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0534/2065/4791/files/001719400103-_1.jpg?v=1794283921",
+    "category": "western",
+    "fabric": "Premium Cotton",
+    "pieceCount": "1 Piece",
+    "productUrl": "https://nishatlinen.com/products/nl26-06-black",
+    "isLowestPrice": false,
+    "onSale": true,
+    "firstSeenAt": "2026-11-05T23:00:47.887Z",
+    "lastSeenAt": "2026-11-10T23:00:47.888Z",
+    "priceHistory": [
+      {
+        "date": "2026-10-15",
+        "price": 24287,
+        "salePrice": 24287
+      },
+      {
+        "date": "2026-11-01",
+        "price": 24287,
+        "salePrice": 17990
+      }
+    ]
+  },
+  {
+    "id": "nishat-15480491737287",
+    "brandId": "nishat",
+    "brandName": "Nishat Linen",
+    "title": "Beige Long Coat-1719360118",
+    "handle": "nl26-02-beige",
+    "originalPrice": 24287,
+    "salePrice": 17990,
+    "discountPct": 26,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0534/2065/4791/files/001719360118-_1.jpg?v=1794284027",
+    "category": "western",
+    "fabric": "Premium Cotton",
+    "pieceCount": "1 Piece",
+    "productUrl": "https://nishatlinen.com/products/nl26-02-beige",
+    "isLowestPrice": false,
+    "onSale": true,
+    "firstSeenAt": "2026-10-31T23:00:47.888Z",
+    "lastSeenAt": "2026-11-10T23:00:47.888Z",
+    "priceHistory": [
+      {
+        "date": "2026-10-15",
+        "price": 24287,
+        "salePrice": 24287
+      },
+      {
+        "date": "2026-11-01",
+        "price": 24287,
+        "salePrice": 17990
+      }
+    ]
+  },
+  {
+    "id": "nishat-15394657992903",
+    "brandId": "nishat",
+    "brandName": "Nishat Linen",
+    "title": "3 Piece - Embroidered Suit - ST3PE-LUXE26WV1-54",
+    "handle": "st3pe-luxe26wv1-54",
+    "originalPrice": 47237,
+    "salePrice": 34990,
+    "discountPct": 26,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0534/2065/4791/files/ST3PE-LUXE26WV1-54-_6_e62e180b-109d-4e1d-a163-f9e2b36a4a55.jpg?v=1791953685",
+    "category": "festive",
+    "fabric": "Premium Cotton",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://nishatlinen.com/products/st3pe-luxe26wv1-54",
+    "isLowestPrice": false,
+    "onSale": true,
+    "firstSeenAt": "2026-11-03T23:00:47.888Z",
+    "lastSeenAt": "2026-11-10T23:00:47.888Z",
+    "priceHistory": [
+      {
+        "date": "2026-10-15",
+        "price": 47237,
+        "salePrice": 47237
+      },
+      {
+        "date": "2026-11-01",
+        "price": 47237,
+        "salePrice": 34990
+      }
+    ]
+  },
+  {
+    "id": "nishat-8911678374087",
+    "brandId": "nishat",
+    "brandName": "Nishat Linen",
+    "title": "3 PIECE - EMBROIDERED SUIT - ST3PE-LUXE26WV1-4",
+    "handle": "st3pe-luxe26wv1-4",
+    "originalPrice": 33737,
+    "salePrice": 24990,
+    "discountPct": 26,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0534/2065/4791/files/ST3PE-LUXE26WV1-4_d527120d-60e6-4931-863d-c88388fef176.jpg?v=1791229898",
+    "category": "festive",
+    "fabric": "Premium Cotton",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://nishatlinen.com/products/st3pe-luxe26wv1-4",
+    "isLowestPrice": false,
+    "onSale": true,
+    "firstSeenAt": "2026-11-08T23:00:47.888Z",
+    "lastSeenAt": "2026-11-10T23:00:47.888Z",
+    "priceHistory": [
+      {
+        "date": "2026-10-15",
+        "price": 33737,
+        "salePrice": 33737
+      },
+      {
+        "date": "2026-11-01",
+        "price": 33737,
+        "salePrice": 24990
+      }
+    ]
+  },
+  {
+    "id": "nishat-15463443726535",
+    "brandId": "nishat",
+    "brandName": "Nishat Linen",
+    "title": "Tea Pink Long Coat-1719410114",
+    "handle": "nl26-07-tea-pink",
+    "originalPrice": 20237,
+    "salePrice": 14990,
+    "discountPct": 26,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0534/2065/4791/files/001719410114-_1.jpg?v=1793777774",
+    "category": "western",
+    "fabric": "Premium Cotton",
+    "pieceCount": "1 Piece",
+    "productUrl": "https://nishatlinen.com/products/nl26-07-tea-pink",
+    "isLowestPrice": false,
+    "onSale": true,
+    "firstSeenAt": "2026-11-09T23:00:47.888Z",
+    "lastSeenAt": "2026-11-10T23:00:47.888Z",
+    "priceHistory": [
+      {
+        "date": "2026-10-15",
+        "price": 20237,
+        "salePrice": 20237
+      },
+      {
+        "date": "2026-11-01",
+        "price": 20237,
+        "salePrice": 14990
+      }
+    ]
+  },
+  {
+    "id": "nishat-15463443693767",
+    "brandId": "nishat",
+    "brandName": "Nishat Linen",
+    "title": "Dark Green Long Coat-1719390104",
+    "handle": "nl26-05-dark-green",
+    "originalPrice": 24287,
+    "salePrice": 17990,
+    "discountPct": 26,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0534/2065/4791/files/001719390104-_1.jpg?v=1793777783",
+    "category": "western",
+    "fabric": "Premium Cotton",
+    "pieceCount": "1 Piece",
+    "productUrl": "https://nishatlinen.com/products/nl26-05-dark-green",
+    "isLowestPrice": false,
+    "onSale": true,
+    "firstSeenAt": "2026-11-08T23:00:47.888Z",
+    "lastSeenAt": "2026-11-10T23:00:47.888Z",
+    "priceHistory": [
+      {
+        "date": "2026-10-15",
+        "price": 24287,
+        "salePrice": 24287
+      },
+      {
+        "date": "2026-11-01",
+        "price": 24287,
+        "salePrice": 17990
+      }
+    ]
+  },
+  {
+    "id": "nishat-8911678537927",
+    "brandId": "nishat",
+    "brandName": "Nishat Linen",
+    "title": "3 PIECE - EMBROIDERED SUIT - ST3PE-LUXE26WV1-45",
+    "handle": "st3pe-luxe26wv1-45",
+    "originalPrice": 26987,
+    "salePrice": 19990,
+    "discountPct": 26,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0534/2065/4791/files/ST3PE-LUXE26WV1-45_79b256e0-7172-4500-8416-d368ec96e7db.jpg?v=1791229779",
+    "category": "festive",
+    "fabric": "Premium Cotton",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://nishatlinen.com/products/st3pe-luxe26wv1-45",
+    "isLowestPrice": false,
+    "onSale": true,
+    "firstSeenAt": "2026-11-02T23:00:47.888Z",
+    "lastSeenAt": "2026-11-10T23:00:47.888Z",
+    "priceHistory": [
+      {
+        "date": "2026-10-15",
+        "price": 26987,
+        "salePrice": 26987
+      },
+      {
+        "date": "2026-11-01",
+        "price": 26987,
+        "salePrice": 19990
+      }
+    ]
+  },
+  {
+    "id": "nishat-15458262810823",
+    "brandId": "nishat",
+    "brandName": "Nishat Linen",
+    "title": "Off White Long Coat-1719460107",
+    "handle": "nl26-12-off-white",
+    "originalPrice": 20237,
+    "salePrice": 14990,
+    "discountPct": 26,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0534/2065/4791/files/001719460107-_1.jpg?v=1793683814",
+    "category": "western",
+    "fabric": "Premium Cotton",
+    "pieceCount": "1 Piece",
+    "productUrl": "https://nishatlinen.com/products/nl26-12-off-white",
+    "isLowestPrice": false,
+    "onSale": true,
+    "firstSeenAt": "2026-11-03T23:00:47.888Z",
+    "lastSeenAt": "2026-11-10T23:00:47.888Z",
+    "priceHistory": [
+      {
+        "date": "2026-10-15",
+        "price": 20237,
+        "salePrice": 20237
+      },
+      {
+        "date": "2026-11-01",
+        "price": 20237,
+        "salePrice": 14990
+      }
+    ]
+  },
+  {
+    "id": "nishat-15394659139783",
+    "brandId": "nishat",
+    "brandName": "Nishat Linen",
+    "title": "3 Piece - Embroidered Suit - ST3PE-LUXE26WV2-27",
+    "handle": "st3pe-luxe26wv2-27",
+    "originalPrice": 47237,
+    "salePrice": 34990,
+    "discountPct": 26,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0534/2065/4791/files/ST3PE-LUXE26WV2-27-_7.jpg?v=1791953487",
+    "category": "festive",
+    "fabric": "Premium Cotton",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://nishatlinen.com/products/st3pe-luxe26wv2-27",
+    "isLowestPrice": false,
+    "onSale": true,
+    "firstSeenAt": "2026-11-07T23:00:47.889Z",
+    "lastSeenAt": "2026-11-10T23:00:47.889Z",
+    "priceHistory": [
+      {
+        "date": "2026-10-15",
+        "price": 47237,
+        "salePrice": 47237
+      },
+      {
+        "date": "2026-11-01",
+        "price": 47237,
+        "salePrice": 34990
+      }
+    ]
+  },
+  {
+    "id": "nishat-15451124334791",
+    "brandId": "nishat",
+    "brandName": "Nishat Linen",
+    "title": "Black Cape Shawl-1721302103",
+    "handle": "ys-az-az-18-w26-black",
+    "originalPrice": 9437,
+    "salePrice": 6990,
+    "discountPct": 26,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0534/2065/4791/files/001721302103-_1.jpg?v=1793358053",
+    "category": "pret",
+    "fabric": "Premium Cotton",
+    "productUrl": "https://nishatlinen.com/products/ys-az-az-18-w26-black",
+    "isLowestPrice": false,
+    "onSale": true,
+    "firstSeenAt": "2026-10-31T23:00:47.889Z",
+    "lastSeenAt": "2026-11-10T23:00:47.889Z",
+    "priceHistory": [
+      {
+        "date": "2026-10-15",
+        "price": 9437,
+        "salePrice": 9437
+      },
+      {
+        "date": "2026-11-01",
+        "price": 9437,
+        "salePrice": 6990
+      }
+    ]
+  },
+  {
+    "id": "nishat-15451124269255",
+    "brandId": "nishat",
+    "brandName": "Nishat Linen",
+    "title": "Off White Cape Shawl-1721292107",
+    "handle": "ys-az-az-15-w26-off-white",
+    "originalPrice": 13487,
+    "salePrice": 9990,
+    "discountPct": 26,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0534/2065/4791/files/001721292107-_2.jpg?v=1793358145",
+    "category": "pret",
+    "fabric": "Premium Cotton",
+    "productUrl": "https://nishatlinen.com/products/ys-az-az-15-w26-off-white",
+    "isLowestPrice": false,
+    "onSale": true,
+    "firstSeenAt": "2026-11-02T23:00:47.889Z",
+    "lastSeenAt": "2026-11-10T23:00:47.889Z",
+    "priceHistory": [
+      {
+        "date": "2026-10-15",
+        "price": 13487,
+        "salePrice": 13487
+      },
+      {
+        "date": "2026-11-01",
+        "price": 13487,
+        "salePrice": 9990
+      }
+    ]
+  },
+  {
+    "id": "nishat-15451124138183",
+    "brandId": "nishat",
+    "brandName": "Nishat Linen",
+    "title": "Light Grey Cape Shawl-1721282111",
+    "handle": "ys-az-az-14-w26-light-grey",
+    "originalPrice": 9437,
+    "salePrice": 6990,
+    "discountPct": 26,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0534/2065/4791/files/001721282111-_1_7bf9c12f-6710-4592-92ac-61e08018ffa8.jpg?v=1793357899",
+    "category": "pret",
+    "fabric": "Premium Cotton",
+    "productUrl": "https://nishatlinen.com/products/ys-az-az-14-w26-light-grey",
+    "isLowestPrice": false,
+    "onSale": true,
+    "firstSeenAt": "2026-11-04T23:00:47.889Z",
+    "lastSeenAt": "2026-11-10T23:00:47.889Z",
+    "priceHistory": [
+      {
+        "date": "2026-10-15",
+        "price": 9437,
+        "salePrice": 9437
+      },
+      {
+        "date": "2026-11-01",
+        "price": 9437,
+        "salePrice": 6990
+      }
+    ]
+  },
+  {
+    "id": "nishat-15451124400327",
+    "brandId": "nishat",
+    "brandName": "Nishat Linen",
+    "title": "Beige Cape Shawl-1721312118",
+    "handle": "ys-az-az-19-w26-beige",
+    "originalPrice": 13487,
+    "salePrice": 9990,
+    "discountPct": 26,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0534/2065/4791/files/001721312118-_6.jpg?v=1793271919",
+    "category": "pret",
+    "fabric": "Premium Cotton",
+    "productUrl": "https://nishatlinen.com/products/ys-az-az-19-w26-beige",
+    "isLowestPrice": false,
+    "onSale": true,
+    "firstSeenAt": "2026-11-02T23:00:47.889Z",
+    "lastSeenAt": "2026-11-10T23:00:47.889Z",
+    "priceHistory": [
+      {
+        "date": "2026-10-15",
+        "price": 13487,
+        "salePrice": 13487
+      },
+      {
+        "date": "2026-11-01",
+        "price": 13487,
+        "salePrice": 9990
+      }
+    ]
+  },
+  {
+    "id": "nishat-15451124367559",
+    "brandId": "nishat",
+    "brandName": "Nishat Linen",
+    "title": "Grey Cape Shawl-1721312111",
+    "handle": "ys-az-az-19-w26-grey",
+    "originalPrice": 13487,
+    "salePrice": 9990,
+    "discountPct": 26,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0534/2065/4791/files/001721312111-_1.jpg?v=1793277722",
+    "category": "pret",
+    "fabric": "Premium Cotton",
+    "productUrl": "https://nishatlinen.com/products/ys-az-az-19-w26-grey",
+    "isLowestPrice": false,
+    "onSale": true,
+    "firstSeenAt": "2026-11-02T23:00:47.889Z",
+    "lastSeenAt": "2026-11-10T23:00:47.889Z",
+    "priceHistory": [
+      {
+        "date": "2026-10-15",
+        "price": 13487,
+        "salePrice": 13487
+      },
+      {
+        "date": "2026-11-01",
+        "price": 13487,
+        "salePrice": 9990
+      }
+    ]
+  },
+  {
+    "id": "nishat-15451124302023",
+    "brandId": "nishat",
+    "brandName": "Nishat Linen",
+    "title": "Off White Cape Shawl-1721302107",
+    "handle": "ys-az-az-18-w26-off-white",
+    "originalPrice": 9437,
+    "salePrice": 6990,
+    "discountPct": 26,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0534/2065/4791/files/001721302107-_1.jpg?v=1793277570",
+    "category": "pret",
+    "fabric": "Premium Cotton",
+    "productUrl": "https://nishatlinen.com/products/ys-az-az-18-w26-off-white",
+    "isLowestPrice": false,
+    "onSale": true,
+    "firstSeenAt": "2026-11-08T23:00:47.889Z",
+    "lastSeenAt": "2026-11-10T23:00:47.889Z",
+    "priceHistory": [
+      {
+        "date": "2026-10-15",
+        "price": 9437,
+        "salePrice": 9437
+      },
+      {
+        "date": "2026-11-01",
+        "price": 9437,
+        "salePrice": 6990
+      }
+    ]
+  },
+  {
+    "id": "nishat-15451124236487",
+    "brandId": "nishat",
+    "brandName": "Nishat Linen",
+    "title": "Sky Blue Cape Shawl-1721292108",
+    "handle": "ys-az-az-15-w26-sky-blue",
+    "originalPrice": 13487,
+    "salePrice": 9990,
+    "discountPct": 26,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0534/2065/4791/files/001721292108-_2.jpg?v=1793277472",
+    "category": "pret",
+    "fabric": "Premium Cotton",
+    "productUrl": "https://nishatlinen.com/products/ys-az-az-15-w26-sky-blue",
+    "isLowestPrice": false,
+    "onSale": true,
+    "firstSeenAt": "2026-11-06T23:00:47.889Z",
+    "lastSeenAt": "2026-11-10T23:00:47.889Z",
+    "priceHistory": [
+      {
+        "date": "2026-10-15",
+        "price": 13487,
+        "salePrice": 13487
+      },
+      {
+        "date": "2026-11-01",
+        "price": 13487,
+        "salePrice": 9990
+      }
+    ]
+  },
+  {
+    "id": "nishat-15451124203719",
+    "brandId": "nishat",
+    "brandName": "Nishat Linen",
+    "title": "Green Cape Shawl-1721282104",
+    "handle": "ys-az-az-14-w26-green",
+    "originalPrice": 9437,
+    "salePrice": 6990,
+    "discountPct": 26,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0534/2065/4791/files/001721282104-_1.jpg?v=1793277031",
+    "category": "pret",
+    "fabric": "Premium Cotton",
+    "productUrl": "https://nishatlinen.com/products/ys-az-az-14-w26-green",
+    "isLowestPrice": false,
+    "onSale": true,
+    "firstSeenAt": "2026-11-09T23:00:47.889Z",
+    "lastSeenAt": "2026-11-10T23:00:47.889Z",
+    "priceHistory": [
+      {
+        "date": "2026-10-15",
+        "price": 9437,
+        "salePrice": 9437
+      },
+      {
+        "date": "2026-11-01",
+        "price": 9437,
+        "salePrice": 6990
+      }
+    ]
+  },
+  {
+    "id": "nishat-15451124170951",
+    "brandId": "nishat",
+    "brandName": "Nishat Linen",
+    "title": "Burgundy Cape Shawl-1721282122",
+    "handle": "ys-az-az-14-w26-burgundy",
+    "originalPrice": 9437,
+    "salePrice": 6990,
+    "discountPct": 26,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0534/2065/4791/files/001721282122-_1.jpg?v=1793277374",
+    "category": "pret",
+    "fabric": "Premium Cotton",
+    "productUrl": "https://nishatlinen.com/products/ys-az-az-14-w26-burgundy",
+    "isLowestPrice": false,
+    "onSale": true,
+    "firstSeenAt": "2026-11-02T23:00:47.889Z",
+    "lastSeenAt": "2026-11-10T23:00:47.889Z",
+    "priceHistory": [
+      {
+        "date": "2026-10-15",
+        "price": 9437,
+        "salePrice": 9437
+      },
+      {
+        "date": "2026-11-01",
+        "price": 9437,
+        "salePrice": 6990
+      }
+    ]
+  },
+  {
+    "id": "nishat-15451124072647",
+    "brandId": "nishat",
+    "brandName": "Nishat Linen",
+    "title": "Black Cape Shawl-1721272103",
+    "handle": "ys-az-az-12-w26-black",
+    "originalPrice": 9437,
+    "salePrice": 6990,
+    "discountPct": 26,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0534/2065/4791/files/001721272103-_4.jpg?v=1793276670",
+    "category": "pret",
+    "fabric": "Premium Cotton",
+    "productUrl": "https://nishatlinen.com/products/ys-az-az-12-w26-black",
+    "isLowestPrice": false,
+    "onSale": true,
+    "firstSeenAt": "2026-11-06T23:00:47.889Z",
+    "lastSeenAt": "2026-11-10T23:00:47.889Z",
+    "priceHistory": [
+      {
+        "date": "2026-10-15",
+        "price": 9437,
+        "salePrice": 9437
+      },
+      {
+        "date": "2026-11-01",
+        "price": 9437,
+        "salePrice": 6990
+      }
+    ]
+  },
+  {
+    "id": "nishat-15451124039879",
+    "brandId": "nishat",
+    "brandName": "Nishat Linen",
+    "title": "Beige Cape Shawl-1721272118",
+    "handle": "ys-az-az-12-w26-beige",
+    "originalPrice": 9437,
+    "salePrice": 6990,
+    "discountPct": 26,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0534/2065/4791/files/001721272118-_4.jpg?v=1793276930",
+    "category": "pret",
+    "fabric": "Premium Cotton",
+    "productUrl": "https://nishatlinen.com/products/ys-az-az-12-w26-beige",
+    "isLowestPrice": false,
+    "onSale": true,
+    "firstSeenAt": "2026-11-02T23:00:47.889Z",
+    "lastSeenAt": "2026-11-10T23:00:47.889Z",
+    "priceHistory": [
+      {
+        "date": "2026-10-15",
+        "price": 9437,
+        "salePrice": 9437
+      },
+      {
+        "date": "2026-11-01",
+        "price": 9437,
+        "salePrice": 6990
+      }
+    ]
+  },
+  {
+    "id": "sapphire-2PCSTCSV9116_999",
+    "brandId": "sapphire",
+    "brandName": "Sapphire",
+    "title": "2 Piece - Printed Cotton Viscose Set",
+    "handle": "2PCSTCSV9116_999",
+    "originalPrice": 9437,
+    "salePrice": 6990,
+    "discountPct": 26,
+    "imageUrl": "https://pk.sapphireonline.pk/dw/image/v2/BKSB_PRD/on/demandware.static/-/Sites-sapphire-master-catalog/default/dw35e40c89/images/Nov26/RTW9Nov/2PCSTCSV9116_999_2.JPG?sw=1000&sh=1200",
+    "category": "pret",
+    "fabric": "Cotton Viscose",
+    "pieceCount": "2 Piece",
+    "productUrl": "https://pk.sapphireonline.pk/collections/ready-to-wear/products/2PCSTCSV9116_999.html",
+    "isLowestPrice": false,
+    "onSale": true,
+    "firstSeenAt": "2026-11-07T23:00:48.673Z",
+    "lastSeenAt": "2026-11-10T23:00:48.673Z",
+    "priceHistory": [
+      {
+        "date": "2026-10-15",
+        "price": 9437,
+        "salePrice": 9437
+      },
+      {
+        "date": "2026-11-01",
+        "price": 9437,
+        "salePrice": 6990
+      }
+    ]
+  },
+  {
+    "id": "sapphire-2PCSTCSV9156_999",
+    "brandId": "sapphire",
+    "brandName": "Sapphire",
+    "title": "2 Piece - Embroidered Khaddar Suit",
+    "handle": "2PCSTCSV9156_999",
+    "originalPrice": 12137,
+    "salePrice": 8990,
+    "discountPct": 26,
+    "imageUrl": "https://pk.sapphireonline.pk/dw/image/v2/BKSB_PRD/on/demandware.static/-/Sites-sapphire-master-catalog/default/dwebea3c6a/images/Nov26/RTW9Nov/2PCSTCSV9156_999_2.JPG?sw=1000&sh=1200",
+    "category": "festive",
+    "fabric": "Khaddar",
+    "pieceCount": "2 Piece",
+    "productUrl": "https://pk.sapphireonline.pk/collections/ready-to-wear/products/2PCSTCSV9156_999.html",
+    "isLowestPrice": false,
+    "onSale": true,
+    "firstSeenAt": "2026-11-06T23:00:48.673Z",
+    "lastSeenAt": "2026-11-10T23:00:48.673Z",
+    "priceHistory": [
+      {
+        "date": "2026-10-15",
+        "price": 12137,
+        "salePrice": 12137
+      },
+      {
+        "date": "2026-11-01",
+        "price": 12137,
+        "salePrice": 8990
+      }
+    ]
+  },
+  {
+    "id": "sapphire-3PCCRSV9143S_999",
+    "brandId": "sapphire",
+    "brandName": "Sapphire",
+    "title": "Printed Khaddar Shirt",
+    "handle": "3PCCRSV9143S_999",
+    "originalPrice": 5387,
+    "salePrice": 3990,
+    "discountPct": 26,
+    "imageUrl": "https://pk.sapphireonline.pk/dw/image/v2/BKSB_PRD/on/demandware.static/-/Sites-sapphire-master-catalog/default/dw88f9a006/images/Nov26/RTW9Nov/3PCCRSV9143S_999_2.JPG?sw=1000&sh=1200",
+    "category": "western",
+    "fabric": "Khaddar",
+    "pieceCount": "1 Piece",
+    "productUrl": "https://pk.sapphireonline.pk/collections/ready-to-wear/products/3PCCRSV9143S_999.html",
+    "isLowestPrice": false,
+    "onSale": true,
+    "firstSeenAt": "2026-11-03T23:00:48.673Z",
+    "lastSeenAt": "2026-11-10T23:00:48.673Z",
+    "priceHistory": [
+      {
+        "date": "2026-10-15",
+        "price": 5387,
+        "salePrice": 5387
+      },
+      {
+        "date": "2026-11-01",
+        "price": 5387,
+        "salePrice": 3990
+      }
+    ]
+  },
+  {
+    "id": "sapphire-3PCCRSV9142S_999",
+    "brandId": "sapphire",
+    "brandName": "Sapphire",
+    "title": "Printed Khaddar Shirt",
+    "handle": "3PCCRSV9142S_999",
+    "originalPrice": 6197,
+    "salePrice": 4590,
+    "discountPct": 26,
+    "imageUrl": "https://pk.sapphireonline.pk/dw/image/v2/BKSB_PRD/on/demandware.static/-/Sites-sapphire-master-catalog/default/dw423979c4/images/Nov26/RTW9Nov/3PCCRSV9142S_999_2.JPG?sw=1000&sh=1200",
+    "category": "western",
+    "fabric": "Khaddar",
+    "pieceCount": "1 Piece",
+    "productUrl": "https://pk.sapphireonline.pk/collections/ready-to-wear/products/3PCCRSV9142S_999.html",
+    "isLowestPrice": false,
+    "onSale": true,
+    "firstSeenAt": "2026-11-05T23:00:48.673Z",
+    "lastSeenAt": "2026-11-10T23:00:48.673Z",
+    "priceHistory": [
+      {
+        "date": "2026-10-15",
+        "price": 6197,
+        "salePrice": 6197
+      },
+      {
+        "date": "2026-11-01",
+        "price": 6197,
+        "salePrice": 4590
+      }
+    ]
+  },
+  {
+    "id": "sapphire-3PCCRSV9142T_999",
+    "brandId": "sapphire",
+    "brandName": "Sapphire",
+    "title": "Printed Khaddar Flared Pants",
+    "handle": "3PCCRSV9142T_999",
+    "originalPrice": 5387,
+    "salePrice": 3990,
+    "discountPct": 26,
+    "imageUrl": "https://pk.sapphireonline.pk/dw/image/v2/BKSB_PRD/on/demandware.static/-/Sites-sapphire-master-catalog/default/dw9dafcf49/images/Nov26/RTW9Nov/3PCCRSV9142T_999_2.JPG?sw=1000&sh=1200",
+    "category": "pret",
+    "fabric": "Khaddar",
+    "productUrl": "https://pk.sapphireonline.pk/collections/ready-to-wear/products/3PCCRSV9142T_999.html",
+    "isLowestPrice": false,
+    "onSale": true,
+    "firstSeenAt": "2026-11-04T23:00:48.673Z",
+    "lastSeenAt": "2026-11-10T23:00:48.673Z",
+    "priceHistory": [
+      {
+        "date": "2026-10-15",
+        "price": 5387,
+        "salePrice": 5387
+      },
+      {
+        "date": "2026-11-01",
+        "price": 5387,
+        "salePrice": 3990
+      }
+    ]
+  },
+  {
+    "id": "sapphire-3PCCRSV9138S_999",
+    "brandId": "sapphire",
+    "brandName": "Sapphire",
+    "title": "Printed Khaddar Shirt",
+    "handle": "3PCCRSV9138S_999",
+    "originalPrice": 6737,
+    "salePrice": 4990,
+    "discountPct": 26,
+    "imageUrl": "https://pk.sapphireonline.pk/dw/image/v2/BKSB_PRD/on/demandware.static/-/Sites-sapphire-master-catalog/default/dw715ef295/images/Nov26/RTW9Nov/3PCCRSV9138S_999_2.JPG?sw=1000&sh=1200",
+    "category": "western",
+    "fabric": "Khaddar",
+    "pieceCount": "1 Piece",
+    "productUrl": "https://pk.sapphireonline.pk/collections/ready-to-wear/products/3PCCRSV9138S_999.html",
+    "isLowestPrice": false,
+    "onSale": true,
+    "firstSeenAt": "2026-11-07T23:00:48.673Z",
+    "lastSeenAt": "2026-11-10T23:00:48.673Z",
+    "priceHistory": [
+      {
+        "date": "2026-10-15",
+        "price": 6737,
+        "salePrice": 6737
+      },
+      {
+        "date": "2026-11-01",
+        "price": 6737,
+        "salePrice": 4990
+      }
+    ]
+  },
+  {
+    "id": "sapphire-3PCCRSV9138T_999",
+    "brandId": "sapphire",
+    "brandName": "Sapphire",
+    "title": "Printed Khaddar Culottes",
+    "handle": "3PCCRSV9138T_999",
+    "originalPrice": 3497,
+    "salePrice": 2590,
+    "discountPct": 26,
+    "imageUrl": "https://pk.sapphireonline.pk/dw/image/v2/BKSB_PRD/on/demandware.static/-/Sites-sapphire-master-catalog/default/dw2c2207e1/images/Nov26/RTW9Nov/3PCCRSV9138T_999_2.JPG?sw=1000&sh=1200",
+    "category": "pret",
+    "fabric": "Khaddar",
+    "productUrl": "https://pk.sapphireonline.pk/collections/ready-to-wear/products/3PCCRSV9138T_999.html",
+    "isLowestPrice": false,
+    "onSale": true,
+    "firstSeenAt": "2026-11-05T23:00:48.673Z",
+    "lastSeenAt": "2026-11-10T23:00:48.673Z",
+    "priceHistory": [
+      {
+        "date": "2026-10-15",
+        "price": 3497,
+        "salePrice": 3497
+      },
+      {
+        "date": "2026-11-01",
+        "price": 3497,
+        "salePrice": 2590
+      }
+    ]
+  },
+  {
+    "id": "sapphire-3PCFC6ASV931_999",
+    "brandId": "sapphire",
+    "brandName": "Sapphire",
+    "title": "3 Piece - Embroidered Silk Suit",
+    "handle": "3PCFC6ASV931_999",
+    "originalPrice": 31037,
+    "salePrice": 22990,
+    "discountPct": 26,
+    "imageUrl": "https://pk.sapphireonline.pk/dw/image/v2/BKSB_PRD/on/demandware.static/-/Sites-sapphire-master-catalog/default/dwb39b6544/images/Nov26/RTW9Nov/3PCFC6ASV931_999_2.jpg?sw=1000&sh=1200",
+    "category": "festive",
+    "fabric": "Silk",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://pk.sapphireonline.pk/collections/ready-to-wear/products/3PCFC6ASV931_999.html",
+    "isLowestPrice": false,
+    "onSale": true,
+    "firstSeenAt": "2026-11-09T23:00:48.673Z",
+    "lastSeenAt": "2026-11-10T23:00:48.673Z",
+    "priceHistory": [
+      {
+        "date": "2026-10-15",
+        "price": 31037,
+        "salePrice": 31037
+      },
+      {
+        "date": "2026-11-01",
+        "price": 31037,
+        "salePrice": 22990
+      }
+    ]
+  },
+  {
+    "id": "sapphire-3PCFC6CA0260_999",
+    "brandId": "sapphire",
+    "brandName": "Sapphire",
+    "title": "3 Piece - Embroidered Silk Suit",
+    "handle": "3PCFC6CA0260_999",
+    "originalPrice": 31037,
+    "salePrice": 22990,
+    "discountPct": 26,
+    "imageUrl": "https://pk.sapphireonline.pk/dw/image/v2/BKSB_PRD/on/demandware.static/-/Sites-sapphire-master-catalog/default/dw2ba6ed53/images/Nov26/RTW9Nov/3PCFC6CA0260_999_2.jpg?sw=1000&sh=1200",
+    "category": "festive",
+    "fabric": "Silk",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://pk.sapphireonline.pk/collections/ready-to-wear/products/3PCFC6CA0260_999.html",
+    "isLowestPrice": false,
+    "onSale": true,
+    "firstSeenAt": "2026-11-08T23:00:48.673Z",
+    "lastSeenAt": "2026-11-10T23:00:48.673Z",
+    "priceHistory": [
+      {
+        "date": "2026-10-15",
+        "price": 31037,
+        "salePrice": 31037
+      },
+      {
+        "date": "2026-11-01",
+        "price": 31037,
+        "salePrice": 22990
+      }
+    ]
+  },
+  {
+    "id": "sapphire-3PCCRCAS1060_999",
+    "brandId": "sapphire",
+    "brandName": "Sapphire",
+    "title": "2 Piece - Printed Satin Suit",
+    "handle": "3PCCRCAS1060_999",
+    "originalPrice": 17537,
+    "salePrice": 12990,
+    "discountPct": 26,
+    "imageUrl": "https://pk.sapphireonline.pk/dw/image/v2/BKSB_PRD/on/demandware.static/-/Sites-sapphire-master-catalog/default/dw173a4517/images/Nov26/RTW9Nov/3PCCRCAS1060_999_2.jpg?sw=1000&sh=1200",
+    "category": "pret",
+    "fabric": "Cambric Cotton",
+    "pieceCount": "2 Piece",
+    "productUrl": "https://pk.sapphireonline.pk/collections/ready-to-wear/products/3PCCRCAS1060_999.html",
+    "isLowestPrice": false,
+    "onSale": true,
+    "firstSeenAt": "2026-11-08T23:00:48.673Z",
+    "lastSeenAt": "2026-11-10T23:00:48.673Z",
+    "priceHistory": [
+      {
+        "date": "2026-10-15",
+        "price": 17537,
+        "salePrice": 17537
+      },
+      {
+        "date": "2026-11-01",
+        "price": 17537,
+        "salePrice": 12990
+      }
+    ]
+  },
+  {
+    "id": "sapphire-2PCSTFMG0510_999",
+    "brandId": "sapphire",
+    "brandName": "Sapphire",
+    "title": "2 Piece - Embroidered Velvet Suit",
+    "handle": "2PCSTFMG0510_999",
+    "originalPrice": 31037,
+    "salePrice": 22990,
+    "discountPct": 26,
+    "imageUrl": "https://pk.sapphireonline.pk/dw/image/v2/BKSB_PRD/on/demandware.static/-/Sites-sapphire-master-catalog/default/dwc3e568fa/images/Nov26/RTW9Nov/2PCSTFMG0510_999_2.jpg?sw=1000&sh=1200",
+    "category": "festive",
+    "fabric": "Cambric Cotton",
+    "pieceCount": "2 Piece",
+    "productUrl": "https://pk.sapphireonline.pk/collections/ready-to-wear/products/2PCSTFMG0510_999.html",
+    "isLowestPrice": false,
+    "onSale": true,
+    "firstSeenAt": "2026-11-09T23:00:48.673Z",
+    "lastSeenAt": "2026-11-10T23:00:48.673Z",
+    "priceHistory": [
+      {
+        "date": "2026-10-15",
+        "price": 31037,
+        "salePrice": 31037
+      },
+      {
+        "date": "2026-11-01",
+        "price": 31037,
+        "salePrice": 22990
+      }
+    ]
+  },
+  {
+    "id": "sapphire-3PCCRCAS1120_999",
+    "brandId": "sapphire",
+    "brandName": "Sapphire",
+    "title": "2 Piece - Printed Satin Suit",
+    "handle": "3PCCRCAS1120_999",
+    "originalPrice": 20237,
+    "salePrice": 14990,
+    "discountPct": 26,
+    "imageUrl": "https://pk.sapphireonline.pk/dw/image/v2/BKSB_PRD/on/demandware.static/-/Sites-sapphire-master-catalog/default/dwf9ae757e/images/Nov26/RTW9Nov/3PCCRCAS1120_999_2.jpg?sw=1000&sh=1200",
+    "category": "pret",
+    "fabric": "Cambric Cotton",
+    "pieceCount": "2 Piece",
+    "productUrl": "https://pk.sapphireonline.pk/collections/ready-to-wear/products/3PCCRCAS1120_999.html",
+    "isLowestPrice": false,
+    "onSale": true,
+    "firstSeenAt": "2026-11-07T23:00:48.674Z",
+    "lastSeenAt": "2026-11-10T23:00:48.674Z",
+    "priceHistory": [
+      {
+        "date": "2026-10-15",
+        "price": 20237,
+        "salePrice": 20237
+      },
+      {
+        "date": "2026-11-01",
+        "price": 20237,
+        "salePrice": 14990
+      }
+    ]
+  },
+  {
+    "id": "sapphire-PEDYS26V1076",
+    "brandId": "sapphire",
+    "brandName": "Sapphire",
+    "title": "3 Piece - Embroidered Premium Khaddar Suit",
+    "handle": "PEDYS26V1076",
+    "originalPrice": 7547,
+    "salePrice": 5590,
+    "discountPct": 26,
+    "imageUrl": "https://pk.sapphireonline.pk/dw/image/v2/BKSB_PRD/on/demandware.static/-/Sites-sapphire-master-catalog/default/dw4454804a/images/Nov26/campaign/PEDYS26V1076_2.JPG?sw=1000&sh=1200",
+    "category": "festive",
+    "fabric": "Khaddar",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://pk.sapphireonline.pk/collections/unstitched/products/PEDYS26V1076.html",
+    "isLowestPrice": false,
+    "onSale": true,
+    "firstSeenAt": "2026-11-06T23:00:48.674Z",
+    "lastSeenAt": "2026-11-10T23:00:48.674Z",
+    "priceHistory": [
+      {
+        "date": "2026-10-15",
+        "price": 7547,
+        "salePrice": 7547
+      },
+      {
+        "date": "2026-11-01",
+        "price": 7547,
+        "salePrice": 5590
+      }
+    ]
+  },
+  {
+    "id": "sapphire-3PESTS26V105",
+    "brandId": "sapphire",
+    "brandName": "Sapphire",
+    "title": "3 Piece - Embroidered Premium Khaddar Suit",
+    "handle": "3PESTS26V105",
+    "originalPrice": 9437,
+    "salePrice": 6990,
+    "discountPct": 26,
+    "imageUrl": "https://pk.sapphireonline.pk/dw/image/v2/BKSB_PRD/on/demandware.static/-/Sites-sapphire-master-catalog/default/dw1330228d/images/Nov26/campaign/3PESTS26V105_2.JPG?sw=1000&sh=1200",
+    "category": "festive",
+    "fabric": "Khaddar",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://pk.sapphireonline.pk/collections/unstitched/products/3PESTS26V105.html",
+    "isLowestPrice": false,
+    "onSale": true,
+    "firstSeenAt": "2026-11-07T23:00:48.674Z",
+    "lastSeenAt": "2026-11-10T23:00:48.674Z",
+    "priceHistory": [
+      {
+        "date": "2026-10-15",
+        "price": 9437,
+        "salePrice": 9437
+      },
+      {
+        "date": "2026-11-01",
+        "price": 9437,
+        "salePrice": 6990
+      }
+    ]
+  },
+  {
+    "id": "sapphire-3PDYS26V1042",
+    "brandId": "sapphire",
+    "brandName": "Sapphire",
+    "title": "3 Piece - Printed Premium Khaddar Suit",
+    "handle": "3PDYS26V1042",
+    "originalPrice": 4982,
+    "salePrice": 3690,
+    "discountPct": 26,
+    "imageUrl": "https://pk.sapphireonline.pk/dw/image/v2/BKSB_PRD/on/demandware.static/-/Sites-sapphire-master-catalog/default/dwc52d37a5/images/Nov26/campaign/3PDYS26V1042_2.jpg?sw=1000&sh=1200",
+    "category": "pret",
+    "fabric": "Khaddar",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://pk.sapphireonline.pk/collections/unstitched/products/3PDYS26V1042.html",
+    "isLowestPrice": false,
+    "onSale": true,
+    "firstSeenAt": "2026-11-05T23:00:48.674Z",
+    "lastSeenAt": "2026-11-10T23:00:48.674Z",
+    "priceHistory": [
+      {
+        "date": "2026-10-15",
+        "price": 4982,
+        "salePrice": 4982
+      },
+      {
+        "date": "2026-11-01",
+        "price": 4982,
+        "salePrice": 3690
+      }
+    ]
+  },
+  {
+    "id": "sapphire-3PDYS26V1049",
+    "brandId": "sapphire",
+    "brandName": "Sapphire",
+    "title": "3 Piece - Printed Premium Khaddar Suit",
+    "handle": "3PDYS26V1049",
+    "originalPrice": 5792,
+    "salePrice": 4290,
+    "discountPct": 26,
+    "imageUrl": "https://pk.sapphireonline.pk/dw/image/v2/BKSB_PRD/on/demandware.static/-/Sites-sapphire-master-catalog/default/dwa772c82e/images/Nov26/campaign/3PDYS26V1049_2.JPG?sw=1000&sh=1200",
+    "category": "pret",
+    "fabric": "Khaddar",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://pk.sapphireonline.pk/collections/unstitched/products/3PDYS26V1049.html",
+    "isLowestPrice": false,
+    "onSale": true,
+    "firstSeenAt": "2026-11-02T23:00:48.674Z",
+    "lastSeenAt": "2026-11-10T23:00:48.674Z",
+    "priceHistory": [
+      {
+        "date": "2026-10-15",
+        "price": 5792,
+        "salePrice": 5792
+      },
+      {
+        "date": "2026-11-01",
+        "price": 5792,
+        "salePrice": 4290
+      }
+    ]
+  },
+  {
+    "id": "sapphire-3PESGS26V956",
+    "brandId": "sapphire",
+    "brandName": "Sapphire",
+    "title": "3 Piece - Embroidered Light Khaddar Suit",
+    "handle": "3PESGS26V956",
+    "originalPrice": 9437,
+    "salePrice": 6990,
+    "discountPct": 26,
+    "imageUrl": "https://pk.sapphireonline.pk/dw/image/v2/BKSB_PRD/on/demandware.static/-/Sites-sapphire-master-catalog/default/dwc06be5b5/images/Nov26/campaign/3PESGS26V956_2.JPG?sw=1000&sh=1200",
+    "category": "festive",
+    "fabric": "Khaddar",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://pk.sapphireonline.pk/collections/unstitched/products/3PESGS26V956.html",
+    "isLowestPrice": false,
+    "onSale": true,
+    "firstSeenAt": "2026-11-04T23:00:48.674Z",
+    "lastSeenAt": "2026-11-10T23:00:48.674Z",
+    "priceHistory": [
+      {
+        "date": "2026-10-15",
+        "price": 9437,
+        "salePrice": 9437
+      },
+      {
+        "date": "2026-11-01",
+        "price": 9437,
+        "salePrice": 6990
+      }
+    ]
+  },
+  {
+    "id": "sapphire-3PESTS26V101",
+    "brandId": "sapphire",
+    "brandName": "Sapphire",
+    "title": "3 Piece - Embroidered Premium Khaddar Suit",
+    "handle": "3PESTS26V101",
+    "originalPrice": 8897,
+    "salePrice": 6590,
+    "discountPct": 26,
+    "imageUrl": "https://pk.sapphireonline.pk/dw/image/v2/BKSB_PRD/on/demandware.static/-/Sites-sapphire-master-catalog/default/dwf909cbf2/images/Nov26/Unstitched9Nov/3PESTS26V101_2.JPG?sw=1000&sh=1200",
+    "category": "festive",
+    "fabric": "Khaddar",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://pk.sapphireonline.pk/collections/unstitched/products/3PESTS26V101.html",
+    "isLowestPrice": false,
+    "onSale": true,
+    "firstSeenAt": "2026-11-08T23:00:48.674Z",
+    "lastSeenAt": "2026-11-10T23:00:48.674Z",
+    "priceHistory": [
+      {
+        "date": "2026-10-15",
+        "price": 8897,
+        "salePrice": 8897
+      },
+      {
+        "date": "2026-11-01",
+        "price": 8897,
+        "salePrice": 6590
+      }
+    ]
+  },
+  {
+    "id": "sapphire-3PDYS26V1037",
+    "brandId": "sapphire",
+    "brandName": "Sapphire",
+    "title": "3 Piece - Printed Premium Khaddar Suit",
+    "handle": "3PDYS26V1037",
+    "originalPrice": 4982,
+    "salePrice": 3690,
+    "discountPct": 26,
+    "imageUrl": "https://pk.sapphireonline.pk/dw/image/v2/BKSB_PRD/on/demandware.static/-/Sites-sapphire-master-catalog/default/dwec35ad40/images/Nov26/Unstitched9Nov/3PDYS26V1037_2.JPG?sw=1000&sh=1200",
+    "category": "pret",
+    "fabric": "Khaddar",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://pk.sapphireonline.pk/collections/unstitched/products/3PDYS26V1037.html",
+    "isLowestPrice": false,
+    "onSale": true,
+    "firstSeenAt": "2026-11-04T23:00:48.674Z",
+    "lastSeenAt": "2026-11-10T23:00:48.674Z",
+    "priceHistory": [
+      {
+        "date": "2026-10-15",
+        "price": 4982,
+        "salePrice": 4982
+      },
+      {
+        "date": "2026-11-01",
+        "price": 4982,
+        "salePrice": 3690
+      }
+    ]
+  },
+  {
+    "id": "sapphire-3PESGS26V963",
+    "brandId": "sapphire",
+    "brandName": "Sapphire",
+    "title": "3 Piece - Embroidered Light Khaddar Suit",
+    "handle": "3PESGS26V963",
+    "originalPrice": 12137,
+    "salePrice": 8990,
+    "discountPct": 26,
+    "imageUrl": "https://pk.sapphireonline.pk/dw/image/v2/BKSB_PRD/on/demandware.static/-/Sites-sapphire-master-catalog/default/dw17edd6de/images/Nov26/Unstitched9Nov/3PESGS26V963_2.JPG?sw=1000&sh=1200",
+    "category": "festive",
+    "fabric": "Khaddar",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://pk.sapphireonline.pk/collections/unstitched/products/3PESGS26V963.html",
+    "isLowestPrice": false,
+    "onSale": true,
+    "firstSeenAt": "2026-11-05T23:00:48.674Z",
+    "lastSeenAt": "2026-11-10T23:00:48.674Z",
+    "priceHistory": [
+      {
+        "date": "2026-10-15",
+        "price": 12137,
+        "salePrice": 12137
+      },
+      {
+        "date": "2026-11-01",
+        "price": 12137,
+        "salePrice": 8990
       }
     ]
   }

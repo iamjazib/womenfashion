@@ -144,7 +144,7 @@ export const SaleCountdownSection: React.FC = () => {
                   Sale Officially Closes On: {formattedEndDate}
                 </h4>
                 <p className="text-xs text-neutral-400 mt-0.5">
-                  Verified across Gul Ahmed, Baroque, Asim Jofa, Limelight, Sana Safinaz, Junaid Jamshed, Alkaram Studio, and Zellbury.
+                  Verified across Gul Ahmed, Baroque, Asim Jofa, Limelight, Sana Safinaz, Junaid Jamshed, Alkaram Studio, Zellbury, Nishat Linen, and Sapphire.
                 </p>
               </div>
             </div>

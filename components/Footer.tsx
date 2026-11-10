@@ -33,6 +33,8 @@ export const Footer: React.FC = () => {
             <ul className="space-y-1.5">
               <li><span className="hover:text-white transition-colors cursor-pointer">Gul Ahmed 3-Piece Lawn</span></li>
               <li><span className="hover:text-white transition-colors cursor-pointer">Baroque Swiss Lawn Specials</span></li>
+              <li><span className="hover:text-white transition-colors cursor-pointer">Nishat Linen Embroidered Suits</span></li>
+              <li><span className="hover:text-white transition-colors cursor-pointer">Sapphire Unstitched Lawn</span></li>
               <li><span className="hover:text-white transition-colors cursor-pointer">Alkaram Heritage Unstitched</span></li>
               <li><span className="hover:text-white transition-colors cursor-pointer">Sana Safinaz Mahay Collection</span></li>
               <li><span className="hover:text-white transition-colors cursor-pointer">Zellbury Budget Lawn Suits</span></li>
@@ -45,6 +47,8 @@ export const Footer: React.FC = () => {
             </h4>
             <ul className="space-y-1.5">
               <li><span className="hover:text-white transition-colors cursor-pointer">Asim Jofa Wedding Chiffon</span></li>
+              <li><span className="hover:text-white transition-colors cursor-pointer">Sapphire Ready to Wear Pret</span></li>
+              <li><span className="hover:text-white transition-colors cursor-pointer">Nishat Linen Luxury Pret</span></li>
               <li><span className="hover:text-white transition-colors cursor-pointer">Limelight Embroidered Pret</span></li>
               <li><span className="hover:text-white transition-colors cursor-pointer">J. Lawn Printed Kurtas</span></li>
               <li><span className="hover:text-white transition-colors cursor-pointer">Baroque Chantelle Formals</span></li>
@@ -70,7 +74,7 @@ export const Footer: React.FC = () => {
               About Women Fashion
             </h4>
             <p className="text-[11px] leading-relaxed text-neutral-400">
-              Pakistan's dedicated sale radar for women's fashion. We track real-time price drops across the country's most beloved women's couture and lawn labels with zero fake markups.
+              Pakistan's dedicated sale radar for women's fashion. We track real-time price drops across 10 top women's couture and lawn labels (Gul Ahmed, Baroque, Asim Jofa, Nishat Linen, Sapphire, Limelight, Sana Safinaz, J., Alkaram Studio, and Zellbury) with zero fake markups.
             </p>
           </div>
         </div>
