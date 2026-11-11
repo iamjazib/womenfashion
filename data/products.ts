@@ -19,7 +19,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-10-01T15:57:07+05:00",
-    "lastSeenAt": "2026-11-11T03:41:03.666Z",
+    "lastSeenAt": "2026-11-11T13:10:06.184Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -55,7 +55,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-08-27T13:14:01+05:00",
-    "lastSeenAt": "2026-11-11T03:41:03.667Z",
+    "lastSeenAt": "2026-11-11T13:10:06.184Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -91,7 +91,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-02T17:08:50+05:00",
-    "lastSeenAt": "2026-11-11T03:41:03.667Z",
+    "lastSeenAt": "2026-11-11T13:10:06.185Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -127,7 +127,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-10-02T12:48:41+05:00",
-    "lastSeenAt": "2026-11-11T03:41:03.668Z",
+    "lastSeenAt": "2026-11-11T13:10:06.185Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -163,7 +163,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-09-20T18:05:05+05:00",
-    "lastSeenAt": "2026-11-11T03:41:03.668Z",
+    "lastSeenAt": "2026-11-11T13:10:06.185Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -199,7 +199,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-08-03T15:29:23+05:00",
-    "lastSeenAt": "2026-11-11T03:41:03.668Z",
+    "lastSeenAt": "2026-11-11T13:10:06.185Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -235,7 +235,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-10-18T12:33:09+05:00",
-    "lastSeenAt": "2026-11-11T03:41:03.668Z",
+    "lastSeenAt": "2026-11-11T13:10:06.185Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -271,7 +271,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-11-13T15:45:38+05:00",
-    "lastSeenAt": "2026-11-11T03:41:03.668Z",
+    "lastSeenAt": "2026-11-11T13:10:06.185Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -307,7 +307,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-10-06T20:50:29+05:00",
-    "lastSeenAt": "2026-11-11T03:41:03.668Z",
+    "lastSeenAt": "2026-11-11T13:10:06.186Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -343,7 +343,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-15T13:17:54+05:00",
-    "lastSeenAt": "2026-11-11T03:41:03.669Z",
+    "lastSeenAt": "2026-11-11T13:10:06.186Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -379,7 +379,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-15T13:17:56+05:00",
-    "lastSeenAt": "2026-11-11T03:41:03.669Z",
+    "lastSeenAt": "2026-11-11T13:10:06.186Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -415,7 +415,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-03-02T09:58:21+05:00",
-    "lastSeenAt": "2026-11-11T03:41:03.669Z",
+    "lastSeenAt": "2026-11-11T13:10:06.186Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -451,7 +451,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-03-02T09:58:14+05:00",
-    "lastSeenAt": "2026-11-11T03:41:03.669Z",
+    "lastSeenAt": "2026-11-11T13:10:06.186Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -487,7 +487,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-02T17:06:39+05:00",
-    "lastSeenAt": "2026-11-11T03:41:03.669Z",
+    "lastSeenAt": "2026-11-11T13:10:06.186Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -523,7 +523,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-30T12:52:44+05:00",
-    "lastSeenAt": "2026-11-11T03:41:03.669Z",
+    "lastSeenAt": "2026-11-11T13:10:06.186Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -559,7 +559,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-09-20T18:05:28+05:00",
-    "lastSeenAt": "2026-11-11T03:41:03.669Z",
+    "lastSeenAt": "2026-11-11T13:10:06.186Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -595,7 +595,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-09-20T18:05:50+05:00",
-    "lastSeenAt": "2026-11-11T03:41:03.670Z",
+    "lastSeenAt": "2026-11-11T13:10:06.187Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -631,7 +631,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-09-20T18:06:05+05:00",
-    "lastSeenAt": "2026-11-11T03:41:03.670Z",
+    "lastSeenAt": "2026-11-11T13:10:06.187Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -667,7 +667,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-09-20T18:06:53+05:00",
-    "lastSeenAt": "2026-11-11T03:41:03.670Z",
+    "lastSeenAt": "2026-11-11T13:10:06.187Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -703,7 +703,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-11-10T15:26:08+05:00",
-    "lastSeenAt": "2026-11-11T03:41:03.670Z",
+    "lastSeenAt": "2026-11-11T13:10:06.187Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -739,7 +739,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-12-04T13:01:22+05:00",
-    "lastSeenAt": "2026-11-11T03:41:03.670Z",
+    "lastSeenAt": "2026-11-11T13:10:06.187Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -775,7 +775,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-10-18T12:33:05+05:00",
-    "lastSeenAt": "2026-11-11T03:41:03.670Z",
+    "lastSeenAt": "2026-11-11T13:10:06.187Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -811,7 +811,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-11-13T15:45:17+05:00",
-    "lastSeenAt": "2026-11-11T03:41:03.670Z",
+    "lastSeenAt": "2026-11-11T13:10:06.187Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -827,42 +827,6 @@ export const INITIAL_PRODUCTS: Product[] = [
         "date": "Today",
         "price": 6490,
         "salePrice": 3894
-      }
-    ]
-  },
-  {
-    "id": "limelight-8871902543960",
-    "brandId": "limelight",
-    "brandName": "Limelight",
-    "title": "2 Piece Lawn Suit- Embroidered (Pret)",
-    "handle": "a6779st-xsl-002",
-    "originalPrice": 8499,
-    "salePrice": 5949,
-    "discountPct": 30,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/2635/3244/files/A6779ST-SML-002-2PieceLawnSuit-Embroidered_Pret_2.jpg?v=1784635241",
-    "category": "pret",
-    "fabric": "Premium Lawn",
-    "pieceCount": "2 Piece",
-    "productUrl": "https://www.limelight.pk/products/a6779st-xsl-002",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-07-21T15:58:09+05:00",
-    "lastSeenAt": "2026-11-11T03:41:07.367Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 8499,
-        "salePrice": 8499
-      },
-      {
-        "date": "Oct 24",
-        "price": 8499,
-        "salePrice": 7819
-      },
-      {
-        "date": "Today",
-        "price": 8499,
-        "salePrice": 5949
       }
     ]
   },
@@ -883,7 +847,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-21T15:57:51+05:00",
-    "lastSeenAt": "2026-11-11T03:41:07.367Z",
+    "lastSeenAt": "2026-11-11T13:10:10.061Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -919,7 +883,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-21T15:57:34+05:00",
-    "lastSeenAt": "2026-11-11T03:41:07.367Z",
+    "lastSeenAt": "2026-11-11T13:10:10.061Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -935,42 +899,6 @@ export const INITIAL_PRODUCTS: Product[] = [
         "date": "Today",
         "price": 5999,
         "salePrice": 4199
-      }
-    ]
-  },
-  {
-    "id": "limelight-8871901266008",
-    "brandId": "limelight",
-    "brandName": "Limelight",
-    "title": "2 Piece Lawn Suit- Embroidered (Pret)",
-    "handle": "a6038st-xsl-034",
-    "originalPrice": 6999,
-    "salePrice": 4899,
-    "discountPct": 30,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/2635/3244/files/A6038ST-SML-034-2PieceLawnSuit-Embroidered_Pret_5.jpg?v=1784631815",
-    "category": "pret",
-    "fabric": "Premium Lawn",
-    "pieceCount": "2 Piece",
-    "productUrl": "https://www.limelight.pk/products/a6038st-xsl-034",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-07-21T15:57:32+05:00",
-    "lastSeenAt": "2026-11-11T03:41:07.367Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 6999,
-        "salePrice": 6999
-      },
-      {
-        "date": "Oct 24",
-        "price": 6999,
-        "salePrice": 6439
-      },
-      {
-        "date": "Today",
-        "price": 6999,
-        "salePrice": 4899
       }
     ]
   },
@@ -991,7 +919,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-21T15:57:30+05:00",
-    "lastSeenAt": "2026-11-11T03:41:07.367Z",
+    "lastSeenAt": "2026-11-11T13:10:10.061Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1027,7 +955,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-21T15:57:28+05:00",
-    "lastSeenAt": "2026-11-11T03:41:07.367Z",
+    "lastSeenAt": "2026-11-11T13:10:10.062Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1063,7 +991,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-21T11:02:58+05:00",
-    "lastSeenAt": "2026-11-11T03:41:07.367Z",
+    "lastSeenAt": "2026-11-11T13:10:10.062Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1099,7 +1027,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-21T11:02:56+05:00",
-    "lastSeenAt": "2026-11-11T03:41:07.367Z",
+    "lastSeenAt": "2026-11-11T13:10:10.062Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1135,7 +1063,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-06T17:16:59+05:00",
-    "lastSeenAt": "2026-11-11T03:41:07.367Z",
+    "lastSeenAt": "2026-11-11T13:10:10.062Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1171,7 +1099,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-06T17:16:58+05:00",
-    "lastSeenAt": "2026-11-11T03:41:07.367Z",
+    "lastSeenAt": "2026-11-11T13:10:10.062Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1207,7 +1135,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-06T17:16:54+05:00",
-    "lastSeenAt": "2026-11-11T03:41:07.367Z",
+    "lastSeenAt": "2026-11-11T13:10:10.062Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1243,7 +1171,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-02T15:21:11+05:00",
-    "lastSeenAt": "2026-11-11T03:41:07.367Z",
+    "lastSeenAt": "2026-11-11T13:10:10.062Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1279,7 +1207,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-02T15:21:06+05:00",
-    "lastSeenAt": "2026-11-11T03:41:07.367Z",
+    "lastSeenAt": "2026-11-11T13:10:10.062Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1315,7 +1243,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-02T15:21:05+05:00",
-    "lastSeenAt": "2026-11-11T03:41:07.367Z",
+    "lastSeenAt": "2026-11-11T13:10:10.062Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1351,7 +1279,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-02T15:21:03+05:00",
-    "lastSeenAt": "2026-11-11T03:41:07.368Z",
+    "lastSeenAt": "2026-11-11T13:10:10.062Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1387,7 +1315,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-02T15:21:01+05:00",
-    "lastSeenAt": "2026-11-11T03:41:07.368Z",
+    "lastSeenAt": "2026-11-11T13:10:10.062Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1423,7 +1351,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-02T15:20:59+05:00",
-    "lastSeenAt": "2026-11-11T03:41:07.368Z",
+    "lastSeenAt": "2026-11-11T13:10:10.062Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1459,7 +1387,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-30T15:09:08+05:00",
-    "lastSeenAt": "2026-11-11T03:41:07.368Z",
+    "lastSeenAt": "2026-11-11T13:10:10.062Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1495,7 +1423,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-30T15:09:06+05:00",
-    "lastSeenAt": "2026-11-11T03:41:07.368Z",
+    "lastSeenAt": "2026-11-11T13:10:10.062Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1531,7 +1459,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-30T15:08:54+05:00",
-    "lastSeenAt": "2026-11-11T03:41:07.368Z",
+    "lastSeenAt": "2026-11-11T13:10:10.062Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1567,7 +1495,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-30T15:08:52+05:00",
-    "lastSeenAt": "2026-11-11T03:41:07.368Z",
+    "lastSeenAt": "2026-11-11T13:10:10.062Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1603,7 +1531,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-30T15:08:51+05:00",
-    "lastSeenAt": "2026-11-11T03:41:07.368Z",
+    "lastSeenAt": "2026-11-11T13:10:10.062Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1639,7 +1567,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-30T15:08:49+05:00",
-    "lastSeenAt": "2026-11-11T03:41:07.368Z",
+    "lastSeenAt": "2026-11-11T13:10:10.062Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1675,7 +1603,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-30T15:08:46+05:00",
-    "lastSeenAt": "2026-11-11T03:41:07.368Z",
+    "lastSeenAt": "2026-11-11T13:10:10.062Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1711,7 +1639,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-30T15:08:39+05:00",
-    "lastSeenAt": "2026-11-11T03:41:07.368Z",
+    "lastSeenAt": "2026-11-11T13:10:10.062Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1747,7 +1675,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-30T15:08:37+05:00",
-    "lastSeenAt": "2026-11-11T03:41:07.368Z",
+    "lastSeenAt": "2026-11-11T13:10:10.062Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1783,7 +1711,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-30T15:08:36+05:00",
-    "lastSeenAt": "2026-11-11T03:41:07.368Z",
+    "lastSeenAt": "2026-11-11T13:10:10.062Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1819,7 +1747,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-30T15:08:34+05:00",
-    "lastSeenAt": "2026-11-11T03:41:07.368Z",
+    "lastSeenAt": "2026-11-11T13:10:10.062Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1855,7 +1783,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-30T15:08:26+05:00",
-    "lastSeenAt": "2026-11-11T03:41:07.368Z",
+    "lastSeenAt": "2026-11-11T13:10:10.062Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1891,7 +1819,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-30T15:08:24+05:00",
-    "lastSeenAt": "2026-11-11T03:41:07.368Z",
+    "lastSeenAt": "2026-11-11T13:10:10.062Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1907,6 +1835,78 @@ export const INITIAL_PRODUCTS: Product[] = [
         "date": "Today",
         "price": 3899,
         "salePrice": 2729
+      }
+    ]
+  },
+  {
+    "id": "limelight-8831910903896",
+    "brandId": "limelight",
+    "brandName": "Limelight",
+    "title": "2 Piece Lawn Slub Suit- Embroidered (Pret)",
+    "handle": "a5976st-xsl-014",
+    "originalPrice": 7899,
+    "salePrice": 5529,
+    "discountPct": 30,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/2635/3244/files/A5976ST-SML-014-2PieceLawnSlubSuit-Embroidered_Pret_5.jpg?v=1782726287",
+    "category": "pret",
+    "fabric": "Premium Lawn",
+    "pieceCount": "2 Piece",
+    "productUrl": "https://www.limelight.pk/products/a5976st-xsl-014",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-06-29T14:19:14+05:00",
+    "lastSeenAt": "2026-11-11T13:10:10.062Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 7899,
+        "salePrice": 7899
+      },
+      {
+        "date": "Oct 24",
+        "price": 7899,
+        "salePrice": 7267
+      },
+      {
+        "date": "Today",
+        "price": 7899,
+        "salePrice": 5529
+      }
+    ]
+  },
+  {
+    "id": "limelight-8823164600408",
+    "brandId": "limelight",
+    "brandName": "Limelight",
+    "title": "Lawn Shirt (Pret)",
+    "handle": "a5287sh-xsl-034",
+    "originalPrice": 4299,
+    "salePrice": 2999,
+    "discountPct": 30,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/2635/3244/files/A5287SH-SML-034-LawnShirt_Pret_3.jpg?v=1782297471",
+    "category": "pret",
+    "fabric": "Premium Lawn",
+    "pieceCount": "1 Piece",
+    "productUrl": "https://www.limelight.pk/products/a5287sh-xsl-034",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-06-24T14:59:08+05:00",
+    "lastSeenAt": "2026-11-11T13:10:10.062Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 4299,
+        "salePrice": 4299
+      },
+      {
+        "date": "Oct 24",
+        "price": 4299,
+        "salePrice": 3955
+      },
+      {
+        "date": "Today",
+        "price": 4299,
+        "salePrice": 2999
       }
     ]
   },
@@ -1927,7 +1927,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-02T16:35:37+05:00",
-    "lastSeenAt": "2026-11-11T03:41:11.083Z",
+    "lastSeenAt": "2026-11-11T13:10:13.891Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1963,7 +1963,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-04-25T13:06:37+05:00",
-    "lastSeenAt": "2026-11-11T03:41:11.083Z",
+    "lastSeenAt": "2026-11-11T13:10:13.891Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1999,7 +1999,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-09T11:48:18+05:00",
-    "lastSeenAt": "2026-11-11T03:41:11.083Z",
+    "lastSeenAt": "2026-11-11T13:10:13.891Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2035,7 +2035,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-02T11:36:02+05:00",
-    "lastSeenAt": "2026-11-11T03:41:11.083Z",
+    "lastSeenAt": "2026-11-11T13:10:13.891Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2071,7 +2071,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-16T16:03:20+05:00",
-    "lastSeenAt": "2026-11-11T03:41:11.083Z",
+    "lastSeenAt": "2026-11-11T13:10:13.891Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2107,7 +2107,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-02T11:26:32+05:00",
-    "lastSeenAt": "2026-11-11T03:41:11.083Z",
+    "lastSeenAt": "2026-11-11T13:10:13.891Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2143,7 +2143,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-02T16:37:41+05:00",
-    "lastSeenAt": "2026-11-11T03:41:11.083Z",
+    "lastSeenAt": "2026-11-11T13:10:13.891Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2179,7 +2179,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-20T16:29:35+05:00",
-    "lastSeenAt": "2026-11-11T03:41:11.083Z",
+    "lastSeenAt": "2026-11-11T13:10:13.891Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2215,7 +2215,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-03T15:37:48+05:00",
-    "lastSeenAt": "2026-11-11T03:41:11.083Z",
+    "lastSeenAt": "2026-11-11T13:10:13.891Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2251,7 +2251,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-20T16:25:51+05:00",
-    "lastSeenAt": "2026-11-11T03:41:11.084Z",
+    "lastSeenAt": "2026-11-11T13:10:13.891Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2287,7 +2287,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-02-06T18:16:39+05:00",
-    "lastSeenAt": "2026-11-11T03:41:11.084Z",
+    "lastSeenAt": "2026-11-11T13:10:13.891Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2323,7 +2323,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-20T16:30:27+05:00",
-    "lastSeenAt": "2026-11-11T03:41:11.084Z",
+    "lastSeenAt": "2026-11-11T13:10:13.891Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2359,7 +2359,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-05-26T13:26:40+05:00",
-    "lastSeenAt": "2026-11-11T03:41:11.084Z",
+    "lastSeenAt": "2026-11-11T13:10:13.891Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2395,7 +2395,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-07T16:06:45+05:00",
-    "lastSeenAt": "2026-11-11T03:41:11.084Z",
+    "lastSeenAt": "2026-11-11T13:10:13.891Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2431,7 +2431,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-02T16:36:47+05:00",
-    "lastSeenAt": "2026-11-11T03:41:11.084Z",
+    "lastSeenAt": "2026-11-11T13:10:13.891Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2467,7 +2467,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-03-06T12:18:17+05:00",
-    "lastSeenAt": "2026-11-11T03:41:11.084Z",
+    "lastSeenAt": "2026-11-11T13:10:13.891Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2503,7 +2503,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-03T15:38:42+05:00",
-    "lastSeenAt": "2026-11-11T03:41:11.084Z",
+    "lastSeenAt": "2026-11-11T13:10:13.891Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2539,7 +2539,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-03-06T12:15:23+05:00",
-    "lastSeenAt": "2026-11-11T03:41:11.084Z",
+    "lastSeenAt": "2026-11-11T13:10:13.891Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2575,7 +2575,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2024-02-15T14:33:40+05:00",
-    "lastSeenAt": "2026-11-11T03:41:11.084Z",
+    "lastSeenAt": "2026-11-11T13:10:13.891Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2611,7 +2611,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-11T14:39:51+05:00",
-    "lastSeenAt": "2026-11-11T03:41:11.084Z",
+    "lastSeenAt": "2026-11-11T13:10:13.891Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2647,7 +2647,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-02T16:44:03+05:00",
-    "lastSeenAt": "2026-11-11T03:41:11.084Z",
+    "lastSeenAt": "2026-11-11T13:10:13.891Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2683,7 +2683,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-04-25T13:04:09+05:00",
-    "lastSeenAt": "2026-11-11T03:41:11.084Z",
+    "lastSeenAt": "2026-11-11T13:10:13.891Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2719,7 +2719,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2023-08-03T10:57:59+05:00",
-    "lastSeenAt": "2026-11-11T03:41:11.084Z",
+    "lastSeenAt": "2026-11-11T13:10:13.891Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2755,7 +2755,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-04-25T13:03:04+05:00",
-    "lastSeenAt": "2026-11-11T03:41:11.084Z",
+    "lastSeenAt": "2026-11-11T13:10:13.891Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2791,7 +2791,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-02-04T13:28:43+05:00",
-    "lastSeenAt": "2026-11-11T03:41:11.084Z",
+    "lastSeenAt": "2026-11-11T13:10:13.891Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2827,7 +2827,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-02-04T13:27:43+05:00",
-    "lastSeenAt": "2026-11-11T03:41:11.084Z",
+    "lastSeenAt": "2026-11-11T13:10:13.891Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2863,7 +2863,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-02-04T13:24:39+05:00",
-    "lastSeenAt": "2026-11-11T03:41:11.084Z",
+    "lastSeenAt": "2026-11-11T13:10:13.891Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2899,7 +2899,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-04-09T17:17:15+05:00",
-    "lastSeenAt": "2026-11-11T03:41:11.084Z",
+    "lastSeenAt": "2026-11-11T13:10:13.891Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2935,7 +2935,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-07-22T15:58:15+05:00",
-    "lastSeenAt": "2026-11-11T03:41:11.084Z",
+    "lastSeenAt": "2026-11-11T13:10:13.892Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2971,7 +2971,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-04-09T17:13:15+05:00",
-    "lastSeenAt": "2026-11-11T03:41:11.084Z",
+    "lastSeenAt": "2026-11-11T13:10:13.892Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2987,42 +2987,6 @@ export const INITIAL_PRODUCTS: Product[] = [
         "date": "Today",
         "price": 9950,
         "salePrice": 4975
-      }
-    ]
-  },
-  {
-    "id": "asimjofa-10321035100457",
-    "brandId": "asimjofa",
-    "brandName": "Asim Jofa",
-    "title": "AJUC-10 Printed Organza Unstitched 2 Pcs",
-    "handle": "ajuc-10-printed-organza-unstitched-2-pcs",
-    "originalPrice": 11800,
-    "salePrice": 7080,
-    "discountPct": 40,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/052A8951.jpg?v=1790255147",
-    "category": "unstitched",
-    "fabric": "Boski Silk",
-    "pieceCount": "2 Piece",
-    "productUrl": "https://asimjofa.com/products/ajuc-10-printed-organza-unstitched-2-pcs",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-09-24T18:05:02+05:00",
-    "lastSeenAt": "2026-11-11T03:41:14.827Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 11800,
-        "salePrice": 11800
-      },
-      {
-        "date": "Oct 24",
-        "price": 11800,
-        "salePrice": 10856
-      },
-      {
-        "date": "Today",
-        "price": 11800,
-        "salePrice": 7080
       }
     ]
   },
@@ -3043,7 +3007,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-11T20:08:00+05:00",
-    "lastSeenAt": "2026-11-11T03:41:14.827Z",
+    "lastSeenAt": "2026-11-11T13:10:17.711Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3079,7 +3043,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-11T20:25:34+05:00",
-    "lastSeenAt": "2026-11-11T03:41:14.827Z",
+    "lastSeenAt": "2026-11-11T13:10:17.711Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3095,42 +3059,6 @@ export const INITIAL_PRODUCTS: Product[] = [
         "date": "Today",
         "price": 7499,
         "salePrice": 4499
-      }
-    ]
-  },
-  {
-    "id": "asimjofa-15415717462313",
-    "brandId": "asimjofa",
-    "brandName": "Asim Jofa",
-    "title": "AJUMV-09 Embroidered Velvet Unstitched 3 Pcs",
-    "handle": "ajumv-09-embroidered-velvet-unstitched-3-pcs",
-    "originalPrice": 22274,
-    "salePrice": 16499,
-    "discountPct": 26,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/IMG_5761.jpg?v=1792758165",
-    "category": "unstitched",
-    "fabric": "Boski Silk",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://asimjofa.com/products/ajumv-09-embroidered-velvet-unstitched-3-pcs",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-10-23T17:20:55+05:00",
-    "lastSeenAt": "2026-11-11T03:41:14.827Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 22274,
-        "salePrice": 22274
-      },
-      {
-        "date": "Oct 24",
-        "price": 22274,
-        "salePrice": 20492
-      },
-      {
-        "date": "Today",
-        "price": 22274,
-        "salePrice": 16499
       }
     ]
   },
@@ -3151,7 +3079,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-28T14:51:17+05:00",
-    "lastSeenAt": "2026-11-11T03:41:14.827Z",
+    "lastSeenAt": "2026-11-11T13:10:17.711Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3167,6 +3095,42 @@ export const INITIAL_PRODUCTS: Product[] = [
         "date": "Today",
         "price": 8099,
         "salePrice": 4859
+      }
+    ]
+  },
+  {
+    "id": "asimjofa-15415717462313",
+    "brandId": "asimjofa",
+    "brandName": "Asim Jofa",
+    "title": "AJUMV-09 Embroidered Velvet Unstitched 3 Pcs",
+    "handle": "ajumv-09-embroidered-velvet-unstitched-3-pcs",
+    "originalPrice": 22274,
+    "salePrice": 16499,
+    "discountPct": 26,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/IMG_5761.jpg?v=1792758165",
+    "category": "unstitched",
+    "fabric": "Boski Silk",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://asimjofa.com/products/ajumv-09-embroidered-velvet-unstitched-3-pcs",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-10-23T17:20:55+05:00",
+    "lastSeenAt": "2026-11-11T13:10:17.711Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 22274,
+        "salePrice": 22274
+      },
+      {
+        "date": "Oct 24",
+        "price": 22274,
+        "salePrice": 20492
+      },
+      {
+        "date": "Today",
+        "price": 22274,
+        "salePrice": 16499
       }
     ]
   },
@@ -3187,7 +3151,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-11T19:57:15+05:00",
-    "lastSeenAt": "2026-11-11T03:41:14.827Z",
+    "lastSeenAt": "2026-11-11T13:10:17.711Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3223,7 +3187,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-02T14:25:01+05:00",
-    "lastSeenAt": "2026-11-11T03:41:14.827Z",
+    "lastSeenAt": "2026-11-11T13:10:17.711Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3259,7 +3223,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-31T16:38:40+05:00",
-    "lastSeenAt": "2026-11-11T03:41:14.828Z",
+    "lastSeenAt": "2026-11-11T13:10:17.711Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3295,7 +3259,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-11-04T16:25:04+05:00",
-    "lastSeenAt": "2026-11-11T03:41:14.828Z",
+    "lastSeenAt": "2026-11-11T13:10:17.711Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3311,42 +3275,6 @@ export const INITIAL_PRODUCTS: Product[] = [
         "date": "Today",
         "price": 13217,
         "salePrice": 9790
-      }
-    ]
-  },
-  {
-    "id": "asimjofa-10321033527593",
-    "brandId": "asimjofa",
-    "brandName": "Asim Jofa",
-    "title": "AJUC-09 Printed Organza Unstitched 2 Pcs",
-    "handle": "ajuc-09-printed-organza-unstitched-2-pcs",
-    "originalPrice": 11800,
-    "salePrice": 7080,
-    "discountPct": 40,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/052A9128.jpg?v=1790254873",
-    "category": "unstitched",
-    "fabric": "Boski Silk",
-    "pieceCount": "2 Piece",
-    "productUrl": "https://asimjofa.com/products/ajuc-09-printed-organza-unstitched-2-pcs",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-09-24T17:59:07+05:00",
-    "lastSeenAt": "2026-11-11T03:41:14.828Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 11800,
-        "salePrice": 11800
-      },
-      {
-        "date": "Oct 24",
-        "price": 11800,
-        "salePrice": 10856
-      },
-      {
-        "date": "Today",
-        "price": 11800,
-        "salePrice": 7080
       }
     ]
   },
@@ -3367,7 +3295,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-11T20:23:35+05:00",
-    "lastSeenAt": "2026-11-11T03:41:14.828Z",
+    "lastSeenAt": "2026-11-11T13:10:17.711Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3403,7 +3331,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-12-31T17:04:12+05:00",
-    "lastSeenAt": "2026-11-11T03:41:14.828Z",
+    "lastSeenAt": "2026-11-11T13:10:17.711Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3419,78 +3347,6 @@ export const INITIAL_PRODUCTS: Product[] = [
         "date": "Today",
         "price": 19100,
         "salePrice": 11460
-      }
-    ]
-  },
-  {
-    "id": "asimjofa-15429562532137",
-    "brandId": "asimjofa",
-    "brandName": "Asim Jofa",
-    "title": "AJPBS-10 Embroidered Cambric Stitched 2 Pcs",
-    "handle": "ajpbs-10-embroidered-cambric-stitched-2-pcs",
-    "originalPrice": 13217,
-    "salePrice": 9790,
-    "discountPct": 26,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/IMG_0380.jpg?v=1793793980",
-    "category": "pret",
-    "fabric": "Soft Cambric",
-    "pieceCount": "1 Piece",
-    "productUrl": "https://asimjofa.com/products/ajpbs-10-embroidered-cambric-stitched-2-pcs",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-11-04T16:25:01+05:00",
-    "lastSeenAt": "2026-11-11T03:41:14.828Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 13217,
-        "salePrice": 13217
-      },
-      {
-        "date": "Oct 24",
-        "price": 13217,
-        "salePrice": 12160
-      },
-      {
-        "date": "Today",
-        "price": 13217,
-        "salePrice": 9790
-      }
-    ]
-  },
-  {
-    "id": "asimjofa-15424581206313",
-    "brandId": "asimjofa",
-    "brandName": "Asim Jofa",
-    "title": "AJFU-16 Embroidered Twisted Silk Unstitched 2 Pcs",
-    "handle": "ajfu-16-embroidered-twisted-silk-unstitched-3-pcs",
-    "originalPrice": 9989,
-    "salePrice": 7399,
-    "discountPct": 26,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/884A6176.jpg?v=1793450418",
-    "category": "unstitched",
-    "fabric": "Boski Silk",
-    "pieceCount": "2 Piece",
-    "productUrl": "https://asimjofa.com/products/ajfu-16-embroidered-twisted-silk-unstitched-3-pcs",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-10-31T16:38:43+05:00",
-    "lastSeenAt": "2026-11-11T03:41:14.828Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 9989,
-        "salePrice": 9989
-      },
-      {
-        "date": "Oct 24",
-        "price": 9989,
-        "salePrice": 9190
-      },
-      {
-        "date": "Today",
-        "price": 9989,
-        "salePrice": 7399
       }
     ]
   },
@@ -3511,7 +3367,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-11T19:48:44+05:00",
-    "lastSeenAt": "2026-11-11T03:41:14.828Z",
+    "lastSeenAt": "2026-11-11T13:10:17.711Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3527,6 +3383,78 @@ export const INITIAL_PRODUCTS: Product[] = [
         "date": "Today",
         "price": 7499,
         "salePrice": 4499
+      }
+    ]
+  },
+  {
+    "id": "asimjofa-15424581206313",
+    "brandId": "asimjofa",
+    "brandName": "Asim Jofa",
+    "title": "AJFU-16 Embroidered Twisted Silk Unstitched 2 Pcs",
+    "handle": "ajfu-16-embroidered-twisted-silk-unstitched-3-pcs",
+    "originalPrice": 9989,
+    "salePrice": 7399,
+    "discountPct": 26,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/884A6176.jpg?v=1793450418",
+    "category": "unstitched",
+    "fabric": "Boski Silk",
+    "pieceCount": "2 Piece",
+    "productUrl": "https://asimjofa.com/products/ajfu-16-embroidered-twisted-silk-unstitched-3-pcs",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-10-31T16:38:43+05:00",
+    "lastSeenAt": "2026-11-11T13:10:17.712Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 9989,
+        "salePrice": 9989
+      },
+      {
+        "date": "Oct 24",
+        "price": 9989,
+        "salePrice": 9190
+      },
+      {
+        "date": "Today",
+        "price": 9989,
+        "salePrice": 7399
+      }
+    ]
+  },
+  {
+    "id": "asimjofa-15429562532137",
+    "brandId": "asimjofa",
+    "brandName": "Asim Jofa",
+    "title": "AJPBS-10 Embroidered Cambric Stitched 2 Pcs",
+    "handle": "ajpbs-10-embroidered-cambric-stitched-2-pcs",
+    "originalPrice": 13217,
+    "salePrice": 9790,
+    "discountPct": 26,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/IMG_0380.jpg?v=1793793980",
+    "category": "pret",
+    "fabric": "Soft Cambric",
+    "pieceCount": "1 Piece",
+    "productUrl": "https://asimjofa.com/products/ajpbs-10-embroidered-cambric-stitched-2-pcs",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-11-04T16:25:01+05:00",
+    "lastSeenAt": "2026-11-11T13:10:17.712Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 13217,
+        "salePrice": 13217
+      },
+      {
+        "date": "Oct 24",
+        "price": 13217,
+        "salePrice": 12160
+      },
+      {
+        "date": "Today",
+        "price": 13217,
+        "salePrice": 9790
       }
     ]
   },
@@ -3547,7 +3475,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-28T14:51:26+05:00",
-    "lastSeenAt": "2026-11-11T03:41:14.828Z",
+    "lastSeenAt": "2026-11-11T13:10:17.712Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3583,7 +3511,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-11T19:39:49+05:00",
-    "lastSeenAt": "2026-11-11T03:41:14.828Z",
+    "lastSeenAt": "2026-11-11T13:10:17.712Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3599,78 +3527,6 @@ export const INITIAL_PRODUCTS: Product[] = [
         "date": "Today",
         "price": 7499,
         "salePrice": 4499
-      }
-    ]
-  },
-  {
-    "id": "asimjofa-15415706452265",
-    "brandId": "asimjofa",
-    "brandName": "Asim Jofa",
-    "title": "AJUMV-04 Embroidered Velvet Unstitched 3 Pcs",
-    "handle": "ajumv-04-embroidered-velvet-unstitched-3-pcs",
-    "originalPrice": 22274,
-    "salePrice": 16499,
-    "discountPct": 26,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/IMG_5424.jpg?v=1792755895",
-    "category": "unstitched",
-    "fabric": "Boski Silk",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://asimjofa.com/products/ajumv-04-embroidered-velvet-unstitched-3-pcs",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-10-23T16:44:29+05:00",
-    "lastSeenAt": "2026-11-11T03:41:14.828Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 22274,
-        "salePrice": 22274
-      },
-      {
-        "date": "Oct 24",
-        "price": 22274,
-        "salePrice": 20492
-      },
-      {
-        "date": "Today",
-        "price": 22274,
-        "salePrice": 16499
-      }
-    ]
-  },
-  {
-    "id": "asimjofa-10321024155945",
-    "brandId": "asimjofa",
-    "brandName": "Asim Jofa",
-    "title": "AJUC-02 Printed Katan Silk Unstitched 3 Pcs",
-    "handle": "ajuc-02-printed-katan-silk-unstitched-3-pcs",
-    "originalPrice": 9990,
-    "salePrice": 5994,
-    "discountPct": 40,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/052A8338.jpg?v=1790252720",
-    "category": "unstitched",
-    "fabric": "Boski Silk",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://asimjofa.com/products/ajuc-02-printed-katan-silk-unstitched-3-pcs",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-09-24T17:24:35+05:00",
-    "lastSeenAt": "2026-11-11T03:41:14.828Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 9990,
-        "salePrice": 9990
-      },
-      {
-        "date": "Oct 24",
-        "price": 9990,
-        "salePrice": 9191
-      },
-      {
-        "date": "Today",
-        "price": 9990,
-        "salePrice": 5994
       }
     ]
   },
@@ -3691,7 +3547,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-11-04T16:24:59+05:00",
-    "lastSeenAt": "2026-11-11T03:41:14.828Z",
+    "lastSeenAt": "2026-11-11T13:10:17.712Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3707,6 +3563,42 @@ export const INITIAL_PRODUCTS: Product[] = [
         "date": "Today",
         "price": 13217,
         "salePrice": 9790
+      }
+    ]
+  },
+  {
+    "id": "asimjofa-15415706452265",
+    "brandId": "asimjofa",
+    "brandName": "Asim Jofa",
+    "title": "AJUMV-04 Embroidered Velvet Unstitched 3 Pcs",
+    "handle": "ajumv-04-embroidered-velvet-unstitched-3-pcs",
+    "originalPrice": 22274,
+    "salePrice": 16499,
+    "discountPct": 26,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/IMG_5424.jpg?v=1792755895",
+    "category": "unstitched",
+    "fabric": "Boski Silk",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://asimjofa.com/products/ajumv-04-embroidered-velvet-unstitched-3-pcs",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-10-23T16:44:29+05:00",
+    "lastSeenAt": "2026-11-11T13:10:17.712Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 22274,
+        "salePrice": 22274
+      },
+      {
+        "date": "Oct 24",
+        "price": 22274,
+        "salePrice": 20492
+      },
+      {
+        "date": "Today",
+        "price": 22274,
+        "salePrice": 16499
       }
     ]
   },
@@ -3727,7 +3619,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-11T19:45:59+05:00",
-    "lastSeenAt": "2026-11-11T03:41:14.828Z",
+    "lastSeenAt": "2026-11-11T13:10:17.712Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3763,7 +3655,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-02T14:55:52+05:00",
-    "lastSeenAt": "2026-11-11T03:41:14.828Z",
+    "lastSeenAt": "2026-11-11T13:10:17.712Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3779,78 +3671,6 @@ export const INITIAL_PRODUCTS: Product[] = [
         "date": "Today",
         "price": 13250,
         "salePrice": 7950
-      }
-    ]
-  },
-  {
-    "id": "asimjofa-15424581173545",
-    "brandId": "asimjofa",
-    "brandName": "Asim Jofa",
-    "title": "AJFU-11 Embroidered Chiffon Unstitched 3 Pcs",
-    "handle": "ajfu-11-embroidered-chiffon-unstitched-3-pcs",
-    "originalPrice": 9989,
-    "salePrice": 7399,
-    "discountPct": 26,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/884A7821.jpg?v=1793450591",
-    "category": "unstitched",
-    "fabric": "Pure Chiffon",
-    "pieceCount": "1 Piece",
-    "productUrl": "https://asimjofa.com/products/ajfu-11-embroidered-chiffon-unstitched-3-pcs",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-10-31T16:38:41+05:00",
-    "lastSeenAt": "2026-11-11T03:41:14.828Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 9989,
-        "salePrice": 9989
-      },
-      {
-        "date": "Oct 24",
-        "price": 9989,
-        "salePrice": 9190
-      },
-      {
-        "date": "Today",
-        "price": 9989,
-        "salePrice": 7399
-      }
-    ]
-  },
-  {
-    "id": "asimjofa-15429562564905",
-    "brandId": "asimjofa",
-    "brandName": "Asim Jofa",
-    "title": "AJPBS-02 Embroidered Cambric Stitched 2 Pcs",
-    "handle": "ajpbs-02-embroidered-cambric-stitched-2-pcs",
-    "originalPrice": 13082,
-    "salePrice": 9690,
-    "discountPct": 26,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/IMG_9715.jpg?v=1793793846",
-    "category": "pret",
-    "fabric": "Soft Cambric",
-    "pieceCount": "1 Piece",
-    "productUrl": "https://asimjofa.com/products/ajpbs-02-embroidered-cambric-stitched-2-pcs",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-11-04T16:25:03+05:00",
-    "lastSeenAt": "2026-11-11T03:41:14.828Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 13082,
-        "salePrice": 13082
-      },
-      {
-        "date": "Oct 24",
-        "price": 13082,
-        "salePrice": 12035
-      },
-      {
-        "date": "Today",
-        "price": 13082,
-        "salePrice": 9690
       }
     ]
   },
@@ -3871,7 +3691,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-11T19:52:03+05:00",
-    "lastSeenAt": "2026-11-11T03:41:14.828Z",
+    "lastSeenAt": "2026-11-11T13:10:17.712Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3887,6 +3707,78 @@ export const INITIAL_PRODUCTS: Product[] = [
         "date": "Today",
         "price": 7499,
         "salePrice": 4499
+      }
+    ]
+  },
+  {
+    "id": "asimjofa-15429562564905",
+    "brandId": "asimjofa",
+    "brandName": "Asim Jofa",
+    "title": "AJPBS-02 Embroidered Cambric Stitched 2 Pcs",
+    "handle": "ajpbs-02-embroidered-cambric-stitched-2-pcs",
+    "originalPrice": 13082,
+    "salePrice": 9690,
+    "discountPct": 26,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/IMG_9715.jpg?v=1793793846",
+    "category": "pret",
+    "fabric": "Soft Cambric",
+    "pieceCount": "1 Piece",
+    "productUrl": "https://asimjofa.com/products/ajpbs-02-embroidered-cambric-stitched-2-pcs",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-11-04T16:25:03+05:00",
+    "lastSeenAt": "2026-11-11T13:10:17.712Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 13082,
+        "salePrice": 13082
+      },
+      {
+        "date": "Oct 24",
+        "price": 13082,
+        "salePrice": 12035
+      },
+      {
+        "date": "Today",
+        "price": 13082,
+        "salePrice": 9690
+      }
+    ]
+  },
+  {
+    "id": "asimjofa-15424581173545",
+    "brandId": "asimjofa",
+    "brandName": "Asim Jofa",
+    "title": "AJFU-11 Embroidered Chiffon Unstitched 3 Pcs",
+    "handle": "ajfu-11-embroidered-chiffon-unstitched-3-pcs",
+    "originalPrice": 9989,
+    "salePrice": 7399,
+    "discountPct": 26,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/884A7821.jpg?v=1793450591",
+    "category": "unstitched",
+    "fabric": "Pure Chiffon",
+    "pieceCount": "1 Piece",
+    "productUrl": "https://asimjofa.com/products/ajfu-11-embroidered-chiffon-unstitched-3-pcs",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-10-31T16:38:41+05:00",
+    "lastSeenAt": "2026-11-11T13:10:17.712Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 9989,
+        "salePrice": 9989
+      },
+      {
+        "date": "Oct 24",
+        "price": 9989,
+        "salePrice": 9190
+      },
+      {
+        "date": "Today",
+        "price": 9989,
+        "salePrice": 7399
       }
     ]
   },
@@ -3907,7 +3799,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-28T14:51:15+05:00",
-    "lastSeenAt": "2026-11-11T03:41:14.828Z",
+    "lastSeenAt": "2026-11-11T13:10:17.712Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3943,7 +3835,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-11T19:42:26+05:00",
-    "lastSeenAt": "2026-11-11T03:41:14.829Z",
+    "lastSeenAt": "2026-11-11T13:10:17.712Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3959,6 +3851,42 @@ export const INITIAL_PRODUCTS: Product[] = [
         "date": "Today",
         "price": 7499,
         "salePrice": 4499
+      }
+    ]
+  },
+  {
+    "id": "asimjofa-9976647057705",
+    "brandId": "asimjofa",
+    "brandName": "Asim Jofa",
+    "title": "AJULN-14 Embroidered Net Unstitched 3 Pcs",
+    "handle": "ajuln-14-embroidered-net-unstitched-3-pcs",
+    "originalPrice": 13550,
+    "salePrice": 8130,
+    "discountPct": 40,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/884A7070.jpg?v=1767347638",
+    "category": "unstitched",
+    "fabric": "Fine Cotton Lawn",
+    "pieceCount": "1 Piece",
+    "productUrl": "https://asimjofa.com/products/ajuln-14-embroidered-net-unstitched-3-pcs",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-01-02T14:52:34+05:00",
+    "lastSeenAt": "2026-11-11T13:10:17.712Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 13550,
+        "salePrice": 13550
+      },
+      {
+        "date": "Oct 24",
+        "price": 13550,
+        "salePrice": 12466
+      },
+      {
+        "date": "Today",
+        "price": 13550,
+        "salePrice": 8130
       }
     ]
   },
@@ -3979,7 +3907,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-31T17:21:13+05:00",
-    "lastSeenAt": "2026-11-11T03:41:14.829Z",
+    "lastSeenAt": "2026-11-11T13:10:17.712Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4015,7 +3943,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-11-04T16:24:57+05:00",
-    "lastSeenAt": "2026-11-11T03:41:14.829Z",
+    "lastSeenAt": "2026-11-11T13:10:17.712Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4035,38 +3963,110 @@ export const INITIAL_PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "asimjofa-9976647057705",
+    "id": "asimjofa-15380558414121",
     "brandId": "asimjofa",
     "brandName": "Asim Jofa",
-    "title": "AJULN-14 Embroidered Net Unstitched 3 Pcs",
-    "handle": "ajuln-14-embroidered-net-unstitched-3-pcs",
-    "originalPrice": 13550,
-    "salePrice": 8130,
+    "title": "AJCS-02 Printed Charmeuse Silk Unstitched 3 Pcs",
+    "handle": "ajcs-02-printed-charmeuse-silk-unstitched-3-pcs",
+    "originalPrice": 8099,
+    "salePrice": 4859,
     "discountPct": 40,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/884A7070.jpg?v=1767347638",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/ajcs-02.1.jpg?v=1791372157",
     "category": "unstitched",
-    "fabric": "Fine Cotton Lawn",
-    "pieceCount": "1 Piece",
-    "productUrl": "https://asimjofa.com/products/ajuln-14-embroidered-net-unstitched-3-pcs",
+    "fabric": "Boski Silk",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://asimjofa.com/products/ajcs-02-printed-charmeuse-silk-unstitched-3-pcs",
     "isLowestPrice": true,
     "onSale": true,
-    "firstSeenAt": "2026-01-02T14:52:34+05:00",
-    "lastSeenAt": "2026-11-11T03:41:14.829Z",
+    "firstSeenAt": "2026-09-28T14:51:13+05:00",
+    "lastSeenAt": "2026-11-11T13:10:17.712Z",
     "priceHistory": [
       {
         "date": "Oct 15",
-        "price": 13550,
-        "salePrice": 13550
+        "price": 8099,
+        "salePrice": 8099
       },
       {
         "date": "Oct 24",
-        "price": 13550,
-        "salePrice": 12466
+        "price": 8099,
+        "salePrice": 7451
       },
       {
         "date": "Today",
-        "price": 13550,
-        "salePrice": 8130
+        "price": 8099,
+        "salePrice": 4859
+      }
+    ]
+  },
+  {
+    "id": "asimjofa-9976645026089",
+    "brandId": "asimjofa",
+    "brandName": "Asim Jofa",
+    "title": "AJULN-10 Embroidered Net Unstitched 3 Pcs",
+    "handle": "ajuln-10-embroidered-net-unstitched-3-pcs",
+    "originalPrice": 13399,
+    "salePrice": 8039,
+    "discountPct": 40,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/884A6789.jpg?v=1767346808",
+    "category": "unstitched",
+    "fabric": "Boski Silk",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://asimjofa.com/products/ajuln-10-embroidered-net-unstitched-3-pcs",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-01-02T14:39:12+05:00",
+    "lastSeenAt": "2026-11-11T13:10:17.712Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 13399,
+        "salePrice": 13399
+      },
+      {
+        "date": "Oct 24",
+        "price": 13399,
+        "salePrice": 12327
+      },
+      {
+        "date": "Today",
+        "price": 13399,
+        "salePrice": 8039
+      }
+    ]
+  },
+  {
+    "id": "asimjofa-15415707304233",
+    "brandId": "asimjofa",
+    "brandName": "Asim Jofa",
+    "title": "AJUMV-05 Embroidered Velvet Unstitched 3 Pcs",
+    "handle": "ajumv-05-embroidered-velvet-unstitched-3-pcs",
+    "originalPrice": 22274,
+    "salePrice": 16499,
+    "discountPct": 26,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/IMG_5489.jpg?v=1792756142",
+    "category": "unstitched",
+    "fabric": "Boski Silk",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://asimjofa.com/products/ajumv-05-embroidered-velvet-unstitched-3-pcs",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-10-23T16:48:09+05:00",
+    "lastSeenAt": "2026-11-11T13:10:17.712Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 22274,
+        "salePrice": 22274
+      },
+      {
+        "date": "Oct 24",
+        "price": 22274,
+        "salePrice": 20492
+      },
+      {
+        "date": "Today",
+        "price": 22274,
+        "salePrice": 16499
       }
     ]
   },
@@ -4087,7 +4087,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-05-20T10:06:07+05:00",
-    "lastSeenAt": "2026-11-11T03:41:18.543Z",
+    "lastSeenAt": "2026-11-11T13:10:21.546Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4123,7 +4123,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-05-20T10:26:22+05:00",
-    "lastSeenAt": "2026-11-11T03:41:18.543Z",
+    "lastSeenAt": "2026-11-11T13:10:21.546Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4159,7 +4159,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-18T15:31:19+05:00",
-    "lastSeenAt": "2026-11-11T03:41:18.543Z",
+    "lastSeenAt": "2026-11-11T13:10:21.546Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4195,7 +4195,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-23T11:41:21+05:00",
-    "lastSeenAt": "2026-11-11T03:41:18.543Z",
+    "lastSeenAt": "2026-11-11T13:10:21.546Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4231,7 +4231,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-29T16:58:06+05:00",
-    "lastSeenAt": "2026-11-11T03:41:18.543Z",
+    "lastSeenAt": "2026-11-11T13:10:21.546Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4267,7 +4267,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-29T17:09:10+05:00",
-    "lastSeenAt": "2026-11-11T03:41:18.543Z",
+    "lastSeenAt": "2026-11-11T13:10:21.546Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4303,7 +4303,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-01T15:02:03+05:00",
-    "lastSeenAt": "2026-11-11T03:41:18.544Z",
+    "lastSeenAt": "2026-11-11T13:10:21.546Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4339,7 +4339,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-15T11:46:45+05:00",
-    "lastSeenAt": "2026-11-11T03:41:18.544Z",
+    "lastSeenAt": "2026-11-11T13:10:21.546Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4375,7 +4375,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-16T11:54:48+05:00",
-    "lastSeenAt": "2026-11-11T03:41:18.544Z",
+    "lastSeenAt": "2026-11-11T13:10:21.546Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4411,7 +4411,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-27T16:29:56+05:00",
-    "lastSeenAt": "2026-11-11T03:41:18.544Z",
+    "lastSeenAt": "2026-11-11T13:10:21.546Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4447,7 +4447,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-27T16:39:58+05:00",
-    "lastSeenAt": "2026-11-11T03:41:18.544Z",
+    "lastSeenAt": "2026-11-11T13:10:21.546Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4483,7 +4483,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-03-30T10:29:28+05:00",
-    "lastSeenAt": "2026-11-11T03:41:18.544Z",
+    "lastSeenAt": "2026-11-11T13:10:21.546Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4519,7 +4519,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-04-15T16:14:10+05:00",
-    "lastSeenAt": "2026-11-11T03:41:18.544Z",
+    "lastSeenAt": "2026-11-11T13:10:21.546Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4555,7 +4555,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-05-05T12:52:13+05:00",
-    "lastSeenAt": "2026-11-11T03:41:18.544Z",
+    "lastSeenAt": "2026-11-11T13:10:21.546Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4591,7 +4591,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-05-05T13:05:49+05:00",
-    "lastSeenAt": "2026-11-11T03:41:18.544Z",
+    "lastSeenAt": "2026-11-11T13:10:21.546Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4627,7 +4627,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-05-11T14:23:53+05:00",
-    "lastSeenAt": "2026-11-11T03:41:18.544Z",
+    "lastSeenAt": "2026-11-11T13:10:21.546Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4663,7 +4663,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-05-18T14:43:57+05:00",
-    "lastSeenAt": "2026-11-11T03:41:18.544Z",
+    "lastSeenAt": "2026-11-11T13:10:21.546Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4699,7 +4699,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-05-19T17:13:28+05:00",
-    "lastSeenAt": "2026-11-11T03:41:18.544Z",
+    "lastSeenAt": "2026-11-11T13:10:21.546Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4735,7 +4735,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-05-20T10:10:50+05:00",
-    "lastSeenAt": "2026-11-11T03:41:18.544Z",
+    "lastSeenAt": "2026-11-11T13:10:21.546Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4771,7 +4771,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-05-20T10:29:25+05:00",
-    "lastSeenAt": "2026-11-11T03:41:18.544Z",
+    "lastSeenAt": "2026-11-11T13:10:21.547Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4807,7 +4807,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-23T10:56:03+05:00",
-    "lastSeenAt": "2026-11-11T03:41:18.544Z",
+    "lastSeenAt": "2026-11-11T13:10:21.547Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4843,7 +4843,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-06T10:02:05+05:00",
-    "lastSeenAt": "2026-11-11T03:41:18.544Z",
+    "lastSeenAt": "2026-11-11T13:10:21.547Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4879,7 +4879,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-06T10:08:33+05:00",
-    "lastSeenAt": "2026-11-11T03:41:18.544Z",
+    "lastSeenAt": "2026-11-11T13:10:21.547Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4915,7 +4915,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-06T11:14:27+05:00",
-    "lastSeenAt": "2026-11-11T03:41:18.544Z",
+    "lastSeenAt": "2026-11-11T13:10:21.547Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4951,7 +4951,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-17T10:21:21+05:00",
-    "lastSeenAt": "2026-11-11T03:41:18.544Z",
+    "lastSeenAt": "2026-11-11T13:10:21.547Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4987,7 +4987,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-29T10:15:12+05:00",
-    "lastSeenAt": "2026-11-11T03:41:18.546Z",
+    "lastSeenAt": "2026-11-11T13:10:21.547Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5023,7 +5023,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-29T11:15:44+05:00",
-    "lastSeenAt": "2026-11-11T03:41:18.546Z",
+    "lastSeenAt": "2026-11-11T13:10:21.547Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5059,7 +5059,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-29T14:32:28+05:00",
-    "lastSeenAt": "2026-11-11T03:41:18.546Z",
+    "lastSeenAt": "2026-11-11T13:10:21.547Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5095,7 +5095,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-29T14:43:40+05:00",
-    "lastSeenAt": "2026-11-11T03:41:18.546Z",
+    "lastSeenAt": "2026-11-11T13:10:21.547Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5131,7 +5131,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-29T14:46:04+05:00",
-    "lastSeenAt": "2026-11-11T03:41:18.546Z",
+    "lastSeenAt": "2026-11-11T13:10:21.547Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5167,7 +5167,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T18:47:13+05:00",
-    "lastSeenAt": "2026-11-11T03:41:22.305Z",
+    "lastSeenAt": "2026-11-11T13:10:25.314Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5203,7 +5203,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T18:47:19+05:00",
-    "lastSeenAt": "2026-11-11T03:41:22.305Z",
+    "lastSeenAt": "2026-11-11T13:10:25.314Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5239,7 +5239,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T18:35:33+05:00",
-    "lastSeenAt": "2026-11-11T03:41:22.306Z",
+    "lastSeenAt": "2026-11-11T13:10:25.314Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5275,7 +5275,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T10:11:08+05:00",
-    "lastSeenAt": "2026-11-11T03:41:22.306Z",
+    "lastSeenAt": "2026-11-11T13:10:25.314Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5311,7 +5311,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T10:11:04+05:00",
-    "lastSeenAt": "2026-11-11T03:41:22.306Z",
+    "lastSeenAt": "2026-11-11T13:10:25.314Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5347,7 +5347,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T10:11:03+05:00",
-    "lastSeenAt": "2026-11-11T03:41:22.306Z",
+    "lastSeenAt": "2026-11-11T13:10:25.314Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5383,7 +5383,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T10:11:06+05:00",
-    "lastSeenAt": "2026-11-11T03:41:22.306Z",
+    "lastSeenAt": "2026-11-11T13:10:25.314Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5419,7 +5419,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T10:10:55+05:00",
-    "lastSeenAt": "2026-11-11T03:41:22.306Z",
+    "lastSeenAt": "2026-11-11T13:10:25.314Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5455,7 +5455,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T10:11:10+05:00",
-    "lastSeenAt": "2026-11-11T03:41:22.306Z",
+    "lastSeenAt": "2026-11-11T13:10:25.314Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5491,7 +5491,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T10:16:44+05:00",
-    "lastSeenAt": "2026-11-11T03:41:22.306Z",
+    "lastSeenAt": "2026-11-11T13:10:25.314Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5527,7 +5527,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T10:16:42+05:00",
-    "lastSeenAt": "2026-11-11T03:41:22.306Z",
+    "lastSeenAt": "2026-11-11T13:10:25.314Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5563,7 +5563,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T10:10:57+05:00",
-    "lastSeenAt": "2026-11-11T03:41:22.306Z",
+    "lastSeenAt": "2026-11-11T13:10:25.314Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5599,7 +5599,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T10:10:54+05:00",
-    "lastSeenAt": "2026-11-11T03:41:22.306Z",
+    "lastSeenAt": "2026-11-11T13:10:25.314Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5635,7 +5635,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T14:44:07+05:00",
-    "lastSeenAt": "2026-11-11T03:41:22.306Z",
+    "lastSeenAt": "2026-11-11T13:10:25.314Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5671,7 +5671,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-11T22:05:52+05:00",
-    "lastSeenAt": "2026-11-11T03:41:22.306Z",
+    "lastSeenAt": "2026-11-11T13:10:25.314Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5707,7 +5707,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-11T21:35:52+05:00",
-    "lastSeenAt": "2026-11-11T03:41:22.306Z",
+    "lastSeenAt": "2026-11-11T13:10:25.314Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5743,7 +5743,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-11T22:09:35+05:00",
-    "lastSeenAt": "2026-11-11T03:41:22.306Z",
+    "lastSeenAt": "2026-11-11T13:10:25.314Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5779,7 +5779,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-11T22:19:45+05:00",
-    "lastSeenAt": "2026-11-11T03:41:22.306Z",
+    "lastSeenAt": "2026-11-11T13:10:25.314Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5815,7 +5815,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T21:37:17+05:00",
-    "lastSeenAt": "2026-11-11T03:41:22.306Z",
+    "lastSeenAt": "2026-11-11T13:10:25.314Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5851,7 +5851,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T21:37:15+05:00",
-    "lastSeenAt": "2026-11-11T03:41:22.306Z",
+    "lastSeenAt": "2026-11-11T13:10:25.314Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5887,7 +5887,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T21:37:19+05:00",
-    "lastSeenAt": "2026-11-11T03:41:22.306Z",
+    "lastSeenAt": "2026-11-11T13:10:25.314Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5923,7 +5923,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T21:37:21+05:00",
-    "lastSeenAt": "2026-11-11T03:41:22.306Z",
+    "lastSeenAt": "2026-11-11T13:10:25.314Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5959,7 +5959,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T21:31:47+05:00",
-    "lastSeenAt": "2026-11-11T03:41:22.306Z",
+    "lastSeenAt": "2026-11-11T13:10:25.314Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5995,7 +5995,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T21:29:40+05:00",
-    "lastSeenAt": "2026-11-11T03:41:22.306Z",
+    "lastSeenAt": "2026-11-11T13:10:25.314Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6031,7 +6031,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T21:31:06+05:00",
-    "lastSeenAt": "2026-11-11T03:41:22.306Z",
+    "lastSeenAt": "2026-11-11T13:10:25.314Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6067,7 +6067,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-06T13:09:28+05:00",
-    "lastSeenAt": "2026-11-11T03:41:26.022Z",
+    "lastSeenAt": "2026-11-11T13:10:29.141Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6103,7 +6103,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-10T18:19:28+05:00",
-    "lastSeenAt": "2026-11-11T03:41:26.022Z",
+    "lastSeenAt": "2026-11-11T13:10:29.141Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6139,7 +6139,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-17T17:21:36+05:00",
-    "lastSeenAt": "2026-11-11T03:41:26.022Z",
+    "lastSeenAt": "2026-11-11T13:10:29.141Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6175,7 +6175,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-06T17:37:52+05:00",
-    "lastSeenAt": "2026-11-11T03:41:26.022Z",
+    "lastSeenAt": "2026-11-11T13:10:29.141Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6211,7 +6211,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-06T13:10:53+05:00",
-    "lastSeenAt": "2026-11-11T03:41:26.022Z",
+    "lastSeenAt": "2026-11-11T13:10:29.141Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6247,7 +6247,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-04-13T12:49:16+05:00",
-    "lastSeenAt": "2026-11-11T03:41:26.022Z",
+    "lastSeenAt": "2026-11-11T13:10:29.141Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6283,7 +6283,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-10T18:17:47+05:00",
-    "lastSeenAt": "2026-11-11T03:41:26.022Z",
+    "lastSeenAt": "2026-11-11T13:10:29.141Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6319,7 +6319,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-11-01T00:45:59+05:00",
-    "lastSeenAt": "2026-11-11T03:41:26.022Z",
+    "lastSeenAt": "2026-11-11T13:10:29.141Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6355,7 +6355,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-14T16:53:45+05:00",
-    "lastSeenAt": "2026-11-11T03:41:26.022Z",
+    "lastSeenAt": "2026-11-11T13:10:29.141Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6391,7 +6391,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-06T13:11:16+05:00",
-    "lastSeenAt": "2026-11-11T03:41:26.022Z",
+    "lastSeenAt": "2026-11-11T13:10:29.141Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6427,7 +6427,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-10-02T18:00:07+05:00",
-    "lastSeenAt": "2026-11-11T03:41:26.022Z",
+    "lastSeenAt": "2026-11-11T13:10:29.141Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6463,7 +6463,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-06T13:09:37+05:00",
-    "lastSeenAt": "2026-11-11T03:41:26.022Z",
+    "lastSeenAt": "2026-11-11T13:10:29.141Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6499,7 +6499,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-02-20T14:36:28+05:00",
-    "lastSeenAt": "2026-11-11T03:41:26.022Z",
+    "lastSeenAt": "2026-11-11T13:10:29.141Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6535,7 +6535,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-06T13:11:12+05:00",
-    "lastSeenAt": "2026-11-11T03:41:26.022Z",
+    "lastSeenAt": "2026-11-11T13:10:29.141Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6571,7 +6571,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-10-02T17:58:09+05:00",
-    "lastSeenAt": "2026-11-11T03:41:26.022Z",
+    "lastSeenAt": "2026-11-11T13:10:29.141Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6607,7 +6607,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-02-17T12:38:31+05:00",
-    "lastSeenAt": "2026-11-11T03:41:26.022Z",
+    "lastSeenAt": "2026-11-11T13:10:29.141Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6643,7 +6643,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-06T13:09:44+05:00",
-    "lastSeenAt": "2026-11-11T03:41:26.022Z",
+    "lastSeenAt": "2026-11-11T13:10:29.141Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6679,7 +6679,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-06T13:10:01+05:00",
-    "lastSeenAt": "2026-11-11T03:41:26.022Z",
+    "lastSeenAt": "2026-11-11T13:10:29.141Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6715,7 +6715,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-06T13:11:04+05:00",
-    "lastSeenAt": "2026-11-11T03:41:26.022Z",
+    "lastSeenAt": "2026-11-11T13:10:29.141Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6751,7 +6751,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-10T18:17:01+05:00",
-    "lastSeenAt": "2026-11-11T03:41:26.022Z",
+    "lastSeenAt": "2026-11-11T13:10:29.141Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6787,7 +6787,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-06T13:11:08+05:00",
-    "lastSeenAt": "2026-11-11T03:41:26.022Z",
+    "lastSeenAt": "2026-11-11T13:10:29.141Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6823,7 +6823,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-10-15T16:20:52+05:00",
-    "lastSeenAt": "2026-11-11T03:41:26.022Z",
+    "lastSeenAt": "2026-11-11T13:10:29.141Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6859,7 +6859,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-04-10T16:56:24+05:00",
-    "lastSeenAt": "2026-11-11T03:41:26.022Z",
+    "lastSeenAt": "2026-11-11T13:10:29.141Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6895,7 +6895,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-04-13T12:49:18+05:00",
-    "lastSeenAt": "2026-11-11T03:41:26.022Z",
+    "lastSeenAt": "2026-11-11T13:10:29.141Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6931,7 +6931,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-10-02T13:47:35+05:00",
-    "lastSeenAt": "2026-11-11T03:41:26.022Z",
+    "lastSeenAt": "2026-11-11T13:10:29.141Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6967,7 +6967,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-20T14:22:16+05:00",
-    "lastSeenAt": "2026-11-11T03:41:26.022Z",
+    "lastSeenAt": "2026-11-11T13:10:29.141Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7003,7 +7003,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-06T13:11:14+05:00",
-    "lastSeenAt": "2026-11-11T03:41:26.022Z",
+    "lastSeenAt": "2026-11-11T13:10:29.141Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7039,7 +7039,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-04-10T16:58:05+05:00",
-    "lastSeenAt": "2026-11-11T03:41:26.022Z",
+    "lastSeenAt": "2026-11-11T13:10:29.141Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7075,7 +7075,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-10T18:20:09+05:00",
-    "lastSeenAt": "2026-11-11T03:41:26.022Z",
+    "lastSeenAt": "2026-11-11T13:10:29.141Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7111,7 +7111,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-06T17:37:48+05:00",
-    "lastSeenAt": "2026-11-11T03:41:26.022Z",
+    "lastSeenAt": "2026-11-11T13:10:29.142Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7147,7 +7147,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-08T11:08:21+05:00",
-    "lastSeenAt": "2026-11-11T03:41:29.756Z",
+    "lastSeenAt": "2026-11-11T13:10:33.019Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7183,7 +7183,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-19T15:00:14+05:00",
-    "lastSeenAt": "2026-11-11T03:41:29.756Z",
+    "lastSeenAt": "2026-11-11T13:10:33.019Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7219,7 +7219,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-19T15:01:08+05:00",
-    "lastSeenAt": "2026-11-11T03:41:29.756Z",
+    "lastSeenAt": "2026-11-11T13:10:33.019Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7255,7 +7255,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-19T15:00:28+05:00",
-    "lastSeenAt": "2026-11-11T03:41:29.756Z",
+    "lastSeenAt": "2026-11-11T13:10:33.019Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7291,7 +7291,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-19T15:00:57+05:00",
-    "lastSeenAt": "2026-11-11T03:41:29.756Z",
+    "lastSeenAt": "2026-11-11T13:10:33.019Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7327,7 +7327,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-19T15:00:46+05:00",
-    "lastSeenAt": "2026-11-11T03:41:29.756Z",
+    "lastSeenAt": "2026-11-11T13:10:33.019Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7363,7 +7363,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-19T15:00:40+05:00",
-    "lastSeenAt": "2026-11-11T03:41:29.756Z",
+    "lastSeenAt": "2026-11-11T13:10:33.019Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7399,7 +7399,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-19T15:00:50+05:00",
-    "lastSeenAt": "2026-11-11T03:41:29.756Z",
+    "lastSeenAt": "2026-11-11T13:10:33.019Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7415,42 +7415,6 @@ export const INITIAL_PRODUCTS: Product[] = [
         "date": "Today",
         "price": 3362,
         "salePrice": 2490
-      }
-    ]
-  },
-  {
-    "id": "zellbury-8519780433967",
-    "brandId": "zellbury",
-    "brandName": "Zellbury",
-    "title": "Embroidered Shirt Shalwar Dupatta - 0182",
-    "handle": "shirt-shalwar-dupatta-wuwq1e30182",
-    "originalPrice": 6062,
-    "salePrice": 4490,
-    "discountPct": 26,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0595/3260/7535/files/WUWQ1E30182_-_5.png?v=1792480743",
-    "category": "unstitched",
-    "fabric": "Fine Cotton Lawn",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://zellbury.com/products/shirt-shalwar-dupatta-wuwq1e30182",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-10-19T15:00:59+05:00",
-    "lastSeenAt": "2026-11-11T03:41:29.756Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 6062,
-        "salePrice": 6062
-      },
-      {
-        "date": "Oct 24",
-        "price": 6062,
-        "salePrice": 5577
-      },
-      {
-        "date": "Today",
-        "price": 6062,
-        "salePrice": 4490
       }
     ]
   },
@@ -7471,7 +7435,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-19T15:00:21+05:00",
-    "lastSeenAt": "2026-11-11T03:41:29.756Z",
+    "lastSeenAt": "2026-11-11T13:10:33.019Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7507,7 +7471,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-19T15:00:36+05:00",
-    "lastSeenAt": "2026-11-11T03:41:29.756Z",
+    "lastSeenAt": "2026-11-11T13:10:33.019Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7543,7 +7507,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-19T15:00:57+05:00",
-    "lastSeenAt": "2026-11-11T03:41:29.756Z",
+    "lastSeenAt": "2026-11-11T13:10:33.019Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7579,7 +7543,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-19T15:01:07+05:00",
-    "lastSeenAt": "2026-11-11T03:41:29.756Z",
+    "lastSeenAt": "2026-11-11T13:10:33.019Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7615,7 +7579,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-19T15:01:04+05:00",
-    "lastSeenAt": "2026-11-11T03:41:29.756Z",
+    "lastSeenAt": "2026-11-11T13:10:33.019Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7651,7 +7615,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-08T11:08:48+05:00",
-    "lastSeenAt": "2026-11-11T03:41:29.756Z",
+    "lastSeenAt": "2026-11-11T13:10:33.019Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7687,7 +7651,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-18T11:36:28+05:00",
-    "lastSeenAt": "2026-11-11T03:41:29.756Z",
+    "lastSeenAt": "2026-11-11T13:10:33.019Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7723,7 +7687,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-08-20T11:48:52+05:00",
-    "lastSeenAt": "2026-11-11T03:41:29.756Z",
+    "lastSeenAt": "2026-11-11T13:10:33.019Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7759,7 +7723,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-08-20T11:48:32+05:00",
-    "lastSeenAt": "2026-11-11T03:41:29.756Z",
+    "lastSeenAt": "2026-11-11T13:10:33.019Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7795,7 +7759,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-08-20T11:48:36+05:00",
-    "lastSeenAt": "2026-11-11T03:41:29.756Z",
+    "lastSeenAt": "2026-11-11T13:10:33.019Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7831,7 +7795,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-08-20T11:48:28+05:00",
-    "lastSeenAt": "2026-11-11T03:41:29.756Z",
+    "lastSeenAt": "2026-11-11T13:10:33.019Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7867,7 +7831,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-18T11:36:21+05:00",
-    "lastSeenAt": "2026-11-11T03:41:29.756Z",
+    "lastSeenAt": "2026-11-11T13:10:33.019Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7903,79 +7867,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-08-20T11:48:55+05:00",
-    "lastSeenAt": "2026-11-11T03:41:29.756Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 3362,
-        "salePrice": 3362
-      },
-      {
-        "date": "Oct 24",
-        "price": 3362,
-        "salePrice": 3093
-      },
-      {
-        "date": "Today",
-        "price": 3362,
-        "salePrice": 2490
-      }
-    ]
-  },
-  {
-    "id": "zellbury-8429024116783",
-    "brandId": "zellbury",
-    "brandName": "Zellbury",
-    "title": "Shirt Shalwar Dupatta - 0042",
-    "handle": "shirt-shalwar-dupatta-wucq1x30042",
-    "originalPrice": 3362,
-    "salePrice": 2490,
-    "discountPct": 26,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0595/3260/7535/files/WUCQ1X30042_2.png?v=1787222661",
-    "category": "unstitched",
-    "fabric": "Pure Cotton",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://zellbury.com/products/shirt-shalwar-dupatta-wucq1x30042",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-08-20T11:48:42+05:00",
-    "lastSeenAt": "2026-11-11T03:41:29.757Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 3362,
-        "salePrice": 3362
-      },
-      {
-        "date": "Oct 24",
-        "price": 3362,
-        "salePrice": 3093
-      },
-      {
-        "date": "Today",
-        "price": 3362,
-        "salePrice": 2490
-      }
-    ]
-  },
-  {
-    "id": "zellbury-8429024247855",
-    "brandId": "zellbury",
-    "brandName": "Zellbury",
-    "title": "Shirt Shalwar Dupatta - 0038",
-    "handle": "shirt-shalwar-dupatta-wucq1x30038",
-    "originalPrice": 3362,
-    "salePrice": 2490,
-    "discountPct": 26,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0595/3260/7535/files/WUCQ1X30038_1.png?v=1787222663",
-    "category": "unstitched",
-    "fabric": "Pure Cotton",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://zellbury.com/products/shirt-shalwar-dupatta-wucq1x30038",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-08-20T11:48:45+05:00",
-    "lastSeenAt": "2026-11-11T03:41:29.757Z",
+    "lastSeenAt": "2026-11-11T13:10:33.019Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -8011,7 +7903,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-08-20T11:49:08+05:00",
-    "lastSeenAt": "2026-11-11T03:41:29.757Z",
+    "lastSeenAt": "2026-11-11T13:10:33.019Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -8027,6 +7919,114 @@ export const INITIAL_PRODUCTS: Product[] = [
         "date": "Today",
         "price": 2687,
         "salePrice": 1990
+      }
+    ]
+  },
+  {
+    "id": "zellbury-8429024116783",
+    "brandId": "zellbury",
+    "brandName": "Zellbury",
+    "title": "Shirt Shalwar Dupatta - 0042",
+    "handle": "shirt-shalwar-dupatta-wucq1x30042",
+    "originalPrice": 3362,
+    "salePrice": 2490,
+    "discountPct": 26,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0595/3260/7535/files/WUCQ1X30042_2.png?v=1787222661",
+    "category": "unstitched",
+    "fabric": "Pure Cotton",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://zellbury.com/products/shirt-shalwar-dupatta-wucq1x30042",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-08-20T11:48:42+05:00",
+    "lastSeenAt": "2026-11-11T13:10:33.019Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 3362,
+        "salePrice": 3362
+      },
+      {
+        "date": "Oct 24",
+        "price": 3362,
+        "salePrice": 3093
+      },
+      {
+        "date": "Today",
+        "price": 3362,
+        "salePrice": 2490
+      }
+    ]
+  },
+  {
+    "id": "zellbury-8429024247855",
+    "brandId": "zellbury",
+    "brandName": "Zellbury",
+    "title": "Shirt Shalwar Dupatta - 0038",
+    "handle": "shirt-shalwar-dupatta-wucq1x30038",
+    "originalPrice": 3362,
+    "salePrice": 2490,
+    "discountPct": 26,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0595/3260/7535/files/WUCQ1X30038_1.png?v=1787222663",
+    "category": "unstitched",
+    "fabric": "Pure Cotton",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://zellbury.com/products/shirt-shalwar-dupatta-wucq1x30038",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-08-20T11:48:45+05:00",
+    "lastSeenAt": "2026-11-11T13:10:33.019Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 3362,
+        "salePrice": 3362
+      },
+      {
+        "date": "Oct 24",
+        "price": 3362,
+        "salePrice": 3093
+      },
+      {
+        "date": "Today",
+        "price": 3362,
+        "salePrice": 2490
+      }
+    ]
+  },
+  {
+    "id": "zellbury-8429024870447",
+    "brandId": "zellbury",
+    "brandName": "Zellbury",
+    "title": "Shirt Shalwar Dupatta - 0040",
+    "handle": "shirt-shalwar-dupatta-wucq1x30040",
+    "originalPrice": 3362,
+    "salePrice": 2490,
+    "discountPct": 26,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0595/3260/7535/files/WUCQ1X30040_2.png?v=1787222661",
+    "category": "unstitched",
+    "fabric": "Pure Cotton",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://zellbury.com/products/shirt-shalwar-dupatta-wucq1x30040",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-08-20T11:48:58+05:00",
+    "lastSeenAt": "2026-11-11T13:10:33.019Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 3362,
+        "salePrice": 3362
+      },
+      {
+        "date": "Oct 24",
+        "price": 3362,
+        "salePrice": 3093
+      },
+      {
+        "date": "Today",
+        "price": 3362,
+        "salePrice": 2490
       }
     ]
   }
