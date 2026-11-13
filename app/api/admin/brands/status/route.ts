@@ -1,9 +1,7 @@
 import { NextRequest, NextResponse } from "next/server";
-import fs from "fs";
-import path from "path";
-import { getBrandRegistrations } from "@/lib/brandRegistry";
+import { updateBrandRegistrationStatus, deleteBrandRegistration } from "@/lib/brandRegistry";
 
-const REGISTRATIONS_FILE = path.join(process.cwd(), "data", "brand-registrations.json");
+export const dynamic = "force-dynamic";
 
 export async function POST(req: NextRequest) {
   try {
@@ -12,32 +10,69 @@ export async function POST(req: NextRequest) {
 
     if (!id || !status) {
       return NextResponse.json(
-        { success: false, error: "Both id and status are required." },
+        { success: false, error: "Both brand id and status are required." },
         { status: 400 }
       );
     }
 
-    const registrations = getBrandRegistrations();
-    const index = registrations.findIndex((r) => r.id === id);
-
-    if (index === -1) {
+    const validStatuses = ["pending_review", "approved", "live", "rejected"];
+    if (!validStatuses.includes(status)) {
       return NextResponse.json(
-        { success: false, error: `Brand registration "${id}" not found.` },
-        { status: 404 }
+        { success: false, error: `Invalid status. Must be one of: ${validStatuses.join(", ")}` },
+        { status: 400 }
       );
     }
 
-    registrations[index].status = status;
-    fs.writeFileSync(REGISTRATIONS_FILE, JSON.stringify(registrations, null, 2), "utf8");
+    const result = updateBrandRegistrationStatus(id, status);
+
+    if (!result.success) {
+      return NextResponse.json(
+        { success: false, error: result.error || "Failed to update brand status." },
+        { status: 400 }
+      );
+    }
 
     return NextResponse.json({
       success: true,
-      message: `Status updated to "${status}" for ${registrations[index].brandName}.`,
-      registration: registrations[index],
+      message: `Status updated to "${status}" for ${result.registration?.brandName}.`,
+      registration: result.registration,
+    });
+  } catch (error: any) {
+    console.error("Error in status update API:", error);
+    return NextResponse.json(
+      { success: false, error: "Internal server error updating brand status." },
+      { status: 500 }
+    );
+  }
+}
+
+export async function DELETE(req: NextRequest) {
+  try {
+    const { searchParams } = new URL(req.url);
+    const id = searchParams.get("id");
+
+    if (!id) {
+      return NextResponse.json(
+        { success: false, error: "Application id is required." },
+        { status: 400 }
+      );
+    }
+
+    const result = deleteBrandRegistration(id);
+    if (!result.success) {
+      return NextResponse.json(
+        { success: false, error: result.error || "Failed to delete registration." },
+        { status: 400 }
+      );
+    }
+
+    return NextResponse.json({
+      success: true,
+      message: "Brand application deleted successfully.",
     });
   } catch (error: any) {
     return NextResponse.json(
-      { success: false, error: "Failed to update brand status." },
+      { success: false, error: "Internal server error deleting brand application." },
       { status: 500 }
     );
   }

@@ -63,6 +63,6 @@ export interface BrandRegistration {
   logoUrl?: string;
   description?: string;
   registeredAt: string;
-  status: "pending_review" | "approved" | "live";
+  status: "pending_review" | "approved" | "live" | "rejected";
   priceGuaranteeAccepted: boolean;
 }

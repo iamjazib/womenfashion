@@ -181,7 +181,11 @@ export default function BrandsDirectoryPage() {
                     className="relative h-44 block overflow-hidden bg-neutral-100"
                   >
                     <img
-                      src={profile?.image}
+                      src={
+                        profile?.image ||
+                        brand.logo ||
+                        "https://images.unsplash.com/photo-1558769132-cb1aea458c5e?w=600&h=400&fit=crop&q=80"
+                      }
                       alt={brand.name}
                       className="w-full h-full object-cover object-center group-hover:scale-105 transition-transform duration-500"
                     />
@@ -189,7 +193,7 @@ export default function BrandsDirectoryPage() {
 
                     {/* Top Tag */}
                     <span className="absolute top-3 left-3 bg-rose-600 text-white text-[11px] font-black uppercase tracking-wider px-2.5 py-1 rounded-md shadow-md">
-                      {profile?.tag || "Active Sales"}
+                      {profile?.tag || "Verified Partner"}
                     </span>
 
                     {/* Bottom Title on Image */}
@@ -207,10 +211,10 @@ export default function BrandsDirectoryPage() {
                   {/* Body Content */}
                   <div className="p-4">
                     <p className="text-xs font-semibold text-rose-600 mb-1">
-                      {profile?.headline}
+                      {profile?.headline || "Official Partner Storefront"}
                     </p>
                     <p className="text-xs text-neutral-500 line-clamp-2 mb-4 leading-relaxed">
-                      {profile?.description}
+                      {profile?.description || "Authentic women's apparel collections tracked live on our discount radar."}
                     </p>
 
                     <div className="bg-neutral-50 rounded-xl p-3 flex items-center justify-between text-xs mb-2">

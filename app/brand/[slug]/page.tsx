@@ -344,25 +344,44 @@ export default function BrandPage({ params }: BrandPageProps) {
             ))}
           </div>
         ) : (
-          <div className="bg-white rounded-2xl border border-neutral-200 p-12 text-center max-w-md mx-auto my-12 shadow-xs">
-            <div className="w-12 h-12 bg-neutral-100 rounded-full flex items-center justify-center mx-auto mb-4 text-neutral-400">
-              <SearchX className="w-6 h-6" />
+          <div className="bg-white rounded-2xl border border-neutral-200 p-10 sm:p-12 text-center max-w-lg mx-auto my-12 shadow-xs">
+            <div className="w-12 h-12 bg-rose-50 text-rose-600 rounded-full flex items-center justify-center mx-auto mb-4">
+              <Sparkles className="w-6 h-6" />
             </div>
-            <h3 className="text-base font-bold text-neutral-900 mb-1">
-              No matching {brand.name} sales found
+            <h3 className="text-base font-bold text-neutral-900 mb-1.5">
+              {brandProducts.length === 0
+                ? `${brand.name} Storefront Verified on Radar`
+                : `No matching ${brand.name} sales found`}
             </h3>
-            <p className="text-xs text-neutral-500 mb-5">
-              Try selecting a different category or clearing your search keywords.
+            <p className="text-xs text-neutral-500 mb-6 leading-relaxed">
+              {brandProducts.length === 0
+                ? `This brand partner has been verified. Our automated scanner updates product feeds every few hours. In the meantime, you can explore their live clearances directly on their official storefront.`
+                : `Try selecting a different category or clearing your search keywords.`}
             </p>
-            <button
-              onClick={() => {
-                setSearchQuery("");
-                setSelectedCategory("all");
-              }}
-              className="bg-neutral-900 hover:bg-neutral-800 text-white text-xs font-bold px-4 py-2 rounded-lg"
-            >
-              Reset Filters
-            </button>
+            <div className="flex items-center justify-center gap-3">
+              {brand.saleUrl && (
+                <a
+                  href={brand.saleUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="bg-rose-600 hover:bg-rose-700 text-white text-xs font-bold px-5 py-2.5 rounded-xl shadow-xs inline-flex items-center gap-2"
+                >
+                  <span>Visit {brand.name} Official Sale</span>
+                  <ExternalLink className="w-3.5 h-3.5" />
+                </a>
+              )}
+              {brandProducts.length > 0 && (
+                <button
+                  onClick={() => {
+                    setSearchQuery("");
+                    setSelectedCategory("all");
+                  }}
+                  className="bg-neutral-900 hover:bg-neutral-800 text-white text-xs font-bold px-4 py-2.5 rounded-xl"
+                >
+                  Reset Filters
+                </button>
+              )}
+            </div>
           </div>
         )}
 

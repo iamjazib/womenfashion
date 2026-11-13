@@ -121,4 +121,16 @@ export const BRANDS: Brand[] = [
     active: true,
     totalDeals: 20,
   },
+  {
+    id: "demo",
+    name: "Demo",
+    slug: "demo",
+    logo: "https://images.unsplash.com/photo-1558769132-cb1aea458c5e?w=100&h=100&fit=crop&q=80",
+    website: "https://demostore.com.pk",
+    shopifyDomain: "demostore.com.pk",
+    saleUrl: "https://demostore.com.pk/collection/sales",
+    primaryColor: "#E11D48",
+    active: true,
+    totalDeals: 0,
+  },
 ];

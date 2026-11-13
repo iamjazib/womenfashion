@@ -27,6 +27,10 @@ import {
   RefreshCw,
   Sparkles,
   Download,
+  Trash2,
+  XCircle,
+  Check,
+  Clock,
 } from "lucide-react";
 
 interface PageSeo {
@@ -70,6 +74,7 @@ export default function AdminDashboardPage() {
   const [brandRegistrations, setBrandRegistrations] = useState<BrandRegistration[]>([]);
   const [isLoadingBrands, setIsLoadingBrands] = useState(false);
   const [brandFeedback, setBrandFeedback] = useState("");
+  const [updatingBrandId, setUpdatingBrandId] = useState<string | null>(null);
 
   // Subscribers State
   const [subscribers, setSubscribers] = useState<any[]>([]);
@@ -218,6 +223,7 @@ export default function AdminDashboardPage() {
 
   const handleUpdateBrandStatus = async (id: string, status: string) => {
     setBrandFeedback("");
+    setUpdatingBrandId(id);
     try {
       const res = await fetch("/api/admin/brands/status", {
         method: "POST",
@@ -226,13 +232,41 @@ export default function AdminDashboardPage() {
       });
       const data = await res.json();
       if (data.success) {
-        setBrandFeedback(data.message);
+        setBrandFeedback(data.message || `Status updated to ${status}.`);
         setBrandRegistrations((prev) =>
           prev.map((b) => (b.id === id ? { ...b, status: status as any } : b))
         );
+      } else {
+        setBrandFeedback(data.error || "Failed to update brand status.");
       }
     } catch (err) {
-      setBrandFeedback("Error updating brand status.");
+      setBrandFeedback("Network error updating brand status.");
+    } finally {
+      setUpdatingBrandId(null);
+    }
+  };
+
+  const handleDeleteBrand = async (id: string, brandName: string) => {
+    if (!window.confirm(`Are you sure you want to delete "${brandName}" application?`)) {
+      return;
+    }
+    setBrandFeedback("");
+    setUpdatingBrandId(id);
+    try {
+      const res = await fetch(`/api/admin/brands/status?id=${encodeURIComponent(id)}`, {
+        method: "DELETE",
+      });
+      const data = await res.json();
+      if (data.success) {
+        setBrandFeedback(`Brand "${brandName}" deleted successfully.`);
+        setBrandRegistrations((prev) => prev.filter((b) => b.id !== id));
+      } else {
+        setBrandFeedback(data.error || "Failed to delete brand registration.");
+      }
+    } catch (err) {
+      setBrandFeedback("Network error deleting brand registration.");
+    } finally {
+      setUpdatingBrandId(null);
     }
   };
 
@@ -892,79 +926,182 @@ export default function AdminDashboardPage() {
                 </div>
 
                 {brandFeedback && (
-                  <div className="p-3 bg-emerald-50 border border-emerald-200 text-emerald-800 text-xs rounded-xl flex items-center gap-2">
-                    <CheckCircle2 className="w-4 h-4 shrink-0" />
+                  <div
+                    className={`p-3.5 text-xs rounded-xl flex items-center gap-2.5 font-medium ${
+                      brandFeedback.toLowerCase().includes("error") ||
+                      brandFeedback.toLowerCase().includes("fail") ||
+                      brandFeedback.toLowerCase().includes("deleted")
+                        ? "bg-rose-50 border border-rose-200 text-rose-800"
+                        : "bg-emerald-50 border border-emerald-200 text-emerald-800"
+                    }`}
+                  >
+                    {brandFeedback.toLowerCase().includes("error") ||
+                    brandFeedback.toLowerCase().includes("fail") ? (
+                      <AlertCircle className="w-4 h-4 shrink-0 text-rose-600" />
+                    ) : (
+                      <CheckCircle2 className="w-4 h-4 shrink-0 text-emerald-600" />
+                    )}
                     <span>{brandFeedback}</span>
                   </div>
                 )}
 
                 {brandRegistrations.length > 0 ? (
                   <div className="bg-white rounded-3xl border border-neutral-200 overflow-hidden shadow-xs divide-y divide-neutral-100">
-                    {brandRegistrations.map((b) => (
-                      <div
-                        key={b.id}
-                        className="p-5 sm:p-6 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4"
-                      >
-                        <div className="space-y-1">
-                          <div className="flex items-center gap-2">
-                            <h4 className="text-base font-bold text-neutral-900">{b.brandName}</h4>
-                            <span className="text-[10px] font-mono bg-neutral-100 text-neutral-600 px-2 py-0.5 rounded">
-                              {b.platform}
-                            </span>
-                            <span
-                              className={`text-[10px] font-bold px-2 py-0.5 rounded-full ${
-                                b.status === "approved" || b.status === "live"
-                                  ? "bg-emerald-50 text-emerald-700 border border-emerald-200"
-                                  : "bg-amber-50 text-amber-700 border border-amber-200"
-                              }`}
-                            >
-                              {b.status}
-                            </span>
+                    {brandRegistrations.map((b) => {
+                      const isUpdating = updatingBrandId === b.id;
+                      const isApproved = b.status === "approved";
+                      const isLive = b.status === "live";
+                      const isRejected = b.status === "rejected";
+
+                      return (
+                        <div
+                          key={b.id}
+                          className="p-5 sm:p-6 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4 hover:bg-neutral-50/50 transition-colors"
+                        >
+                          <div className="space-y-1.5 flex-1">
+                            <div className="flex flex-wrap items-center gap-2">
+                              <h4 className="text-base font-bold text-neutral-900">{b.brandName}</h4>
+                              <span className="text-[10px] font-mono bg-neutral-100 text-neutral-600 px-2 py-0.5 rounded">
+                                {b.platform}
+                              </span>
+
+                              {/* Prominent Verification Badge */}
+                              {isApproved && (
+                                <span className="text-[11px] font-bold px-2.5 py-0.5 rounded-full bg-emerald-50 text-emerald-700 border border-emerald-200 flex items-center gap-1 shadow-2xs">
+                                  <Check className="w-3 h-3 text-emerald-600" /> Approved & Storefront Active
+                                </span>
+                              )}
+                              {isLive && (
+                                <span className="text-[11px] font-bold px-2.5 py-0.5 rounded-full bg-blue-50 text-blue-700 border border-blue-200 flex items-center gap-1.5 shadow-2xs">
+                                  <span className="w-2 h-2 rounded-full bg-blue-600 animate-ping" /> Live on Radar
+                                </span>
+                              )}
+                              {isRejected && (
+                                <span className="text-[11px] font-bold px-2.5 py-0.5 rounded-full bg-rose-50 text-rose-700 border border-rose-200 flex items-center gap-1">
+                                  <XCircle className="w-3 h-3 text-rose-500" /> Rejected
+                                </span>
+                              )}
+                              {!isApproved && !isLive && !isRejected && (
+                                <span className="text-[11px] font-bold px-2.5 py-0.5 rounded-full bg-amber-50 text-amber-700 border border-amber-200 flex items-center gap-1">
+                                  <Clock className="w-3 h-3 text-amber-500" /> Pending Review
+                                </span>
+                              )}
+                            </div>
+
+                            <p className="text-xs text-neutral-600">
+                              Contact: <strong>{b.contactName}</strong> ({b.contactEmail} • {b.contactPhone || "No phone"})
+                            </p>
+
+                            <div className="flex flex-wrap items-center gap-3 text-xs text-rose-600 pt-0.5">
+                              <a
+                                href={b.website}
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="hover:underline flex items-center gap-1"
+                              >
+                                <span>Website</span>
+                                <ExternalLink className="w-3 h-3" />
+                              </a>
+                              <span>•</span>
+                              <a
+                                href={b.saleUrl}
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="text-neutral-600 hover:underline flex items-center gap-1"
+                              >
+                                <span>Sale Collection</span>
+                                <ExternalLink className="w-3 h-3" />
+                              </a>
+
+                              {/* If approved/live, direct link to check the live brand page on the site */}
+                              {(isApproved || isLive) && (
+                                <>
+                                  <span>•</span>
+                                  <Link
+                                    href={`/brand/${b.slug}`}
+                                    target="_blank"
+                                    className="inline-flex items-center gap-1 font-bold text-emerald-700 hover:underline bg-emerald-50 border border-emerald-200/80 px-2 py-0.5 rounded-md"
+                                  >
+                                    <span>View on Website (/brand/{b.slug})</span>
+                                    <ExternalLink className="w-3 h-3" />
+                                  </Link>
+                                </>
+                              )}
+                            </div>
                           </div>
 
-                          <p className="text-xs text-neutral-600">
-                            Contact: <strong>{b.contactName}</strong> ({b.contactEmail} • {b.contactPhone})
-                          </p>
+                          {/* Action Controls */}
+                          <div className="flex items-center gap-2 self-end sm:self-center shrink-0">
+                            {isUpdating ? (
+                              <div className="flex items-center gap-2 text-xs text-neutral-500 font-semibold px-4 py-2 bg-neutral-100 rounded-lg">
+                                <Loader2 className="w-4 h-4 animate-spin text-neutral-800" />
+                                <span>Updating...</span>
+                              </div>
+                            ) : (
+                              <>
+                                {/* Approve Button */}
+                                {isApproved ? (
+                                  <span className="bg-emerald-50 text-emerald-800 border border-emerald-300 text-xs font-bold px-3 py-1.5 rounded-lg flex items-center gap-1 cursor-default select-none">
+                                    <Check className="w-3.5 h-3.5 text-emerald-600" /> Approved
+                                  </span>
+                                ) : (
+                                  <button
+                                    onClick={() => handleUpdateBrandStatus(b.id, "approved")}
+                                    className="bg-emerald-600 hover:bg-emerald-700 text-white text-xs font-bold px-3.5 py-1.5 rounded-lg transition-all shadow-xs hover:shadow-md cursor-pointer flex items-center gap-1.5"
+                                    title="Approve and activate brand on storefront"
+                                  >
+                                    <Check className="w-3.5 h-3.5" />
+                                    <span>Approve</span>
+                                  </button>
+                                )}
 
-                          <div className="flex items-center gap-3 text-xs text-rose-600">
-                            <a
-                              href={b.website}
-                              target="_blank"
-                              rel="noopener noreferrer"
-                              className="hover:underline flex items-center gap-1"
-                            >
-                              <span>Website</span>
-                              <ExternalLink className="w-3 h-3" />
-                            </a>
-                            <span>•</span>
-                            <a
-                              href={b.saleUrl}
-                              target="_blank"
-                              rel="noopener noreferrer"
-                              className="text-neutral-600 hover:underline flex items-center gap-1"
-                            >
-                              <span>Sale Collection</span>
-                              <ExternalLink className="w-3 h-3" />
-                            </a>
+                                {/* Set Live Button */}
+                                {isLive ? (
+                                  <span className="bg-blue-50 text-blue-800 border border-blue-300 text-xs font-bold px-3 py-1.5 rounded-lg flex items-center gap-1 cursor-default select-none">
+                                    <span className="w-2 h-2 rounded-full bg-blue-600" /> Live
+                                  </span>
+                                ) : (
+                                  <button
+                                    onClick={() => handleUpdateBrandStatus(b.id, "live")}
+                                    className="bg-neutral-900 hover:bg-neutral-800 text-white text-xs font-bold px-3 py-1.5 rounded-lg transition-colors cursor-pointer"
+                                    title="Set brand live on radar"
+                                  >
+                                    Set Live
+                                  </button>
+                                )}
+
+                                {/* Reject Button */}
+                                {isRejected ? (
+                                  <button
+                                    onClick={() => handleUpdateBrandStatus(b.id, "approved")}
+                                    className="bg-white hover:bg-emerald-50 text-emerald-700 border border-emerald-200 text-xs font-bold px-2.5 py-1.5 rounded-lg transition-colors cursor-pointer"
+                                  >
+                                    Re-Approve
+                                  </button>
+                                ) : (
+                                  <button
+                                    onClick={() => handleUpdateBrandStatus(b.id, "rejected")}
+                                    className="bg-white hover:bg-rose-50 text-neutral-600 hover:text-rose-600 border border-neutral-200 text-xs font-bold px-2.5 py-1.5 rounded-lg transition-colors cursor-pointer"
+                                    title="Decline this brand application"
+                                  >
+                                    Reject
+                                  </button>
+                                )}
+
+                                {/* Delete Trash Icon */}
+                                <button
+                                  onClick={() => handleDeleteBrand(b.id, b.brandName)}
+                                  title="Permanently remove application"
+                                  className="p-1.5 text-neutral-400 hover:text-rose-600 hover:bg-rose-50 rounded-lg transition-colors cursor-pointer ml-1"
+                                >
+                                  <Trash2 className="w-4 h-4" />
+                                </button>
+                              </>
+                            )}
                           </div>
                         </div>
-
-                        <div className="flex items-center gap-2 self-end sm:self-center">
-                          <button
-                            onClick={() => handleUpdateBrandStatus(b.id, "approved")}
-                            className="bg-emerald-600 hover:bg-emerald-700 text-white text-xs font-bold px-3 py-1.5 rounded-lg transition-colors cursor-pointer"
-                          >
-                            Approve
-                          </button>
-                          <button
-                            onClick={() => handleUpdateBrandStatus(b.id, "live")}
-                            className="bg-neutral-950 hover:bg-neutral-800 text-white text-xs font-bold px-3 py-1.5 rounded-lg transition-colors cursor-pointer"
-                          >
-                            Set Live
-                          </button>
-                        </div>
-                      </div>
-                    ))}
+                      );
+                    })}
                   </div>
                 ) : (
                   <div className="bg-white rounded-3xl border border-neutral-200 p-12 text-center text-xs text-neutral-500 shadow-xs">

@@ -1,14 +1,23 @@
 import { NextRequest, NextResponse } from "next/server";
 import { registerBrand, getBrandRegistrations } from "@/lib/brandRegistry";
 
+export const dynamic = "force-dynamic";
+
 export async function GET() {
   try {
     const registrations = getBrandRegistrations();
-    return NextResponse.json({
-      success: true,
-      count: registrations.length,
-      registrations,
-    });
+    return NextResponse.json(
+      {
+        success: true,
+        count: registrations.length,
+        registrations,
+      },
+      {
+        headers: {
+          "Cache-Control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+        },
+      }
+    );
   } catch (error: any) {
     return NextResponse.json(
       { success: false, error: "Failed to retrieve brand registrations." },
