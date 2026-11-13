@@ -48,3 +48,21 @@ export interface FilterState {
   onlyLowestEver: boolean;
   pieceFilter: string;
 }
+
+export interface BrandRegistration {
+  id: string;
+  brandName: string;
+  slug: string;
+  website: string;
+  saleUrl: string;
+  platform: "shopify" | "woocommerce" | "magento" | "custom" | "other";
+  categories: string[];
+  contactName: string;
+  contactEmail: string;
+  contactPhone: string;
+  logoUrl?: string;
+  description?: string;
+  registeredAt: string;
+  status: "pending_review" | "approved" | "live";
+  priceGuaranteeAccepted: boolean;
+}

@@ -2,7 +2,7 @@
 
 import React from "react";
 import Link from "next/link";
-import { Search, Heart, ShieldCheck, ArrowLeftRight, Sparkles, Timer } from "lucide-react";
+import { Search, Heart, ShieldCheck, ArrowLeftRight, Sparkles, Timer, Building2 } from "lucide-react";
 import { useCompare } from "@/context/CompareContext";
 import { useSaleCountdown } from "@/hooks/useSaleCountdown";
 
@@ -21,7 +21,7 @@ export const Header: React.FC<HeaderProps> = ({
   savedCount = 0,
   selectedCategory = "all",
   setSelectedCategory,
-  totalDeals = 223,
+  totalDeals = 263,
 }) => {
   const { compareItems } = useCompare();
   const { days, hours, minutes, seconds, formattedEndDate, mounted } = useSaleCountdown();
@@ -64,12 +64,18 @@ export const Header: React.FC<HeaderProps> = ({
           </div>
 
           <div className="hidden md:flex items-center gap-4 text-neutral-300">
-            <span className="flex items-center gap-1 text-emerald-400">
-              <ShieldCheck className="w-3.5 h-3.5" />
-              Verified Direct Links
-            </span>
+            <Link
+              href="/brand-portal"
+              className="text-neutral-300 hover:text-white transition-colors flex items-center gap-1 text-[11px]"
+            >
+              <Building2 className="w-3.5 h-3.5 text-rose-400" />
+              <span>Brand Portal</span>
+            </Link>
             <span>•</span>
-            <span className="text-neutral-400">Updated every 3 hours</span>
+            <span className="flex items-center gap-1 text-emerald-400 text-[11px]">
+              <ShieldCheck className="w-3.5 h-3.5" />
+              Direct Store Links
+            </span>
           </div>
         </div>
       </div>
@@ -124,6 +130,16 @@ export const Header: React.FC<HeaderProps> = ({
           >
             <Sparkles className="w-3.5 h-3.5 text-rose-500" />
             <span>Brands</span>
+          </Link>
+
+          {/* Brand Partner Portal Link */}
+          <Link
+            href="/brand-portal"
+            className="hidden sm:flex items-center gap-1.5 text-xs font-semibold text-neutral-700 hover:text-rose-600 transition-colors px-3 py-2 rounded-lg border border-neutral-200 hover:border-neutral-900 bg-neutral-50/70"
+            title="Register Your Brand"
+          >
+            <Building2 className="w-3.5 h-3.5 text-rose-500" />
+            <span>Brand Portal</span>
           </Link>
 
           {/* Compare Link */}

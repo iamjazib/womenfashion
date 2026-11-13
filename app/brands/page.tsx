@@ -13,6 +13,7 @@ import {
   ExternalLink,
   Search,
   CheckCircle2,
+  Building2,
 } from "lucide-react";
 
 export default function BrandsDirectoryPage() {
@@ -39,6 +40,18 @@ export default function BrandsDirectoryPage() {
       image: "https://images.unsplash.com/photo-1567401893414-76b7b1e5a7a5?w=600&h=400&fit=crop&q=80",
       tag: "Up to 38% OFF",
       description: "Pakistan's pioneer textile heritage, crafting durable summer lawn, yarn-dyed suits, and co-ords.",
+    },
+    nishat: {
+      headline: "Signature Embroidered Lawn & Luxury Pret",
+      image: "https://images.unsplash.com/photo-1509631179647-0177331693ae?w=600&h=400&fit=crop&q=80",
+      tag: "Up to 35% OFF",
+      description: "Timeless elegance with premium unstitched fabrics, luxury winter coats, and modern prêt cuts.",
+    },
+    sapphire: {
+      headline: "Contemporary Ready-to-Wear & Festive Lawn",
+      image: "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?w=600&h=400&fit=crop&q=80",
+      tag: "Up to 35% OFF",
+      description: "Modern Pakistani women's staple featuring printed viscose, khaddar sets, and chic western separates.",
     },
     limelight: {
       headline: "Ready-to-Wear Kurtis & Embroidered Pret",
@@ -109,15 +122,39 @@ export default function BrandsDirectoryPage() {
               type="text"
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
-              placeholder="Filter brand (Gul Ahmed, Baroque, Asim Jofa...)"
+              placeholder="Filter brand (Gul Ahmed, Baroque, Nishat, Sapphire...)"
               className="w-full pl-11 pr-4 py-3 bg-white/10 hover:bg-white/15 focus:bg-white/20 text-white placeholder-neutral-400 rounded-full border border-white/20 focus:border-white focus:outline-hidden text-sm transition-all"
             />
           </div>
         </div>
       </section>
 
-      {/* Brand Grid */}
-      <main className="max-w-7xl mx-auto px-4 sm:px-6 py-12 flex-1">
+      {/* Main Content */}
+      <main className="max-w-7xl mx-auto px-4 sm:px-6 py-10 flex-1">
+        {/* Brand Partnership Registration Banner */}
+        <div className="bg-gradient-to-r from-neutral-900 via-neutral-950 to-neutral-900 border border-neutral-800 rounded-2xl p-5 sm:p-6 mb-10 text-white flex flex-col sm:flex-row items-center justify-between gap-4 shadow-lg">
+          <div className="flex items-start gap-3.5">
+            <div className="w-10 h-10 rounded-xl bg-rose-600/20 border border-rose-500/30 flex items-center justify-center shrink-0 text-rose-400 mt-0.5">
+              <Building2 className="w-5 h-5" />
+            </div>
+            <div>
+              <h3 className="text-sm sm:text-base font-bold text-white">
+                Own a Pakistani Women's Clothing Brand or Boutique?
+              </h3>
+              <p className="text-xs text-neutral-400 mt-0.5">
+                Register your brand on our live radar to connect directly with thousands of high-intent sale shoppers. Free listing with direct store checkout.
+              </p>
+            </div>
+          </div>
+          <Link
+            href="/brand-portal"
+            className="w-full sm:w-auto shrink-0 inline-flex items-center justify-center gap-2 bg-gradient-to-r from-rose-600 to-rose-700 hover:from-rose-500 hover:to-rose-600 text-white font-bold text-xs px-5 py-3 rounded-xl shadow-md transition-all hover:scale-105"
+          >
+            <span>Brand Partner Portal</span>
+            <ArrowRight className="w-3.5 h-3.5" />
+          </Link>
+        </div>
+
         <div className="flex items-center justify-between mb-8">
           <h2 className="text-xl font-serif font-black text-neutral-900">
             All Brand Sale Trackers ({filteredBrands.length})

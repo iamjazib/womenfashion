@@ -1,5 +1,6 @@
 import React from "react";
-import { ShieldCheck, Info } from "lucide-react";
+import Link from "next/link";
+import { ShieldCheck, Info, Building2 } from "lucide-react";
 
 export const Footer: React.FC = () => {
   return (
@@ -73,9 +74,16 @@ export const Footer: React.FC = () => {
             <h4 className="text-white font-bold uppercase tracking-wider mb-3 text-[11px]">
               About Women Fashion
             </h4>
-            <p className="text-[11px] leading-relaxed text-neutral-400">
+            <p className="text-[11px] leading-relaxed text-neutral-400 mb-3">
               Pakistan's dedicated sale radar for women's fashion. We track real-time price drops across 10 top women's couture and lawn labels (Gul Ahmed, Baroque, Asim Jofa, Nishat Linen, Sapphire, Limelight, Sana Safinaz, J., Alkaram Studio, and Zellbury) with zero fake markups.
             </p>
+            <Link
+              href="/brand-portal"
+              className="inline-flex items-center gap-1.5 text-xs font-semibold text-rose-400 hover:text-rose-300 transition-colors"
+            >
+              <Building2 className="w-3.5 h-3.5" />
+              <span>Register Your Brand on Radar →</span>
+            </Link>
           </div>
         </div>
 
@@ -87,7 +95,9 @@ export const Footer: React.FC = () => {
             <span>•</span>
             <span className="hover:text-neutral-300 cursor-pointer">Terms of Service</span>
             <span>•</span>
-            <span className="hover:text-neutral-300 cursor-pointer">Brand Partnerships</span>
+            <Link href="/brand-portal" className="text-rose-400 hover:text-rose-300 transition-colors font-medium">
+              Brand Partner Portal
+            </Link>
           </div>
         </div>
       </div>
