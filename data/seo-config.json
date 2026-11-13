@@ -4,11 +4,12 @@
       "id": "home",
       "path": "/",
       "name": "Homepage",
-      "title": "Women Fashion • Pakistani Women's Clothing Sale Tracker | Real Discounts",
-      "description": "Pakistan's #1 women's fashion sale tracker. Real-time discounts, unstitched lawn clearances, and designer pret markdowns across Gul Ahmed, Baroque, Asim Jofa, Nishat Linen, Sapphire, and more.",
-      "keywords": "pakistani lawn sale, women fashion deals, gul ahmed sale, baroque special prices, sapphire pret, nishat linen unstitched, online clothing discounts pakistan",
+      "title": "Women Fashion • Verified Pakistani Lawn & Pret Clearance Deals",
+      "description": "Find real-time verified price drops across Gul Ahmed, Baroque, Asim Jofa, Limelight, Sana Safinaz, Junaid Jamshed, Alkaram Studio, and Zellbury.",
+      "keywords": "pakistani lawn, pret deals, women clothing sales",
       "ogImage": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=1200&h=630&fit=crop&q=80",
-      "canonical": "https://womenfashion2.vercel.app/"
+      "canonical": "https://womenfashion2.vercel.app/",
+      "updatedAt": "2026-11-13T23:21:32.462Z"
     },
     {
       "id": "brands",
