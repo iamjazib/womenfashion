@@ -92,7 +92,8 @@ export const HeroSection: React.FC<HeroSectionProps> = ({
                     setSearchQuery(e.target.value);
                   }}
                   placeholder="Search women's 3-piece lawn, chiffon, schiffli, kurta, brand..."
-                  className="w-full bg-transparent text-white placeholder-neutral-400 text-sm sm:text-base px-2 py-2.5 focus:outline-hidden"
+                  style={{ backgroundColor: "transparent", color: "#ffffff" }}
+                  className="w-full bg-transparent text-white placeholder:text-neutral-400 text-sm sm:text-base px-2 py-2.5 border-0 outline-none focus:outline-none focus:ring-0 shadow-none"
                 />
                 <button
                   type="submit"

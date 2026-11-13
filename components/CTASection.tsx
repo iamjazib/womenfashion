@@ -75,7 +75,8 @@ export const CTASection: React.FC = () => {
                 placeholder="Enter your email for instant sales alerts..."
                 required
                 disabled={status === "loading"}
-                className="flex-1 bg-white/10 hover:bg-white/15 focus:bg-white/20 backdrop-blur-md border border-white/20 focus:border-rose-400 text-white placeholder-neutral-400 text-sm px-4 py-3.5 rounded-xl focus:outline-hidden transition-all shadow-inner disabled:opacity-50"
+                style={{ backgroundColor: "transparent", color: "#ffffff" }}
+                className="flex-1 bg-white/10 hover:bg-white/15 focus:bg-white/20 backdrop-blur-md border border-white/20 focus:border-rose-400 text-white placeholder:text-neutral-400 text-sm px-4 py-3.5 rounded-xl focus:outline-none focus:ring-0 transition-all shadow-inner disabled:opacity-50"
               />
               <button
                 type="submit"
