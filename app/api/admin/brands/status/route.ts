@@ -5,7 +5,21 @@ export const dynamic = "force-dynamic";
 
 export async function POST(req: NextRequest) {
   try {
-    const body = await req.json();
+    let body: any = {};
+    try {
+      body = await req.json();
+    } catch {
+      try {
+        const text = await req.text();
+        body = text ? JSON.parse(text) : {};
+      } catch (e: any) {
+        return NextResponse.json(
+          { success: false, error: "Malformed JSON payload: " + (e?.message || "") },
+          { status: 400 }
+        );
+      }
+    }
+
     const { id, status } = body;
 
     if (!id || !status) {
@@ -40,7 +54,7 @@ export async function POST(req: NextRequest) {
   } catch (error: any) {
     console.error("Error in status update API:", error);
     return NextResponse.json(
-      { success: false, error: "Internal server error updating brand status." },
+      { success: false, error: error?.message || "Internal server error updating brand status." },
       { status: 500 }
     );
   }
