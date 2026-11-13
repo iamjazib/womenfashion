@@ -276,7 +276,7 @@ export default function BrandPortalPage() {
                           value={brandName}
                           onChange={(e) => setBrandName(e.target.value)}
                           placeholder="e.g. Charizma, Maria.B, Cross Stitch"
-                          className="w-full px-3.5 py-2.5 bg-neutral-50 border border-neutral-200 rounded-xl text-sm focus:bg-white focus:border-neutral-900 focus:outline-hidden transition-all"
+                          className="w-full px-3.5 py-2.5 bg-white border border-neutral-300 rounded-xl text-sm text-neutral-950 placeholder:text-neutral-500 focus:bg-white focus:border-neutral-900 focus:outline-hidden transition-all shadow-2xs font-medium"
                         />
                       </div>
 
@@ -290,7 +290,7 @@ export default function BrandPortalPage() {
                           value={website}
                           onChange={(e) => setWebsite(e.target.value)}
                           placeholder="https://www.yourbrand.pk"
-                          className="w-full px-3.5 py-2.5 bg-neutral-50 border border-neutral-200 rounded-xl text-sm focus:bg-white focus:border-neutral-900 focus:outline-hidden transition-all"
+                          className="w-full px-3.5 py-2.5 bg-white border border-neutral-300 rounded-xl text-sm text-neutral-950 placeholder:text-neutral-500 focus:bg-white focus:border-neutral-900 focus:outline-hidden transition-all shadow-2xs font-medium"
                         />
                       </div>
 
@@ -304,7 +304,7 @@ export default function BrandPortalPage() {
                           value={saleUrl}
                           onChange={(e) => setSaleUrl(e.target.value)}
                           placeholder="https://www.yourbrand.pk/collections/sale"
-                          className="w-full px-3.5 py-2.5 bg-neutral-50 border border-neutral-200 rounded-xl text-sm focus:bg-white focus:border-neutral-900 focus:outline-hidden transition-all"
+                          className="w-full px-3.5 py-2.5 bg-white border border-neutral-300 rounded-xl text-sm text-neutral-950 placeholder:text-neutral-500 focus:bg-white focus:border-neutral-900 focus:outline-hidden transition-all shadow-2xs font-medium"
                         />
                       </div>
 
@@ -315,13 +315,13 @@ export default function BrandPortalPage() {
                         <select
                           value={platform}
                           onChange={(e) => setPlatform(e.target.value as any)}
-                          className="w-full px-3.5 py-2.5 bg-neutral-50 border border-neutral-200 rounded-xl text-sm focus:bg-white focus:border-neutral-900 focus:outline-hidden transition-all"
+                          className="w-full px-3.5 py-2.5 bg-white border border-neutral-300 rounded-xl text-sm text-neutral-950 placeholder:text-neutral-500 focus:bg-white focus:border-neutral-900 focus:outline-hidden transition-all shadow-2xs font-medium"
                         >
-                          <option value="shopify">Shopify (Auto-feed sync)</option>
-                          <option value="custom">Custom / Demandware / Salesforce</option>
-                          <option value="woocommerce">WooCommerce</option>
-                          <option value="magento">Magento / Adobe Commerce</option>
-                          <option value="other">Other Platform</option>
+                          <option value="shopify" className="text-neutral-950 bg-white">Shopify (Auto-feed sync)</option>
+                          <option value="custom" className="text-neutral-950 bg-white">Custom / Demandware / Salesforce</option>
+                          <option value="woocommerce" className="text-neutral-950 bg-white">WooCommerce</option>
+                          <option value="magento" className="text-neutral-950 bg-white">Magento / Adobe Commerce</option>
+                          <option value="other" className="text-neutral-950 bg-white">Other Platform</option>
                         </select>
                       </div>
                     </div>
@@ -386,7 +386,7 @@ export default function BrandPortalPage() {
                           value={contactName}
                           onChange={(e) => setContactName(e.target.value)}
                           placeholder="Full Name"
-                          className="w-full px-3.5 py-2.5 bg-neutral-50 border border-neutral-200 rounded-xl text-sm focus:bg-white focus:border-neutral-900 focus:outline-hidden transition-all"
+                          className="w-full px-3.5 py-2.5 bg-white border border-neutral-300 rounded-xl text-sm text-neutral-950 placeholder:text-neutral-500 focus:bg-white focus:border-neutral-900 focus:outline-hidden transition-all shadow-2xs font-medium"
                         />
                       </div>
 
@@ -400,7 +400,7 @@ export default function BrandPortalPage() {
                           value={contactEmail}
                           onChange={(e) => setContactEmail(e.target.value)}
                           placeholder="partnerships@yourbrand.pk"
-                          className="w-full px-3.5 py-2.5 bg-neutral-50 border border-neutral-200 rounded-xl text-sm focus:bg-white focus:border-neutral-900 focus:outline-hidden transition-all"
+                          className="w-full px-3.5 py-2.5 bg-white border border-neutral-300 rounded-xl text-sm text-neutral-950 placeholder:text-neutral-500 focus:bg-white focus:border-neutral-900 focus:outline-hidden transition-all shadow-2xs font-medium"
                         />
                       </div>
 
@@ -413,7 +413,7 @@ export default function BrandPortalPage() {
                           value={contactPhone}
                           onChange={(e) => setContactPhone(e.target.value)}
                           placeholder="+92 300 1234567"
-                          className="w-full px-3.5 py-2.5 bg-neutral-50 border border-neutral-200 rounded-xl text-sm focus:bg-white focus:border-neutral-900 focus:outline-hidden transition-all"
+                          className="w-full px-3.5 py-2.5 bg-white border border-neutral-300 rounded-xl text-sm text-neutral-950 placeholder:text-neutral-500 focus:bg-white focus:border-neutral-900 focus:outline-hidden transition-all shadow-2xs font-medium"
                         />
                       </div>
                     </div>
@@ -427,7 +427,7 @@ export default function BrandPortalPage() {
                         value={logoUrl}
                         onChange={(e) => setLogoUrl(e.target.value)}
                         placeholder="https://yourbrand.pk/logo.png"
-                        className="w-full px-3.5 py-2.5 bg-neutral-50 border border-neutral-200 rounded-xl text-sm focus:bg-white focus:border-neutral-900 focus:outline-hidden transition-all"
+                        className="w-full px-3.5 py-2.5 bg-white border border-neutral-300 rounded-xl text-sm text-neutral-950 placeholder:text-neutral-500 focus:bg-white focus:border-neutral-900 focus:outline-hidden transition-all shadow-2xs font-medium"
                       />
                     </div>
 
@@ -440,7 +440,7 @@ export default function BrandPortalPage() {
                         value={description}
                         onChange={(e) => setDescription(e.target.value)}
                         placeholder="Tell us about your brand heritage, bestselling lawn fabrics, or upcoming seasonal sale timeline..."
-                        className="w-full px-3.5 py-2.5 bg-neutral-50 border border-neutral-200 rounded-xl text-sm focus:bg-white focus:border-neutral-900 focus:outline-hidden transition-all"
+                        className="w-full px-3.5 py-2.5 bg-white border border-neutral-300 rounded-xl text-sm text-neutral-950 placeholder:text-neutral-500 focus:bg-white focus:border-neutral-900 focus:outline-hidden transition-all shadow-2xs font-medium"
                       ></textarea>
                     </div>
                   </div>

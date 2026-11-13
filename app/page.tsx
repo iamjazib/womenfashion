@@ -7,6 +7,7 @@ import { Product } from "@/types";
 import { Header } from "@/components/Header";
 import { HeroSection } from "@/components/HeroSection";
 import { SaleCountdownSection } from "@/components/SaleCountdownSection";
+import { BrandMarqueeSection } from "@/components/BrandMarqueeSection";
 import { FeaturedDealsSection } from "@/components/FeaturedDealsSection";
 import { SingleFeaturedProduct } from "@/components/SingleFeaturedProduct";
 import { FeaturedBrandsSection } from "@/components/FeaturedBrandsSection";
@@ -14,6 +15,7 @@ import { CategoryGridSection } from "@/components/CategoryGridSection";
 import { BrandBar } from "@/components/BrandBar";
 import { FilterBar } from "@/components/FilterBar";
 import { ProductCard } from "@/components/ProductCard";
+import { BrandPartnerSection } from "@/components/BrandPartnerSection";
 import { AboutSection } from "@/components/AboutSection";
 import { FAQSection } from "@/components/FAQSection";
 import { CTASection } from "@/components/CTASection";
@@ -79,7 +81,7 @@ export default function Home() {
     }
 
     // 3. Fill up to 10 with other high-value luxury designer deals
-    const luxuryBrands = ["asimjofa", "baroque", "gulahmed", "limelight", "sanasafinaz"];
+    const luxuryBrands = ["asimjofa", "baroque", "gulahmed", "limelight", "sanasafinaz", "nishat", "sapphire"];
     for (const b of luxuryBrands) {
       if (selected.length >= 10) break;
       const match = products.find(
@@ -241,6 +243,9 @@ export default function Home() {
       {/* Section 1: 30-Day Seasonal Clearance Sale Ender Countdown & End Date */}
       <SaleCountdownSection />
 
+      {/* Brand Logos Continuous Infinite Marquee */}
+      <BrandMarqueeSection />
+
       {/* Section 2: Flash Sale Highlights (Top 4 Big Discounts) */}
       <FeaturedDealsSection
         products={products}
@@ -366,10 +371,13 @@ export default function Home() {
       {/* Section 7: About Us Section */}
       <AboutSection />
 
-      {/* Section 8: FAQ Accordion Section */}
+      {/* Section 8: Brand Partner Request Section (Dedicated on Homepage) */}
+      <BrandPartnerSection />
+
+      {/* Section 9: FAQ Accordion Section */}
       <FAQSection />
 
-      {/* Section 9: Call To Action (Sale Alerts) */}
+      {/* Section 10: Call To Action (Sale Alerts) */}
       <CTASection />
 
       {/* Price History & Fake Sale Modal */}
