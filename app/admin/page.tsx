@@ -95,11 +95,16 @@ export default function AdminDashboardPage() {
   const loadInitialData = async () => {
     // 1. Load SEO
     try {
-      const res = await fetch("/api/admin/seo");
+      const res = await fetch("/api/admin/seo", { cache: "no-store" });
       const data = await res.json();
       if (data.success && Array.isArray(data.pages)) {
-        setPagesSeo(data.pages);
-        const homePage = data.pages.find((p: any) => p.id === "home") || data.pages[0];
+        let pages = data.pages;
+        try {
+          const localOverrides = JSON.parse(localStorage.getItem("admin_seo_overrides") || "{}");
+          pages = pages.map((p: any) => (localOverrides[p.id] ? { ...p, ...localOverrides[p.id] } : p));
+        } catch {}
+        setPagesSeo(pages);
+        const homePage = pages.find((p: any) => p.id === "home") || pages[0];
         if (homePage) {
           selectPageForEdit(homePage);
         }
@@ -180,6 +185,11 @@ export default function AdminDashboardPage() {
         setPagesSeo((prev) =>
           prev.map((p) => (p.id === selectedPageId ? { ...p, ...data.page } : p))
         );
+        try {
+          const currentOverrides = JSON.parse(localStorage.getItem("admin_seo_overrides") || "{}");
+          currentOverrides[selectedPageId] = data.page;
+          localStorage.setItem("admin_seo_overrides", JSON.stringify(currentOverrides));
+        } catch {}
       } else {
         setSeoFeedback(data.error || "Failed to save meta details.");
       }
@@ -508,13 +518,17 @@ export default function AdminDashboardPage() {
 
                     {seoFeedback && (
                       <div
-                        className={`mb-6 p-4 rounded-xl text-xs sm:text-sm flex items-center gap-2 ${
-                          seoFeedback.includes("success")
+                        className={`mb-6 p-4 rounded-xl text-xs sm:text-sm flex items-center gap-2 font-medium ${
+                          seoFeedback.includes("success") || seoFeedback.includes("updated")
                             ? "bg-emerald-50 border border-emerald-200 text-emerald-800"
                             : "bg-rose-50 border border-rose-200 text-rose-800"
                         }`}
                       >
-                        <CheckCircle2 className="w-4 h-4 shrink-0" />
+                        {seoFeedback.includes("success") || seoFeedback.includes("updated") ? (
+                          <CheckCircle2 className="w-4 h-4 shrink-0 text-emerald-600" />
+                        ) : (
+                          <AlertCircle className="w-4 h-4 shrink-0 text-rose-600" />
+                        )}
                         <span>{seoFeedback}</span>
                       </div>
                     )}

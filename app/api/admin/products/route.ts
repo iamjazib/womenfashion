@@ -4,7 +4,33 @@ import path from "path";
 import { INITIAL_PRODUCTS } from "@/data/products";
 import { Product } from "@/types";
 
+export const dynamic = "force-dynamic";
+
 const PRODUCTS_FILE = path.join(process.cwd(), "data", "products.ts");
+const TMP_OVERRIDES_FILE = path.join("/tmp", "products-overrides.json");
+
+// In-memory overrides dictionary (id -> Partial<Product>)
+let memoryOverrides: Record<string, Partial<Product>> = {};
+
+function getOverrides(): Record<string, Partial<Product>> {
+  if (Object.keys(memoryOverrides).length > 0) {
+    return memoryOverrides;
+  }
+  try {
+    if (fs.existsSync(TMP_OVERRIDES_FILE)) {
+      memoryOverrides = JSON.parse(fs.readFileSync(TMP_OVERRIDES_FILE, "utf8")) || {};
+      return memoryOverrides;
+    }
+  } catch {}
+  return memoryOverrides;
+}
+
+function saveOverride(id: string, product: Product) {
+  memoryOverrides[id] = product;
+  try {
+    fs.writeFileSync(TMP_OVERRIDES_FILE, JSON.stringify(memoryOverrides, null, 2), "utf8");
+  } catch {}
+}
 
 export async function GET(req: NextRequest) {
   try {
@@ -14,7 +40,8 @@ export async function GET(req: NextRequest) {
     const category = searchParams.get("category") || "all";
     const limit = parseInt(searchParams.get("limit") || "50", 10);
 
-    let filtered = INITIAL_PRODUCTS;
+    const overrides = getOverrides();
+    let filtered = INITIAL_PRODUCTS.map((p) => (overrides[p.id] ? { ...p, ...overrides[p.id] } : p));
 
     if (brand !== "all") {
       filtered = filtered.filter((p) => p.brandId === brand);
@@ -31,12 +58,19 @@ export async function GET(req: NextRequest) {
       );
     }
 
-    return NextResponse.json({
-      success: true,
-      totalCount: INITIAL_PRODUCTS.length,
-      filteredCount: filtered.length,
-      products: filtered.slice(0, limit),
-    });
+    return NextResponse.json(
+      {
+        success: true,
+        totalCount: INITIAL_PRODUCTS.length,
+        filteredCount: filtered.length,
+        products: filtered.slice(0, limit),
+      },
+      {
+        headers: {
+          "Cache-Control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+        },
+      }
+    );
   } catch (error: any) {
     return NextResponse.json(
       { success: false, error: "Failed to fetch products" },
@@ -67,30 +101,15 @@ export async function POST(req: NextRequest) {
       );
     }
 
-    // Read current products from data/products.ts
-    const content = fs.readFileSync(PRODUCTS_FILE, "utf8");
-    const marker = "= [";
-    const assignIdx = content.indexOf(marker);
-    if (assignIdx === -1) {
-      return NextResponse.json(
-        { success: false, error: "Could not locate products array." },
-        { status: 500 }
-      );
-    }
-
-    const jsonStart = assignIdx + 2;
-    const jsonEnd = content.lastIndexOf("]");
-    const existingProducts: Product[] = JSON.parse(content.substring(jsonStart, jsonEnd + 1));
-
-    const index = existingProducts.findIndex((p) => p.id === id);
-    if (index === -1) {
+    // Find the product
+    const current = INITIAL_PRODUCTS.find((p) => p.id === id);
+    if (!current) {
       return NextResponse.json(
         { success: false, error: `Product "${id}" not found.` },
         { status: 404 }
       );
     }
 
-    const current = existingProducts[index];
     const newOrig = originalPrice !== undefined ? Number(originalPrice) : current.originalPrice;
     const newSale = salePrice !== undefined ? Number(salePrice) : current.salePrice;
     const newDiscount =
@@ -112,25 +131,51 @@ export async function POST(req: NextRequest) {
       lastSeenAt: new Date().toISOString(),
     };
 
-    existingProducts[index] = updatedProduct;
+    // Save in serverless memory & /tmp
+    saveOverride(id, updatedProduct);
 
-    const newFileContent = `// Generated automatically from live Pakistani brand feeds\nimport { Product } from "@/types";\n\nexport const INITIAL_PRODUCTS: Product[] = ${JSON.stringify(
-      existingProducts,
-      null,
-      2
-    )};\n`;
+    // Try persisting to data/products.ts if on local dev (optional, won't throw on Vercel)
+    try {
+      if (fs.existsSync(PRODUCTS_FILE)) {
+        const content = fs.readFileSync(PRODUCTS_FILE, "utf8");
+        const marker = "= [";
+        const assignIdx = content.indexOf(marker);
+        if (assignIdx !== -1) {
+          const jsonStart = assignIdx + 2;
+          const jsonEnd = content.lastIndexOf("]");
+          const existingProducts: Product[] = JSON.parse(content.substring(jsonStart, jsonEnd + 1));
+          const pIdx = existingProducts.findIndex((p) => p.id === id);
+          if (pIdx !== -1) {
+            existingProducts[pIdx] = updatedProduct;
+            const newFileContent = `// Generated automatically from live Pakistani brand feeds\nimport { Product } from "@/types";\n\nexport const INITIAL_PRODUCTS: Product[] = ${JSON.stringify(
+              existingProducts,
+              null,
+              2
+            )};\n`;
+            fs.writeFileSync(PRODUCTS_FILE, newFileContent, "utf8");
+          }
+        }
+      }
+    } catch (fsErr) {
+      // Expected on Vercel serverless read-only filesystem; already saved in memory and /tmp
+    }
 
-    fs.writeFileSync(PRODUCTS_FILE, newFileContent, "utf8");
-
-    return NextResponse.json({
-      success: true,
-      message: `Product "${updatedProduct.title}" updated successfully!`,
-      product: updatedProduct,
-    });
+    return NextResponse.json(
+      {
+        success: true,
+        message: `Product "${updatedProduct.title}" updated successfully!`,
+        product: updatedProduct,
+      },
+      {
+        headers: {
+          "Cache-Control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+        },
+      }
+    );
   } catch (error: any) {
     console.error("Product update error:", error);
     return NextResponse.json(
-      { success: false, error: "Failed to update product details." },
+      { success: false, error: "Failed to update product details: " + (error.message || "") },
       { status: 500 }
     );
   }

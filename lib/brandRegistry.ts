@@ -3,6 +3,7 @@ import path from "path";
 import { BrandRegistration, Brand } from "@/types";
 
 const REGISTRATIONS_FILE = path.join(process.cwd(), "data", "brand-registrations.json");
+const TMP_REGISTRATIONS_FILE = path.join("/tmp", "brand-registrations.json");
 const BRANDS_FILE = path.join(process.cwd(), "data", "brands.ts");
 
 const CORE_BRAND_IDS = new Set([
@@ -24,6 +25,19 @@ let memoryRegistrations: BrandRegistration[] = [];
  * Retrieve all registered brand applications
  */
 export function getBrandRegistrations(): BrandRegistration[] {
+  if (memoryRegistrations.length > 0) {
+    return memoryRegistrations;
+  }
+  try {
+    if (fs.existsSync(TMP_REGISTRATIONS_FILE)) {
+      const content = fs.readFileSync(TMP_REGISTRATIONS_FILE, "utf8");
+      const parsed = JSON.parse(content || "[]");
+      if (Array.isArray(parsed) && parsed.length > 0) {
+        memoryRegistrations = parsed;
+        return parsed;
+      }
+    }
+  } catch {}
   try {
     if (fs.existsSync(REGISTRATIONS_FILE)) {
       const content = fs.readFileSync(REGISTRATIONS_FILE, "utf8");
@@ -116,15 +130,24 @@ export function updateBrandRegistrationStatus(
     registrations[index].status = status;
     memoryRegistrations = registrations;
 
-    // Save to brand-registrations.json
-    fs.writeFileSync(REGISTRATIONS_FILE, JSON.stringify(registrations, null, 2), "utf8");
+    // Save to /tmp for Vercel serverless persistence
+    try {
+      fs.writeFileSync(TMP_REGISTRATIONS_FILE, JSON.stringify(registrations, null, 2), "utf8");
+    } catch {}
+
+    // Save to local brand-registrations.json if writable
+    try {
+      fs.writeFileSync(REGISTRATIONS_FILE, JSON.stringify(registrations, null, 2), "utf8");
+    } catch {}
 
     // Sync with live storefront data/brands.ts
-    if (status === "approved" || status === "live") {
-      syncBrandToBrandsFile(registrations[index], "add");
-    } else if (status === "rejected" || status === "pending_review") {
-      syncBrandToBrandsFile(registrations[index], "remove");
-    }
+    try {
+      if (status === "approved" || status === "live") {
+        syncBrandToBrandsFile(registrations[index], "add");
+      } else if (status === "rejected" || status === "pending_review") {
+        syncBrandToBrandsFile(registrations[index], "remove");
+      }
+    } catch {}
 
     return {
       success: true,
@@ -150,10 +173,18 @@ export function deleteBrandRegistration(id: string): { success: boolean; error?:
     const updated = registrations.filter((r) => r.id !== id);
     memoryRegistrations = updated;
 
-    fs.writeFileSync(REGISTRATIONS_FILE, JSON.stringify(updated, null, 2), "utf8");
+    try {
+      fs.writeFileSync(TMP_REGISTRATIONS_FILE, JSON.stringify(updated, null, 2), "utf8");
+    } catch {}
+
+    try {
+      fs.writeFileSync(REGISTRATIONS_FILE, JSON.stringify(updated, null, 2), "utf8");
+    } catch {}
 
     // Remove from brands.ts if it was added
-    syncBrandToBrandsFile(target, "remove");
+    try {
+      syncBrandToBrandsFile(target, "remove");
+    } catch {}
 
     return { success: true };
   } catch (err: any) {
@@ -241,6 +272,10 @@ export function registerBrand(data: {
 
   const updatedList = [newRegistration, ...currentList];
   memoryRegistrations = updatedList;
+
+  try {
+    fs.writeFileSync(TMP_REGISTRATIONS_FILE, JSON.stringify(updatedList, null, 2), "utf8");
+  } catch {}
 
   try {
     const dir = path.dirname(REGISTRATIONS_FILE);
