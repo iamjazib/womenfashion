@@ -48,8 +48,24 @@ export async function POST(req: NextRequest) {
 
 export async function DELETE(req: NextRequest) {
   try {
-    const { searchParams } = new URL(req.url);
-    const id = searchParams.get("id");
+    let id: string | null = null;
+    try {
+      id = req.nextUrl.searchParams.get("id");
+    } catch {}
+
+    if (!id) {
+      try {
+        const url = new URL(req.url);
+        id = url.searchParams.get("id");
+      } catch {}
+    }
+
+    if (!id) {
+      try {
+        const body = await req.json();
+        id = body?.id || null;
+      } catch {}
+    }
 
     if (!id) {
       return NextResponse.json(

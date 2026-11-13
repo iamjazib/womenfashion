@@ -1,13 +1,14 @@
 import { NextRequest, NextResponse } from "next/server";
 import fs from "fs";
 import path from "path";
+import os from "os";
 import { INITIAL_PRODUCTS } from "@/data/products";
 import { Product } from "@/types";
 
 export const dynamic = "force-dynamic";
 
 const PRODUCTS_FILE = path.join(process.cwd(), "data", "products.ts");
-const TMP_OVERRIDES_FILE = path.join("/tmp", "products-overrides.json");
+const TMP_OVERRIDES_FILE = path.join(os.tmpdir(), "products-overrides.json");
 
 // In-memory overrides dictionary (id -> Partial<Product>)
 let memoryOverrides: Record<string, Partial<Product>> = {};

@@ -75,6 +75,7 @@ export default function AdminDashboardPage() {
   const [isLoadingBrands, setIsLoadingBrands] = useState(false);
   const [brandFeedback, setBrandFeedback] = useState("");
   const [updatingBrandId, setUpdatingBrandId] = useState<string | null>(null);
+  const [deletingConfirmId, setDeletingConfirmId] = useState<string | null>(null);
 
   // Subscribers State
   const [subscribers, setSubscribers] = useState<any[]>([]);
@@ -123,10 +124,21 @@ export default function AdminDashboardPage() {
   const loadBrandRegistrations = async () => {
     setIsLoadingBrands(true);
     try {
-      const res = await fetch("/api/brands/register");
+      const res = await fetch("/api/brands/register", { cache: "no-store" });
       const data = await res.json();
       if (data.success && Array.isArray(data.registrations)) {
-        setBrandRegistrations(data.registrations);
+        let brands = data.registrations;
+        try {
+          const deletedIds: string[] = JSON.parse(localStorage.getItem("admin_brand_deleted_ids") || "[]");
+          const statusOverrides: Record<string, string> = JSON.parse(
+            localStorage.getItem("admin_brand_status_overrides") || "{}"
+          );
+          brands = brands.filter((b: any) => !deletedIds.includes(b.id));
+          brands = brands.map((b: any) =>
+            statusOverrides[b.id] ? { ...b, status: statusOverrides[b.id] } : b
+          );
+        } catch {}
+        setBrandRegistrations(brands);
       }
     } catch (err) {
       console.warn("Could not load brands:", err);
@@ -234,6 +246,19 @@ export default function AdminDashboardPage() {
   const handleUpdateBrandStatus = async (id: string, status: string) => {
     setBrandFeedback("");
     setUpdatingBrandId(id);
+
+    // Optimistically update UI immediately
+    setBrandRegistrations((prev) =>
+      prev.map((b) => (b.id === id ? { ...b, status: status as any } : b))
+    );
+
+    // Save status override in localStorage
+    try {
+      const statusOverrides = JSON.parse(localStorage.getItem("admin_brand_status_overrides") || "{}");
+      statusOverrides[id] = status;
+      localStorage.setItem("admin_brand_status_overrides", JSON.stringify(statusOverrides));
+    } catch {}
+
     try {
       const res = await fetch("/api/admin/brands/status", {
         method: "POST",
@@ -243,25 +268,36 @@ export default function AdminDashboardPage() {
       const data = await res.json();
       if (data.success) {
         setBrandFeedback(data.message || `Status updated to ${status}.`);
-        setBrandRegistrations((prev) =>
-          prev.map((b) => (b.id === id ? { ...b, status: status as any } : b))
-        );
       } else {
-        setBrandFeedback(data.error || "Failed to update brand status.");
+        setBrandFeedback(data.error || "Failed to update brand status on server.");
       }
     } catch (err) {
-      setBrandFeedback("Network error updating brand status.");
+      setBrandFeedback("Network error updating brand status on server.");
     } finally {
       setUpdatingBrandId(null);
     }
   };
 
   const handleDeleteBrand = async (id: string, brandName: string) => {
-    if (!window.confirm(`Are you sure you want to delete "${brandName}" application?`)) {
-      return;
-    }
+    setDeletingConfirmId(null);
     setBrandFeedback("");
     setUpdatingBrandId(id);
+
+    // Optimistically remove from UI immediately
+    setBrandRegistrations((prev) => prev.filter((b) => b.id !== id));
+
+    // Save deletion in localStorage so serverless refreshes don't restore it
+    try {
+      const deletedIds: string[] = JSON.parse(localStorage.getItem("admin_brand_deleted_ids") || "[]");
+      if (!deletedIds.includes(id)) {
+        deletedIds.push(id);
+        localStorage.setItem("admin_brand_deleted_ids", JSON.stringify(deletedIds));
+      }
+      const statusOverrides = JSON.parse(localStorage.getItem("admin_brand_status_overrides") || "{}");
+      delete statusOverrides[id];
+      localStorage.setItem("admin_brand_status_overrides", JSON.stringify(statusOverrides));
+    } catch {}
+
     try {
       const res = await fetch(`/api/admin/brands/status?id=${encodeURIComponent(id)}`, {
         method: "DELETE",
@@ -269,12 +305,11 @@ export default function AdminDashboardPage() {
       const data = await res.json();
       if (data.success) {
         setBrandFeedback(`Brand "${brandName}" deleted successfully.`);
-        setBrandRegistrations((prev) => prev.filter((b) => b.id !== id));
       } else {
-        setBrandFeedback(data.error || "Failed to delete brand registration.");
+        setBrandFeedback(data.error || "Failed to delete brand registration on server.");
       }
     } catch (err) {
-      setBrandFeedback("Network error deleting brand registration.");
+      setBrandFeedback("Network error deleting brand registration on server.");
     } finally {
       setUpdatingBrandId(null);
     }
@@ -1053,63 +1088,112 @@ export default function AdminDashboardPage() {
                               </div>
                             ) : (
                               <>
-                                {/* Approve Button */}
-                                {isApproved ? (
-                                  <span className="bg-emerald-50 text-emerald-800 border border-emerald-300 text-xs font-bold px-3 py-1.5 rounded-lg flex items-center gap-1 cursor-default select-none">
-                                    <Check className="w-3.5 h-3.5 text-emerald-600" /> Approved
-                                  </span>
-                                ) : (
-                                  <button
-                                    onClick={() => handleUpdateBrandStatus(b.id, "approved")}
-                                    className="bg-emerald-600 hover:bg-emerald-700 text-white text-xs font-bold px-3.5 py-1.5 rounded-lg transition-all shadow-xs hover:shadow-md cursor-pointer flex items-center gap-1.5"
-                                    title="Approve and activate brand on storefront"
-                                  >
-                                    <Check className="w-3.5 h-3.5" />
-                                    <span>Approve</span>
-                                  </button>
+                                {/* State 1: Brand is Approved */}
+                                {isApproved && (
+                                  <>
+                                    <span className="bg-emerald-50 text-emerald-800 border border-emerald-300 text-xs font-bold px-3 py-1.5 rounded-lg flex items-center gap-1 cursor-default select-none">
+                                      <Check className="w-3.5 h-3.5 text-emerald-600" /> Approved
+                                    </span>
+                                    <button
+                                      onClick={() => handleUpdateBrandStatus(b.id, "live")}
+                                      className="bg-neutral-900 hover:bg-neutral-800 text-white text-xs font-bold px-3 py-1.5 rounded-lg transition-colors cursor-pointer"
+                                      title="Set brand live on radar"
+                                    >
+                                      Set Live
+                                    </button>
+                                    <button
+                                      onClick={() => handleUpdateBrandStatus(b.id, "rejected")}
+                                      className="bg-white hover:bg-rose-50 text-neutral-700 hover:text-rose-600 border border-neutral-300 text-xs font-bold px-2.5 py-1.5 rounded-lg transition-colors cursor-pointer flex items-center gap-1"
+                                      title="Decline this brand application"
+                                    >
+                                      <XCircle className="w-3.5 h-3.5 text-rose-500" />
+                                      <span>Reject</span>
+                                    </button>
+                                  </>
                                 )}
 
-                                {/* Set Live Button */}
-                                {isLive ? (
-                                  <span className="bg-blue-50 text-blue-800 border border-blue-300 text-xs font-bold px-3 py-1.5 rounded-lg flex items-center gap-1 cursor-default select-none">
-                                    <span className="w-2 h-2 rounded-full bg-blue-600" /> Live
-                                  </span>
-                                ) : (
-                                  <button
-                                    onClick={() => handleUpdateBrandStatus(b.id, "live")}
-                                    className="bg-neutral-900 hover:bg-neutral-800 text-white text-xs font-bold px-3 py-1.5 rounded-lg transition-colors cursor-pointer"
-                                    title="Set brand live on radar"
-                                  >
-                                    Set Live
-                                  </button>
+                                {/* State 2: Brand is Live */}
+                                {isLive && (
+                                  <>
+                                    <span className="bg-blue-50 text-blue-800 border border-blue-300 text-xs font-bold px-3 py-1.5 rounded-lg flex items-center gap-1 cursor-default select-none">
+                                      <span className="w-2 h-2 rounded-full bg-blue-600" /> Live
+                                    </span>
+                                    <button
+                                      onClick={() => handleUpdateBrandStatus(b.id, "rejected")}
+                                      className="bg-white hover:bg-rose-50 text-neutral-700 hover:text-rose-600 border border-neutral-300 text-xs font-bold px-2.5 py-1.5 rounded-lg transition-colors cursor-pointer flex items-center gap-1"
+                                      title="Decline this brand application"
+                                    >
+                                      <XCircle className="w-3.5 h-3.5 text-rose-500" />
+                                      <span>Reject</span>
+                                    </button>
+                                  </>
                                 )}
 
-                                {/* Reject Button */}
-                                {isRejected ? (
-                                  <button
-                                    onClick={() => handleUpdateBrandStatus(b.id, "approved")}
-                                    className="bg-white hover:bg-emerald-50 text-emerald-700 border border-emerald-200 text-xs font-bold px-2.5 py-1.5 rounded-lg transition-colors cursor-pointer"
-                                  >
-                                    Re-Approve
-                                  </button>
-                                ) : (
-                                  <button
-                                    onClick={() => handleUpdateBrandStatus(b.id, "rejected")}
-                                    className="bg-white hover:bg-rose-50 text-neutral-600 hover:text-rose-600 border border-neutral-200 text-xs font-bold px-2.5 py-1.5 rounded-lg transition-colors cursor-pointer"
-                                    title="Decline this brand application"
-                                  >
-                                    Reject
-                                  </button>
+                                {/* State 3: Brand is Rejected */}
+                                {isRejected && (
+                                  <>
+                                    <span className="bg-rose-50 text-rose-700 border border-rose-300 text-xs font-bold px-3 py-1.5 rounded-lg flex items-center gap-1 cursor-default select-none">
+                                      <XCircle className="w-3.5 h-3.5 text-rose-500" /> Rejected
+                                    </span>
+                                    <button
+                                      onClick={() => handleUpdateBrandStatus(b.id, "approved")}
+                                      className="bg-emerald-600 hover:bg-emerald-700 text-white text-xs font-bold px-3.5 py-1.5 rounded-lg transition-colors cursor-pointer flex items-center gap-1"
+                                      title="Re-approve this brand application"
+                                    >
+                                      <Check className="w-3.5 h-3.5" />
+                                      <span>Re-Approve</span>
+                                    </button>
+                                  </>
                                 )}
 
-                                {/* Delete Trash Icon */}
-                                <button
-                                  onClick={() => handleDeleteBrand(b.id, b.brandName)}
-                                  title="Permanently remove application"
-                                  className="p-1.5 text-neutral-400 hover:text-rose-600 hover:bg-rose-50 rounded-lg transition-colors cursor-pointer ml-1"
-                                >
-                                  <Trash2 className="w-4 h-4" />
-                                </button>
+                                {/* State 4: Brand is Pending Review */}
+                                {!isApproved && !isLive && !isRejected && (
+                                  <>
+                                    <button
+                                      onClick={() => handleUpdateBrandStatus(b.id, "approved")}
+                                      className="bg-emerald-600 hover:bg-emerald-700 text-white text-xs font-bold px-3.5 py-1.5 rounded-lg transition-all shadow-xs hover:shadow-md cursor-pointer flex items-center gap-1.5"
+                                      title="Approve and activate brand on storefront"
+                                    >
+                                      <Check className="w-3.5 h-3.5" />
+                                      <span>Approve</span>
+                                    </button>
+                                    <button
+                                      onClick={() => handleUpdateBrandStatus(b.id, "rejected")}
+                                      className="bg-white hover:bg-rose-50 text-neutral-700 hover:text-rose-600 border border-neutral-300 text-xs font-bold px-2.5 py-1.5 rounded-lg transition-colors cursor-pointer flex items-center gap-1"
+                                      title="Decline this brand application"
+                                    >
+                                      <XCircle className="w-3.5 h-3.5 text-rose-500" />
+                                      <span>Reject</span>
+                                    </button>
+                                  </>
+                                )}
+
+                                {/* Delete / Trash Control with Safe Inline Confirmation */}
+                                {deletingConfirmId === b.id ? (
+                                  <div className="flex items-center gap-1.5 bg-rose-50 border border-rose-300 px-2 py-1 rounded-lg ml-1">
+                                    <span className="text-[11px] font-bold text-rose-700">Delete?</span>
+                                    <button
+                                      onClick={() => handleDeleteBrand(b.id, b.brandName)}
+                                      className="bg-rose-600 hover:bg-rose-700 text-white text-[11px] font-bold px-2 py-0.5 rounded cursor-pointer"
+                                    >
+                                      Yes
+                                    </button>
+                                    <button
+                                      onClick={() => setDeletingConfirmId(null)}
+                                      className="bg-neutral-200 hover:bg-neutral-300 text-neutral-700 text-[11px] font-bold px-2 py-0.5 rounded cursor-pointer"
+                                    >
+                                      No
+                                    </button>
+                                  </div>
+                                ) : (
+                                  <button
+                                    onClick={() => setDeletingConfirmId(b.id)}
+                                    title="Permanently remove application"
+                                    className="p-1.5 text-neutral-400 hover:text-rose-600 hover:bg-rose-50 rounded-lg transition-colors cursor-pointer ml-1"
+                                  >
+                                    <Trash2 className="w-4 h-4" />
+                                  </button>
+                                )}
                               </>
                             )}
                           </div>

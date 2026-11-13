@@ -269,7 +269,7 @@ export default function BrandPortalPage() {
 
                     <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
                       <div>
-                        <label className="block text-xs font-semibold text-neutral-700 mb-1.5">
+                        <label className="block text-xs font-bold text-neutral-800 mb-1.5">
                           Brand Name <span className="text-rose-500">*</span>
                         </label>
                         <input
@@ -278,12 +278,13 @@ export default function BrandPortalPage() {
                           value={brandName}
                           onChange={(e) => setBrandName(e.target.value)}
                           placeholder="e.g. Charizma, Maria.B, Cross Stitch"
-                          className="w-full px-3.5 py-2.5 bg-white border border-neutral-300 rounded-xl text-sm text-neutral-950 placeholder:text-neutral-500 focus:bg-white focus:border-neutral-900 focus:outline-hidden transition-all shadow-2xs font-medium"
+                          style={{ color: "#09090b", backgroundColor: "#ffffff", colorScheme: "light" }}
+                          className="w-full px-3.5 py-2.5 bg-white border border-neutral-300 rounded-xl text-sm text-neutral-900 placeholder:text-neutral-500 focus:bg-white focus:border-neutral-950 focus:outline-hidden transition-all shadow-2xs font-semibold"
                         />
                       </div>
 
                       <div>
-                        <label className="block text-xs font-semibold text-neutral-700 mb-1.5">
+                        <label className="block text-xs font-bold text-neutral-800 mb-1.5">
                           Official Store Website URL <span className="text-rose-500">*</span>
                         </label>
                         <input
@@ -292,12 +293,13 @@ export default function BrandPortalPage() {
                           value={website}
                           onChange={(e) => setWebsite(e.target.value)}
                           placeholder="https://www.yourbrand.pk"
-                          className="w-full px-3.5 py-2.5 bg-white border border-neutral-300 rounded-xl text-sm text-neutral-950 placeholder:text-neutral-500 focus:bg-white focus:border-neutral-900 focus:outline-hidden transition-all shadow-2xs font-medium"
+                          style={{ color: "#09090b", backgroundColor: "#ffffff", colorScheme: "light" }}
+                          className="w-full px-3.5 py-2.5 bg-white border border-neutral-300 rounded-xl text-sm text-neutral-900 placeholder:text-neutral-500 focus:bg-white focus:border-neutral-950 focus:outline-hidden transition-all shadow-2xs font-semibold"
                         />
                       </div>
 
                       <div>
-                        <label className="block text-xs font-semibold text-neutral-700 mb-1.5">
+                        <label className="block text-xs font-bold text-neutral-800 mb-1.5">
                           Sale / Clearance Collection URL <span className="text-rose-500">*</span>
                         </label>
                         <input
@@ -306,19 +308,20 @@ export default function BrandPortalPage() {
                           value={saleUrl}
                           onChange={(e) => setSaleUrl(e.target.value)}
                           placeholder="https://www.yourbrand.pk/collections/sale"
-                          className="w-full px-3.5 py-2.5 bg-white border border-neutral-300 rounded-xl text-sm text-neutral-950 placeholder:text-neutral-500 focus:bg-white focus:border-neutral-900 focus:outline-hidden transition-all shadow-2xs font-medium"
+                          style={{ color: "#09090b", backgroundColor: "#ffffff", colorScheme: "light" }}
+                          className="w-full px-3.5 py-2.5 bg-white border border-neutral-300 rounded-xl text-sm text-neutral-900 placeholder:text-neutral-500 focus:bg-white focus:border-neutral-950 focus:outline-hidden transition-all shadow-2xs font-semibold"
                         />
                       </div>
 
                       <div>
-                        <label className="block text-xs font-semibold text-neutral-700 mb-1.5">
+                        <label className="block text-xs font-bold text-neutral-800 mb-1.5">
                           E-Commerce Engine
                         </label>
                         <select
                           value={platform}
                           onChange={(e) => setPlatform(e.target.value as any)}
-                          style={{ color: "#09090b", backgroundColor: "#ffffff" }}
-                          className="w-full px-3.5 py-2.5 bg-white border border-neutral-300 rounded-xl text-sm text-neutral-950 placeholder:text-neutral-500 focus:bg-white focus:border-neutral-900 focus:outline-hidden transition-all shadow-2xs font-medium"
+                          style={{ color: "#09090b", backgroundColor: "#ffffff", colorScheme: "light" }}
+                          className="w-full px-3.5 py-2.5 bg-white border border-neutral-300 rounded-xl text-sm text-neutral-900 focus:bg-white focus:border-neutral-950 focus:outline-hidden transition-all shadow-2xs font-semibold"
                         >
                           <option value="shopify" style={{ color: "#09090b", backgroundColor: "#ffffff" }}>Shopify (Auto-feed sync)</option>
                           <option value="custom" style={{ color: "#09090b", backgroundColor: "#ffffff" }}>Custom / Demandware / Salesforce</option>
@@ -380,7 +383,7 @@ export default function BrandPortalPage() {
 
                     <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
                       <div>
-                        <label className="block text-xs font-semibold text-neutral-700 mb-1.5">
+                        <label className="block text-xs font-bold text-neutral-800 mb-1.5">
                           Representative Name <span className="text-rose-500">*</span>
                         </label>
                         <input
@@ -389,12 +392,13 @@ export default function BrandPortalPage() {
                           value={contactName}
                           onChange={(e) => setContactName(e.target.value)}
                           placeholder="Full Name"
-                          className="w-full px-3.5 py-2.5 bg-white border border-neutral-300 rounded-xl text-sm text-neutral-950 placeholder:text-neutral-500 focus:bg-white focus:border-neutral-900 focus:outline-hidden transition-all shadow-2xs font-medium"
+                          style={{ color: "#09090b", backgroundColor: "#ffffff", colorScheme: "light" }}
+                          className="w-full px-3.5 py-2.5 bg-white border border-neutral-300 rounded-xl text-sm text-neutral-900 placeholder:text-neutral-500 focus:bg-white focus:border-neutral-950 focus:outline-hidden transition-all shadow-2xs font-semibold"
                         />
                       </div>
 
                       <div>
-                        <label className="block text-xs font-semibold text-neutral-700 mb-1.5">
+                        <label className="block text-xs font-bold text-neutral-800 mb-1.5">
                           Official Business Email <span className="text-rose-500">*</span>
                         </label>
                         <input
@@ -403,12 +407,13 @@ export default function BrandPortalPage() {
                           value={contactEmail}
                           onChange={(e) => setContactEmail(e.target.value)}
                           placeholder="partnerships@yourbrand.pk"
-                          className="w-full px-3.5 py-2.5 bg-white border border-neutral-300 rounded-xl text-sm text-neutral-950 placeholder:text-neutral-500 focus:bg-white focus:border-neutral-900 focus:outline-hidden transition-all shadow-2xs font-medium"
+                          style={{ color: "#09090b", backgroundColor: "#ffffff", colorScheme: "light" }}
+                          className="w-full px-3.5 py-2.5 bg-white border border-neutral-300 rounded-xl text-sm text-neutral-900 placeholder:text-neutral-500 focus:bg-white focus:border-neutral-950 focus:outline-hidden transition-all shadow-2xs font-semibold"
                         />
                       </div>
 
                       <div>
-                        <label className="block text-xs font-semibold text-neutral-700 mb-1.5">
+                        <label className="block text-xs font-bold text-neutral-800 mb-1.5">
                           Phone / WhatsApp Number
                         </label>
                         <input
@@ -416,13 +421,14 @@ export default function BrandPortalPage() {
                           value={contactPhone}
                           onChange={(e) => setContactPhone(e.target.value)}
                           placeholder="+92 300 1234567"
-                          className="w-full px-3.5 py-2.5 bg-white border border-neutral-300 rounded-xl text-sm text-neutral-950 placeholder:text-neutral-500 focus:bg-white focus:border-neutral-900 focus:outline-hidden transition-all shadow-2xs font-medium"
+                          style={{ color: "#09090b", backgroundColor: "#ffffff", colorScheme: "light" }}
+                          className="w-full px-3.5 py-2.5 bg-white border border-neutral-300 rounded-xl text-sm text-neutral-900 placeholder:text-neutral-500 focus:bg-white focus:border-neutral-950 focus:outline-hidden transition-all shadow-2xs font-semibold"
                         />
                       </div>
                     </div>
 
                     <div className="mt-4">
-                      <label className="block text-xs font-semibold text-neutral-700 mb-1.5">
+                      <label className="block text-xs font-bold text-neutral-800 mb-1.5">
                         Brand Logo Image URL (Optional)
                       </label>
                       <input
@@ -430,12 +436,13 @@ export default function BrandPortalPage() {
                         value={logoUrl}
                         onChange={(e) => setLogoUrl(e.target.value)}
                         placeholder="https://yourbrand.pk/logo.png"
-                        className="w-full px-3.5 py-2.5 bg-white border border-neutral-300 rounded-xl text-sm text-neutral-950 placeholder:text-neutral-500 focus:bg-white focus:border-neutral-900 focus:outline-hidden transition-all shadow-2xs font-medium"
+                        style={{ color: "#09090b", backgroundColor: "#ffffff", colorScheme: "light" }}
+                        className="w-full px-3.5 py-2.5 bg-white border border-neutral-300 rounded-xl text-sm text-neutral-900 placeholder:text-neutral-500 focus:bg-white focus:border-neutral-950 focus:outline-hidden transition-all shadow-2xs font-semibold"
                       />
                     </div>
 
                     <div className="mt-4">
-                      <label className="block text-xs font-semibold text-neutral-700 mb-1.5">
+                      <label className="block text-xs font-bold text-neutral-800 mb-1.5">
                         Brand Story / Notes for Curation Team
                       </label>
                       <textarea
@@ -443,7 +450,8 @@ export default function BrandPortalPage() {
                         value={description}
                         onChange={(e) => setDescription(e.target.value)}
                         placeholder="Tell us about your brand heritage, bestselling lawn fabrics, or upcoming seasonal sale timeline..."
-                        className="w-full px-3.5 py-2.5 bg-white border border-neutral-300 rounded-xl text-sm text-neutral-950 placeholder:text-neutral-500 focus:bg-white focus:border-neutral-900 focus:outline-hidden transition-all shadow-2xs font-medium"
+                        style={{ color: "#09090b", backgroundColor: "#ffffff", colorScheme: "light" }}
+                        className="w-full px-3.5 py-2.5 bg-white border border-neutral-300 rounded-xl text-sm text-neutral-900 placeholder:text-neutral-500 focus:bg-white focus:border-neutral-950 focus:outline-hidden transition-all shadow-2xs font-semibold"
                       ></textarea>
                     </div>
                   </div>

@@ -18,7 +18,7 @@
     "logoUrl": "https://images.unsplash.com/photo-1558769132-cb1aea458c5e?w=100&h=100&fit=crop&q=80",
     "description": "",
     "registeredAt": "2026-11-13T20:59:42.433Z",
-    "status": "approved",
+    "status": "pending_review",
     "priceGuaranteeAccepted": true
   }
 ]

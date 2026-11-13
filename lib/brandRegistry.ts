@@ -1,9 +1,11 @@
 import fs from "fs";
 import path from "path";
+import os from "os";
 import { BrandRegistration, Brand } from "@/types";
 
 const REGISTRATIONS_FILE = path.join(process.cwd(), "data", "brand-registrations.json");
-const TMP_REGISTRATIONS_FILE = path.join("/tmp", "brand-registrations.json");
+const TMP_REGISTRATIONS_FILE = path.join(os.tmpdir(), "brand-registrations.json");
+const TMP_DELETED_FILE = path.join(os.tmpdir(), "brand-registrations-deleted.json");
 const BRANDS_FILE = path.join(process.cwd(), "data", "brands.ts");
 
 const CORE_BRAND_IDS = new Set([
@@ -19,38 +21,66 @@ const CORE_BRAND_IDS = new Set([
   "sapphire",
 ]);
 
-let memoryRegistrations: BrandRegistration[] = [];
+let memoryRegistrations: BrandRegistration[] | null = null;
+let memoryDeletedIds: Set<string> = new Set();
+
+function loadDeletedIds(): Set<string> {
+  try {
+    if (fs.existsSync(TMP_DELETED_FILE)) {
+      const content = fs.readFileSync(TMP_DELETED_FILE, "utf8");
+      const list = JSON.parse(content || "[]");
+      if (Array.isArray(list)) {
+        list.forEach((id: string) => memoryDeletedIds.add(id));
+      }
+    }
+  } catch {}
+  return memoryDeletedIds;
+}
+
+function saveDeletedIds() {
+  try {
+    fs.writeFileSync(TMP_DELETED_FILE, JSON.stringify(Array.from(memoryDeletedIds)), "utf8");
+  } catch {}
+}
 
 /**
  * Retrieve all registered brand applications
  */
 export function getBrandRegistrations(): BrandRegistration[] {
-  if (memoryRegistrations.length > 0) {
-    return memoryRegistrations;
+  loadDeletedIds();
+
+  if (memoryRegistrations !== null) {
+    return memoryRegistrations.filter((r) => !memoryDeletedIds.has(r.id));
   }
+
+  // 1. Check TMP file (writable in serverless)
   try {
     if (fs.existsSync(TMP_REGISTRATIONS_FILE)) {
       const content = fs.readFileSync(TMP_REGISTRATIONS_FILE, "utf8");
       const parsed = JSON.parse(content || "[]");
-      if (Array.isArray(parsed) && parsed.length > 0) {
+      if (Array.isArray(parsed)) {
         memoryRegistrations = parsed;
-        return parsed;
+        return memoryRegistrations.filter((r) => !memoryDeletedIds.has(r.id));
       }
     }
   } catch {}
+
+  // 2. Check local data/brand-registrations.json
   try {
     if (fs.existsSync(REGISTRATIONS_FILE)) {
       const content = fs.readFileSync(REGISTRATIONS_FILE, "utf8");
       const parsed = JSON.parse(content || "[]");
       if (Array.isArray(parsed)) {
         memoryRegistrations = parsed;
-        return parsed;
+        return memoryRegistrations.filter((r) => !memoryDeletedIds.has(r.id));
       }
     }
   } catch (error) {
     console.warn("Could not read brand-registrations from disk, using memory store:", error);
   }
-  return memoryRegistrations;
+
+  memoryRegistrations = [];
+  return [];
 }
 
 /**
@@ -94,16 +124,21 @@ function syncBrandToBrandsFile(reg: BrandRegistration, action: "add" | "remove")
       const updatedContent = `${cleanContent},\n${newBrandEntry}\n`;
       fs.writeFileSync(BRANDS_FILE, updatedContent, "utf8");
     } else if (action === "remove") {
-      // Never remove core Pakistani fashion labels
+      // Never remove core fashion labels
       if (CORE_BRAND_IDS.has(reg.slug)) return;
 
       // Remove the custom brand block if present
       const regex = new RegExp(
-        `\\s*,?\\s*\\{\\s*id:\\s*"${reg.slug}"[\\s\\S]*?\\}`,
+        `\\s*,?\\s*\\{\\s*id:\\s*"${reg.slug}"[\\s\\S]*?\\}\\s*,?`,
         "g"
       );
       if (regex.test(content)) {
-        const updatedContent = content.replace(regex, "");
+        let updatedContent = content.replace(regex, "");
+        // Clean up any double commas or syntax artifacts before ];
+        updatedContent = updatedContent
+          .replace(/,\s*,/g, ",")
+          .replace(/,\s*\];/g, ",\n];")
+          .replace(/\[\s*,/g, "[");
         fs.writeFileSync(BRANDS_FILE, updatedContent, "utf8");
       }
     }
@@ -120,6 +155,7 @@ export function updateBrandRegistrationStatus(
   status: "pending_review" | "approved" | "live" | "rejected"
 ): { success: boolean; registration?: BrandRegistration; error?: string } {
   try {
+    loadDeletedIds();
     const registrations = getBrandRegistrations();
     const index = registrations.findIndex((r) => r.id === id);
 
@@ -128,16 +164,16 @@ export function updateBrandRegistrationStatus(
     }
 
     registrations[index].status = status;
-    memoryRegistrations = registrations;
+    memoryRegistrations = [...registrations];
 
-    // Save to /tmp for Vercel serverless persistence
+    // Save to tmp for serverless persistence
     try {
-      fs.writeFileSync(TMP_REGISTRATIONS_FILE, JSON.stringify(registrations, null, 2), "utf8");
+      fs.writeFileSync(TMP_REGISTRATIONS_FILE, JSON.stringify(memoryRegistrations, null, 2), "utf8");
     } catch {}
 
     // Save to local brand-registrations.json if writable
     try {
-      fs.writeFileSync(REGISTRATIONS_FILE, JSON.stringify(registrations, null, 2), "utf8");
+      fs.writeFileSync(REGISTRATIONS_FILE, JSON.stringify(memoryRegistrations, null, 2), "utf8");
     } catch {}
 
     // Sync with live storefront data/brands.ts
@@ -164,11 +200,11 @@ export function updateBrandRegistrationStatus(
  */
 export function deleteBrandRegistration(id: string): { success: boolean; error?: string } {
   try {
+    memoryDeletedIds.add(id);
+    saveDeletedIds();
+
     const registrations = getBrandRegistrations();
     const target = registrations.find((r) => r.id === id);
-    if (!target) {
-      return { success: false, error: "Registration not found." };
-    }
 
     const updated = registrations.filter((r) => r.id !== id);
     memoryRegistrations = updated;
@@ -182,9 +218,11 @@ export function deleteBrandRegistration(id: string): { success: boolean; error?:
     } catch {}
 
     // Remove from brands.ts if it was added
-    try {
-      syncBrandToBrandsFile(target, "remove");
-    } catch {}
+    if (target) {
+      try {
+        syncBrandToBrandsFile(target, "remove");
+      } catch {}
+    }
 
     return { success: true };
   } catch (err: any) {
@@ -269,6 +307,10 @@ export function registerBrand(data: {
     status: "pending_review",
     priceGuaranteeAccepted: true,
   };
+
+  memoryDeletedIds.delete(newRegistration.id);
+  memoryDeletedIds.delete(newRegistration.slug);
+  saveDeletedIds();
 
   const updatedList = [newRegistration, ...currentList];
   memoryRegistrations = updatedList;

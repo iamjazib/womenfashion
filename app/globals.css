@@ -1,27 +1,38 @@
 @import "tailwindcss";
 
 :root {
+  color-scheme: light;
   --background: #ffffff;
   --foreground: #171717;
 }
 
-body {
+html, body {
+  color-scheme: light;
   background: #fbfbfb;
   color: #171717;
   font-family: Arial, Helvetica, sans-serif;
 }
 
-/* Ensure form controls always have dark, readable text and clear placeholders regardless of OS theme */
+/* Ensure form controls always have dark, crisp, readable text and clear placeholders regardless of OS theme */
 input, select, textarea, option {
-  color: #171717 !important;
+  color-scheme: light !important;
+  color: #0f172a !important;
+  background-color: #ffffff;
 }
 
 input::placeholder, textarea::placeholder {
-  color: #737373 !important;
-  opacity: 1;
+  color: #4b5563 !important;
+  opacity: 1 !important;
+}
+
+select {
+  color-scheme: light !important;
+  color: #0f172a !important;
+  background-color: #ffffff !important;
 }
 
 select option {
+  color-scheme: light !important;
   background-color: #ffffff !important;
-  color: #171717 !important;
+  color: #0f172a !important;
 }

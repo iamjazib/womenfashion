@@ -1,11 +1,12 @@
 import { NextRequest, NextResponse } from "next/server";
 import fs from "fs";
 import path from "path";
+import os from "os";
 
 export const dynamic = "force-dynamic";
 
 const LOCAL_SEO_FILE = path.join(process.cwd(), "data", "seo-config.json");
-const TMP_SEO_FILE = path.join("/tmp", "seo-config.json");
+const TMP_SEO_FILE = path.join(os.tmpdir(), "seo-config.json");
 
 // Default initial SEO config fallback
 const DEFAULT_SEO_CONFIG = {

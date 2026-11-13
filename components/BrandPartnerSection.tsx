@@ -161,7 +161,7 @@ export const BrandPartnerSection: React.FC = () => {
                   )}
 
                   <div>
-                    <label className="block text-xs font-semibold text-neutral-700 mb-1">
+                    <label className="block text-xs font-bold text-neutral-800 mb-1">
                       Brand Name <span className="text-rose-500">*</span>
                     </label>
                     <input
@@ -170,12 +170,13 @@ export const BrandPartnerSection: React.FC = () => {
                       value={brandName}
                       onChange={(e) => setBrandName(e.target.value)}
                       placeholder="e.g. Cross Stitch, Maria.B, Charizma"
-                      className="w-full px-3.5 py-2.5 bg-neutral-50 border border-neutral-300 rounded-xl text-xs sm:text-sm text-neutral-950 placeholder:text-neutral-400 focus:bg-white focus:border-neutral-950 focus:outline-hidden transition-all"
+                      style={{ color: "#09090b", backgroundColor: "#ffffff", colorScheme: "light" }}
+                      className="w-full px-3.5 py-2.5 bg-white border border-neutral-300 rounded-xl text-xs sm:text-sm text-neutral-900 placeholder:text-neutral-500 focus:bg-white focus:border-neutral-950 focus:outline-hidden transition-all font-semibold"
                     />
                   </div>
 
                   <div>
-                    <label className="block text-xs font-semibold text-neutral-700 mb-1">
+                    <label className="block text-xs font-bold text-neutral-800 mb-1">
                       Official Store Website <span className="text-rose-500">*</span>
                     </label>
                     <input
@@ -184,12 +185,13 @@ export const BrandPartnerSection: React.FC = () => {
                       value={website}
                       onChange={(e) => setWebsite(e.target.value)}
                       placeholder="https://www.yourbrand.pk"
-                      className="w-full px-3.5 py-2.5 bg-neutral-50 border border-neutral-300 rounded-xl text-xs sm:text-sm text-neutral-950 placeholder:text-neutral-400 focus:bg-white focus:border-neutral-950 focus:outline-hidden transition-all"
+                      style={{ color: "#09090b", backgroundColor: "#ffffff", colorScheme: "light" }}
+                      className="w-full px-3.5 py-2.5 bg-white border border-neutral-300 rounded-xl text-xs sm:text-sm text-neutral-900 placeholder:text-neutral-500 focus:bg-white focus:border-neutral-950 focus:outline-hidden transition-all font-semibold"
                     />
                   </div>
 
                   <div>
-                    <label className="block text-xs font-semibold text-neutral-700 mb-1">
+                    <label className="block text-xs font-bold text-neutral-800 mb-1">
                       Business Email Address <span className="text-rose-500">*</span>
                     </label>
                     <input
@@ -198,7 +200,8 @@ export const BrandPartnerSection: React.FC = () => {
                       value={contactEmail}
                       onChange={(e) => setContactEmail(e.target.value)}
                       placeholder="partnerships@yourbrand.pk"
-                      className="w-full px-3.5 py-2.5 bg-neutral-50 border border-neutral-300 rounded-xl text-xs sm:text-sm text-neutral-950 placeholder:text-neutral-400 focus:bg-white focus:border-neutral-950 focus:outline-hidden transition-all"
+                      style={{ color: "#09090b", backgroundColor: "#ffffff", colorScheme: "light" }}
+                      className="w-full px-3.5 py-2.5 bg-white border border-neutral-300 rounded-xl text-xs sm:text-sm text-neutral-900 placeholder:text-neutral-500 focus:bg-white focus:border-neutral-950 focus:outline-hidden transition-all font-semibold"
                     />
                   </div>
 
