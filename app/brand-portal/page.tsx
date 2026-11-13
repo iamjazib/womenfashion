@@ -315,13 +315,14 @@ export default function BrandPortalPage() {
                         <select
                           value={platform}
                           onChange={(e) => setPlatform(e.target.value as any)}
+                          style={{ color: "#09090b", backgroundColor: "#ffffff" }}
                           className="w-full px-3.5 py-2.5 bg-white border border-neutral-300 rounded-xl text-sm text-neutral-950 placeholder:text-neutral-500 focus:bg-white focus:border-neutral-900 focus:outline-hidden transition-all shadow-2xs font-medium"
                         >
-                          <option value="shopify" className="text-neutral-950 bg-white">Shopify (Auto-feed sync)</option>
-                          <option value="custom" className="text-neutral-950 bg-white">Custom / Demandware / Salesforce</option>
-                          <option value="woocommerce" className="text-neutral-950 bg-white">WooCommerce</option>
-                          <option value="magento" className="text-neutral-950 bg-white">Magento / Adobe Commerce</option>
-                          <option value="other" className="text-neutral-950 bg-white">Other Platform</option>
+                          <option value="shopify" style={{ color: "#09090b", backgroundColor: "#ffffff" }}>Shopify (Auto-feed sync)</option>
+                          <option value="custom" style={{ color: "#09090b", backgroundColor: "#ffffff" }}>Custom / Demandware / Salesforce</option>
+                          <option value="woocommerce" style={{ color: "#09090b", backgroundColor: "#ffffff" }}>WooCommerce</option>
+                          <option value="magento" style={{ color: "#09090b", backgroundColor: "#ffffff" }}>Magento / Adobe Commerce</option>
+                          <option value="other" style={{ color: "#09090b", backgroundColor: "#ffffff" }}>Other Platform</option>
                         </select>
                       </div>
                     </div>
