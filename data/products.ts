@@ -19,7 +19,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-10-01T15:57:07+05:00",
-    "lastSeenAt": "2026-11-15T22:16:21.694Z",
+    "lastSeenAt": "2026-11-16T14:14:10.015Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -55,7 +55,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-08-27T13:14:01+05:00",
-    "lastSeenAt": "2026-11-15T22:16:21.695Z",
+    "lastSeenAt": "2026-11-16T14:14:10.016Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -91,7 +91,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-02T17:08:50+05:00",
-    "lastSeenAt": "2026-11-15T22:16:21.695Z",
+    "lastSeenAt": "2026-11-16T14:14:10.016Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -117,8 +117,8 @@ export const INITIAL_PRODUCTS: Product[] = [
     "title": "Tawny Port T-150 Seersucker Quilt Cover Set",
     "handle": "tawny-port-t-150-seersucker-quilt-cover-set",
     "originalPrice": 20000,
-    "salePrice": 12000,
-    "discountPct": 40,
+    "salePrice": 14000,
+    "discountPct": 30,
     "imageUrl": "https://cdn.shopify.com/s/files/1/0706/3253/8159/files/TawnyPortDuvet_1.jpg?v=1759391491",
     "category": "unstitched",
     "fabric": "Pure Cotton",
@@ -127,7 +127,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-10-02T12:48:41+05:00",
-    "lastSeenAt": "2026-11-15T22:16:21.695Z",
+    "lastSeenAt": "2026-11-16T14:14:10.016Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -142,7 +142,7 @@ export const INITIAL_PRODUCTS: Product[] = [
       {
         "date": "Today",
         "price": 20000,
-        "salePrice": 12000
+        "salePrice": 14000
       }
     ]
   },
@@ -163,7 +163,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-09-20T18:05:05+05:00",
-    "lastSeenAt": "2026-11-15T22:16:21.695Z",
+    "lastSeenAt": "2026-11-16T14:14:10.017Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -199,7 +199,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-08-03T15:29:23+05:00",
-    "lastSeenAt": "2026-11-15T22:16:21.696Z",
+    "lastSeenAt": "2026-11-16T14:14:10.017Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -235,7 +235,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-10-18T12:33:09+05:00",
-    "lastSeenAt": "2026-11-15T22:16:21.696Z",
+    "lastSeenAt": "2026-11-16T14:14:10.017Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -271,7 +271,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-11-13T15:45:38+05:00",
-    "lastSeenAt": "2026-11-15T22:16:21.696Z",
+    "lastSeenAt": "2026-11-16T14:14:10.017Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -307,7 +307,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-10-06T20:50:29+05:00",
-    "lastSeenAt": "2026-11-15T22:16:21.696Z",
+    "lastSeenAt": "2026-11-16T14:14:10.017Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -343,7 +343,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-15T13:17:54+05:00",
-    "lastSeenAt": "2026-11-15T22:16:21.696Z",
+    "lastSeenAt": "2026-11-16T14:14:10.017Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -379,7 +379,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-15T13:17:56+05:00",
-    "lastSeenAt": "2026-11-15T22:16:21.696Z",
+    "lastSeenAt": "2026-11-16T14:14:10.017Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -415,7 +415,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-03-02T09:58:21+05:00",
-    "lastSeenAt": "2026-11-15T22:16:21.696Z",
+    "lastSeenAt": "2026-11-16T14:14:10.017Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -451,7 +451,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-03-02T09:58:14+05:00",
-    "lastSeenAt": "2026-11-15T22:16:21.696Z",
+    "lastSeenAt": "2026-11-16T14:14:10.017Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -487,7 +487,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-02T17:06:39+05:00",
-    "lastSeenAt": "2026-11-15T22:16:21.696Z",
+    "lastSeenAt": "2026-11-16T14:14:10.018Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -523,7 +523,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-30T12:52:44+05:00",
-    "lastSeenAt": "2026-11-15T22:16:21.696Z",
+    "lastSeenAt": "2026-11-16T14:14:10.018Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -559,7 +559,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-09-20T18:05:28+05:00",
-    "lastSeenAt": "2026-11-15T22:16:21.696Z",
+    "lastSeenAt": "2026-11-16T14:14:10.018Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -585,8 +585,8 @@ export const INITIAL_PRODUCTS: Product[] = [
     "title": "Cream Stripe Satin T-250 Bedsheet Set",
     "handle": "cream-stripe-satin-t-250-bedsheet-set",
     "originalPrice": 6700,
-    "salePrice": 4020,
-    "discountPct": 40,
+    "salePrice": 4690,
+    "discountPct": 30,
     "imageUrl": "https://cdn.shopify.com/s/files/1/0706/3253/8159/files/cream_stripe_satin_t-250_bedsheet_set_2__4.jpg?v=1758373577",
     "category": "unstitched",
     "fabric": "Pure Cotton",
@@ -595,7 +595,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-09-20T18:05:50+05:00",
-    "lastSeenAt": "2026-11-15T22:16:21.696Z",
+    "lastSeenAt": "2026-11-16T14:14:10.018Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -610,7 +610,7 @@ export const INITIAL_PRODUCTS: Product[] = [
       {
         "date": "Today",
         "price": 6700,
-        "salePrice": 4020
+        "salePrice": 4690
       }
     ]
   },
@@ -621,8 +621,8 @@ export const INITIAL_PRODUCTS: Product[] = [
     "title": "Cinder Jacquard Throw",
     "handle": "cinder-jacquard-throw",
     "originalPrice": 15900,
-    "salePrice": 9540,
-    "discountPct": 40,
+    "salePrice": 11130,
+    "discountPct": 30,
     "imageUrl": "https://cdn.shopify.com/s/files/1/0706/3253/8159/files/cinder-reversible-throw-gulahmed-front-_1.jpg?v=1758373631",
     "category": "unstitched",
     "fabric": "Woven Jacquard",
@@ -631,7 +631,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-09-20T18:06:53+05:00",
-    "lastSeenAt": "2026-11-15T22:16:21.696Z",
+    "lastSeenAt": "2026-11-16T14:14:10.018Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -646,7 +646,7 @@ export const INITIAL_PRODUCTS: Product[] = [
       {
         "date": "Today",
         "price": 15900,
-        "salePrice": 9540
+        "salePrice": 11130
       }
     ]
   },
@@ -667,7 +667,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-11-10T15:26:08+05:00",
-    "lastSeenAt": "2026-11-15T22:16:21.696Z",
+    "lastSeenAt": "2026-11-16T14:14:10.018Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -703,7 +703,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-12-04T13:01:22+05:00",
-    "lastSeenAt": "2026-11-15T22:16:21.696Z",
+    "lastSeenAt": "2026-11-16T14:14:10.018Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -739,7 +739,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-10-18T12:33:05+05:00",
-    "lastSeenAt": "2026-11-15T22:16:21.696Z",
+    "lastSeenAt": "2026-11-16T14:14:10.018Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -775,7 +775,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-11-13T15:45:17+05:00",
-    "lastSeenAt": "2026-11-15T22:16:21.696Z",
+    "lastSeenAt": "2026-11-16T14:14:10.018Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -811,7 +811,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-15T13:18:06+05:00",
-    "lastSeenAt": "2026-11-15T22:16:21.697Z",
+    "lastSeenAt": "2026-11-16T14:14:10.018Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -847,7 +847,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-14T17:11:27+05:00",
-    "lastSeenAt": "2026-11-15T22:16:25.398Z",
+    "lastSeenAt": "2026-11-16T14:14:13.676Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -883,7 +883,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-14T17:11:25+05:00",
-    "lastSeenAt": "2026-11-15T22:16:25.398Z",
+    "lastSeenAt": "2026-11-16T14:14:13.676Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -919,7 +919,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-14T17:11:15+05:00",
-    "lastSeenAt": "2026-11-15T22:16:25.398Z",
+    "lastSeenAt": "2026-11-16T14:14:13.676Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -955,7 +955,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-14T13:39:11+05:00",
-    "lastSeenAt": "2026-11-15T22:16:25.398Z",
+    "lastSeenAt": "2026-11-16T14:14:13.676Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -991,7 +991,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-09T17:52:46+05:00",
-    "lastSeenAt": "2026-11-15T22:16:25.398Z",
+    "lastSeenAt": "2026-11-16T14:14:13.676Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1027,7 +1027,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-08T14:32:27+05:00",
-    "lastSeenAt": "2026-11-15T22:16:25.398Z",
+    "lastSeenAt": "2026-11-16T14:14:13.676Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1063,7 +1063,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-07T11:19:03+05:00",
-    "lastSeenAt": "2026-11-15T22:16:25.398Z",
+    "lastSeenAt": "2026-11-16T14:14:13.676Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1099,7 +1099,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-01T12:41:36+05:00",
-    "lastSeenAt": "2026-11-15T22:16:25.398Z",
+    "lastSeenAt": "2026-11-16T14:14:13.676Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1135,7 +1135,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-01T12:41:13+05:00",
-    "lastSeenAt": "2026-11-15T22:16:25.398Z",
+    "lastSeenAt": "2026-11-16T14:14:13.676Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1171,7 +1171,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-30T12:08:58+05:00",
-    "lastSeenAt": "2026-11-15T22:16:25.398Z",
+    "lastSeenAt": "2026-11-16T14:14:13.676Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1207,7 +1207,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-29T11:25:43+05:00",
-    "lastSeenAt": "2026-11-15T22:16:25.398Z",
+    "lastSeenAt": "2026-11-16T14:14:13.676Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1243,7 +1243,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-29T11:25:33+05:00",
-    "lastSeenAt": "2026-11-15T22:16:25.398Z",
+    "lastSeenAt": "2026-11-16T14:14:13.676Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1279,7 +1279,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-29T11:25:10+05:00",
-    "lastSeenAt": "2026-11-15T22:16:25.398Z",
+    "lastSeenAt": "2026-11-16T14:14:13.676Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1315,7 +1315,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-26T11:14:12+05:00",
-    "lastSeenAt": "2026-11-15T22:16:25.398Z",
+    "lastSeenAt": "2026-11-16T14:14:13.676Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1351,7 +1351,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-26T11:14:10+05:00",
-    "lastSeenAt": "2026-11-15T22:16:25.398Z",
+    "lastSeenAt": "2026-11-16T14:14:13.676Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1387,7 +1387,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-26T11:13:53+05:00",
-    "lastSeenAt": "2026-11-15T22:16:25.398Z",
+    "lastSeenAt": "2026-11-16T14:14:13.676Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1423,7 +1423,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-26T11:13:50+05:00",
-    "lastSeenAt": "2026-11-15T22:16:25.398Z",
+    "lastSeenAt": "2026-11-16T14:14:13.676Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1459,7 +1459,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-26T11:13:45+05:00",
-    "lastSeenAt": "2026-11-15T22:16:25.398Z",
+    "lastSeenAt": "2026-11-16T14:14:13.676Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1495,7 +1495,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-26T11:13:35+05:00",
-    "lastSeenAt": "2026-11-15T22:16:25.398Z",
+    "lastSeenAt": "2026-11-16T14:14:13.676Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1531,7 +1531,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-24T12:10:55+05:00",
-    "lastSeenAt": "2026-11-15T22:16:25.398Z",
+    "lastSeenAt": "2026-11-16T14:14:13.676Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1567,7 +1567,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-24T12:10:20+05:00",
-    "lastSeenAt": "2026-11-15T22:16:25.398Z",
+    "lastSeenAt": "2026-11-16T14:14:13.676Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1603,7 +1603,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-21T17:37:07+05:00",
-    "lastSeenAt": "2026-11-15T22:16:25.399Z",
+    "lastSeenAt": "2026-11-16T14:14:13.676Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1639,7 +1639,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-21T17:37:05+05:00",
-    "lastSeenAt": "2026-11-15T22:16:25.399Z",
+    "lastSeenAt": "2026-11-16T14:14:13.676Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1675,7 +1675,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-17T17:26:16+05:00",
-    "lastSeenAt": "2026-11-15T22:16:25.399Z",
+    "lastSeenAt": "2026-11-16T14:14:13.676Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1711,7 +1711,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-16T11:36:59+05:00",
-    "lastSeenAt": "2026-11-15T22:16:25.399Z",
+    "lastSeenAt": "2026-11-16T14:14:13.676Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1747,7 +1747,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-16T11:36:54+05:00",
-    "lastSeenAt": "2026-11-15T22:16:25.399Z",
+    "lastSeenAt": "2026-11-16T14:14:13.676Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1783,7 +1783,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-16T11:36:44+05:00",
-    "lastSeenAt": "2026-11-15T22:16:25.399Z",
+    "lastSeenAt": "2026-11-16T14:14:13.676Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1799,42 +1799,6 @@ export const INITIAL_PRODUCTS: Product[] = [
         "date": "Today",
         "price": 4899,
         "salePrice": 3399
-      }
-    ]
-  },
-  {
-    "id": "limelight-9037063454808",
-    "brandId": "limelight",
-    "brandName": "Limelight",
-    "title": "3 Piece Khaddar Suit (Unstitched)",
-    "handle": "u4932su-3pc-143",
-    "originalPrice": 4899,
-    "salePrice": 2899,
-    "discountPct": 41,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/2635/3244/files/U4932SU-3PC-143-3PieceKhaddarSuit_Unstitched_1_f2d8cae9-f66b-425a-a3da-8d6913340d92.jpg?v=1793707399",
-    "category": "unstitched",
-    "fabric": "Cotton Khaddar",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://www.limelight.pk/products/u4932su-3pc-143",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-09-16T11:36:42+05:00",
-    "lastSeenAt": "2026-11-15T22:16:25.399Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 4899,
-        "salePrice": 4899
-      },
-      {
-        "date": "Oct 24",
-        "price": 4899,
-        "salePrice": 4507
-      },
-      {
-        "date": "Today",
-        "price": 4899,
-        "salePrice": 2899
       }
     ]
   },
@@ -1855,7 +1819,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-16T11:36:25+05:00",
-    "lastSeenAt": "2026-11-15T22:16:25.399Z",
+    "lastSeenAt": "2026-11-16T14:14:13.676Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1891,7 +1855,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-16T11:36:24+05:00",
-    "lastSeenAt": "2026-11-15T22:16:25.399Z",
+    "lastSeenAt": "2026-11-16T14:14:13.676Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1907,6 +1871,42 @@ export const INITIAL_PRODUCTS: Product[] = [
         "date": "Today",
         "price": 4299,
         "salePrice": 2999
+      }
+    ]
+  },
+  {
+    "id": "limelight-9033266921560",
+    "brandId": "limelight",
+    "brandName": "Limelight",
+    "title": "Contrast Line Co-ord",
+    "handle": "w2516st-xsl-002",
+    "originalPrice": 7999,
+    "salePrice": 5599,
+    "discountPct": 30,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/2635/3244/files/W2516ST-SML-002-ContrastEdgeCo-ord_2.jpg?v=1789386506",
+    "category": "western",
+    "fabric": "Fine Cotton Lawn",
+    "pieceCount": "1 Piece",
+    "productUrl": "https://www.limelight.pk/products/w2516st-xsl-002",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-09-14T15:48:40+05:00",
+    "lastSeenAt": "2026-11-16T14:14:13.676Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 7999,
+        "salePrice": 7999
+      },
+      {
+        "date": "Oct 24",
+        "price": 7999,
+        "salePrice": 7359
+      },
+      {
+        "date": "Today",
+        "price": 7999,
+        "salePrice": 5599
       }
     ]
   },
@@ -1927,7 +1927,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-02T16:35:37+05:00",
-    "lastSeenAt": "2026-11-15T22:16:29.076Z",
+    "lastSeenAt": "2026-11-16T14:14:17.392Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1963,7 +1963,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-04-25T13:06:37+05:00",
-    "lastSeenAt": "2026-11-15T22:16:29.076Z",
+    "lastSeenAt": "2026-11-16T14:14:17.393Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1999,7 +1999,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2023-08-03T10:57:59+05:00",
-    "lastSeenAt": "2026-11-15T22:16:29.076Z",
+    "lastSeenAt": "2026-11-16T14:14:17.393Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2019,38 +2019,38 @@ export const INITIAL_PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "baroque-7735249535043",
+    "id": "baroque-7644966158403",
     "brandId": "baroque",
     "brandName": "Baroque",
-    "title": "EMBROIDERED LAWN PR-1348",
-    "handle": "embroidered-lawn-pr-1348",
-    "originalPrice": 14950,
-    "salePrice": 5980,
-    "discountPct": 60,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/2277/5269/files/191_32abaafd-6085-472f-8cd1-604e4e464eed.jpg?v=1782974248",
+    "title": "EMBROIDERED LAWN UF-4469",
+    "handle": "embroidered-lawn-uf-4469",
+    "originalPrice": 12950,
+    "salePrice": 7770,
+    "discountPct": 40,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/2277/5269/files/213_e371c5f0-4264-4c6a-a6da-3597f0fef998.jpg?v=1777873451",
     "category": "festive",
     "fabric": "Premium Lawn",
     "pieceCount": "3 Piece",
-    "productUrl": "https://baroque.pk/products/embroidered-lawn-pr-1348",
+    "productUrl": "https://baroque.pk/products/embroidered-lawn-uf-4469",
     "isLowestPrice": true,
     "onSale": true,
-    "firstSeenAt": "2026-07-02T11:36:02+05:00",
-    "lastSeenAt": "2026-11-15T22:16:29.076Z",
+    "firstSeenAt": "2026-04-25T13:12:57+05:00",
+    "lastSeenAt": "2026-11-16T14:14:17.393Z",
     "priceHistory": [
       {
         "date": "Oct 15",
-        "price": 14950,
-        "salePrice": 14950
+        "price": 12950,
+        "salePrice": 12950
       },
       {
         "date": "Oct 24",
-        "price": 14950,
-        "salePrice": 13754
+        "price": 12950,
+        "salePrice": 11914
       },
       {
         "date": "Today",
-        "price": 14950,
-        "salePrice": 5980
+        "price": 12950,
+        "salePrice": 7770
       }
     ]
   },
@@ -2071,7 +2071,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-03-01T16:30:25+05:00",
-    "lastSeenAt": "2026-11-15T22:16:29.076Z",
+    "lastSeenAt": "2026-11-16T14:14:17.393Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2091,38 +2091,38 @@ export const INITIAL_PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "baroque-7735243735107",
+    "id": "baroque-7369188540483",
     "brandId": "baroque",
     "brandName": "Baroque",
-    "title": "EMBROIDERED LAWN PR-1347",
-    "handle": "embroidered-lawn-pr-1347",
-    "originalPrice": 14950,
-    "salePrice": 5980,
-    "discountPct": 60,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/2277/5269/files/185_1c8370b8-747f-4fe6-a9fb-944ff5c30d7e.jpg?v=1782973906",
+    "title": "EMBROIDERED PRINTED LAWN UF-4132",
+    "handle": "embroidered-printed-lawn-uf-4132",
+    "originalPrice": 8950,
+    "salePrice": 5818,
+    "discountPct": 35,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/2277/5269/files/90_d03ead74-f038-4d4d-b066-57cbc431a7ba.jpg?v=1739448150",
     "category": "festive",
     "fabric": "Premium Lawn",
     "pieceCount": "3 Piece",
-    "productUrl": "https://baroque.pk/products/embroidered-lawn-pr-1347",
+    "productUrl": "https://baroque.pk/products/embroidered-printed-lawn-uf-4132",
     "isLowestPrice": true,
     "onSale": true,
-    "firstSeenAt": "2026-07-02T11:26:32+05:00",
-    "lastSeenAt": "2026-11-15T22:16:29.076Z",
+    "firstSeenAt": "2025-02-07T18:14:42+05:00",
+    "lastSeenAt": "2026-11-16T14:14:17.393Z",
     "priceHistory": [
       {
         "date": "Oct 15",
-        "price": 14950,
-        "salePrice": 14950
+        "price": 8950,
+        "salePrice": 8950
       },
       {
         "date": "Oct 24",
-        "price": 14950,
-        "salePrice": 13754
+        "price": 8950,
+        "salePrice": 8234
       },
       {
         "date": "Today",
-        "price": 14950,
-        "salePrice": 5980
+        "price": 8950,
+        "salePrice": 5818
       }
     ]
   },
@@ -2143,7 +2143,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-02T16:37:41+05:00",
-    "lastSeenAt": "2026-11-15T22:16:29.076Z",
+    "lastSeenAt": "2026-11-16T14:14:17.393Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2179,7 +2179,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-20T16:29:35+05:00",
-    "lastSeenAt": "2026-11-15T22:16:29.076Z",
+    "lastSeenAt": "2026-11-16T14:14:17.393Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2215,7 +2215,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-03T15:37:48+05:00",
-    "lastSeenAt": "2026-11-15T22:16:29.076Z",
+    "lastSeenAt": "2026-11-16T14:14:17.393Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2251,7 +2251,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-02-07T17:51:41+05:00",
-    "lastSeenAt": "2026-11-15T22:16:29.076Z",
+    "lastSeenAt": "2026-11-16T14:14:17.393Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2287,7 +2287,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-02-06T18:16:39+05:00",
-    "lastSeenAt": "2026-11-15T22:16:29.076Z",
+    "lastSeenAt": "2026-11-16T14:14:17.393Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2323,7 +2323,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-20T16:30:27+05:00",
-    "lastSeenAt": "2026-11-15T22:16:29.076Z",
+    "lastSeenAt": "2026-11-16T14:14:17.393Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2343,110 +2343,110 @@ export const INITIAL_PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "baroque-7668071596099",
+    "id": "baroque-7641872203843",
     "brandId": "baroque",
     "brandName": "Baroque",
-    "title": "EMBROIDERED LAWN UF-4483",
-    "handle": "embroidered-lawn-uf-4483",
-    "originalPrice": 8950,
-    "salePrice": 5370,
-    "discountPct": 40,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/2277/5269/files/48_f1f09328-ab92-482e-bddf-c72ad5e052e5.jpg?v=1780730798",
-    "category": "festive",
-    "fabric": "Premium Lawn",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://baroque.pk/products/embroidered-lawn-uf-4483",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-05-26T13:26:40+05:00",
-    "lastSeenAt": "2026-11-15T22:16:29.076Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 8950,
-        "salePrice": 8950
-      },
-      {
-        "date": "Oct 24",
-        "price": 8950,
-        "salePrice": 8234
-      },
-      {
-        "date": "Today",
-        "price": 8950,
-        "salePrice": 5370
-      }
-    ]
-  },
-  {
-    "id": "baroque-7740699050051",
-    "brandId": "baroque",
-    "brandName": "Baroque",
-    "title": "EMBROIDERED LAWN PR-1344",
-    "handle": "embroidered-lawn-pr-1344",
-    "originalPrice": 16950,
-    "salePrice": 8475,
+    "title": "EMBROIDERED CHIFFON EN-1312",
+    "handle": "embroidered-chiffon-en-1312",
+    "originalPrice": 22950,
+    "salePrice": 11475,
     "discountPct": 50,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/2277/5269/files/232_b7bd7097-0825-41a2-aaba-0b07e9e621be.jpg?v=1783422648",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/2277/5269/files/168_4b1f163f-4fee-4ea2-82d6-90ba52655ee4.jpg?v=1776675410",
     "category": "festive",
-    "fabric": "Premium Lawn",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://baroque.pk/products/embroidered-lawn-pr-1344",
+    "fabric": "Pure Chiffon",
+    "pieceCount": "2 Piece",
+    "productUrl": "https://baroque.pk/products/embroidered-chiffon-en-1312",
     "isLowestPrice": true,
     "onSale": true,
-    "firstSeenAt": "2026-07-07T16:06:45+05:00",
-    "lastSeenAt": "2026-11-15T22:16:29.076Z",
+    "firstSeenAt": "2026-04-20T13:55:18+05:00",
+    "lastSeenAt": "2026-11-16T14:14:17.393Z",
     "priceHistory": [
       {
         "date": "Oct 15",
-        "price": 16950,
-        "salePrice": 16950
+        "price": 22950,
+        "salePrice": 22950
       },
       {
         "date": "Oct 24",
-        "price": 16950,
-        "salePrice": 15594
+        "price": 22950,
+        "salePrice": 21114
       },
       {
         "date": "Today",
-        "price": 16950,
-        "salePrice": 8475
+        "price": 22950,
+        "salePrice": 11475
       }
     ]
   },
   {
-    "id": "baroque-7660965756995",
+    "id": "baroque-7641865650243",
     "brandId": "baroque",
     "brandName": "Baroque",
-    "title": "EMBROIDERED LAWN UF-4474",
-    "handle": "embroidered-lawn-uf-4474",
-    "originalPrice": 11950,
-    "salePrice": 8963,
-    "discountPct": 25,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/2277/5269/files/80_e05b2aa0-fa76-4fc0-9004-3217bab20ec6.jpg?v=1782887673",
+    "title": "EMBROIDERED CHIFFON EN-1309",
+    "handle": "embroidered-chiffon-en-1309",
+    "originalPrice": 22950,
+    "salePrice": 11475,
+    "discountPct": 50,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/2277/5269/files/141_d31798b3-5703-4c2a-a138-a1776dfff155.jpg?v=1776674767",
     "category": "festive",
-    "fabric": "Premium Lawn",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://baroque.pk/products/embroidered-lawn-uf-4474",
+    "fabric": "Pure Chiffon",
+    "pieceCount": "2 Piece",
+    "productUrl": "https://baroque.pk/products/embroidered-chiffon-en-1309",
     "isLowestPrice": true,
     "onSale": true,
-    "firstSeenAt": "2026-05-14T10:49:56+05:00",
-    "lastSeenAt": "2026-11-15T22:16:29.076Z",
+    "firstSeenAt": "2026-04-20T13:45:12+05:00",
+    "lastSeenAt": "2026-11-16T14:14:17.393Z",
     "priceHistory": [
       {
         "date": "Oct 15",
-        "price": 11950,
-        "salePrice": 11950
+        "price": 22950,
+        "salePrice": 22950
       },
       {
         "date": "Oct 24",
-        "price": 11950,
-        "salePrice": 10994
+        "price": 22950,
+        "salePrice": 21114
       },
       {
         "date": "Today",
-        "price": 11950,
-        "salePrice": 8963
+        "price": 22950,
+        "salePrice": 11475
+      }
+    ]
+  },
+  {
+    "id": "baroque-7641868304451",
+    "brandId": "baroque",
+    "brandName": "Baroque",
+    "title": "EMBROIDERED CHIFFON EN-1310",
+    "handle": "embroidered-chiffon-en-1310",
+    "originalPrice": 22950,
+    "salePrice": 11475,
+    "discountPct": 50,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/2277/5269/files/152_4d46683d-283a-431c-b7ec-de78e835e04a.jpg?v=1776675054",
+    "category": "festive",
+    "fabric": "Pure Chiffon",
+    "pieceCount": "2 Piece",
+    "productUrl": "https://baroque.pk/products/embroidered-chiffon-en-1310",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-04-20T13:49:34+05:00",
+    "lastSeenAt": "2026-11-16T14:14:17.393Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 22950,
+        "salePrice": 22950
+      },
+      {
+        "date": "Oct 24",
+        "price": 22950,
+        "salePrice": 21114
+      },
+      {
+        "date": "Today",
+        "price": 22950,
+        "salePrice": 11475
       }
     ]
   },
@@ -2467,7 +2467,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-03-06T12:18:17+05:00",
-    "lastSeenAt": "2026-11-15T22:16:29.076Z",
+    "lastSeenAt": "2026-11-16T14:14:17.393Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2503,7 +2503,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-03T15:38:42+05:00",
-    "lastSeenAt": "2026-11-15T22:16:29.076Z",
+    "lastSeenAt": "2026-11-16T14:14:17.393Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2539,7 +2539,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-03-06T12:15:23+05:00",
-    "lastSeenAt": "2026-11-15T22:16:29.076Z",
+    "lastSeenAt": "2026-11-16T14:14:17.393Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2575,7 +2575,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2024-02-15T14:33:40+05:00",
-    "lastSeenAt": "2026-11-15T22:16:29.076Z",
+    "lastSeenAt": "2026-11-16T14:14:17.393Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2595,38 +2595,38 @@ export const INITIAL_PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "baroque-7750141116483",
+    "id": "baroque-7443414319171",
     "brandId": "baroque",
     "brandName": "Baroque",
-    "title": "EMBROIDERED LAWN PR-1343",
-    "handle": "embroidered-lawn-pr-1343",
-    "originalPrice": 13950,
-    "salePrice": 5580,
-    "discountPct": 60,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/2277/5269/files/148_8345d870-ec1d-4d2a-9a8c-5a7406d1e356.jpg?v=1783762962",
+    "title": "EMBROIDERED LAWN UF-4237",
+    "handle": "embroidered-lawn-uf-4237",
+    "originalPrice": 9950,
+    "salePrice": 4975,
+    "discountPct": 50,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/2277/5269/files/71_f0e7d8eb-c0f9-457b-83c2-565bceeb0557.jpg?v=1768989954",
     "category": "festive",
     "fabric": "Premium Lawn",
     "pieceCount": "3 Piece",
-    "productUrl": "https://baroque.pk/products/embroidered-lawn-pr-1343",
+    "productUrl": "https://baroque.pk/products/embroidered-lawn-uf-4237",
     "isLowestPrice": true,
     "onSale": true,
-    "firstSeenAt": "2026-07-11T14:39:51+05:00",
-    "lastSeenAt": "2026-11-15T22:16:29.076Z",
+    "firstSeenAt": "2025-06-28T12:03:28+05:00",
+    "lastSeenAt": "2026-11-16T14:14:17.393Z",
     "priceHistory": [
       {
         "date": "Oct 15",
-        "price": 13950,
-        "salePrice": 13950
+        "price": 9950,
+        "salePrice": 9950
       },
       {
         "date": "Oct 24",
-        "price": 13950,
-        "salePrice": 12834
+        "price": 9950,
+        "salePrice": 9154
       },
       {
         "date": "Today",
-        "price": 13950,
-        "salePrice": 5580
+        "price": 9950,
+        "salePrice": 4975
       }
     ]
   },
@@ -2647,7 +2647,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-02T16:44:03+05:00",
-    "lastSeenAt": "2026-11-15T22:16:29.077Z",
+    "lastSeenAt": "2026-11-16T14:14:17.393Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2683,7 +2683,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-04-25T13:04:09+05:00",
-    "lastSeenAt": "2026-11-15T22:16:29.077Z",
+    "lastSeenAt": "2026-11-16T14:14:17.393Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2719,7 +2719,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2023-03-06T13:51:12+05:00",
-    "lastSeenAt": "2026-11-15T22:16:29.077Z",
+    "lastSeenAt": "2026-11-16T14:14:17.393Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2755,7 +2755,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-02-07T17:52:15+05:00",
-    "lastSeenAt": "2026-11-15T22:16:29.077Z",
+    "lastSeenAt": "2026-11-16T14:14:17.393Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2775,23 +2775,59 @@ export const INITIAL_PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "baroque-7584094027843",
+    "id": "baroque-7584094388291",
     "brandId": "baroque",
     "brandName": "Baroque",
-    "title": "EMBROIDERED LAWN EL26-D04 UNSTITCHED",
-    "handle": "embroidered-lawn-el26-d04-unstitched",
+    "title": "EMBROIDERED LAWN EL26-D07 UNSTITCHED",
+    "handle": "embroidered-lawn-el26-d07-unstitched",
     "originalPrice": 16950,
     "salePrice": 12713,
     "discountPct": 25,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/2277/5269/files/1...jpg?v=1770632970",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/2277/5269/files/49_214cd21f-15c2-4f4a-9cfe-693bb13ea114.jpg?v=1770634927",
     "category": "unstitched",
-    "fabric": "Premium Lawn",
+    "fabric": "Pure Chiffon",
     "pieceCount": "3 Piece",
-    "productUrl": "https://baroque.pk/products/embroidered-lawn-el26-d04-unstitched",
+    "productUrl": "https://baroque.pk/products/embroidered-lawn-el26-d07-unstitched",
     "isLowestPrice": true,
     "onSale": true,
-    "firstSeenAt": "2026-02-04T13:28:43+05:00",
-    "lastSeenAt": "2026-11-15T22:16:29.077Z",
+    "firstSeenAt": "2026-02-04T13:31:31+05:00",
+    "lastSeenAt": "2026-11-16T14:14:17.393Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 16950,
+        "salePrice": 16950
+      },
+      {
+        "date": "Oct 24",
+        "price": 16950,
+        "salePrice": 15594
+      },
+      {
+        "date": "Today",
+        "price": 16950,
+        "salePrice": 12713
+      }
+    ]
+  },
+  {
+    "id": "baroque-7584094158915",
+    "brandId": "baroque",
+    "brandName": "Baroque",
+    "title": "EMBROIDERED LAWN EL26-D05 UNSTITCHED",
+    "handle": "embroidered-lawn-el26-d05-unstitched",
+    "originalPrice": 16950,
+    "salePrice": 12713,
+    "discountPct": 25,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/2277/5269/files/14_eb26e408-4a33-4363-ba84-ff7d87d403d1.jpg?v=1770633609",
+    "category": "unstitched",
+    "fabric": "Pure Chiffon",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://baroque.pk/products/embroidered-lawn-el26-d05-unstitched",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-02-04T13:30:21+05:00",
+    "lastSeenAt": "2026-11-16T14:14:17.393Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2827,7 +2863,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-02-04T13:27:43+05:00",
-    "lastSeenAt": "2026-11-15T22:16:29.077Z",
+    "lastSeenAt": "2026-11-16T14:14:17.393Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2847,74 +2883,38 @@ export const INITIAL_PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "baroque-7584092291139",
+    "id": "baroque-7668072415299",
     "brandId": "baroque",
     "brandName": "Baroque",
-    "title": "EMBROIDERED LAWN EL26-D02 UNSTITCHED",
-    "handle": "embroidered-lawn-el26-d02-unstitched",
-    "originalPrice": 16950,
-    "salePrice": 12713,
+    "title": "EMBROIDERED SELF JACQUARD UF-4484",
+    "handle": "embroidered-self-jacquard-uf-4484",
+    "originalPrice": 7950,
+    "salePrice": 5963,
     "discountPct": 25,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/2277/5269/files/53_1329846c-cd09-4066-bbab-48c8ffaf08cc.jpg?v=1770631769",
-    "category": "unstitched",
-    "fabric": "Premium Lawn",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://baroque.pk/products/embroidered-lawn-el26-d02-unstitched",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-02-04T13:24:39+05:00",
-    "lastSeenAt": "2026-11-15T22:16:29.077Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 16950,
-        "salePrice": 16950
-      },
-      {
-        "date": "Oct 24",
-        "price": 16950,
-        "salePrice": 15594
-      },
-      {
-        "date": "Today",
-        "price": 16950,
-        "salePrice": 12713
-      }
-    ]
-  },
-  {
-    "id": "baroque-7712031440963",
-    "brandId": "baroque",
-    "brandName": "Baroque",
-    "title": "EMBROIDERED LAWN PR-1366",
-    "handle": "embroidered-lawn-pr-1366",
-    "originalPrice": 12950,
-    "salePrice": 6475,
-    "discountPct": 50,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/2277/5269/files/16_6d689cda-3016-48b8-ad9e-ee14520704bb.jpg?v=1781607854",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/2277/5269/files/61..jpg?v=1783326229",
     "category": "festive",
     "fabric": "Premium Lawn",
     "pieceCount": "3 Piece",
-    "productUrl": "https://baroque.pk/products/embroidered-lawn-pr-1366",
+    "productUrl": "https://baroque.pk/products/embroidered-self-jacquard-uf-4484",
     "isLowestPrice": true,
     "onSale": true,
-    "firstSeenAt": "2026-06-16T15:25:03+05:00",
-    "lastSeenAt": "2026-11-15T22:16:29.077Z",
+    "firstSeenAt": "2026-05-26T13:27:42+05:00",
+    "lastSeenAt": "2026-11-16T14:14:17.393Z",
     "priceHistory": [
       {
         "date": "Oct 15",
-        "price": 12950,
-        "salePrice": 12950
+        "price": 7950,
+        "salePrice": 7950
       },
       {
         "date": "Oct 24",
-        "price": 12950,
-        "salePrice": 11914
+        "price": 7950,
+        "salePrice": 7314
       },
       {
         "date": "Today",
-        "price": 12950,
-        "salePrice": 6475
+        "price": 7950,
+        "salePrice": 5963
       }
     ]
   },
@@ -2935,7 +2935,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-07-22T15:57:14+05:00",
-    "lastSeenAt": "2026-11-15T22:16:29.077Z",
+    "lastSeenAt": "2026-11-16T14:14:17.393Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2955,38 +2955,38 @@ export const INITIAL_PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "baroque-7435214454851",
+    "id": "baroque-7369183789123",
     "brandId": "baroque",
     "brandName": "Baroque",
-    "title": "EMBROIDERED PRINTED LAWN UF-4206",
-    "handle": "embroidered-printed-lawn-uf-4206",
-    "originalPrice": 5950,
-    "salePrice": 4760,
-    "discountPct": 20,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/2277/5269/files/125_5071b15e-fbb0-4431-a1e0-0cc0530e2f20.jpg?v=1750853199",
+    "title": "EMBROIDERED PRINTED LAWN UF-4122",
+    "handle": "embroidered-printed-lawn-uf-4122",
+    "originalPrice": 9950,
+    "salePrice": 7463,
+    "discountPct": 25,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/2277/5269/files/176_76ed49b8-ef52-4336-a4fa-af81df8ae9cb.jpg?v=1740214610",
     "category": "festive",
-    "fabric": "Premium Lawn",
-    "pieceCount": "2 Piece",
-    "productUrl": "https://baroque.pk/products/embroidered-printed-lawn-uf-4206",
+    "fabric": "Pure Chiffon",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://baroque.pk/products/embroidered-printed-lawn-uf-4122",
     "isLowestPrice": true,
     "onSale": true,
-    "firstSeenAt": "2025-06-12T13:22:05+05:00",
-    "lastSeenAt": "2026-11-15T22:16:29.077Z",
+    "firstSeenAt": "2025-02-07T17:52:54+05:00",
+    "lastSeenAt": "2026-11-16T14:14:17.393Z",
     "priceHistory": [
       {
         "date": "Oct 15",
-        "price": 5950,
-        "salePrice": 5950
+        "price": 9950,
+        "salePrice": 9950
       },
       {
         "date": "Oct 24",
-        "price": 5950,
-        "salePrice": 5474
+        "price": 9950,
+        "salePrice": 9154
       },
       {
         "date": "Today",
-        "price": 5950,
-        "salePrice": 4760
+        "price": 9950,
+        "salePrice": 7463
       }
     ]
   },
@@ -3007,79 +3007,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-11T19:57:15+05:00",
-    "lastSeenAt": "2026-11-15T22:16:32.723Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 7499,
-        "salePrice": 7499
-      },
-      {
-        "date": "Oct 24",
-        "price": 7499,
-        "salePrice": 6899
-      },
-      {
-        "date": "Today",
-        "price": 7499,
-        "salePrice": 4499
-      }
-    ]
-  },
-  {
-    "id": "asimjofa-15380558545193",
-    "brandId": "asimjofa",
-    "brandName": "Asim Jofa",
-    "title": "AJCS-04 Printed Charmeuse Silk Unstitched 3 Pcs",
-    "handle": "ajcs-04-printed-charmeuse-silk-unstitched-3-pcs",
-    "originalPrice": 8099,
-    "salePrice": 4859,
-    "discountPct": 40,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/ajcs-04.1.jpg?v=1791374856",
-    "category": "unstitched",
-    "fabric": "Boski Silk",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://asimjofa.com/products/ajcs-04-printed-charmeuse-silk-unstitched-3-pcs",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-09-28T14:51:17+05:00",
-    "lastSeenAt": "2026-11-15T22:16:32.723Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 8099,
-        "salePrice": 8099
-      },
-      {
-        "date": "Oct 24",
-        "price": 8099,
-        "salePrice": 7451
-      },
-      {
-        "date": "Today",
-        "price": 8099,
-        "salePrice": 4859
-      }
-    ]
-  },
-  {
-    "id": "asimjofa-10183909441833",
-    "brandId": "asimjofa",
-    "brandName": "Asim Jofa",
-    "title": "AJUFC-21 Embroidered Chiffon Unstitched 3 Pcs",
-    "handle": "ajufc-21-embroidered-chiffon-unstitched-3-pcs",
-    "originalPrice": 7499,
-    "salePrice": 4499,
-    "discountPct": 40,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/884A8388.jpg?v=1789140366",
-    "category": "unstitched",
-    "fabric": "Pure Chiffon",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://asimjofa.com/products/ajufc-21-embroidered-chiffon-unstitched-3-pcs",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-09-11T20:25:34+05:00",
-    "lastSeenAt": "2026-11-15T22:16:32.723Z",
+    "lastSeenAt": "2026-11-16T14:14:21.119Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3115,7 +3043,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-12-31T17:04:12+05:00",
-    "lastSeenAt": "2026-11-15T22:16:32.723Z",
+    "lastSeenAt": "2026-11-16T14:14:21.119Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3131,42 +3059,6 @@ export const INITIAL_PRODUCTS: Product[] = [
         "date": "Today",
         "price": 19100,
         "salePrice": 11460
-      }
-    ]
-  },
-  {
-    "id": "asimjofa-15415717462313",
-    "brandId": "asimjofa",
-    "brandName": "Asim Jofa",
-    "title": "AJUMV-09 Embroidered Velvet Unstitched 3 Pcs",
-    "handle": "ajumv-09-embroidered-velvet-unstitched-3-pcs",
-    "originalPrice": 22274,
-    "salePrice": 16499,
-    "discountPct": 26,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/IMG_5761.jpg?v=1792758165",
-    "category": "unstitched",
-    "fabric": "Boski Silk",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://asimjofa.com/products/ajumv-09-embroidered-velvet-unstitched-3-pcs",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-10-23T17:20:55+05:00",
-    "lastSeenAt": "2026-11-15T22:16:32.724Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 22274,
-        "salePrice": 22274
-      },
-      {
-        "date": "Oct 24",
-        "price": 22274,
-        "salePrice": 20492
-      },
-      {
-        "date": "Today",
-        "price": 22274,
-        "salePrice": 16499
       }
     ]
   },
@@ -3187,7 +3079,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-11T20:08:00+05:00",
-    "lastSeenAt": "2026-11-15T22:16:32.724Z",
+    "lastSeenAt": "2026-11-16T14:14:21.119Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3223,7 +3115,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-02T14:25:01+05:00",
-    "lastSeenAt": "2026-11-15T22:16:32.724Z",
+    "lastSeenAt": "2026-11-16T14:14:21.119Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3239,78 +3131,6 @@ export const INITIAL_PRODUCTS: Product[] = [
         "date": "Today",
         "price": 13450,
         "salePrice": 8070
-      }
-    ]
-  },
-  {
-    "id": "asimjofa-15424581140777",
-    "brandId": "asimjofa",
-    "brandName": "Asim Jofa",
-    "title": "AJFU-10 Embroidered Twisted Silk Unstitched 3 Pcs",
-    "handle": "ajfu-10-embroidered-twisted-silk-unstitched-3-pcs",
-    "originalPrice": 9989,
-    "salePrice": 7399,
-    "discountPct": 26,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/884A6874_jpg.jpg?v=1793627770",
-    "category": "unstitched",
-    "fabric": "Boski Silk",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://asimjofa.com/products/ajfu-10-embroidered-twisted-silk-unstitched-3-pcs",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-10-31T16:38:40+05:00",
-    "lastSeenAt": "2026-11-15T22:16:32.724Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 9989,
-        "salePrice": 9989
-      },
-      {
-        "date": "Oct 24",
-        "price": 9989,
-        "salePrice": 9190
-      },
-      {
-        "date": "Today",
-        "price": 9989,
-        "salePrice": 7399
-      }
-    ]
-  },
-  {
-    "id": "asimjofa-15429562597673",
-    "brandId": "asimjofa",
-    "brandName": "Asim Jofa",
-    "title": "AJPBS-09 Embroidered Cambric Stitched 2 Pcs",
-    "handle": "ajpbs-09-embroidered-cambric-stitched-2-pcs",
-    "originalPrice": 13217,
-    "salePrice": 9790,
-    "discountPct": 26,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/IMG_9808_05d54789-907b-4de2-b5cf-7878ae31f951.jpg?v=1793793594",
-    "category": "pret",
-    "fabric": "Soft Cambric",
-    "pieceCount": "1 Piece",
-    "productUrl": "https://asimjofa.com/products/ajpbs-09-embroidered-cambric-stitched-2-pcs",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-11-04T16:25:04+05:00",
-    "lastSeenAt": "2026-11-15T22:16:32.724Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 13217,
-        "salePrice": 13217
-      },
-      {
-        "date": "Oct 24",
-        "price": 13217,
-        "salePrice": 12160
-      },
-      {
-        "date": "Today",
-        "price": 13217,
-        "salePrice": 9790
       }
     ]
   },
@@ -3331,7 +3151,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-11T19:48:44+05:00",
-    "lastSeenAt": "2026-11-15T22:16:32.724Z",
+    "lastSeenAt": "2026-11-16T14:14:21.119Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3367,7 +3187,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-28T14:51:26+05:00",
-    "lastSeenAt": "2026-11-15T22:16:32.724Z",
+    "lastSeenAt": "2026-11-16T14:14:21.119Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3403,151 +3223,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-11T19:39:49+05:00",
-    "lastSeenAt": "2026-11-15T22:16:32.724Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 7499,
-        "salePrice": 7499
-      },
-      {
-        "date": "Oct 24",
-        "price": 7499,
-        "salePrice": 6899
-      },
-      {
-        "date": "Today",
-        "price": 7499,
-        "salePrice": 4499
-      }
-    ]
-  },
-  {
-    "id": "asimjofa-15424581206313",
-    "brandId": "asimjofa",
-    "brandName": "Asim Jofa",
-    "title": "AJFU-16 Embroidered Twisted Silk Unstitched 2 Pcs",
-    "handle": "ajfu-16-embroidered-twisted-silk-unstitched-3-pcs",
-    "originalPrice": 9989,
-    "salePrice": 7399,
-    "discountPct": 26,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/884A6176.jpg?v=1793450418",
-    "category": "unstitched",
-    "fabric": "Boski Silk",
-    "pieceCount": "2 Piece",
-    "productUrl": "https://asimjofa.com/products/ajfu-16-embroidered-twisted-silk-unstitched-3-pcs",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-10-31T16:38:43+05:00",
-    "lastSeenAt": "2026-11-15T22:16:32.724Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 9989,
-        "salePrice": 9989
-      },
-      {
-        "date": "Oct 24",
-        "price": 9989,
-        "salePrice": 9190
-      },
-      {
-        "date": "Today",
-        "price": 9989,
-        "salePrice": 7399
-      }
-    ]
-  },
-  {
-    "id": "asimjofa-15429562532137",
-    "brandId": "asimjofa",
-    "brandName": "Asim Jofa",
-    "title": "AJPBS-10 Embroidered Cambric Stitched 2 Pcs",
-    "handle": "ajpbs-10-embroidered-cambric-stitched-2-pcs",
-    "originalPrice": 13217,
-    "salePrice": 9790,
-    "discountPct": 26,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/IMG_0380.jpg?v=1793793980",
-    "category": "pret",
-    "fabric": "Soft Cambric",
-    "pieceCount": "1 Piece",
-    "productUrl": "https://asimjofa.com/products/ajpbs-10-embroidered-cambric-stitched-2-pcs",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-11-04T16:25:01+05:00",
-    "lastSeenAt": "2026-11-15T22:16:32.724Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 13217,
-        "salePrice": 13217
-      },
-      {
-        "date": "Oct 24",
-        "price": 13217,
-        "salePrice": 12160
-      },
-      {
-        "date": "Today",
-        "price": 13217,
-        "salePrice": 9790
-      }
-    ]
-  },
-  {
-    "id": "asimjofa-15415706452265",
-    "brandId": "asimjofa",
-    "brandName": "Asim Jofa",
-    "title": "AJUMV-04 Embroidered Velvet Unstitched 3 Pcs",
-    "handle": "ajumv-04-embroidered-velvet-unstitched-3-pcs",
-    "originalPrice": 22274,
-    "salePrice": 16499,
-    "discountPct": 26,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/IMG_5424.jpg?v=1792755895",
-    "category": "unstitched",
-    "fabric": "Boski Silk",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://asimjofa.com/products/ajumv-04-embroidered-velvet-unstitched-3-pcs",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-10-23T16:44:29+05:00",
-    "lastSeenAt": "2026-11-15T22:16:32.724Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 22274,
-        "salePrice": 22274
-      },
-      {
-        "date": "Oct 24",
-        "price": 22274,
-        "salePrice": 20492
-      },
-      {
-        "date": "Today",
-        "price": 22274,
-        "salePrice": 16499
-      }
-    ]
-  },
-  {
-    "id": "asimjofa-10183849935145",
-    "brandId": "asimjofa",
-    "brandName": "Asim Jofa",
-    "title": "AJUFC-05 Embroidered Chiffon Unstitched 2 Pcs",
-    "handle": "ajufc-05-embroidered-chiffon-unstitched-2-pcs",
-    "originalPrice": 7499,
-    "salePrice": 4499,
-    "discountPct": 40,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/884A7893.jpg?v=1789138005",
-    "category": "unstitched",
-    "fabric": "Pure Chiffon",
-    "pieceCount": "2 Piece",
-    "productUrl": "https://asimjofa.com/products/ajufc-05-embroidered-chiffon-unstitched-2-pcs",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-09-11T19:45:59+05:00",
-    "lastSeenAt": "2026-11-15T22:16:32.724Z",
+    "lastSeenAt": "2026-11-16T14:14:21.120Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3583,7 +3259,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-02T14:55:52+05:00",
-    "lastSeenAt": "2026-11-15T22:16:32.724Z",
+    "lastSeenAt": "2026-11-16T14:14:21.120Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3599,78 +3275,6 @@ export const INITIAL_PRODUCTS: Product[] = [
         "date": "Today",
         "price": 13250,
         "salePrice": 7950
-      }
-    ]
-  },
-  {
-    "id": "asimjofa-15424581173545",
-    "brandId": "asimjofa",
-    "brandName": "Asim Jofa",
-    "title": "AJFU-11 Embroidered Chiffon Unstitched 3 Pcs",
-    "handle": "ajfu-11-embroidered-chiffon-unstitched-3-pcs",
-    "originalPrice": 9989,
-    "salePrice": 7399,
-    "discountPct": 26,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/884A7821.jpg?v=1793450591",
-    "category": "unstitched",
-    "fabric": "Pure Chiffon",
-    "pieceCount": "1 Piece",
-    "productUrl": "https://asimjofa.com/products/ajfu-11-embroidered-chiffon-unstitched-3-pcs",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-10-31T16:38:41+05:00",
-    "lastSeenAt": "2026-11-15T22:16:32.724Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 9989,
-        "salePrice": 9989
-      },
-      {
-        "date": "Oct 24",
-        "price": 9989,
-        "salePrice": 9190
-      },
-      {
-        "date": "Today",
-        "price": 9989,
-        "salePrice": 7399
-      }
-    ]
-  },
-  {
-    "id": "asimjofa-15429562564905",
-    "brandId": "asimjofa",
-    "brandName": "Asim Jofa",
-    "title": "AJPBS-02 Embroidered Cambric Stitched 2 Pcs",
-    "handle": "ajpbs-02-embroidered-cambric-stitched-2-pcs",
-    "originalPrice": 13082,
-    "salePrice": 9690,
-    "discountPct": 26,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/IMG_9715.jpg?v=1793793846",
-    "category": "pret",
-    "fabric": "Soft Cambric",
-    "pieceCount": "1 Piece",
-    "productUrl": "https://asimjofa.com/products/ajpbs-02-embroidered-cambric-stitched-2-pcs",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-11-04T16:25:03+05:00",
-    "lastSeenAt": "2026-11-15T22:16:32.724Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 13082,
-        "salePrice": 13082
-      },
-      {
-        "date": "Oct 24",
-        "price": 13082,
-        "salePrice": 12035
-      },
-      {
-        "date": "Today",
-        "price": 13082,
-        "salePrice": 9690
       }
     ]
   },
@@ -3691,7 +3295,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-28T14:51:15+05:00",
-    "lastSeenAt": "2026-11-15T22:16:32.724Z",
+    "lastSeenAt": "2026-11-16T14:14:21.120Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3727,7 +3331,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-11T19:42:26+05:00",
-    "lastSeenAt": "2026-11-15T22:16:32.724Z",
+    "lastSeenAt": "2026-11-16T14:14:21.120Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3763,7 +3367,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-02T14:52:34+05:00",
-    "lastSeenAt": "2026-11-15T22:16:32.724Z",
+    "lastSeenAt": "2026-11-16T14:14:21.120Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3783,74 +3387,38 @@ export const INITIAL_PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "asimjofa-15424594805033",
+    "id": "asimjofa-15380558545193",
     "brandId": "asimjofa",
     "brandName": "Asim Jofa",
-    "title": "AJFU-19 Embroidered Poly Net Unstitched 3 Pcs",
-    "handle": "ajfu-19-embroidered-poly-net-unstitched-3-pcs",
-    "originalPrice": 10124,
-    "salePrice": 7499,
-    "discountPct": 26,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/884A5978.jpg?v=1793450189",
+    "title": "AJCS-04 Printed Charmeuse Silk Unstitched 3 Pcs",
+    "handle": "ajcs-04-printed-charmeuse-silk-unstitched-3-pcs",
+    "originalPrice": 8099,
+    "salePrice": 4859,
+    "discountPct": 40,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/ajcs-04.1.jpg?v=1791374856",
     "category": "unstitched",
-    "fabric": "Fine Cotton Lawn",
+    "fabric": "Boski Silk",
     "pieceCount": "3 Piece",
-    "productUrl": "https://asimjofa.com/products/ajfu-19-embroidered-poly-net-unstitched-3-pcs",
+    "productUrl": "https://asimjofa.com/products/ajcs-04-printed-charmeuse-silk-unstitched-3-pcs",
     "isLowestPrice": true,
     "onSale": true,
-    "firstSeenAt": "2026-10-31T17:21:13+05:00",
-    "lastSeenAt": "2026-11-15T22:16:32.724Z",
+    "firstSeenAt": "2026-09-28T14:51:17+05:00",
+    "lastSeenAt": "2026-11-16T14:14:21.120Z",
     "priceHistory": [
       {
         "date": "Oct 15",
-        "price": 10124,
-        "salePrice": 10124
+        "price": 8099,
+        "salePrice": 8099
       },
       {
         "date": "Oct 24",
-        "price": 10124,
-        "salePrice": 9314
+        "price": 8099,
+        "salePrice": 7451
       },
       {
         "date": "Today",
-        "price": 10124,
-        "salePrice": 7499
-      }
-    ]
-  },
-  {
-    "id": "asimjofa-15429562499369",
-    "brandId": "asimjofa",
-    "brandName": "Asim Jofa",
-    "title": "AJPBS-04 Embroidered Cambric Stitched 2 Pcs",
-    "handle": "ajpbs-04-embroidered-cambric-stitched-2-pcs",
-    "originalPrice": 13217,
-    "salePrice": 9790,
-    "discountPct": 26,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/IMG_0313.jpg?v=1793794053",
-    "category": "pret",
-    "fabric": "Soft Cambric",
-    "pieceCount": "1 Piece",
-    "productUrl": "https://asimjofa.com/products/ajpbs-04-embroidered-cambric-stitched-2-pcs",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-11-04T16:24:59+05:00",
-    "lastSeenAt": "2026-11-15T22:16:32.724Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 13217,
-        "salePrice": 13217
-      },
-      {
-        "date": "Oct 24",
-        "price": 13217,
-        "salePrice": 12160
-      },
-      {
-        "date": "Today",
-        "price": 13217,
-        "salePrice": 9790
+        "price": 8099,
+        "salePrice": 4859
       }
     ]
   },
@@ -3871,7 +3439,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-28T14:51:13+05:00",
-    "lastSeenAt": "2026-11-15T22:16:32.724Z",
+    "lastSeenAt": "2026-11-16T14:14:21.120Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3887,6 +3455,42 @@ export const INITIAL_PRODUCTS: Product[] = [
         "date": "Today",
         "price": 8099,
         "salePrice": 4859
+      }
+    ]
+  },
+  {
+    "id": "asimjofa-10183849935145",
+    "brandId": "asimjofa",
+    "brandName": "Asim Jofa",
+    "title": "AJUFC-05 Embroidered Chiffon Unstitched 2 Pcs",
+    "handle": "ajufc-05-embroidered-chiffon-unstitched-2-pcs",
+    "originalPrice": 7499,
+    "salePrice": 4499,
+    "discountPct": 40,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/884A7893.jpg?v=1789138005",
+    "category": "unstitched",
+    "fabric": "Pure Chiffon",
+    "pieceCount": "2 Piece",
+    "productUrl": "https://asimjofa.com/products/ajufc-05-embroidered-chiffon-unstitched-2-pcs",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-09-11T19:45:59+05:00",
+    "lastSeenAt": "2026-11-16T14:14:21.120Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 7499,
+        "salePrice": 7499
+      },
+      {
+        "date": "Oct 24",
+        "price": 7499,
+        "salePrice": 6899
+      },
+      {
+        "date": "Today",
+        "price": 7499,
+        "salePrice": 4499
       }
     ]
   },
@@ -3907,7 +3511,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-02T14:39:12+05:00",
-    "lastSeenAt": "2026-11-15T22:16:32.724Z",
+    "lastSeenAt": "2026-11-16T14:14:21.120Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3943,7 +3547,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-02T14:21:47+05:00",
-    "lastSeenAt": "2026-11-15T22:16:32.724Z",
+    "lastSeenAt": "2026-11-16T14:14:21.120Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3979,7 +3583,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-28T14:51:19+05:00",
-    "lastSeenAt": "2026-11-15T22:16:32.724Z",
+    "lastSeenAt": "2026-11-16T14:14:21.120Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3995,42 +3599,6 @@ export const INITIAL_PRODUCTS: Product[] = [
         "date": "Today",
         "price": 8099,
         "salePrice": 4859
-      }
-    ]
-  },
-  {
-    "id": "asimjofa-15415707304233",
-    "brandId": "asimjofa",
-    "brandName": "Asim Jofa",
-    "title": "AJUMV-05 Embroidered Velvet Unstitched 3 Pcs",
-    "handle": "ajumv-05-embroidered-velvet-unstitched-3-pcs",
-    "originalPrice": 22274,
-    "salePrice": 16499,
-    "discountPct": 26,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/IMG_5489.jpg?v=1792756142",
-    "category": "unstitched",
-    "fabric": "Boski Silk",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://asimjofa.com/products/ajumv-05-embroidered-velvet-unstitched-3-pcs",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-10-23T16:48:09+05:00",
-    "lastSeenAt": "2026-11-15T22:16:32.724Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 22274,
-        "salePrice": 22274
-      },
-      {
-        "date": "Oct 24",
-        "price": 22274,
-        "salePrice": 20492
-      },
-      {
-        "date": "Today",
-        "price": 22274,
-        "salePrice": 16499
       }
     ]
   },
@@ -4051,7 +3619,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-02T11:43:55+05:00",
-    "lastSeenAt": "2026-11-15T22:16:32.725Z",
+    "lastSeenAt": "2026-11-16T14:14:21.120Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4067,6 +3635,438 @@ export const INITIAL_PRODUCTS: Product[] = [
         "date": "Today",
         "price": 16350,
         "salePrice": 9810
+      }
+    ]
+  },
+  {
+    "id": "asimjofa-9975325327657",
+    "brandId": "asimjofa",
+    "brandName": "Asim Jofa",
+    "title": "AJULN-01 Embroidered Chiffon Unstitched 3 Pcs",
+    "handle": "ajuln-01-embroidered-chiffon-unstitched-3-pcs",
+    "originalPrice": 16100,
+    "salePrice": 9660,
+    "discountPct": 40,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/884A6426.jpg?v=1767179953",
+    "category": "unstitched",
+    "fabric": "Pure Chiffon",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://asimjofa.com/products/ajuln-01-embroidered-chiffon-unstitched-3-pcs",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2025-12-31T16:15:21+05:00",
+    "lastSeenAt": "2026-11-16T14:14:21.120Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 16100,
+        "salePrice": 16100
+      },
+      {
+        "date": "Oct 24",
+        "price": 16100,
+        "salePrice": 14812
+      },
+      {
+        "date": "Today",
+        "price": 16100,
+        "salePrice": 9660
+      }
+    ]
+  },
+  {
+    "id": "asimjofa-15380558676265",
+    "brandId": "asimjofa",
+    "brandName": "Asim Jofa",
+    "title": "AJCS-06 Printed Charmeuse Silk Unstitched 3 Pcs",
+    "handle": "ajcs-06-printed-charmeuse-silk-unstitched-3-pcs",
+    "originalPrice": 8099,
+    "salePrice": 4859,
+    "discountPct": 40,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/ajcs-06.1.jpg?v=1791441833",
+    "category": "unstitched",
+    "fabric": "Boski Silk",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://asimjofa.com/products/ajcs-06-printed-charmeuse-silk-unstitched-3-pcs",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-09-28T14:51:21+05:00",
+    "lastSeenAt": "2026-11-16T14:14:21.120Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 8099,
+        "salePrice": 8099
+      },
+      {
+        "date": "Oct 24",
+        "price": 8099,
+        "salePrice": 7451
+      },
+      {
+        "date": "Today",
+        "price": 8099,
+        "salePrice": 4859
+      }
+    ]
+  },
+  {
+    "id": "asimjofa-9976602886441",
+    "brandId": "asimjofa",
+    "brandName": "Asim Jofa",
+    "title": "AJULN-03 Embroidered Chiffon Unstitched 3 Pcs",
+    "handle": "ajuln-03-embroidered-chiffon-unstitched-3-pcs",
+    "originalPrice": 15850,
+    "salePrice": 9510,
+    "discountPct": 40,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/884A8419.jpg?v=1767337229",
+    "category": "unstitched",
+    "fabric": "Pure Chiffon",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://asimjofa.com/products/ajuln-03-embroidered-chiffon-unstitched-3-pcs",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-01-02T11:57:48+05:00",
+    "lastSeenAt": "2026-11-16T14:14:21.120Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 15850,
+        "salePrice": 15850
+      },
+      {
+        "date": "Oct 24",
+        "price": 15850,
+        "salePrice": 14582
+      },
+      {
+        "date": "Today",
+        "price": 15850,
+        "salePrice": 9510
+      }
+    ]
+  },
+  {
+    "id": "asimjofa-15380619854121",
+    "brandId": "asimjofa",
+    "brandName": "Asim Jofa",
+    "title": "Candy - RJPS-02",
+    "handle": "candy-rjps-02",
+    "originalPrice": 10990,
+    "salePrice": 6594,
+    "discountPct": 40,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/rjps-02.1.jpg?v=1790597607",
+    "category": "pret",
+    "fabric": "Fine Cotton Lawn",
+    "pieceCount": "1 Piece",
+    "productUrl": "https://asimjofa.com/products/candy-rjps-02",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-09-28T17:13:19+05:00",
+    "lastSeenAt": "2026-11-16T14:14:21.120Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 10990,
+        "salePrice": 10990
+      },
+      {
+        "date": "Oct 24",
+        "price": 10990,
+        "salePrice": 10111
+      },
+      {
+        "date": "Today",
+        "price": 10990,
+        "salePrice": 6594
+      }
+    ]
+  },
+  {
+    "id": "asimjofa-15380558381353",
+    "brandId": "asimjofa",
+    "brandName": "Asim Jofa",
+    "title": "AJCS-01 Printed Charmeuse Silk Unstitched 3 Pcs",
+    "handle": "ajcs-01-printed-charmeuse-silk-unstitched-3-pcs",
+    "originalPrice": 8099,
+    "salePrice": 4859,
+    "discountPct": 40,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/ajcs-01.1.jpg?v=1791355754",
+    "category": "unstitched",
+    "fabric": "Boski Silk",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://asimjofa.com/products/ajcs-01-printed-charmeuse-silk-unstitched-3-pcs",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-09-28T14:51:11+05:00",
+    "lastSeenAt": "2026-11-16T14:14:21.120Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 8099,
+        "salePrice": 8099
+      },
+      {
+        "date": "Oct 24",
+        "price": 8099,
+        "salePrice": 7451
+      },
+      {
+        "date": "Today",
+        "price": 8099,
+        "salePrice": 4859
+      }
+    ]
+  },
+  {
+    "id": "asimjofa-9975334404393",
+    "brandId": "asimjofa",
+    "brandName": "Asim Jofa",
+    "title": "AJULN-15 Embroidered Zari Tissue Net Unstitched 3 Pcs",
+    "handle": "ajuln-15-embroidered-zari-tissue-net-unstitched-3-pcs",
+    "originalPrice": 18350,
+    "salePrice": 11010,
+    "discountPct": 40,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/884A8157.jpg?v=1767183450",
+    "category": "unstitched",
+    "fabric": "Fine Cotton Lawn",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://asimjofa.com/products/ajuln-15-embroidered-zari-tissue-net-unstitched-3-pcs",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2025-12-31T17:14:45+05:00",
+    "lastSeenAt": "2026-11-16T14:14:21.120Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 18350,
+        "salePrice": 18350
+      },
+      {
+        "date": "Oct 24",
+        "price": 18350,
+        "salePrice": 16882
+      },
+      {
+        "date": "Today",
+        "price": 18350,
+        "salePrice": 11010
+      }
+    ]
+  },
+  {
+    "id": "asimjofa-9975328669993",
+    "brandId": "asimjofa",
+    "brandName": "Asim Jofa",
+    "title": "AJULN-19 Embroidered Zari Check Net Unstitched 3 Pcs",
+    "handle": "ajuln-19-embroidered-zari-check-net-unstitched-3-pcs",
+    "originalPrice": 21750,
+    "salePrice": 13050,
+    "discountPct": 40,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/884A8291.jpg?v=1767181954",
+    "category": "unstitched",
+    "fabric": "Pure Cotton",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://asimjofa.com/products/ajuln-19-embroidered-zari-check-net-unstitched-3-pcs",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2025-12-31T16:49:22+05:00",
+    "lastSeenAt": "2026-11-16T14:14:21.120Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 21750,
+        "salePrice": 21750
+      },
+      {
+        "date": "Oct 24",
+        "price": 21750,
+        "salePrice": 20010
+      },
+      {
+        "date": "Today",
+        "price": 21750,
+        "salePrice": 13050
+      }
+    ]
+  },
+  {
+    "id": "asimjofa-9975326703913",
+    "brandId": "asimjofa",
+    "brandName": "Asim Jofa",
+    "title": "AJULN-17  Embroidered Raw Silk Unstitched 3 Pcs",
+    "handle": "ajuln-17-pails-embroidered-raw-silk-unstitched-3-pcs",
+    "originalPrice": 22390,
+    "salePrice": 13434,
+    "discountPct": 40,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/884A7771.jpg?v=1767186851",
+    "category": "unstitched",
+    "fabric": "Pure Chiffon",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://asimjofa.com/products/ajuln-17-pails-embroidered-raw-silk-unstitched-3-pcs",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2025-12-31T16:31:15+05:00",
+    "lastSeenAt": "2026-11-16T14:14:21.120Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 22390,
+        "salePrice": 22390
+      },
+      {
+        "date": "Oct 24",
+        "price": 22390,
+        "salePrice": 20599
+      },
+      {
+        "date": "Today",
+        "price": 22390,
+        "salePrice": 13434
+      }
+    ]
+  },
+  {
+    "id": "asimjofa-10321032216873",
+    "brandId": "asimjofa",
+    "brandName": "Asim Jofa",
+    "title": "AJUC-07 Printed Crepe Silk Unstitched 3 Pcs",
+    "handle": "ajuc-07-printed-crepe-silk-unstitched-3-pcs",
+    "originalPrice": 9990,
+    "salePrice": 5994,
+    "discountPct": 40,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/052A8048_0ee2386d-337b-4c88-9476-ecc97b7947b0.jpg?v=1790254255",
+    "category": "unstitched",
+    "fabric": "Boski Silk",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://asimjofa.com/products/ajuc-07-printed-crepe-silk-unstitched-3-pcs",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-09-24T17:49:57+05:00",
+    "lastSeenAt": "2026-11-16T14:14:21.120Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 9990,
+        "salePrice": 9990
+      },
+      {
+        "date": "Oct 24",
+        "price": 9990,
+        "salePrice": 9191
+      },
+      {
+        "date": "Today",
+        "price": 9990,
+        "salePrice": 5994
+      }
+    ]
+  },
+  {
+    "id": "asimjofa-10321028514089",
+    "brandId": "asimjofa",
+    "brandName": "Asim Jofa",
+    "title": "AJUC-03 Printed Katan Silk Unstitched 3 Pcs",
+    "handle": "ajuc-03-printed-katan-silk-unstitched-3-pcs",
+    "originalPrice": 9990,
+    "salePrice": 5994,
+    "discountPct": 40,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/052A9222.jpg?v=1790253224",
+    "category": "unstitched",
+    "fabric": "Boski Silk",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://asimjofa.com/products/ajuc-03-printed-katan-silk-unstitched-3-pcs",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-09-24T17:33:23+05:00",
+    "lastSeenAt": "2026-11-16T14:14:21.120Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 9990,
+        "salePrice": 9990
+      },
+      {
+        "date": "Oct 24",
+        "price": 9990,
+        "salePrice": 9191
+      },
+      {
+        "date": "Today",
+        "price": 9990,
+        "salePrice": 5994
+      }
+    ]
+  },
+  {
+    "id": "asimjofa-15380619952425",
+    "brandId": "asimjofa",
+    "brandName": "Asim Jofa",
+    "title": "Lyra - RJPS-01",
+    "handle": "lyra-rjps-01",
+    "originalPrice": 10990,
+    "salePrice": 6594,
+    "discountPct": 40,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/rjps-01.1.jpg?v=1790597607",
+    "category": "pret",
+    "fabric": "Fine Cotton Lawn",
+    "pieceCount": "1 Piece",
+    "productUrl": "https://asimjofa.com/products/lyra-rjps-01",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-09-28T17:13:20+05:00",
+    "lastSeenAt": "2026-11-16T14:14:21.120Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 10990,
+        "salePrice": 10990
+      },
+      {
+        "date": "Oct 24",
+        "price": 10990,
+        "salePrice": 10111
+      },
+      {
+        "date": "Today",
+        "price": 10990,
+        "salePrice": 6594
+      }
+    ]
+  },
+  {
+    "id": "asimjofa-15380619919657",
+    "brandId": "asimjofa",
+    "brandName": "Asim Jofa",
+    "title": "Emerald - RJPS-06",
+    "handle": "emerald-rjps-06",
+    "originalPrice": 10990,
+    "salePrice": 6594,
+    "discountPct": 40,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/rjps-06.1.jpg?v=1790597609",
+    "category": "pret",
+    "fabric": "Fine Cotton Lawn",
+    "pieceCount": "2 Piece",
+    "productUrl": "https://asimjofa.com/products/emerald-rjps-06",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-09-28T17:13:19+05:00",
+    "lastSeenAt": "2026-11-16T14:14:21.120Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 10990,
+        "salePrice": 10990
+      },
+      {
+        "date": "Oct 24",
+        "price": 10990,
+        "salePrice": 10111
+      },
+      {
+        "date": "Today",
+        "price": 10990,
+        "salePrice": 6594
       }
     ]
   },
@@ -4087,7 +4087,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-05-20T10:06:07+05:00",
-    "lastSeenAt": "2026-11-15T22:16:36.444Z",
+    "lastSeenAt": "2026-11-16T14:14:24.823Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4123,7 +4123,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-05-20T10:26:22+05:00",
-    "lastSeenAt": "2026-11-15T22:16:36.444Z",
+    "lastSeenAt": "2026-11-16T14:14:24.823Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4159,7 +4159,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-18T15:31:19+05:00",
-    "lastSeenAt": "2026-11-15T22:16:36.444Z",
+    "lastSeenAt": "2026-11-16T14:14:24.823Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4195,7 +4195,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-23T11:41:21+05:00",
-    "lastSeenAt": "2026-11-15T22:16:36.444Z",
+    "lastSeenAt": "2026-11-16T14:14:24.823Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4231,7 +4231,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-29T16:58:06+05:00",
-    "lastSeenAt": "2026-11-15T22:16:36.444Z",
+    "lastSeenAt": "2026-11-16T14:14:24.823Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4267,7 +4267,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-29T17:09:10+05:00",
-    "lastSeenAt": "2026-11-15T22:16:36.444Z",
+    "lastSeenAt": "2026-11-16T14:14:24.823Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4303,7 +4303,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-01T15:02:03+05:00",
-    "lastSeenAt": "2026-11-15T22:16:36.444Z",
+    "lastSeenAt": "2026-11-16T14:14:24.823Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4339,7 +4339,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-15T11:46:45+05:00",
-    "lastSeenAt": "2026-11-15T22:16:36.444Z",
+    "lastSeenAt": "2026-11-16T14:14:24.823Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4375,7 +4375,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-16T11:54:48+05:00",
-    "lastSeenAt": "2026-11-15T22:16:36.444Z",
+    "lastSeenAt": "2026-11-16T14:14:24.823Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4411,7 +4411,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-27T16:29:56+05:00",
-    "lastSeenAt": "2026-11-15T22:16:36.444Z",
+    "lastSeenAt": "2026-11-16T14:14:24.823Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4447,7 +4447,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-27T16:39:58+05:00",
-    "lastSeenAt": "2026-11-15T22:16:36.444Z",
+    "lastSeenAt": "2026-11-16T14:14:24.823Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4483,7 +4483,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-03-30T10:29:28+05:00",
-    "lastSeenAt": "2026-11-15T22:16:36.444Z",
+    "lastSeenAt": "2026-11-16T14:14:24.823Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4519,7 +4519,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-04-15T16:14:10+05:00",
-    "lastSeenAt": "2026-11-15T22:16:36.444Z",
+    "lastSeenAt": "2026-11-16T14:14:24.823Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4555,7 +4555,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-05-05T12:52:13+05:00",
-    "lastSeenAt": "2026-11-15T22:16:36.444Z",
+    "lastSeenAt": "2026-11-16T14:14:24.823Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4591,7 +4591,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-05-05T13:05:49+05:00",
-    "lastSeenAt": "2026-11-15T22:16:36.444Z",
+    "lastSeenAt": "2026-11-16T14:14:24.823Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4627,7 +4627,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-05-11T14:23:53+05:00",
-    "lastSeenAt": "2026-11-15T22:16:36.444Z",
+    "lastSeenAt": "2026-11-16T14:14:24.823Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4663,7 +4663,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-05-18T14:43:57+05:00",
-    "lastSeenAt": "2026-11-15T22:16:36.444Z",
+    "lastSeenAt": "2026-11-16T14:14:24.823Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4699,7 +4699,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-05-19T17:13:28+05:00",
-    "lastSeenAt": "2026-11-15T22:16:36.444Z",
+    "lastSeenAt": "2026-11-16T14:14:24.823Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4735,7 +4735,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-05-20T10:10:50+05:00",
-    "lastSeenAt": "2026-11-15T22:16:36.445Z",
+    "lastSeenAt": "2026-11-16T14:14:24.824Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4771,7 +4771,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-05-20T10:29:25+05:00",
-    "lastSeenAt": "2026-11-15T22:16:36.445Z",
+    "lastSeenAt": "2026-11-16T14:14:24.824Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4807,7 +4807,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-23T10:56:03+05:00",
-    "lastSeenAt": "2026-11-15T22:16:36.445Z",
+    "lastSeenAt": "2026-11-16T14:14:24.824Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4843,7 +4843,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-06T10:02:05+05:00",
-    "lastSeenAt": "2026-11-15T22:16:36.445Z",
+    "lastSeenAt": "2026-11-16T14:14:24.824Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4879,7 +4879,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-06T10:08:33+05:00",
-    "lastSeenAt": "2026-11-15T22:16:36.445Z",
+    "lastSeenAt": "2026-11-16T14:14:24.824Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4915,7 +4915,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-06T11:14:27+05:00",
-    "lastSeenAt": "2026-11-15T22:16:36.445Z",
+    "lastSeenAt": "2026-11-16T14:14:24.824Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4951,7 +4951,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-17T10:21:21+05:00",
-    "lastSeenAt": "2026-11-15T22:16:36.445Z",
+    "lastSeenAt": "2026-11-16T14:14:24.824Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4987,7 +4987,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-29T10:15:12+05:00",
-    "lastSeenAt": "2026-11-15T22:16:36.445Z",
+    "lastSeenAt": "2026-11-16T14:14:24.824Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5023,7 +5023,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-29T11:15:44+05:00",
-    "lastSeenAt": "2026-11-15T22:16:36.445Z",
+    "lastSeenAt": "2026-11-16T14:14:24.824Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5059,7 +5059,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-29T14:32:28+05:00",
-    "lastSeenAt": "2026-11-15T22:16:36.445Z",
+    "lastSeenAt": "2026-11-16T14:14:24.824Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5095,7 +5095,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-29T14:43:40+05:00",
-    "lastSeenAt": "2026-11-15T22:16:36.445Z",
+    "lastSeenAt": "2026-11-16T14:14:24.824Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5131,7 +5131,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-29T14:46:04+05:00",
-    "lastSeenAt": "2026-11-15T22:16:36.445Z",
+    "lastSeenAt": "2026-11-16T14:14:24.824Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5167,7 +5167,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T18:47:13+05:00",
-    "lastSeenAt": "2026-11-15T22:16:40.081Z",
+    "lastSeenAt": "2026-11-16T14:14:28.565Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5203,7 +5203,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T18:47:19+05:00",
-    "lastSeenAt": "2026-11-15T22:16:40.081Z",
+    "lastSeenAt": "2026-11-16T14:14:28.565Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5229,8 +5229,8 @@ export const INITIAL_PRODUCTS: Product[] = [
     "title": "BLUE LAWN PRINTED TROUSER",
     "handle": "blue-lawn-printed-trouser-jjlt-s-25-362-fb-essentials-14",
     "originalPrice": 1990,
-    "salePrice": 690,
-    "discountPct": 65,
+    "salePrice": 990,
+    "discountPct": 50,
     "imageUrl": "https://cdn.shopify.com/s/files/1/0702/2487/1584/files/jlt-25-362_7f24ad80-4fc5-4a89-8221-509cf9daf3f0.jpg?v=1776976748",
     "category": "pret",
     "fabric": "Premium Lawn",
@@ -5239,7 +5239,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T18:35:33+05:00",
-    "lastSeenAt": "2026-11-15T22:16:40.081Z",
+    "lastSeenAt": "2026-11-16T14:14:28.565Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5254,7 +5254,7 @@ export const INITIAL_PRODUCTS: Product[] = [
       {
         "date": "Today",
         "price": 1990,
-        "salePrice": 690
+        "salePrice": 990
       }
     ]
   },
@@ -5265,8 +5265,8 @@ export const INITIAL_PRODUCTS: Product[] = [
     "title": "BLUE CAMBRIC PRINTED TROUSERS | JJLT-W-24-3065",
     "handle": "blue-cambric-printed-trousers-jjlt-w-24-3065",
     "originalPrice": 1890,
-    "salePrice": 690,
-    "discountPct": 63,
+    "salePrice": 990,
+    "discountPct": 48,
     "imageUrl": "https://cdn.shopify.com/s/files/1/0702/2487/1584/files/jlt-24-3065_c3adf4db-466c-48c5-a333-66f47d91ca80.jpg?v=1776978285",
     "category": "pret",
     "fabric": "Soft Cambric",
@@ -5275,7 +5275,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T10:11:08+05:00",
-    "lastSeenAt": "2026-11-15T22:16:40.081Z",
+    "lastSeenAt": "2026-11-16T14:14:28.565Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5290,7 +5290,7 @@ export const INITIAL_PRODUCTS: Product[] = [
       {
         "date": "Today",
         "price": 1890,
-        "salePrice": 690
+        "salePrice": 990
       }
     ]
   },
@@ -5301,8 +5301,8 @@ export const INITIAL_PRODUCTS: Product[] = [
     "title": "MULTICOLOR CAMBRIC PRINTED TROUSERS | JJLT-W-24-3066",
     "handle": "multicolor-cambric-printed-trousers-jjlt-w-24-3066",
     "originalPrice": 1890,
-    "salePrice": 690,
-    "discountPct": 63,
+    "salePrice": 990,
+    "discountPct": 48,
     "imageUrl": "https://cdn.shopify.com/s/files/1/0702/2487/1584/files/jlt-24-3066_c71154d8-dbd1-4f13-9b34-920ebb551df9.jpg?v=1776978285",
     "category": "pret",
     "fabric": "Soft Cambric",
@@ -5311,7 +5311,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T10:11:04+05:00",
-    "lastSeenAt": "2026-11-15T22:16:40.081Z",
+    "lastSeenAt": "2026-11-16T14:14:28.565Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5326,7 +5326,7 @@ export const INITIAL_PRODUCTS: Product[] = [
       {
         "date": "Today",
         "price": 1890,
-        "salePrice": 690
+        "salePrice": 990
       }
     ]
   },
@@ -5337,8 +5337,8 @@ export const INITIAL_PRODUCTS: Product[] = [
     "title": "PINK CAMBRIC PRINTED TROUSERS | JJLT-W-24-3064",
     "handle": "pink-cambric-printed-trousers-jjlt-w-24-3064",
     "originalPrice": 1890,
-    "salePrice": 690,
-    "discountPct": 63,
+    "salePrice": 990,
+    "discountPct": 48,
     "imageUrl": "https://cdn.shopify.com/s/files/1/0702/2487/1584/files/jlt-24-3064_51254f23-59c3-4344-a102-f3dd959066fb.jpg?v=1776978285",
     "category": "pret",
     "fabric": "Soft Cambric",
@@ -5347,7 +5347,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T10:11:03+05:00",
-    "lastSeenAt": "2026-11-15T22:16:40.082Z",
+    "lastSeenAt": "2026-11-16T14:14:28.565Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5362,7 +5362,7 @@ export const INITIAL_PRODUCTS: Product[] = [
       {
         "date": "Today",
         "price": 1890,
-        "salePrice": 690
+        "salePrice": 990
       }
     ]
   },
@@ -5373,8 +5373,8 @@ export const INITIAL_PRODUCTS: Product[] = [
     "title": "MUSTARD CAMBRIC PRINTED TROUSERS | JJLT-W-24-3063",
     "handle": "mustard-cambric-printed-trousers-jjlt-w-24-3063",
     "originalPrice": 1890,
-    "salePrice": 690,
-    "discountPct": 63,
+    "salePrice": 990,
+    "discountPct": 48,
     "imageUrl": "https://cdn.shopify.com/s/files/1/0702/2487/1584/files/jlt-24-3063_258d8339-1a2b-4955-bf22-98e80c9e0b28.jpg?v=1776978285",
     "category": "pret",
     "fabric": "Soft Cambric",
@@ -5383,7 +5383,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T10:11:06+05:00",
-    "lastSeenAt": "2026-11-15T22:16:40.082Z",
+    "lastSeenAt": "2026-11-16T14:14:28.565Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5398,7 +5398,7 @@ export const INITIAL_PRODUCTS: Product[] = [
       {
         "date": "Today",
         "price": 1890,
-        "salePrice": 690
+        "salePrice": 990
       }
     ]
   },
@@ -5409,8 +5409,8 @@ export const INITIAL_PRODUCTS: Product[] = [
     "title": "YELLOW CAMBRIC PRINTED TROUSERS | JJLT-W-24-3071",
     "handle": "yellow-cambric-printed-trousers-jjlt-w-24-3071",
     "originalPrice": 1890,
-    "salePrice": 690,
-    "discountPct": 63,
+    "salePrice": 990,
+    "discountPct": 48,
     "imageUrl": "https://cdn.shopify.com/s/files/1/0702/2487/1584/files/jws-24-3071_3_-_copy_1_5c2d4f70-2f99-4099-8d3e-6ca43c87e013.jpg?v=1776978285",
     "category": "pret",
     "fabric": "Soft Cambric",
@@ -5419,7 +5419,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T10:10:55+05:00",
-    "lastSeenAt": "2026-11-15T22:16:40.082Z",
+    "lastSeenAt": "2026-11-16T14:14:28.565Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5434,7 +5434,7 @@ export const INITIAL_PRODUCTS: Product[] = [
       {
         "date": "Today",
         "price": 1890,
-        "salePrice": 690
+        "salePrice": 990
       }
     ]
   },
@@ -5445,8 +5445,8 @@ export const INITIAL_PRODUCTS: Product[] = [
     "title": "BLACK CAMBRIC PRINTED TROUSERS | JJLT-W-24-3062",
     "handle": "black-cambric-printed-trousers-jjlt-w-24-3062",
     "originalPrice": 1890,
-    "salePrice": 690,
-    "discountPct": 63,
+    "salePrice": 990,
+    "discountPct": 48,
     "imageUrl": "https://cdn.shopify.com/s/files/1/0702/2487/1584/files/jlt-24-3062_00baeaa2-653f-4339-8063-abb7771ea9c4.jpg?v=1776978285",
     "category": "pret",
     "fabric": "Soft Cambric",
@@ -5455,7 +5455,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T10:11:10+05:00",
-    "lastSeenAt": "2026-11-15T22:16:40.082Z",
+    "lastSeenAt": "2026-11-16T14:14:28.565Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5470,7 +5470,7 @@ export const INITIAL_PRODUCTS: Product[] = [
       {
         "date": "Today",
         "price": 1890,
-        "salePrice": 690
+        "salePrice": 990
       }
     ]
   },
@@ -5481,8 +5481,8 @@ export const INITIAL_PRODUCTS: Product[] = [
     "title": "BROWN SHALWAR | JJLT-W-24-3070",
     "handle": "brown-shalwar-jjlt-w-24-3070",
     "originalPrice": 2090,
-    "salePrice": 690,
-    "discountPct": 67,
+    "salePrice": 990,
+    "discountPct": 53,
     "imageUrl": "https://cdn.shopify.com/s/files/1/0702/2487/1584/files/jlt-24-3070_1_cf49a726-372a-4922-8739-1251015bee30.jpg?v=1776978244",
     "category": "pret",
     "fabric": "Fine Cotton Lawn",
@@ -5491,7 +5491,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T10:16:44+05:00",
-    "lastSeenAt": "2026-11-15T22:16:40.082Z",
+    "lastSeenAt": "2026-11-16T14:14:28.565Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5506,7 +5506,7 @@ export const INITIAL_PRODUCTS: Product[] = [
       {
         "date": "Today",
         "price": 2090,
-        "salePrice": 690
+        "salePrice": 990
       }
     ]
   },
@@ -5517,8 +5517,8 @@ export const INITIAL_PRODUCTS: Product[] = [
     "title": "BLUE SHALWAR | JJLT-W-24-3073",
     "handle": "blue-shalwar-jjlt-w-24-3073",
     "originalPrice": 2090,
-    "salePrice": 690,
-    "discountPct": 67,
+    "salePrice": 990,
+    "discountPct": 53,
     "imageUrl": "https://cdn.shopify.com/s/files/1/0702/2487/1584/files/24-3073_1_89bfd2ba-d481-4a7f-8625-785ca84691f9.jpg?v=1776978244",
     "category": "pret",
     "fabric": "Fine Cotton Lawn",
@@ -5527,7 +5527,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T10:16:42+05:00",
-    "lastSeenAt": "2026-11-15T22:16:40.082Z",
+    "lastSeenAt": "2026-11-16T14:14:28.565Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5542,7 +5542,7 @@ export const INITIAL_PRODUCTS: Product[] = [
       {
         "date": "Today",
         "price": 2090,
-        "salePrice": 690
+        "salePrice": 990
       }
     ]
   },
@@ -5553,8 +5553,8 @@ export const INITIAL_PRODUCTS: Product[] = [
     "title": "MULTICOLOR CAMBRIC PRINTED TROUSERS | JJLT-W-24-3069",
     "handle": "multicolor-cambric-printed-trousers-jjlt-w-24-3069",
     "originalPrice": 1890,
-    "salePrice": 690,
-    "discountPct": 63,
+    "salePrice": 990,
+    "discountPct": 48,
     "imageUrl": "https://cdn.shopify.com/s/files/1/0702/2487/1584/files/jws-24-3069_3_-_copy_e237cc72-b697-4f05-93dd-76dde60fe83e.jpg?v=1776978285",
     "category": "pret",
     "fabric": "Soft Cambric",
@@ -5563,7 +5563,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T10:10:57+05:00",
-    "lastSeenAt": "2026-11-15T22:16:40.082Z",
+    "lastSeenAt": "2026-11-16T14:14:28.565Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5578,7 +5578,7 @@ export const INITIAL_PRODUCTS: Product[] = [
       {
         "date": "Today",
         "price": 1890,
-        "salePrice": 690
+        "salePrice": 990
       }
     ]
   },
@@ -5589,8 +5589,8 @@ export const INITIAL_PRODUCTS: Product[] = [
     "title": "BROWN CAMBRIC PRINTED TROUSERS | JJLT-W-24-3072",
     "handle": "brown-cambric-printed-trousers-jjlt-w-24-3072",
     "originalPrice": 1890,
-    "salePrice": 690,
-    "discountPct": 63,
+    "salePrice": 990,
+    "discountPct": 48,
     "imageUrl": "https://cdn.shopify.com/s/files/1/0702/2487/1584/files/jws-24-3072_3_-_copy_77f381fa-1715-4eef-b4bf-52d55d12dba3.jpg?v=1776978285",
     "category": "pret",
     "fabric": "Soft Cambric",
@@ -5599,7 +5599,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T10:10:54+05:00",
-    "lastSeenAt": "2026-11-15T22:16:40.082Z",
+    "lastSeenAt": "2026-11-16T14:14:28.565Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5614,7 +5614,7 @@ export const INITIAL_PRODUCTS: Product[] = [
       {
         "date": "Today",
         "price": 1890,
-        "salePrice": 690
+        "salePrice": 990
       }
     ]
   },
@@ -5635,7 +5635,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T14:44:07+05:00",
-    "lastSeenAt": "2026-11-15T22:16:40.082Z",
+    "lastSeenAt": "2026-11-16T14:14:28.565Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5660,9 +5660,9 @@ export const INITIAL_PRODUCTS: Product[] = [
     "brandName": "J. Junaid Jamshed",
     "title": "Green Raw Silk Embroidered Unstitched 3Pc",
     "handle": "green-lawn-unstitched-3pc-jlawn-s-23-219",
-    "originalPrice": 31280,
-    "salePrice": 23170,
-    "discountPct": 26,
+    "originalPrice": 23170,
+    "salePrice": 9268,
+    "discountPct": 60,
     "imageUrl": "https://cdn.shopify.com/s/files/1/0702/2487/1584/files/23-219s_1__1_b28dd472-49b9-42ae-a0ce-669fc968de72.jpg?v=1776983245",
     "category": "unstitched",
     "fabric": "Pure Chiffon",
@@ -5671,22 +5671,22 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-11T22:05:52+05:00",
-    "lastSeenAt": "2026-11-15T22:16:40.082Z",
+    "lastSeenAt": "2026-11-16T14:14:28.565Z",
     "priceHistory": [
       {
         "date": "Oct 15",
-        "price": 31280,
-        "salePrice": 31280
+        "price": 23170,
+        "salePrice": 23170
       },
       {
         "date": "Oct 24",
-        "price": 31280,
-        "salePrice": 28778
+        "price": 23170,
+        "salePrice": 21316
       },
       {
         "date": "Today",
-        "price": 31280,
-        "salePrice": 23170
+        "price": 23170,
+        "salePrice": 9268
       }
     ]
   },
@@ -5696,9 +5696,9 @@ export const INITIAL_PRODUCTS: Product[] = [
     "brandName": "J. Junaid Jamshed",
     "title": "OFF WHITE LAWN KURTA",
     "handle": "off-white-lawn-kurti-jygk-ygkl-s-144-23",
-    "originalPrice": 9950,
-    "salePrice": 7370,
-    "discountPct": 26,
+    "originalPrice": 7370,
+    "salePrice": 2948,
+    "discountPct": 60,
     "imageUrl": "https://cdn.shopify.com/s/files/1/0702/2487/1584/files/ygkl-144-23_1_667a2f32-93be-45b1-bf50-7a08160d769a.jpg?v=1776982549",
     "category": "pret",
     "fabric": "Premium Lawn",
@@ -5707,22 +5707,22 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-11T21:35:52+05:00",
-    "lastSeenAt": "2026-11-15T22:16:40.082Z",
+    "lastSeenAt": "2026-11-16T14:14:28.565Z",
     "priceHistory": [
       {
         "date": "Oct 15",
-        "price": 9950,
-        "salePrice": 9950
+        "price": 7370,
+        "salePrice": 7370
       },
       {
         "date": "Oct 24",
-        "price": 9950,
-        "salePrice": 9154
+        "price": 7370,
+        "salePrice": 6780
       },
       {
         "date": "Today",
-        "price": 9950,
-        "salePrice": 7370
+        "price": 7370,
+        "salePrice": 2948
       }
     ]
   },
@@ -5743,7 +5743,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-11T22:09:35+05:00",
-    "lastSeenAt": "2026-11-15T22:16:40.082Z",
+    "lastSeenAt": "2026-11-16T14:14:28.565Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5768,9 +5768,9 @@ export const INITIAL_PRODUCTS: Product[] = [
     "brandName": "J. Junaid Jamshed",
     "title": "YELLOW LAWN PRINTED UNSTITCHED 2PC",
     "handle": "yellow-chiffon-printed-unstitched-2pc-jds251134u",
-    "originalPrice": 3902,
-    "salePrice": 2890,
-    "discountPct": 26,
+    "originalPrice": 2890,
+    "salePrice": 2312,
+    "discountPct": 20,
     "imageUrl": "https://cdn.shopify.com/s/files/1/0702/2487/1584/files/jds-25-1134_1_d7ace22c-b00f-4ece-852e-40a5894ef455.jpg?v=1776976058",
     "category": "unstitched",
     "fabric": "Pure Chiffon",
@@ -5779,22 +5779,22 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T21:37:17+05:00",
-    "lastSeenAt": "2026-11-15T22:16:40.082Z",
+    "lastSeenAt": "2026-11-16T14:14:28.565Z",
     "priceHistory": [
       {
         "date": "Oct 15",
-        "price": 3902,
-        "salePrice": 3902
+        "price": 2890,
+        "salePrice": 2890
       },
       {
         "date": "Oct 24",
-        "price": 3902,
-        "salePrice": 3590
+        "price": 2890,
+        "salePrice": 2659
       },
       {
         "date": "Today",
-        "price": 3902,
-        "salePrice": 2890
+        "price": 2890,
+        "salePrice": 2312
       }
     ]
   },
@@ -5804,9 +5804,9 @@ export const INITIAL_PRODUCTS: Product[] = [
     "brandName": "J. Junaid Jamshed",
     "title": "MULTICOLOR CHIFFON PRINTED UNSTITCHED 2PC",
     "handle": "multicolor-chiffon-printed-unstitched-2pc-jds251135u",
-    "originalPrice": 3902,
-    "salePrice": 2890,
-    "discountPct": 26,
+    "originalPrice": 2890,
+    "salePrice": 2312,
+    "discountPct": 20,
     "imageUrl": "https://cdn.shopify.com/s/files/1/0702/2487/1584/files/jds-25-1135_1_35bdb14d-b21b-405b-b18f-ea3405d6ecee.jpg?v=1776976057",
     "category": "unstitched",
     "fabric": "Pure Chiffon",
@@ -5815,22 +5815,22 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T21:37:15+05:00",
-    "lastSeenAt": "2026-11-15T22:16:40.082Z",
+    "lastSeenAt": "2026-11-16T14:14:28.565Z",
     "priceHistory": [
       {
         "date": "Oct 15",
-        "price": 3902,
-        "salePrice": 3902
+        "price": 2890,
+        "salePrice": 2890
       },
       {
         "date": "Oct 24",
-        "price": 3902,
-        "salePrice": 3590
+        "price": 2890,
+        "salePrice": 2659
       },
       {
         "date": "Today",
-        "price": 3902,
-        "salePrice": 2890
+        "price": 2890,
+        "salePrice": 2312
       }
     ]
   },
@@ -5840,9 +5840,9 @@ export const INITIAL_PRODUCTS: Product[] = [
     "brandName": "J. Junaid Jamshed",
     "title": "MULTICOLOR CHIFFON PRINTED UNSTITCHED 2PC",
     "handle": "multicolor-chiffon-printed-unstitched-2pc-jds251133u",
-    "originalPrice": 3902,
-    "salePrice": 2890,
-    "discountPct": 26,
+    "originalPrice": 2890,
+    "salePrice": 2312,
+    "discountPct": 20,
     "imageUrl": "https://cdn.shopify.com/s/files/1/0702/2487/1584/files/jds-25-1133_1_94d2fbb7-6c72-4106-a513-d4338b7c4a48.jpg?v=1776976057",
     "category": "unstitched",
     "fabric": "Pure Chiffon",
@@ -5851,22 +5851,22 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T21:37:19+05:00",
-    "lastSeenAt": "2026-11-15T22:16:40.082Z",
+    "lastSeenAt": "2026-11-16T14:14:28.565Z",
     "priceHistory": [
       {
         "date": "Oct 15",
-        "price": 3902,
-        "salePrice": 3902
+        "price": 2890,
+        "salePrice": 2890
       },
       {
         "date": "Oct 24",
-        "price": 3902,
-        "salePrice": 3590
+        "price": 2890,
+        "salePrice": 2659
       },
       {
         "date": "Today",
-        "price": 3902,
-        "salePrice": 2890
+        "price": 2890,
+        "salePrice": 2312
       }
     ]
   },
@@ -5876,9 +5876,9 @@ export const INITIAL_PRODUCTS: Product[] = [
     "brandName": "J. Junaid Jamshed",
     "title": "GREEN CHIFFON PRINTED UNSTITCHED 2PC",
     "handle": "green-chiffon-printed-unstitched-2pc-jds251132u",
-    "originalPrice": 3902,
-    "salePrice": 2890,
-    "discountPct": 26,
+    "originalPrice": 2890,
+    "salePrice": 2312,
+    "discountPct": 20,
     "imageUrl": "https://cdn.shopify.com/s/files/1/0702/2487/1584/files/jds-25-1132_1_a42fe92e-1598-4669-a00a-94e0aea42899.jpg?v=1776976058",
     "category": "unstitched",
     "fabric": "Pure Chiffon",
@@ -5887,22 +5887,22 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T21:37:21+05:00",
-    "lastSeenAt": "2026-11-15T22:16:40.082Z",
+    "lastSeenAt": "2026-11-16T14:14:28.565Z",
     "priceHistory": [
       {
         "date": "Oct 15",
-        "price": 3902,
-        "salePrice": 3902
+        "price": 2890,
+        "salePrice": 2890
       },
       {
         "date": "Oct 24",
-        "price": 3902,
-        "salePrice": 3590
+        "price": 2890,
+        "salePrice": 2659
       },
       {
         "date": "Today",
-        "price": 3902,
-        "salePrice": 2890
+        "price": 2890,
+        "salePrice": 2312
       }
     ]
   },
@@ -5923,7 +5923,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T21:31:47+05:00",
-    "lastSeenAt": "2026-11-15T22:16:40.082Z",
+    "lastSeenAt": "2026-11-16T14:14:28.565Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5949,8 +5949,8 @@ export const INITIAL_PRODUCTS: Product[] = [
     "title": "BLACK DOBBY DYED CO-ORD SET",
     "handle": "black-dobby-dyed-2pc-stitched-jst252222s",
     "originalPrice": 6990,
-    "salePrice": 3495,
-    "discountPct": 50,
+    "salePrice": 4893,
+    "discountPct": 30,
     "imageUrl": "https://cdn.shopify.com/s/files/1/0702/2487/1584/files/25-2222_2.jpg?v=1779531435",
     "category": "western",
     "fabric": "Fine Cotton Lawn",
@@ -5959,7 +5959,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T21:29:40+05:00",
-    "lastSeenAt": "2026-11-15T22:16:40.082Z",
+    "lastSeenAt": "2026-11-16T14:14:28.565Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5974,7 +5974,7 @@ export const INITIAL_PRODUCTS: Product[] = [
       {
         "date": "Today",
         "price": 6990,
-        "salePrice": 3495
+        "salePrice": 4893
       }
     ]
   },
@@ -5985,8 +5985,8 @@ export const INITIAL_PRODUCTS: Product[] = [
     "title": "BLACK SILK DIGITAL PRINTED CO-ORD SET",
     "handle": "black-silk-digital-printed-2pc-stitched-jst252153s",
     "originalPrice": 6990,
-    "salePrice": 3495,
-    "discountPct": 50,
+    "salePrice": 4194,
+    "discountPct": 40,
     "imageUrl": "https://cdn.shopify.com/s/files/1/0702/2487/1584/files/2153_1_f2175ae5-cc43-46dd-8c62-1e8c18a06694.jpg?v=1776976098",
     "category": "western",
     "fabric": "Boski Silk",
@@ -5995,7 +5995,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T21:31:06+05:00",
-    "lastSeenAt": "2026-11-15T22:16:40.082Z",
+    "lastSeenAt": "2026-11-16T14:14:28.565Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6010,7 +6010,7 @@ export const INITIAL_PRODUCTS: Product[] = [
       {
         "date": "Today",
         "price": 6990,
-        "salePrice": 3495
+        "salePrice": 4194
       }
     ]
   },
@@ -6020,9 +6020,9 @@ export const INITIAL_PRODUCTS: Product[] = [
     "brandName": "J. Junaid Jamshed",
     "title": "CREAM LAWN PRINTED UNSTITCHED 2PC",
     "handle": "cream-lawn-printed-unstitched-2pc-jst252157u",
-    "originalPrice": 3767,
-    "salePrice": 2790,
-    "discountPct": 26,
+    "originalPrice": 2790,
+    "salePrice": 2232,
+    "discountPct": 20,
     "imageUrl": "https://cdn.shopify.com/s/files/1/0702/2487/1584/files/jst-25-2157_1_93f593d5-9a3a-4447-8220-b4e8d398a89e.jpg?v=1776976098",
     "category": "unstitched",
     "fabric": "Premium Lawn",
@@ -6031,151 +6031,331 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T21:30:58+05:00",
-    "lastSeenAt": "2026-11-15T22:16:40.082Z",
+    "lastSeenAt": "2026-11-16T14:14:28.565Z",
     "priceHistory": [
       {
         "date": "Oct 15",
-        "price": 3767,
-        "salePrice": 3767
-      },
-      {
-        "date": "Oct 24",
-        "price": 3767,
-        "salePrice": 3466
-      },
-      {
-        "date": "Today",
-        "price": 3767,
+        "price": 2790,
         "salePrice": 2790
-      }
-    ]
-  },
-  {
-    "id": "alkaram-8111784231092",
-    "brandId": "alkaram",
-    "brandName": "Alkaram Studio",
-    "title": "RTS  | SHIRT",
-    "handle": "rts-shirt-bd257-26-blue",
-    "originalPrice": 1690,
-    "salePrice": 1352,
-    "discountPct": 20,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/BD257-26-Blue-1.jpg?v=1787051422",
-    "category": "pret",
-    "fabric": "Soft Cambric",
-    "pieceCount": "1 Piece",
-    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-bd257-26-blue",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-08-18T17:27:06+05:00",
-    "lastSeenAt": "2026-11-15T22:16:43.737Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 1690,
-        "salePrice": 1690
       },
       {
         "date": "Oct 24",
-        "price": 1690,
-        "salePrice": 1555
+        "price": 2790,
+        "salePrice": 2567
       },
       {
         "date": "Today",
-        "price": 1690,
-        "salePrice": 1352
+        "price": 2790,
+        "salePrice": 2232
       }
     ]
   },
   {
-    "id": "alkaram-8040122745012",
+    "id": "alkaram-8020334674100",
     "brandId": "alkaram",
     "brandName": "Alkaram Studio",
-    "title": "RTW | SHIRT, CULOTTE & DUPATTA",
-    "handle": "rtw-shirt-culotte-dupatta-lde364-11-3p25-green",
-    "originalPrice": 8990,
-    "salePrice": 4945,
-    "discountPct": 45,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/LDE364-11-3P25_1.jpg?v=1774434314",
+    "title": "RTS | SHIRT & DUPATTA",
+    "handle": "rts-shirt-dupatta-bd39-2p26-light-blue",
+    "originalPrice": 2590,
+    "salePrice": 1813,
+    "discountPct": 30,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/BD39-2P26-LightBlue-1.jpg?v=1768645893",
     "category": "pret",
-    "fabric": "Boski Silk",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://www.alkaramstudio.com/products/rtw-shirt-culotte-dupatta-lde364-11-3p25-green",
+    "fabric": "Premium Lawn",
+    "pieceCount": "2 Piece",
+    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-dupatta-bd39-2p26-light-blue",
     "isLowestPrice": true,
     "onSale": true,
-    "firstSeenAt": "2026-03-25T15:55:45+05:00",
-    "lastSeenAt": "2026-11-15T22:16:43.738Z",
+    "firstSeenAt": "2026-01-06T13:10:50+05:00",
+    "lastSeenAt": "2026-11-16T14:14:32.236Z",
     "priceHistory": [
       {
         "date": "Oct 15",
-        "price": 8990,
-        "salePrice": 8990
+        "price": 2590,
+        "salePrice": 2590
       },
       {
         "date": "Oct 24",
-        "price": 8990,
-        "salePrice": 8271
+        "price": 2590,
+        "salePrice": 2383
       },
       {
         "date": "Today",
-        "price": 8990,
-        "salePrice": 4945
+        "price": 2590,
+        "salePrice": 1813
       }
     ]
   },
   {
-    "id": "alkaram-8021177630900",
+    "id": "alkaram-8020334837940",
+    "brandId": "alkaram",
+    "brandName": "Alkaram Studio",
+    "title": "RTS | SHIRT & DUPATTA",
+    "handle": "rts-shirt-dupatta-br29-2p26-light-green",
+    "originalPrice": 2590,
+    "salePrice": 1813,
+    "discountPct": 30,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/BR29-2P26-Light_Green-1_48191e02-b0f4-4d41-aec4-3995cd45eb07.jpg?v=1767687062",
+    "category": "pret",
+    "fabric": "Premium Lawn",
+    "pieceCount": "2 Piece",
+    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-dupatta-br29-2p26-light-green",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-01-06T13:10:59+05:00",
+    "lastSeenAt": "2026-11-16T14:14:32.236Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 2590,
+        "salePrice": 2590
+      },
+      {
+        "date": "Oct 24",
+        "price": 2590,
+        "salePrice": 2383
+      },
+      {
+        "date": "Today",
+        "price": 2590,
+        "salePrice": 1813
+      }
+    ]
+  },
+  {
+    "id": "alkaram-8021587034292",
     "brandId": "alkaram",
     "brandName": "Alkaram Studio",
     "title": "RTS | SHIRT, TROUSER & DUPATTA",
-    "handle": "rts-shirt-trouser-dupatta-ec29-26-green",
-    "originalPrice": 6390,
-    "salePrice": 5112,
+    "handle": "rts-shirt-trouser-dupatta-ms149-3p26-a-pink",
+    "originalPrice": 3990,
+    "salePrice": 3192,
     "discountPct": 20,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EC29-26-Green-1_70884ecd-354f-49e5-908d-0e3ab0914fa2.jpg?v=1768051142",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/MS-149.1-26-Pink-1.jpg?v=1768386325",
     "category": "pret",
-    "fabric": "Soft Cambric",
+    "fabric": "Premium Lawn",
     "pieceCount": "3 Piece",
-    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ec29-26-green",
+    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ms149-3p26-a-pink",
     "isLowestPrice": true,
     "onSale": true,
-    "firstSeenAt": "2026-01-10T18:19:00+05:00",
-    "lastSeenAt": "2026-11-15T22:16:43.738Z",
+    "firstSeenAt": "2026-01-13T14:39:07+05:00",
+    "lastSeenAt": "2026-11-16T14:14:32.236Z",
     "priceHistory": [
       {
         "date": "Oct 15",
-        "price": 6390,
-        "salePrice": 6390
+        "price": 3990,
+        "salePrice": 3990
       },
       {
         "date": "Oct 24",
-        "price": 6390,
-        "salePrice": 5879
+        "price": 3990,
+        "salePrice": 3671
       },
       {
         "date": "Today",
-        "price": 6390,
-        "salePrice": 5112
+        "price": 3990,
+        "salePrice": 3192
       }
     ]
   },
   {
-    "id": "alkaram-8111784493236",
+    "id": "alkaram-8031578849460",
     "brandId": "alkaram",
     "brandName": "Alkaram Studio",
-    "title": "RTS  | SHIRT",
-    "handle": "rts-shirt-br256-1p26-brown",
+    "title": "RTS | SHIRT",
+    "handle": "rts-shirt-br73-26-2-tea-pink",
+    "originalPrice": 1190,
+    "salePrice": 833,
+    "discountPct": 30,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/BR73-26-2-Tea_Pink-1_c3f62e1e-7516-4d64-b766-da8b6ab6351b.jpg?v=1771313943",
+    "category": "pret",
+    "fabric": "Premium Lawn",
+    "pieceCount": "1 Piece",
+    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-br73-26-2-tea-pink",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-02-17T12:39:00+05:00",
+    "lastSeenAt": "2026-11-16T14:14:32.236Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 1190,
+        "salePrice": 1190
+      },
+      {
+        "date": "Oct 24",
+        "price": 1190,
+        "salePrice": 1095
+      },
+      {
+        "date": "Today",
+        "price": 1190,
+        "salePrice": 833
+      }
+    ]
+  },
+  {
+    "id": "alkaram-7994294665396",
+    "brandId": "alkaram",
+    "brandName": "Alkaram Studio",
+    "title": "RTS | SHIRT & DUPATTA",
+    "handle": "rts-shirt-dupatta-fw-116-1-25-1-off-white",
+    "originalPrice": 3290,
+    "salePrice": 2139,
+    "discountPct": 35,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/FW-116.1-25-1-OffWhite-1.jpg?v=1760351349",
+    "category": "pret",
+    "fabric": "Cotton Khaddar",
+    "pieceCount": "2 Piece",
+    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-dupatta-fw-116-1-25-1-off-white",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2025-10-02T18:00:00+05:00",
+    "lastSeenAt": "2026-11-16T14:14:32.236Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 3290,
+        "salePrice": 3290
+      },
+      {
+        "date": "Oct 24",
+        "price": 3290,
+        "salePrice": 3027
+      },
+      {
+        "date": "Today",
+        "price": 3290,
+        "salePrice": 2139
+      }
+    ]
+  },
+  {
+    "id": "alkaram-7994282967220",
+    "brandId": "alkaram",
+    "brandName": "Alkaram Studio",
+    "title": "RTS | SHIRT, TROUSER & DUPATTA",
+    "handle": "rts-shirt-trouser-dupatta-fw-129-25-1-lilac",
+    "originalPrice": 4790,
+    "salePrice": 3114,
+    "discountPct": 35,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/FW-129-25-1-Lilac-1.jpg?v=1760009788",
+    "category": "pret",
+    "fabric": "Fine Cotton Lawn",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-fw-129-25-1-lilac",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2025-10-02T17:57:31+05:00",
+    "lastSeenAt": "2026-11-16T14:14:32.236Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 4790,
+        "salePrice": 4790
+      },
+      {
+        "date": "Oct 24",
+        "price": 4790,
+        "salePrice": 4407
+      },
+      {
+        "date": "Today",
+        "price": 4790,
+        "salePrice": 3114
+      }
+    ]
+  },
+  {
+    "id": "alkaram-7994283360436",
+    "brandId": "alkaram",
+    "brandName": "Alkaram Studio",
+    "title": "RTS | SHIRT, TROUSER & DUPATTA",
+    "handle": "rts-shirt-trouser-dupatta-fw-129-25-1-pink",
+    "originalPrice": 4790,
+    "salePrice": 3114,
+    "discountPct": 35,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/FW-129-25-1-Pink-1.jpg?v=1760009802",
+    "category": "pret",
+    "fabric": "Fine Cotton Lawn",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-fw-129-25-1-pink",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2025-10-02T17:57:32+05:00",
+    "lastSeenAt": "2026-11-16T14:14:32.236Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 4790,
+        "salePrice": 4790
+      },
+      {
+        "date": "Oct 24",
+        "price": 4790,
+        "salePrice": 4407
+      },
+      {
+        "date": "Today",
+        "price": 4790,
+        "salePrice": 3114
+      }
+    ]
+  },
+  {
+    "id": "alkaram-8021177368756",
+    "brandId": "alkaram",
+    "brandName": "Alkaram Studio",
+    "title": "RTS | SHIRT, TROUSER & DUPATTA",
+    "handle": "rts-shirt-trouser-dupatta-ef66-26-teal",
+    "originalPrice": 5990,
+    "salePrice": 3894,
+    "discountPct": 35,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EF66-26-Teal-1_2ff969f0-308d-44a9-baf8-e7206ba1b5c1.jpg?v=1768051129",
+    "category": "pret",
+    "fabric": "Premium Lawn",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ef66-26-teal",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-01-10T18:18:46+05:00",
+    "lastSeenAt": "2026-11-16T14:14:32.236Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 5990,
+        "salePrice": 5990
+      },
+      {
+        "date": "Oct 24",
+        "price": 5990,
+        "salePrice": 5511
+      },
+      {
+        "date": "Today",
+        "price": 5990,
+        "salePrice": 3894
+      }
+    ]
+  },
+  {
+    "id": "alkaram-8020333428916",
+    "brandId": "alkaram",
+    "brandName": "Alkaram Studio",
+    "title": "RTS | SHIRT",
+    "handle": "rts-shirt-bd26-26-beige",
     "originalPrice": 1490,
     "salePrice": 1043,
     "discountPct": 30,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/BR256-26-Brown-1_efacdeda-b538-47f0-b98c-9a58380dc5a1.jpg?v=1789362926",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/BD26-26-Beige-1_987c8c0d-3370-405a-a83c-bd9666743f47.jpg?v=1767686980",
     "category": "pret",
-    "fabric": "Soft Cambric",
+    "fabric": "Premium Lawn",
     "pieceCount": "1 Piece",
-    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-br256-1p26-brown",
+    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-bd26-26-beige",
     "isLowestPrice": true,
     "onSale": true,
-    "firstSeenAt": "2026-08-18T17:27:19+05:00",
-    "lastSeenAt": "2026-11-15T22:16:43.738Z",
+    "firstSeenAt": "2026-01-06T13:09:37+05:00",
+    "lastSeenAt": "2026-11-16T14:14:32.236Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6195,383 +6375,23 @@ export const INITIAL_PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "alkaram-8111785083060",
-    "brandId": "alkaram",
-    "brandName": "Alkaram Studio",
-    "title": "RTS | SHIRT, TROUSER & DUPATTA",
-    "handle": "rts-shirt-trouser-dupatta-ec329-3p26-blue",
-    "originalPrice": 5690,
-    "salePrice": 4552,
-    "discountPct": 20,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EC329-3P26-Blue-2_7adb9365-08e8-4ee9-bc4d-c95b7f560c90.jpg?v=1787051427",
-    "category": "pret",
-    "fabric": "Premium Lawn",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ec329-3p26-blue",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-08-18T17:27:46+05:00",
-    "lastSeenAt": "2026-11-15T22:16:43.738Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 5690,
-        "salePrice": 5690
-      },
-      {
-        "date": "Oct 24",
-        "price": 5690,
-        "salePrice": 5235
-      },
-      {
-        "date": "Today",
-        "price": 5690,
-        "salePrice": 4552
-      }
-    ]
-  },
-  {
-    "id": "alkaram-8021177499828",
-    "brandId": "alkaram",
-    "brandName": "Alkaram Studio",
-    "title": "RTS | SHIRT & TROUSER",
-    "handle": "rts-shirt-trouser-ef80-26-yellow",
-    "originalPrice": 4990,
-    "salePrice": 3992,
-    "discountPct": 20,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EF80-26-Yellow-1_b2a3c7e5-0ce4-4d44-a117-e64f29d0bc56.jpg?v=1768051136",
-    "category": "pret",
-    "fabric": "Premium Lawn",
-    "pieceCount": "2 Piece",
-    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-ef80-26-yellow",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-01-10T18:18:53+05:00",
-    "lastSeenAt": "2026-11-15T22:16:43.738Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 4990,
-        "salePrice": 4990
-      },
-      {
-        "date": "Oct 24",
-        "price": 4990,
-        "salePrice": 4591
-      },
-      {
-        "date": "Today",
-        "price": 4990,
-        "salePrice": 3992
-      }
-    ]
-  },
-  {
-    "id": "alkaram-8111785345204",
-    "brandId": "alkaram",
-    "brandName": "Alkaram Studio",
-    "title": "RTS | SHIRT, TROUSER & DUPATTA",
-    "handle": "rts-shirt-trouser-dupatta-ec335-3p26-green",
-    "originalPrice": 4790,
-    "salePrice": 3353,
-    "discountPct": 30,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EC335-3P26A-Green-2_098f67bc-b295-48c8-8af3-900312c70df0.jpg?v=1787051427",
-    "category": "pret",
-    "fabric": "Premium Lawn",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ec335-3p26-green",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-08-18T17:27:58+05:00",
-    "lastSeenAt": "2026-11-15T22:16:43.738Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 4790,
-        "salePrice": 4790
-      },
-      {
-        "date": "Oct 24",
-        "price": 4790,
-        "salePrice": 4407
-      },
-      {
-        "date": "Today",
-        "price": 4790,
-        "salePrice": 3353
-      }
-    ]
-  },
-  {
-    "id": "alkaram-8089185058996",
-    "brandId": "alkaram",
-    "brandName": "Alkaram Studio",
-    "title": "RTW | SHIRT & TROUSER",
-    "handle": "rtw-shirt-trouser-epe306-3-2p26-yellow",
-    "originalPrice": 6990,
-    "salePrice": 5243,
-    "discountPct": 25,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EPE306-3-2P26_1.jpg?v=1784630339",
-    "category": "pret",
-    "fabric": "Fine Cotton Lawn",
-    "pieceCount": "2 Piece",
-    "productUrl": "https://www.alkaramstudio.com/products/rtw-shirt-trouser-epe306-3-2p26-yellow",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-07-21T16:07:15+05:00",
-    "lastSeenAt": "2026-11-15T22:16:43.738Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 6990,
-        "salePrice": 6990
-      },
-      {
-        "date": "Oct 24",
-        "price": 6990,
-        "salePrice": 6431
-      },
-      {
-        "date": "Today",
-        "price": 6990,
-        "salePrice": 5243
-      }
-    ]
-  },
-  {
-    "id": "alkaram-8043701141684",
-    "brandId": "alkaram",
-    "brandName": "Alkaram Studio",
-    "title": "RTS | SHIRT, TROUSER & DUPATTA",
-    "handle": "rts-shirt-trouser-dupatta-ef124-26-2-beige",
-    "originalPrice": 6490,
-    "salePrice": 5192,
-    "discountPct": 20,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EF124-26-2-Beige-1.jpg?v=1776256166",
-    "category": "pret",
-    "fabric": "Premium Lawn",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ef124-26-2-beige",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-04-10T16:57:48+05:00",
-    "lastSeenAt": "2026-11-15T22:16:43.738Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 6490,
-        "salePrice": 6490
-      },
-      {
-        "date": "Oct 24",
-        "price": 6490,
-        "salePrice": 5971
-      },
-      {
-        "date": "Today",
-        "price": 6490,
-        "salePrice": 5192
-      }
-    ]
-  },
-  {
-    "id": "alkaram-8043700945076",
-    "brandId": "alkaram",
-    "brandName": "Alkaram Studio",
-    "title": "RTS | SHIRT, TROUSER & DUPATTA",
-    "handle": "rts-shirt-trouser-dupatta-ef114-26-2-burgundy",
-    "originalPrice": 5690,
-    "salePrice": 3983,
-    "discountPct": 30,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EF114-26-2-Burgundy-1.jpg?v=1775819492",
-    "category": "pret",
-    "fabric": "Premium Lawn",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ef114-26-2-burgundy",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-04-10T16:57:39+05:00",
-    "lastSeenAt": "2026-11-15T22:16:43.738Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 5690,
-        "salePrice": 5690
-      },
-      {
-        "date": "Oct 24",
-        "price": 5690,
-        "salePrice": 5235
-      },
-      {
-        "date": "Today",
-        "price": 5690,
-        "salePrice": 3983
-      }
-    ]
-  },
-  {
-    "id": "alkaram-8021176778932",
-    "brandId": "alkaram",
-    "brandName": "Alkaram Studio",
-    "title": "RTS | SHIRT, TROUSER & DUPATTA",
-    "handle": "rts-shirt-trouser-dupatta-ef05-26-sea-green",
-    "originalPrice": 5990,
-    "salePrice": 4792,
-    "discountPct": 20,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EF05-26-Sea_Green-1_87849f28-0cdd-4b14-9138-c0d52a4fc241.jpg?v=1768051096",
-    "category": "pret",
-    "fabric": "Soft Cambric",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ef05-26-sea-green",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-01-10T18:18:13+05:00",
-    "lastSeenAt": "2026-11-15T22:16:43.738Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 5990,
-        "salePrice": 5990
-      },
-      {
-        "date": "Oct 24",
-        "price": 5990,
-        "salePrice": 5511
-      },
-      {
-        "date": "Today",
-        "price": 5990,
-        "salePrice": 4792
-      }
-    ]
-  },
-  {
-    "id": "alkaram-8079551299764",
-    "brandId": "alkaram",
-    "brandName": "Alkaram Studio",
-    "title": "RTW | SHIRT & TROUSER",
-    "handle": "rtw-shirt-trouser-bs301-4-2p26-black",
-    "originalPrice": 7490,
-    "salePrice": 5618,
-    "discountPct": 25,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/BS301-4-2P26_1.jpg?v=1783342486",
-    "category": "pret",
-    "fabric": "Woven Jacquard",
-    "pieceCount": "2 Piece",
-    "productUrl": "https://www.alkaramstudio.com/products/rtw-shirt-trouser-bs301-4-2p26-black",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-07-06T18:11:26+05:00",
-    "lastSeenAt": "2026-11-15T22:16:43.738Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 7490,
-        "salePrice": 7490
-      },
-      {
-        "date": "Oct 24",
-        "price": 7490,
-        "salePrice": 6891
-      },
-      {
-        "date": "Today",
-        "price": 7490,
-        "salePrice": 5618
-      }
-    ]
-  },
-  {
-    "id": "alkaram-8079550939316",
-    "brandId": "alkaram",
-    "brandName": "Alkaram Studio",
-    "title": "RTW | SHIRT, TROUSER & DUPATTA",
-    "handle": "rtw-shirt-trouser-dupatta-epe61-1-3p26-grey",
-    "originalPrice": 8990,
-    "salePrice": 6743,
-    "discountPct": 25,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EPE61-1-3P26_1.jpg?v=1783342486",
-    "category": "pret",
-    "fabric": "Fine Cotton Lawn",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://www.alkaramstudio.com/products/rtw-shirt-trouser-dupatta-epe61-1-3p26-grey",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-07-06T18:11:08+05:00",
-    "lastSeenAt": "2026-11-15T22:16:43.738Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 8990,
-        "salePrice": 8990
-      },
-      {
-        "date": "Oct 24",
-        "price": 8990,
-        "salePrice": 8271
-      },
-      {
-        "date": "Today",
-        "price": 8990,
-        "salePrice": 6743
-      }
-    ]
-  },
-  {
-    "id": "alkaram-8021174911156",
-    "brandId": "alkaram",
-    "brandName": "Alkaram Studio",
-    "title": "RTS | SHIRT, TROUSER & DUPATTA",
-    "handle": "rts-shirt-trouser-dupatta-ef15-3p26-a-off-white",
-    "originalPrice": 3990,
-    "salePrice": 2793,
-    "discountPct": 30,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/DSC00706_jpg.jpg?v=1787556255",
-    "category": "pret",
-    "fabric": "Premium Lawn",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ef15-3p26-a-off-white",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-01-10T18:16:36+05:00",
-    "lastSeenAt": "2026-11-15T22:16:43.738Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 3990,
-        "salePrice": 3990
-      },
-      {
-        "date": "Oct 24",
-        "price": 3990,
-        "salePrice": 3671
-      },
-      {
-        "date": "Today",
-        "price": 3990,
-        "salePrice": 2793
-      }
-    ]
-  },
-  {
-    "id": "alkaram-8020572111028",
+    "id": "alkaram-8020566081716",
     "brandId": "alkaram",
     "brandName": "Alkaram Studio",
     "title": "RTS  | SHIRT, TROUSER & DUPATTA",
-    "handle": "rts-shirt-trouser-dupatta-efl-100-3p25-mint",
+    "handle": "rts-shirt-trouser-dupatta-efl-11-3p25-peach",
     "originalPrice": 3390,
     "salePrice": 2712,
     "discountPct": 20,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EFL-100-3P25-Mint-1.jpg?v=1783936272",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EFL-11-3P25-Peach-1.jpg?v=1783493803",
     "category": "pret",
     "fabric": "Premium Lawn",
     "pieceCount": "3 Piece",
-    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-efl-100-3p25-mint",
+    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-efl-11-3p25-peach",
     "isLowestPrice": true,
     "onSale": true,
-    "firstSeenAt": "2026-01-07T17:57:40+05:00",
-    "lastSeenAt": "2026-11-15T22:16:43.738Z",
+    "firstSeenAt": "2026-01-07T17:51:59+05:00",
+    "lastSeenAt": "2026-11-16T14:14:32.236Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6591,38 +6411,578 @@ export const INITIAL_PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "alkaram-8111785181364",
+    "id": "alkaram-8001175093428",
     "brandId": "alkaram",
     "brandName": "Alkaram Studio",
-    "title": "RTS | SHIRT, TROUSER & DUPATTA",
-    "handle": "rts-shirt-trouser-dupatta-ec332-3p26-grey",
-    "originalPrice": 4790,
-    "salePrice": 3832,
-    "discountPct": 20,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EC332-3P26-Grey-2_5e9daff0-45d3-4881-a16f-8dfa8b07e655.jpg?v=1787051428",
+    "title": "RTS | SHIRT & DUPATTA",
+    "handle": "rts-shirt-dupatta-fw-166-25-2-gray",
+    "originalPrice": 3290,
+    "salePrice": 2139,
+    "discountPct": 35,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/FW-166-25-2-Grey-1.jpg?v=1763366135",
     "category": "pret",
-    "fabric": "Premium Lawn",
+    "fabric": "Fine Cotton Lawn",
     "pieceCount": "3 Piece",
-    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ec332-3p26-grey",
+    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-dupatta-fw-166-25-2-gray",
     "isLowestPrice": true,
     "onSale": true,
-    "firstSeenAt": "2026-08-18T17:27:52+05:00",
-    "lastSeenAt": "2026-11-15T22:16:43.738Z",
+    "firstSeenAt": "2025-11-01T00:45:59+05:00",
+    "lastSeenAt": "2026-11-16T14:14:32.236Z",
     "priceHistory": [
       {
         "date": "Oct 15",
-        "price": 4790,
-        "salePrice": 4790
+        "price": 3290,
+        "salePrice": 3290
       },
       {
         "date": "Oct 24",
-        "price": 4790,
-        "salePrice": 4407
+        "price": 3290,
+        "salePrice": 3027
       },
       {
         "date": "Today",
-        "price": 4790,
-        "salePrice": 3832
+        "price": 3290,
+        "salePrice": 2139
+      }
+    ]
+  },
+  {
+    "id": "alkaram-8111784329396",
+    "brandId": "alkaram",
+    "brandName": "Alkaram Studio",
+    "title": "RTS  | SHIRT",
+    "handle": "rts-shirt-br252-1p26-purple",
+    "originalPrice": 1490,
+    "salePrice": 1043,
+    "discountPct": 30,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/BR252-26-Purple-1_2bbc4d64-c6ca-4691-8234-b17719fd9a5a.jpg?v=1789363114",
+    "category": "pret",
+    "fabric": "Soft Cambric",
+    "pieceCount": "1 Piece",
+    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-br252-1p26-purple",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-08-18T17:27:12+05:00",
+    "lastSeenAt": "2026-11-16T14:14:32.236Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 1490,
+        "salePrice": 1490
+      },
+      {
+        "date": "Oct 24",
+        "price": 1490,
+        "salePrice": 1371
+      },
+      {
+        "date": "Today",
+        "price": 1490,
+        "salePrice": 1043
+      }
+    ]
+  },
+  {
+    "id": "alkaram-8020334346420",
+    "brandId": "alkaram",
+    "brandName": "Alkaram Studio",
+    "title": "RTS | SHIRT & TROUSER",
+    "handle": "rts-shirt-trouser-bd58-2p26-baige",
+    "originalPrice": 2790,
+    "salePrice": 1953,
+    "discountPct": 30,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/BD58-2P26-beige-1_3f88bef2-b6f8-482e-9e83-1d4fd8b86d17.jpg?v=1767768747",
+    "category": "pret",
+    "fabric": "Premium Lawn",
+    "pieceCount": "2 Piece",
+    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-bd58-2p26-baige",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-01-06T13:10:27+05:00",
+    "lastSeenAt": "2026-11-16T14:14:32.236Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 2790,
+        "salePrice": 2790
+      },
+      {
+        "date": "Oct 24",
+        "price": 2790,
+        "salePrice": 2567
+      },
+      {
+        "date": "Today",
+        "price": 2790,
+        "salePrice": 1953
+      }
+    ]
+  },
+  {
+    "id": "alkaram-8043934548148",
+    "brandId": "alkaram",
+    "brandName": "Alkaram Studio",
+    "title": "RTS | SHIRT & TROUSER",
+    "handle": "rts-shirt-trouser-bd175-2p26-3-peach",
+    "originalPrice": 2790,
+    "salePrice": 2232,
+    "discountPct": 20,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/BD175-2P26-3-Peach-1.jpg?v=1776065383",
+    "category": "pret",
+    "fabric": "Premium Lawn",
+    "pieceCount": "2 Piece",
+    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-bd175-2p26-3-peach",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-04-13T12:49:16+05:00",
+    "lastSeenAt": "2026-11-16T14:14:32.236Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 2790,
+        "salePrice": 2790
+      },
+      {
+        "date": "Oct 24",
+        "price": 2790,
+        "salePrice": 2567
+      },
+      {
+        "date": "Today",
+        "price": 2790,
+        "salePrice": 2232
+      }
+    ]
+  },
+  {
+    "id": "alkaram-8020334215348",
+    "brandId": "alkaram",
+    "brandName": "Alkaram Studio",
+    "title": "RTS | SHIRT & TROUSER",
+    "handle": "rts-shirt-trouser-bd54-2p26-light-grey",
+    "originalPrice": 2790,
+    "salePrice": 1953,
+    "discountPct": 30,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/BD54-2P26-LightGrey-1.jpg?v=1768645901",
+    "category": "pret",
+    "fabric": "Premium Lawn",
+    "pieceCount": "2 Piece",
+    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-bd54-2p26-light-grey",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-01-06T13:10:20+05:00",
+    "lastSeenAt": "2026-11-16T14:14:32.236Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 2790,
+        "salePrice": 2790
+      },
+      {
+        "date": "Oct 24",
+        "price": 2790,
+        "salePrice": 2567
+      },
+      {
+        "date": "Today",
+        "price": 2790,
+        "salePrice": 1953
+      }
+    ]
+  },
+  {
+    "id": "alkaram-7994294796468",
+    "brandId": "alkaram",
+    "brandName": "Alkaram Studio",
+    "title": "RTS | SHIRT & DUPATTA",
+    "handle": "rts-shirt-dupatta-fw-119-1-25-1-purple",
+    "originalPrice": 2990,
+    "salePrice": 1944,
+    "discountPct": 35,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/FW-119.1-25-1-Purple-1_4c6a1c33-e8ee-4791-8dae-874c22739c47.jpg?v=1759410012",
+    "category": "pret",
+    "fabric": "Cotton Khaddar",
+    "pieceCount": "2 Piece",
+    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-dupatta-fw-119-1-25-1-purple",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2025-10-02T18:00:09+05:00",
+    "lastSeenAt": "2026-11-16T14:14:32.236Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 2990,
+        "salePrice": 2990
+      },
+      {
+        "date": "Oct 24",
+        "price": 2990,
+        "salePrice": 2751
+      },
+      {
+        "date": "Today",
+        "price": 2990,
+        "salePrice": 1944
+      }
+    ]
+  },
+  {
+    "id": "alkaram-8111784165556",
+    "brandId": "alkaram",
+    "brandName": "Alkaram Studio",
+    "title": "RTS  | SHIRT",
+    "handle": "rts-shirt-bd259-1p26-multi",
+    "originalPrice": 1490,
+    "salePrice": 1043,
+    "discountPct": 30,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/BD259-26-Multi-1_6ad7614f-792f-4658-9b93-1e3a13b59959.jpg?v=1789363019",
+    "category": "pret",
+    "fabric": "Soft Cambric",
+    "pieceCount": "1 Piece",
+    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-bd259-1p26-multi",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-08-18T17:27:05+05:00",
+    "lastSeenAt": "2026-11-16T14:14:32.236Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 1490,
+        "salePrice": 1490
+      },
+      {
+        "date": "Oct 24",
+        "price": 1490,
+        "salePrice": 1371
+      },
+      {
+        "date": "Today",
+        "price": 1490,
+        "salePrice": 1043
+      }
+    ]
+  },
+  {
+    "id": "alkaram-8031578521780",
+    "brandId": "alkaram",
+    "brandName": "Alkaram Studio",
+    "title": "RTS | SHIRT",
+    "handle": "rts-shirt-br64-26-2-beige",
+    "originalPrice": 1190,
+    "salePrice": 833,
+    "discountPct": 30,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/BR64-26-2-Beige-1_3e385025-a782-4976-993a-d9735ac25493.jpg?v=1771313926",
+    "category": "pret",
+    "fabric": "Premium Lawn",
+    "pieceCount": "1 Piece",
+    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-br64-26-2-beige",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-02-17T12:38:43+05:00",
+    "lastSeenAt": "2026-11-16T14:14:32.236Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 1190,
+        "salePrice": 1190
+      },
+      {
+        "date": "Oct 24",
+        "price": 1190,
+        "salePrice": 1095
+      },
+      {
+        "date": "Today",
+        "price": 1190,
+        "salePrice": 833
+      }
+    ]
+  },
+  {
+    "id": "alkaram-8021178089652",
+    "brandId": "alkaram",
+    "brandName": "Alkaram Studio",
+    "title": "RTS | SHIRT, TROUSER & DUPATTA",
+    "handle": "rts-shirt-trouser-dupatta-ec42-3p26-light-blue",
+    "originalPrice": 3990,
+    "salePrice": 2793,
+    "discountPct": 30,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EC42-26-Light_Blue-1_1877b4b1-923b-440d-917f-a6f5eed86156.jpg?v=1768051164",
+    "category": "pret",
+    "fabric": "Premium Lawn",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ec42-3p26-light-blue",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-01-10T18:19:22+05:00",
+    "lastSeenAt": "2026-11-16T14:14:32.236Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 3990,
+        "salePrice": 3990
+      },
+      {
+        "date": "Oct 24",
+        "price": 3990,
+        "salePrice": 3671
+      },
+      {
+        "date": "Today",
+        "price": 3990,
+        "salePrice": 2793
+      }
+    ]
+  },
+  {
+    "id": "alkaram-8043701338292",
+    "brandId": "alkaram",
+    "brandName": "Alkaram Studio",
+    "title": "RTS | SHIRT, TROUSER & DUPATTA",
+    "handle": "rts-shirt-trouser-dupatta-ef136-26b-2-yellow",
+    "originalPrice": 4590,
+    "salePrice": 3213,
+    "discountPct": 30,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EF136-26B-2-Yellow-1.jpg?v=1775819489",
+    "category": "pret",
+    "fabric": "Premium Lawn",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ef136-26b-2-yellow",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-04-10T16:58:05+05:00",
+    "lastSeenAt": "2026-11-16T14:14:32.236Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 4590,
+        "salePrice": 4590
+      },
+      {
+        "date": "Oct 24",
+        "price": 4590,
+        "salePrice": 4223
+      },
+      {
+        "date": "Today",
+        "price": 4590,
+        "salePrice": 3213
+      }
+    ]
+  },
+  {
+    "id": "alkaram-8043701534900",
+    "brandId": "alkaram",
+    "brandName": "Alkaram Studio",
+    "title": "RTS | SHIRT & TROUSER",
+    "handle": "rts-shirt-dupatta-ef146-26-2-maroon",
+    "originalPrice": 2990,
+    "salePrice": 2093,
+    "discountPct": 30,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EF146-26-2-Maroon-1.jpg?v=1775819491",
+    "category": "pret",
+    "fabric": "Premium Lawn",
+    "pieceCount": "2 Piece",
+    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-dupatta-ef146-26-2-maroon",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-04-10T16:58:20+05:00",
+    "lastSeenAt": "2026-11-16T14:14:32.236Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 2990,
+        "salePrice": 2990
+      },
+      {
+        "date": "Oct 24",
+        "price": 2990,
+        "salePrice": 2751
+      },
+      {
+        "date": "Today",
+        "price": 2990,
+        "salePrice": 2093
+      }
+    ]
+  },
+  {
+    "id": "alkaram-7994291585204",
+    "brandId": "alkaram",
+    "brandName": "Alkaram Studio",
+    "title": "RTS | SHIRT & TROUSER",
+    "handle": "rts-shirt-trouser-fw-140-25-1-beige",
+    "originalPrice": 3290,
+    "salePrice": 2139,
+    "discountPct": 35,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/FW-140-25-1-Beige-1_4e761cdc-6f27-46e4-a388-6b73eff67ce6.jpg?v=1759409891",
+    "category": "pret",
+    "fabric": "Fine Cotton Lawn",
+    "pieceCount": "2 Piece",
+    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-fw-140-25-1-beige",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2025-10-02T17:58:09+05:00",
+    "lastSeenAt": "2026-11-16T14:14:32.236Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 3290,
+        "salePrice": 3290
+      },
+      {
+        "date": "Oct 24",
+        "price": 3290,
+        "salePrice": 3027
+      },
+      {
+        "date": "Today",
+        "price": 3290,
+        "salePrice": 2139
+      }
+    ]
+  },
+  {
+    "id": "alkaram-7994260717748",
+    "brandId": "alkaram",
+    "brandName": "Alkaram Studio",
+    "title": "RTS | SHIRT, TROUSER & SHAWL",
+    "handle": "rts-shirt-trouser-shawl-fw-90-25-1-off-white",
+    "originalPrice": 5790,
+    "salePrice": 3764,
+    "discountPct": 35,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/FW-90-25-1-OffWhite-1.jpg?v=1760350991",
+    "category": "pret",
+    "fabric": "Fine Cotton Lawn",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-shawl-fw-90-25-1-off-white",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2025-10-02T17:56:13+05:00",
+    "lastSeenAt": "2026-11-16T14:14:32.236Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 5790,
+        "salePrice": 5790
+      },
+      {
+        "date": "Oct 24",
+        "price": 5790,
+        "salePrice": 5327
+      },
+      {
+        "date": "Today",
+        "price": 5790,
+        "salePrice": 3764
+      }
+    ]
+  },
+  {
+    "id": "alkaram-8020335132852",
+    "brandId": "alkaram",
+    "brandName": "Alkaram Studio",
+    "title": "RTS | SHIRT & DUPATTA",
+    "handle": "rts-shirt-dupatta-br38-2p26-turquoise",
+    "originalPrice": 2590,
+    "salePrice": 1813,
+    "discountPct": 30,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/BR38-2P26-Turquoise-1_284afe5e-c368-4add-8978-e19c88bc0ffd.jpg?v=1767687079",
+    "category": "pret",
+    "fabric": "Premium Lawn",
+    "pieceCount": "2 Piece",
+    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-dupatta-br38-2p26-turquoise",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-01-06T13:11:16+05:00",
+    "lastSeenAt": "2026-11-16T14:14:32.236Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 2590,
+        "salePrice": 2590
+      },
+      {
+        "date": "Oct 24",
+        "price": 2590,
+        "salePrice": 2383
+      },
+      {
+        "date": "Today",
+        "price": 2590,
+        "salePrice": 1813
+      }
+    ]
+  },
+  {
+    "id": "alkaram-8043934646452",
+    "brandId": "alkaram",
+    "brandName": "Alkaram Studio",
+    "title": "RTS | SHIRT & TROUSER",
+    "handle": "rts-shirt-trouser-br168-2p26-3-cream",
+    "originalPrice": 2590,
+    "salePrice": 1813,
+    "discountPct": 30,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/BR168-2P26-3-Cream-1.jpg?v=1776065382",
+    "category": "pret",
+    "fabric": "Premium Lawn",
+    "pieceCount": "2 Piece",
+    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-br168-2p26-3-cream",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-04-13T12:49:23+05:00",
+    "lastSeenAt": "2026-11-16T14:14:32.236Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 2590,
+        "salePrice": 2590
+      },
+      {
+        "date": "Oct 24",
+        "price": 2590,
+        "salePrice": 2383
+      },
+      {
+        "date": "Today",
+        "price": 2590,
+        "salePrice": 1813
+      }
+    ]
+  },
+  {
+    "id": "alkaram-7994233716916",
+    "brandId": "alkaram",
+    "brandName": "Alkaram Studio",
+    "title": "RTS | SHIRT, TROUSER & SHAWL",
+    "handle": "rts-shirt-trouser-dupatta-m-26-25-3-black",
+    "originalPrice": 12990,
+    "salePrice": 9743,
+    "discountPct": 25,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/M-26-25-3-Black-1_7714621c-8d61-4204-9508-ec302372883f.jpg?v=1759394850",
+    "category": "pret",
+    "fabric": "Cotton Khaddar",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-m-26-25-3-black",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2025-10-02T13:47:27+05:00",
+    "lastSeenAt": "2026-11-16T14:14:32.236Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 12990,
+        "salePrice": 12990
+      },
+      {
+        "date": "Oct 24",
+        "price": 12990,
+        "salePrice": 11951
+      },
+      {
+        "date": "Today",
+        "price": 12990,
+        "salePrice": 9743
       }
     ]
   },
@@ -6643,7 +7003,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-13T14:39:08+05:00",
-    "lastSeenAt": "2026-11-15T22:16:43.738Z",
+    "lastSeenAt": "2026-11-16T14:14:32.236Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6663,347 +7023,23 @@ export const INITIAL_PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "alkaram-8045311393972",
+    "id": "alkaram-8020334772404",
     "brandId": "alkaram",
     "brandName": "Alkaram Studio",
-    "title": "RTS | SHIRT, TROUSER & DUPATTA",
-    "handle": "rts-shirt-trouser-dupatta-ef132-26a-2-blue",
-    "originalPrice": 4990,
-    "salePrice": 3992,
-    "discountPct": 20,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EF132-26A-2-Blue-1.jpg?v=1776935342",
-    "category": "pret",
-    "fabric": "Premium Lawn",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ef132-26a-2-blue",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-04-23T14:21:43+05:00",
-    "lastSeenAt": "2026-11-15T22:16:43.738Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 4990,
-        "salePrice": 4990
-      },
-      {
-        "date": "Oct 24",
-        "price": 4990,
-        "salePrice": 4591
-      },
-      {
-        "date": "Today",
-        "price": 4990,
-        "salePrice": 3992
-      }
-    ]
-  },
-  {
-    "id": "alkaram-8021586903220",
-    "brandId": "alkaram",
-    "brandName": "Alkaram Studio",
-    "title": "RTS | SHIRT, TROUSER & DUPATTA",
-    "handle": "rts-shirt-trouser-dupatta-ms146-3p26-purple",
-    "originalPrice": 3990,
-    "salePrice": 3192,
-    "discountPct": 20,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/MS-146.1-26-Purple-1.jpg?v=1768386263",
-    "category": "pret",
-    "fabric": "Premium Lawn",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ms146-3p26-purple",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-01-13T14:39:01+05:00",
-    "lastSeenAt": "2026-11-15T22:16:43.738Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 3990,
-        "salePrice": 3990
-      },
-      {
-        "date": "Oct 24",
-        "price": 3990,
-        "salePrice": 3671
-      },
-      {
-        "date": "Today",
-        "price": 3990,
-        "salePrice": 3192
-      }
-    ]
-  },
-  {
-    "id": "alkaram-8043701305524",
-    "brandId": "alkaram",
-    "brandName": "Alkaram Studio",
-    "title": "RTS | SHIRT, TROUSER & DUPATTA",
-    "handle": "rts-shirt-trouser-dupatta-ef136-26a-2-purple",
-    "originalPrice": 4590,
-    "salePrice": 3672,
-    "discountPct": 20,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EF136-26A-2-Purple-1.jpg?v=1775819490",
-    "category": "pret",
-    "fabric": "Premium Lawn",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ef136-26a-2-purple",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-04-10T16:58:03+05:00",
-    "lastSeenAt": "2026-11-15T22:16:43.738Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 4590,
-        "salePrice": 4590
-      },
-      {
-        "date": "Oct 24",
-        "price": 4590,
-        "salePrice": 4223
-      },
-      {
-        "date": "Today",
-        "price": 4590,
-        "salePrice": 3672
-      }
-    ]
-  },
-  {
-    "id": "alkaram-8021587230900",
-    "brandId": "alkaram",
-    "brandName": "Alkaram Studio",
-    "title": "RTS | SHIRT, TROUSER & DUPATTA",
-    "handle": "rts-shirt-trouser-dupatta-ms154-3p36-black",
-    "originalPrice": 3990,
-    "salePrice": 2793,
-    "discountPct": 30,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/MS-154.1-26-Grey-1.jpg?v=1768386409",
-    "category": "pret",
-    "fabric": "Premium Lawn",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ms154-3p36-black",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-01-13T14:39:15+05:00",
-    "lastSeenAt": "2026-11-15T22:16:43.738Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 3990,
-        "salePrice": 3990
-      },
-      {
-        "date": "Oct 24",
-        "price": 3990,
-        "salePrice": 3671
-      },
-      {
-        "date": "Today",
-        "price": 3990,
-        "salePrice": 2793
-      }
-    ]
-  },
-  {
-    "id": "alkaram-8043934679220",
-    "brandId": "alkaram",
-    "brandName": "Alkaram Studio",
-    "title": "RTS | SHIRT & TROUSER",
-    "handle": "rts-shirt-trouser-br171-2p26-3-blue",
-    "originalPrice": 2590,
-    "salePrice": 2072,
-    "discountPct": 20,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/BR171-2P26-3-Blue-1.jpg?v=1776065383",
-    "category": "pret",
-    "fabric": "Premium Lawn",
-    "pieceCount": "2 Piece",
-    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-br171-2p26-3-blue",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-04-13T12:49:25+05:00",
-    "lastSeenAt": "2026-11-15T22:16:43.738Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 2590,
-        "salePrice": 2590
-      },
-      {
-        "date": "Oct 24",
-        "price": 2590,
-        "salePrice": 2383
-      },
-      {
-        "date": "Today",
-        "price": 2590,
-        "salePrice": 2072
-      }
-    ]
-  },
-  {
-    "id": "alkaram-8081075077300",
-    "brandId": "alkaram",
-    "brandName": "Alkaram Studio",
-    "title": "RTW | SHIRT",
-    "handle": "rtw-shirt-wde116-1-26-black",
-    "originalPrice": 3990,
-    "salePrice": 3192,
-    "discountPct": 20,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/WDE116-1-26_1.jpg?v=1783686951",
-    "category": "pret",
-    "fabric": "Boski Silk",
-    "pieceCount": "1 Piece",
-    "productUrl": "https://www.alkaramstudio.com/products/rtw-shirt-wde116-1-26-black",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-07-10T17:39:33+05:00",
-    "lastSeenAt": "2026-11-15T22:16:43.738Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 3990,
-        "salePrice": 3990
-      },
-      {
-        "date": "Oct 24",
-        "price": 3990,
-        "salePrice": 3671
-      },
-      {
-        "date": "Today",
-        "price": 3990,
-        "salePrice": 3192
-      }
-    ]
-  },
-  {
-    "id": "alkaram-8021587296436",
-    "brandId": "alkaram",
-    "brandName": "Alkaram Studio",
-    "title": "RTS | SHIRT, TROUSER & DUPATTA",
-    "handle": "rts-shirt-trouser-dupatta-ms-177-26-off-white",
-    "originalPrice": 5390,
-    "salePrice": 4312,
-    "discountPct": 20,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/MS-177-26-OffWhite-1_jpg.jpg?v=1783929821",
-    "category": "pret",
-    "fabric": "Premium Lawn",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ms-177-26-off-white",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-01-13T14:39:18+05:00",
-    "lastSeenAt": "2026-11-15T22:16:43.738Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 5390,
-        "salePrice": 5390
-      },
-      {
-        "date": "Oct 24",
-        "price": 5390,
-        "salePrice": 4959
-      },
-      {
-        "date": "Today",
-        "price": 5390,
-        "salePrice": 4312
-      }
-    ]
-  },
-  {
-    "id": "alkaram-8034767503540",
-    "brandId": "alkaram",
-    "brandName": "Alkaram Studio",
-    "title": "HOME | BEDSHEET SET",
-    "handle": "home-bedsheet-set-hps26bs170-multi",
-    "originalPrice": 3190,
-    "salePrice": 2233,
-    "discountPct": 30,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/HPS26BS170_1_6c117ec8-88d1-49b5-9127-97eb5a577a7c.jpg?v=1772440274",
-    "category": "unstitched",
-    "fabric": "Fine Cotton Lawn",
-    "pieceCount": "2 Piece",
-    "productUrl": "https://www.alkaramstudio.com/products/home-bedsheet-set-hps26bs170-multi",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-03-02T13:31:11+05:00",
-    "lastSeenAt": "2026-11-15T22:16:43.738Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 3190,
-        "salePrice": 3190
-      },
-      {
-        "date": "Oct 24",
-        "price": 3190,
-        "salePrice": 2935
-      },
-      {
-        "date": "Today",
-        "price": 3190,
-        "salePrice": 2233
-      }
-    ]
-  },
-  {
-    "id": "alkaram-8043701403828",
-    "brandId": "alkaram",
-    "brandName": "Alkaram Studio",
-    "title": "RTS | SHIRT, TROUSER & DUPATTA",
-    "handle": "rts-shirt-trouser-dupatta-ef137-26b-2-black",
-    "originalPrice": 4590,
-    "salePrice": 3672,
-    "discountPct": 20,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EF137-26B-2-Black-1.jpg?v=1775819491",
-    "category": "pret",
-    "fabric": "Premium Lawn",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ef137-26b-2-black",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-04-10T16:58:10+05:00",
-    "lastSeenAt": "2026-11-15T22:16:43.738Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 4590,
-        "salePrice": 4590
-      },
-      {
-        "date": "Oct 24",
-        "price": 4590,
-        "salePrice": 4223
-      },
-      {
-        "date": "Today",
-        "price": 4590,
-        "salePrice": 3672
-      }
-    ]
-  },
-  {
-    "id": "alkaram-8111784591540",
-    "brandId": "alkaram",
-    "brandName": "Alkaram Studio",
-    "title": "RTS  | SHIRT & DUPATTA",
-    "handle": "rts-shirt-dupatta-br260-2p26-black",
+    "title": "RTS | SHIRT & DUPATTA",
+    "handle": "rts-shirt-dupatta-bd42-2p26-white",
     "originalPrice": 2790,
-    "salePrice": 2232,
-    "discountPct": 20,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/BR260-2P26-Black-1.jpg?v=1787051421",
+    "salePrice": 1953,
+    "discountPct": 30,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/BD42-2P26-White-1.jpg?v=1767768509",
     "category": "pret",
     "fabric": "Premium Lawn",
     "pieceCount": "2 Piece",
-    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-dupatta-br260-2p26-black",
+    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-dupatta-bd42-2p26-white",
     "isLowestPrice": true,
     "onSale": true,
-    "firstSeenAt": "2026-08-18T17:27:24+05:00",
-    "lastSeenAt": "2026-11-15T22:16:43.738Z",
+    "firstSeenAt": "2026-01-06T13:10:55+05:00",
+    "lastSeenAt": "2026-11-16T14:14:32.236Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7018,115 +7054,259 @@ export const INITIAL_PRODUCTS: Product[] = [
       {
         "date": "Today",
         "price": 2790,
-        "salePrice": 2232
+        "salePrice": 1953
       }
     ]
   },
   {
-    "id": "alkaram-8026632749236",
+    "id": "alkaram-8021176221876",
     "brandId": "alkaram",
     "brandName": "Alkaram Studio",
-    "title": "HOME | BEDSHEET SET",
-    "handle": "home-bedsheet-set-hew25bs006-white",
-    "originalPrice": 2190,
-    "salePrice": 1533,
-    "discountPct": 30,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/HEW25BS006_1_1a7a2edf-23f8-4002-83e3-3b649b4411c5.jpg?v=1770037751",
-    "category": "unstitched",
-    "fabric": "Fine Cotton Lawn",
-    "pieceCount": "2 Piece",
-    "productUrl": "https://www.alkaramstudio.com/products/home-bedsheet-set-hew25bs006-white",
+    "title": "RTS | SHIRT, TROUSER & DUPATTA",
+    "handle": "rts-shirt-trouser-dupatta-ec47-3p26-b-pink",
+    "originalPrice": 3990,
+    "salePrice": 3192,
+    "discountPct": 20,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EC47-26-Pink-1_e8db8ae1-0ef5-4174-969a-4dfb37c76b20.jpg?v=1768051069",
+    "category": "pret",
+    "fabric": "Premium Lawn",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ec47-3p26-b-pink",
     "isLowestPrice": true,
     "onSale": true,
-    "firstSeenAt": "2026-02-02T17:50:47+05:00",
-    "lastSeenAt": "2026-11-15T22:16:43.738Z",
+    "firstSeenAt": "2026-01-10T18:17:47+05:00",
+    "lastSeenAt": "2026-11-16T14:14:32.236Z",
     "priceHistory": [
       {
         "date": "Oct 15",
-        "price": 2190,
-        "salePrice": 2190
+        "price": 3990,
+        "salePrice": 3990
       },
       {
         "date": "Oct 24",
-        "price": 2190,
-        "salePrice": 2015
+        "price": 3990,
+        "salePrice": 3671
       },
       {
         "date": "Today",
-        "price": 2190,
-        "salePrice": 1533
+        "price": 3990,
+        "salePrice": 3192
       }
     ]
   },
   {
-    "id": "alkaram-15395539386548",
+    "id": "alkaram-7994290700468",
     "brandId": "alkaram",
     "brandName": "Alkaram Studio",
-    "title": "RTW | SHIRT & TROUSER",
-    "handle": "rtw-shirt-trouser-epe429-12-2p25-navy-blue",
-    "originalPrice": 6490,
-    "salePrice": 4868,
-    "discountPct": 25,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EPE429-12-2P25_1.jpg?v=1791191088",
+    "title": "RTS | SHIRT & DUPATTA",
+    "handle": "rts-shirt-dupatta-fw-137-25-1-grey",
+    "originalPrice": 2990,
+    "salePrice": 1944,
+    "discountPct": 35,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/FW-137-25-1-Grey-1_254b1bce-ecab-45a8-95ab-9ecb7c0d7db7.jpg?v=1759409885",
     "category": "pret",
     "fabric": "Cotton Khaddar",
     "pieceCount": "2 Piece",
-    "productUrl": "https://www.alkaramstudio.com/products/rtw-shirt-trouser-epe429-12-2p25-navy-blue",
+    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-dupatta-fw-137-25-1-grey",
     "isLowestPrice": true,
     "onSale": true,
-    "firstSeenAt": "2026-10-05T16:53:18+05:00",
-    "lastSeenAt": "2026-11-15T22:16:43.738Z",
+    "firstSeenAt": "2025-10-02T17:58:02+05:00",
+    "lastSeenAt": "2026-11-16T14:14:32.236Z",
     "priceHistory": [
       {
         "date": "Oct 15",
-        "price": 6490,
-        "salePrice": 6490
+        "price": 2990,
+        "salePrice": 2990
       },
       {
         "date": "Oct 24",
-        "price": 6490,
-        "salePrice": 5971
+        "price": 2990,
+        "salePrice": 2751
       },
       {
         "date": "Today",
-        "price": 6490,
-        "salePrice": 4868
+        "price": 2990,
+        "salePrice": 1944
       }
     ]
   },
   {
-    "id": "alkaram-8053903655092",
-    "brandId": "alkaram",
-    "brandName": "Alkaram Studio",
-    "title": "RTW | SHIRT, TROUSER & DUPATTA",
-    "handle": "rtw-shirt-trouser-dupatta-lde94-1-3p26-pink",
-    "originalPrice": 11990,
-    "salePrice": 8393,
-    "discountPct": 30,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/LDE94-1-3P26_2.jpg?v=1778565826",
-    "category": "pret",
-    "fabric": "Fine Cotton Lawn",
+    "id": "zellbury-8547698081839",
+    "brandId": "zellbury",
+    "brandName": "Zellbury",
+    "title": "Shirt Shalwar Dupatta - 0116",
+    "handle": "shirt-shalwar-dupatta-wuwq1x30116",
+    "originalPrice": 3362,
+    "salePrice": 2490,
+    "discountPct": 26,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0595/3260/7535/files/WUWQ1X30116_8.png?v=1794476929",
+    "category": "unstitched",
+    "fabric": "Cotton Khaddar",
     "pieceCount": "3 Piece",
-    "productUrl": "https://www.alkaramstudio.com/products/rtw-shirt-trouser-dupatta-lde94-1-3p26-pink",
+    "productUrl": "https://zellbury.com/products/shirt-shalwar-dupatta-wuwq1x30116",
     "isLowestPrice": true,
     "onSale": true,
-    "firstSeenAt": "2026-05-11T20:51:51+05:00",
-    "lastSeenAt": "2026-11-15T22:16:43.738Z",
+    "firstSeenAt": "2026-11-12T15:40:42+05:00",
+    "lastSeenAt": "2026-11-16T14:14:35.950Z",
     "priceHistory": [
       {
         "date": "Oct 15",
-        "price": 11990,
-        "salePrice": 11990
+        "price": 3362,
+        "salePrice": 3362
       },
       {
         "date": "Oct 24",
-        "price": 11990,
-        "salePrice": 11031
+        "price": 3362,
+        "salePrice": 3093
       },
       {
         "date": "Today",
-        "price": 11990,
-        "salePrice": 8393
+        "price": 3362,
+        "salePrice": 2490
+      }
+    ]
+  },
+  {
+    "id": "zellbury-8547698311215",
+    "brandId": "zellbury",
+    "brandName": "Zellbury",
+    "title": "Shirt Dupatta - 0090",
+    "handle": "shirt-dupatta-wuwq1x20090",
+    "originalPrice": 2687,
+    "salePrice": 1990,
+    "discountPct": 26,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0595/3260/7535/files/WUWQ1X20090_3.png?v=1794476905",
+    "category": "unstitched",
+    "fabric": "Cotton Khaddar",
+    "pieceCount": "1 Piece",
+    "productUrl": "https://zellbury.com/products/shirt-dupatta-wuwq1x20090",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-11-12T15:40:45+05:00",
+    "lastSeenAt": "2026-11-16T14:14:35.950Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 2687,
+        "salePrice": 2687
+      },
+      {
+        "date": "Oct 24",
+        "price": 2687,
+        "salePrice": 2472
+      },
+      {
+        "date": "Today",
+        "price": 2687,
+        "salePrice": 1990
+      }
+    ]
+  },
+  {
+    "id": "zellbury-8547698704431",
+    "brandId": "zellbury",
+    "brandName": "Zellbury",
+    "title": "Shirt Shalwar Dupatta - 0156",
+    "handle": "shirt-shalwar-dupatta-wuwq1x30156",
+    "originalPrice": 3632,
+    "salePrice": 2690,
+    "discountPct": 26,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0595/3260/7535/files/WUWQ1X30156_7.png?v=1794476983",
+    "category": "unstitched",
+    "fabric": "Cotton Khaddar",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://zellbury.com/products/shirt-shalwar-dupatta-wuwq1x30156",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-11-12T15:40:51+05:00",
+    "lastSeenAt": "2026-11-16T14:14:35.950Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 3632,
+        "salePrice": 3632
+      },
+      {
+        "date": "Oct 24",
+        "price": 3632,
+        "salePrice": 3341
+      },
+      {
+        "date": "Today",
+        "price": 3632,
+        "salePrice": 2690
+      }
+    ]
+  },
+  {
+    "id": "zellbury-8547697590319",
+    "brandId": "zellbury",
+    "brandName": "Zellbury",
+    "title": "Shirt Shalwar Dupatta - 0128",
+    "handle": "shirt-shalwar-dupatta-wuwq1x30128",
+    "originalPrice": 3362,
+    "salePrice": 2490,
+    "discountPct": 26,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0595/3260/7535/files/WUWQ1X30128_1.png?v=1794476936",
+    "category": "unstitched",
+    "fabric": "Cotton Khaddar",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://zellbury.com/products/shirt-shalwar-dupatta-wuwq1x30128",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-11-12T15:40:36+05:00",
+    "lastSeenAt": "2026-11-16T14:14:35.950Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 3362,
+        "salePrice": 3362
+      },
+      {
+        "date": "Oct 24",
+        "price": 3362,
+        "salePrice": 3093
+      },
+      {
+        "date": "Today",
+        "price": 3362,
+        "salePrice": 2490
+      }
+    ]
+  },
+  {
+    "id": "zellbury-8547698540591",
+    "brandId": "zellbury",
+    "brandName": "Zellbury",
+    "title": "Shirt Dupatta - 0092",
+    "handle": "shirt-dupatta-wuwq1x20092",
+    "originalPrice": 2687,
+    "salePrice": 1990,
+    "discountPct": 26,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0595/3260/7535/files/WUWQ1X20092_3.png?v=1794476908",
+    "category": "unstitched",
+    "fabric": "Cotton Khaddar",
+    "pieceCount": "1 Piece",
+    "productUrl": "https://zellbury.com/products/shirt-dupatta-wuwq1x20092",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-11-12T15:40:47+05:00",
+    "lastSeenAt": "2026-11-16T14:14:35.950Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 2687,
+        "salePrice": 2687
+      },
+      {
+        "date": "Oct 24",
+        "price": 2687,
+        "salePrice": 2472
+      },
+      {
+        "date": "Today",
+        "price": 2687,
+        "salePrice": 1990
       }
     ]
   },
@@ -7147,7 +7327,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-11-07T12:40:32+05:00",
-    "lastSeenAt": "2026-11-15T22:16:47.389Z",
+    "lastSeenAt": "2026-11-16T14:14:35.950Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7183,7 +7363,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-11-07T12:40:32+05:00",
-    "lastSeenAt": "2026-11-15T22:16:47.389Z",
+    "lastSeenAt": "2026-11-16T14:14:35.950Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7219,7 +7399,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-11-07T12:40:25+05:00",
-    "lastSeenAt": "2026-11-15T22:16:47.389Z",
+    "lastSeenAt": "2026-11-16T14:14:35.950Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7255,7 +7435,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-11-07T12:40:29+05:00",
-    "lastSeenAt": "2026-11-15T22:16:47.389Z",
+    "lastSeenAt": "2026-11-16T14:14:35.950Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7291,7 +7471,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-11-07T12:40:25+05:00",
-    "lastSeenAt": "2026-11-15T22:16:47.389Z",
+    "lastSeenAt": "2026-11-16T14:14:35.951Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7327,7 +7507,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-11-07T12:40:29+05:00",
-    "lastSeenAt": "2026-11-15T22:16:47.389Z",
+    "lastSeenAt": "2026-11-16T14:14:35.951Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7363,7 +7543,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-11-07T12:40:25+05:00",
-    "lastSeenAt": "2026-11-15T22:16:47.389Z",
+    "lastSeenAt": "2026-11-16T14:14:35.951Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7399,7 +7579,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-11-07T12:40:25+05:00",
-    "lastSeenAt": "2026-11-15T22:16:47.389Z",
+    "lastSeenAt": "2026-11-16T14:14:35.951Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7435,7 +7615,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-11-07T12:40:29+05:00",
-    "lastSeenAt": "2026-11-15T22:16:47.389Z",
+    "lastSeenAt": "2026-11-16T14:14:35.951Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7471,7 +7651,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-11-07T12:40:32+05:00",
-    "lastSeenAt": "2026-11-15T22:16:47.389Z",
+    "lastSeenAt": "2026-11-16T14:14:35.951Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7507,7 +7687,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-11-07T12:40:32+05:00",
-    "lastSeenAt": "2026-11-15T22:16:47.389Z",
+    "lastSeenAt": "2026-11-16T14:14:35.951Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7543,7 +7723,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-08T11:08:21+05:00",
-    "lastSeenAt": "2026-11-15T22:16:47.389Z",
+    "lastSeenAt": "2026-11-16T14:14:35.951Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7579,7 +7759,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-19T15:00:14+05:00",
-    "lastSeenAt": "2026-11-15T22:16:47.389Z",
+    "lastSeenAt": "2026-11-16T14:14:35.951Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7615,7 +7795,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-19T15:01:08+05:00",
-    "lastSeenAt": "2026-11-15T22:16:47.389Z",
+    "lastSeenAt": "2026-11-16T14:14:35.951Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7651,7 +7831,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-19T15:00:28+05:00",
-    "lastSeenAt": "2026-11-15T22:16:47.389Z",
+    "lastSeenAt": "2026-11-16T14:14:35.951Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7687,7 +7867,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-19T15:00:57+05:00",
-    "lastSeenAt": "2026-11-15T22:16:47.389Z",
+    "lastSeenAt": "2026-11-16T14:14:35.951Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7723,7 +7903,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-19T15:00:46+05:00",
-    "lastSeenAt": "2026-11-15T22:16:47.389Z",
+    "lastSeenAt": "2026-11-16T14:14:35.951Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7759,7 +7939,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-19T15:00:40+05:00",
-    "lastSeenAt": "2026-11-15T22:16:47.389Z",
+    "lastSeenAt": "2026-11-16T14:14:35.951Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7795,7 +7975,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-19T15:00:50+05:00",
-    "lastSeenAt": "2026-11-15T22:16:47.389Z",
+    "lastSeenAt": "2026-11-16T14:14:35.951Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7831,187 +8011,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-19T15:00:36+05:00",
-    "lastSeenAt": "2026-11-15T22:16:47.389Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 3362,
-        "salePrice": 3362
-      },
-      {
-        "date": "Oct 24",
-        "price": 3362,
-        "salePrice": 3093
-      },
-      {
-        "date": "Today",
-        "price": 3362,
-        "salePrice": 2490
-      }
-    ]
-  },
-  {
-    "id": "zellbury-8519780335663",
-    "brandId": "zellbury",
-    "brandName": "Zellbury",
-    "title": "Shirt Shalwar Dupatta - 0318",
-    "handle": "shirt-shalwar-dupatta-wuwq1x30318",
-    "originalPrice": 3632,
-    "salePrice": 2690,
-    "discountPct": 26,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0595/3260/7535/files/WUWQ1X30318_-_3.png?v=1792480914",
-    "category": "unstitched",
-    "fabric": "Cotton Khaddar",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://zellbury.com/products/shirt-shalwar-dupatta-wuwq1x30318",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-10-19T15:00:57+05:00",
-    "lastSeenAt": "2026-11-15T22:16:47.389Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 3632,
-        "salePrice": 3632
-      },
-      {
-        "date": "Oct 24",
-        "price": 3632,
-        "salePrice": 3341
-      },
-      {
-        "date": "Today",
-        "price": 3632,
-        "salePrice": 2690
-      }
-    ]
-  },
-  {
-    "id": "zellbury-8519780728879",
-    "brandId": "zellbury",
-    "brandName": "Zellbury",
-    "title": "Embroidered Shirt Shalwar Dupatta - 0180",
-    "handle": "shirt-shalwar-dupatta-wuwq1e30180",
-    "originalPrice": 6062,
-    "salePrice": 4490,
-    "discountPct": 26,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0595/3260/7535/files/WUWQ1E30180_5.png?v=1792480742",
-    "category": "unstitched",
-    "fabric": "Cotton Khaddar",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://zellbury.com/products/shirt-shalwar-dupatta-wuwq1e30180",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-10-19T15:01:07+05:00",
-    "lastSeenAt": "2026-11-15T22:16:47.389Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 6062,
-        "salePrice": 6062
-      },
-      {
-        "date": "Oct 24",
-        "price": 6062,
-        "salePrice": 5577
-      },
-      {
-        "date": "Today",
-        "price": 6062,
-        "salePrice": 4490
-      }
-    ]
-  },
-  {
-    "id": "zellbury-8519780663343",
-    "brandId": "zellbury",
-    "brandName": "Zellbury",
-    "title": "Shirt Shalwar Dupatta - 0151",
-    "handle": "shirt-shalwar-dupatta-wuwq1x30151",
-    "originalPrice": 3632,
-    "salePrice": 2690,
-    "discountPct": 26,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0595/3260/7535/files/WUWQ1X30151_-_4.png?v=1792480815",
-    "category": "unstitched",
-    "fabric": "Cotton Khaddar",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://zellbury.com/products/shirt-shalwar-dupatta-wuwq1x30151",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-10-19T15:01:04+05:00",
-    "lastSeenAt": "2026-11-15T22:16:47.389Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 3632,
-        "salePrice": 3632
-      },
-      {
-        "date": "Oct 24",
-        "price": 3632,
-        "salePrice": 3341
-      },
-      {
-        "date": "Today",
-        "price": 3632,
-        "salePrice": 2690
-      }
-    ]
-  },
-  {
-    "id": "zellbury-8519778893871",
-    "brandId": "zellbury",
-    "brandName": "Zellbury",
-    "title": "Shirt Dupatta - 0275",
-    "handle": "shirt-dupatta-wuwq1x20275",
-    "originalPrice": 2687,
-    "salePrice": 1990,
-    "discountPct": 26,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0595/3260/7535/files/WUWQ1X20275_1.png?v=1792480761",
-    "category": "unstitched",
-    "fabric": "Cotton Khaddar",
-    "pieceCount": "1 Piece",
-    "productUrl": "https://zellbury.com/products/shirt-dupatta-wuwq1x20275",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-10-19T15:00:17+05:00",
-    "lastSeenAt": "2026-11-15T22:16:47.389Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 2687,
-        "salePrice": 2687
-      },
-      {
-        "date": "Oct 24",
-        "price": 2687,
-        "salePrice": 2472
-      },
-      {
-        "date": "Today",
-        "price": 2687,
-        "salePrice": 1990
-      }
-    ]
-  },
-  {
-    "id": "zellbury-8519779156015",
-    "brandId": "zellbury",
-    "brandName": "Zellbury",
-    "title": "Shirt Shalwar Dupatta - 0225",
-    "handle": "shirt-shalwar-dupatta-wuwq1x30225",
-    "originalPrice": 3362,
-    "salePrice": 2490,
-    "discountPct": 26,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0595/3260/7535/files/WUWQ1X30225_-_3.png?v=1792480809",
-    "category": "unstitched",
-    "fabric": "Cotton Khaddar",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://zellbury.com/products/shirt-shalwar-dupatta-wuwq1x30225",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-10-19T15:00:25+05:00",
-    "lastSeenAt": "2026-11-15T22:16:47.389Z",
+    "lastSeenAt": "2026-11-16T14:14:35.951Z",
     "priceHistory": [
       {
         "date": "Oct 15",
