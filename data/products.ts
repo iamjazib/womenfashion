@@ -19,7 +19,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-10-01T15:57:07+05:00",
-    "lastSeenAt": "2026-11-16T14:14:10.015Z",
+    "lastSeenAt": "2026-11-17T01:16:47.634Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -55,7 +55,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-08-27T13:14:01+05:00",
-    "lastSeenAt": "2026-11-16T14:14:10.016Z",
+    "lastSeenAt": "2026-11-17T01:16:47.635Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -91,7 +91,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-02T17:08:50+05:00",
-    "lastSeenAt": "2026-11-16T14:14:10.016Z",
+    "lastSeenAt": "2026-11-17T01:16:47.635Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -127,7 +127,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-10-02T12:48:41+05:00",
-    "lastSeenAt": "2026-11-16T14:14:10.016Z",
+    "lastSeenAt": "2026-11-17T01:16:47.635Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -163,7 +163,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-09-20T18:05:05+05:00",
-    "lastSeenAt": "2026-11-16T14:14:10.017Z",
+    "lastSeenAt": "2026-11-17T01:16:47.635Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -199,7 +199,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-08-03T15:29:23+05:00",
-    "lastSeenAt": "2026-11-16T14:14:10.017Z",
+    "lastSeenAt": "2026-11-17T01:16:47.636Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -235,7 +235,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-10-18T12:33:09+05:00",
-    "lastSeenAt": "2026-11-16T14:14:10.017Z",
+    "lastSeenAt": "2026-11-17T01:16:47.636Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -271,7 +271,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-11-13T15:45:38+05:00",
-    "lastSeenAt": "2026-11-16T14:14:10.017Z",
+    "lastSeenAt": "2026-11-17T01:16:47.636Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -307,7 +307,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-10-06T20:50:29+05:00",
-    "lastSeenAt": "2026-11-16T14:14:10.017Z",
+    "lastSeenAt": "2026-11-17T01:16:47.636Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -343,7 +343,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-15T13:17:54+05:00",
-    "lastSeenAt": "2026-11-16T14:14:10.017Z",
+    "lastSeenAt": "2026-11-17T01:16:47.636Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -379,7 +379,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-15T13:17:56+05:00",
-    "lastSeenAt": "2026-11-16T14:14:10.017Z",
+    "lastSeenAt": "2026-11-17T01:16:47.636Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -415,7 +415,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-03-02T09:58:21+05:00",
-    "lastSeenAt": "2026-11-16T14:14:10.017Z",
+    "lastSeenAt": "2026-11-17T01:16:47.636Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -451,7 +451,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-03-02T09:58:14+05:00",
-    "lastSeenAt": "2026-11-16T14:14:10.017Z",
+    "lastSeenAt": "2026-11-17T01:16:47.636Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -487,7 +487,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-02T17:06:39+05:00",
-    "lastSeenAt": "2026-11-16T14:14:10.018Z",
+    "lastSeenAt": "2026-11-17T01:16:47.636Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -523,7 +523,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-30T12:52:44+05:00",
-    "lastSeenAt": "2026-11-16T14:14:10.018Z",
+    "lastSeenAt": "2026-11-17T01:16:47.636Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -559,7 +559,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-09-20T18:05:28+05:00",
-    "lastSeenAt": "2026-11-16T14:14:10.018Z",
+    "lastSeenAt": "2026-11-17T01:16:47.636Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -595,7 +595,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-09-20T18:05:50+05:00",
-    "lastSeenAt": "2026-11-16T14:14:10.018Z",
+    "lastSeenAt": "2026-11-17T01:16:47.636Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -631,7 +631,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-09-20T18:06:53+05:00",
-    "lastSeenAt": "2026-11-16T14:14:10.018Z",
+    "lastSeenAt": "2026-11-17T01:16:47.636Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -667,7 +667,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-11-10T15:26:08+05:00",
-    "lastSeenAt": "2026-11-16T14:14:10.018Z",
+    "lastSeenAt": "2026-11-17T01:16:47.636Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -703,7 +703,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-12-04T13:01:22+05:00",
-    "lastSeenAt": "2026-11-16T14:14:10.018Z",
+    "lastSeenAt": "2026-11-17T01:16:47.636Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -739,7 +739,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-10-18T12:33:05+05:00",
-    "lastSeenAt": "2026-11-16T14:14:10.018Z",
+    "lastSeenAt": "2026-11-17T01:16:47.637Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -775,7 +775,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-11-13T15:45:17+05:00",
-    "lastSeenAt": "2026-11-16T14:14:10.018Z",
+    "lastSeenAt": "2026-11-17T01:16:47.637Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -811,7 +811,43 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-15T13:18:06+05:00",
-    "lastSeenAt": "2026-11-16T14:14:10.018Z",
+    "lastSeenAt": "2026-11-17T01:16:47.637Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 4490,
+        "salePrice": 4490
+      },
+      {
+        "date": "Oct 24",
+        "price": 4490,
+        "salePrice": 4131
+      },
+      {
+        "date": "Today",
+        "price": 4490,
+        "salePrice": 2694
+      }
+    ]
+  },
+  {
+    "id": "gulahmed-8154250281007",
+    "brandId": "gulahmed",
+    "brandName": "Gul Ahmed",
+    "title": "Bucket Bag",
+    "handle": "bucket-bag-ibs-bkb26-002",
+    "originalPrice": 4490,
+    "salePrice": 2694,
+    "discountPct": 40,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0706/3253/8159/files/453996-black-bucketbag-front-ideas.jpg?v=1768470571",
+    "category": "unstitched",
+    "fabric": "Fine Cotton Lawn",
+    "pieceCount": "1 Piece",
+    "productUrl": "https://www.gulahmedshop.com/products/bucket-bag-ibs-bkb26-002",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-01-15T13:18:08+05:00",
+    "lastSeenAt": "2026-11-17T01:16:47.637Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -847,7 +883,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-14T17:11:27+05:00",
-    "lastSeenAt": "2026-11-16T14:14:13.676Z",
+    "lastSeenAt": "2026-11-17T01:16:51.426Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -883,7 +919,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-14T17:11:25+05:00",
-    "lastSeenAt": "2026-11-16T14:14:13.676Z",
+    "lastSeenAt": "2026-11-17T01:16:51.426Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -919,7 +955,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-14T17:11:15+05:00",
-    "lastSeenAt": "2026-11-16T14:14:13.676Z",
+    "lastSeenAt": "2026-11-17T01:16:51.426Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -955,7 +991,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-14T13:39:11+05:00",
-    "lastSeenAt": "2026-11-16T14:14:13.676Z",
+    "lastSeenAt": "2026-11-17T01:16:51.426Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -991,7 +1027,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-09T17:52:46+05:00",
-    "lastSeenAt": "2026-11-16T14:14:13.676Z",
+    "lastSeenAt": "2026-11-17T01:16:51.426Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1027,7 +1063,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-08T14:32:27+05:00",
-    "lastSeenAt": "2026-11-16T14:14:13.676Z",
+    "lastSeenAt": "2026-11-17T01:16:51.426Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1063,7 +1099,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-07T11:19:03+05:00",
-    "lastSeenAt": "2026-11-16T14:14:13.676Z",
+    "lastSeenAt": "2026-11-17T01:16:51.426Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1099,7 +1135,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-01T12:41:36+05:00",
-    "lastSeenAt": "2026-11-16T14:14:13.676Z",
+    "lastSeenAt": "2026-11-17T01:16:51.426Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1135,7 +1171,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-01T12:41:13+05:00",
-    "lastSeenAt": "2026-11-16T14:14:13.676Z",
+    "lastSeenAt": "2026-11-17T01:16:51.426Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1171,7 +1207,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-30T12:08:58+05:00",
-    "lastSeenAt": "2026-11-16T14:14:13.676Z",
+    "lastSeenAt": "2026-11-17T01:16:51.426Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1207,7 +1243,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-29T11:25:43+05:00",
-    "lastSeenAt": "2026-11-16T14:14:13.676Z",
+    "lastSeenAt": "2026-11-17T01:16:51.426Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1243,7 +1279,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-29T11:25:33+05:00",
-    "lastSeenAt": "2026-11-16T14:14:13.676Z",
+    "lastSeenAt": "2026-11-17T01:16:51.426Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1279,7 +1315,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-29T11:25:10+05:00",
-    "lastSeenAt": "2026-11-16T14:14:13.676Z",
+    "lastSeenAt": "2026-11-17T01:16:51.426Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1315,7 +1351,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-26T11:14:12+05:00",
-    "lastSeenAt": "2026-11-16T14:14:13.676Z",
+    "lastSeenAt": "2026-11-17T01:16:51.426Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1351,7 +1387,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-26T11:14:10+05:00",
-    "lastSeenAt": "2026-11-16T14:14:13.676Z",
+    "lastSeenAt": "2026-11-17T01:16:51.426Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1387,7 +1423,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-26T11:13:53+05:00",
-    "lastSeenAt": "2026-11-16T14:14:13.676Z",
+    "lastSeenAt": "2026-11-17T01:16:51.426Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1423,7 +1459,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-26T11:13:50+05:00",
-    "lastSeenAt": "2026-11-16T14:14:13.676Z",
+    "lastSeenAt": "2026-11-17T01:16:51.426Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1459,7 +1495,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-26T11:13:45+05:00",
-    "lastSeenAt": "2026-11-16T14:14:13.676Z",
+    "lastSeenAt": "2026-11-17T01:16:51.426Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1495,7 +1531,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-26T11:13:35+05:00",
-    "lastSeenAt": "2026-11-16T14:14:13.676Z",
+    "lastSeenAt": "2026-11-17T01:16:51.426Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1531,7 +1567,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-24T12:10:55+05:00",
-    "lastSeenAt": "2026-11-16T14:14:13.676Z",
+    "lastSeenAt": "2026-11-17T01:16:51.426Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1567,7 +1603,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-24T12:10:20+05:00",
-    "lastSeenAt": "2026-11-16T14:14:13.676Z",
+    "lastSeenAt": "2026-11-17T01:16:51.426Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1603,7 +1639,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-21T17:37:07+05:00",
-    "lastSeenAt": "2026-11-16T14:14:13.676Z",
+    "lastSeenAt": "2026-11-17T01:16:51.426Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1639,7 +1675,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-21T17:37:05+05:00",
-    "lastSeenAt": "2026-11-16T14:14:13.676Z",
+    "lastSeenAt": "2026-11-17T01:16:51.426Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1675,7 +1711,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-17T17:26:16+05:00",
-    "lastSeenAt": "2026-11-16T14:14:13.676Z",
+    "lastSeenAt": "2026-11-17T01:16:51.426Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1711,7 +1747,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-16T11:36:59+05:00",
-    "lastSeenAt": "2026-11-16T14:14:13.676Z",
+    "lastSeenAt": "2026-11-17T01:16:51.426Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1747,7 +1783,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-16T11:36:54+05:00",
-    "lastSeenAt": "2026-11-16T14:14:13.676Z",
+    "lastSeenAt": "2026-11-17T01:16:51.426Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1783,7 +1819,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-16T11:36:44+05:00",
-    "lastSeenAt": "2026-11-16T14:14:13.676Z",
+    "lastSeenAt": "2026-11-17T01:16:51.426Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1799,6 +1835,42 @@ export const INITIAL_PRODUCTS: Product[] = [
         "date": "Today",
         "price": 4899,
         "salePrice": 3399
+      }
+    ]
+  },
+  {
+    "id": "limelight-9037063454808",
+    "brandId": "limelight",
+    "brandName": "Limelight",
+    "title": "3 Piece Khaddar Suit (Unstitched)",
+    "handle": "u4932su-3pc-143",
+    "originalPrice": 4899,
+    "salePrice": 2899,
+    "discountPct": 41,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/2635/3244/files/U4932SU-3PC-143-3PieceKhaddarSuit_Unstitched_1_f2d8cae9-f66b-425a-a3da-8d6913340d92.jpg?v=1793707399",
+    "category": "unstitched",
+    "fabric": "Cotton Khaddar",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://www.limelight.pk/products/u4932su-3pc-143",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-09-16T11:36:42+05:00",
+    "lastSeenAt": "2026-11-17T01:16:51.426Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 4899,
+        "salePrice": 4899
+      },
+      {
+        "date": "Oct 24",
+        "price": 4899,
+        "salePrice": 4507
+      },
+      {
+        "date": "Today",
+        "price": 4899,
+        "salePrice": 2899
       }
     ]
   },
@@ -1819,7 +1891,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-16T11:36:25+05:00",
-    "lastSeenAt": "2026-11-16T14:14:13.676Z",
+    "lastSeenAt": "2026-11-17T01:16:51.426Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1855,7 +1927,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-16T11:36:24+05:00",
-    "lastSeenAt": "2026-11-16T14:14:13.676Z",
+    "lastSeenAt": "2026-11-17T01:16:51.426Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1871,42 +1943,6 @@ export const INITIAL_PRODUCTS: Product[] = [
         "date": "Today",
         "price": 4299,
         "salePrice": 2999
-      }
-    ]
-  },
-  {
-    "id": "limelight-9033266921560",
-    "brandId": "limelight",
-    "brandName": "Limelight",
-    "title": "Contrast Line Co-ord",
-    "handle": "w2516st-xsl-002",
-    "originalPrice": 7999,
-    "salePrice": 5599,
-    "discountPct": 30,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/2635/3244/files/W2516ST-SML-002-ContrastEdgeCo-ord_2.jpg?v=1789386506",
-    "category": "western",
-    "fabric": "Fine Cotton Lawn",
-    "pieceCount": "1 Piece",
-    "productUrl": "https://www.limelight.pk/products/w2516st-xsl-002",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-09-14T15:48:40+05:00",
-    "lastSeenAt": "2026-11-16T14:14:13.676Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 7999,
-        "salePrice": 7999
-      },
-      {
-        "date": "Oct 24",
-        "price": 7999,
-        "salePrice": 7359
-      },
-      {
-        "date": "Today",
-        "price": 7999,
-        "salePrice": 5599
       }
     ]
   },
@@ -1927,7 +1963,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-02T16:35:37+05:00",
-    "lastSeenAt": "2026-11-16T14:14:17.392Z",
+    "lastSeenAt": "2026-11-17T01:16:55.122Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1963,7 +1999,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-04-25T13:06:37+05:00",
-    "lastSeenAt": "2026-11-16T14:14:17.393Z",
+    "lastSeenAt": "2026-11-17T01:16:55.122Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1999,7 +2035,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2023-08-03T10:57:59+05:00",
-    "lastSeenAt": "2026-11-16T14:14:17.393Z",
+    "lastSeenAt": "2026-11-17T01:16:55.122Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2035,7 +2071,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-04-25T13:12:57+05:00",
-    "lastSeenAt": "2026-11-16T14:14:17.393Z",
+    "lastSeenAt": "2026-11-17T01:16:55.122Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2071,7 +2107,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-03-01T16:30:25+05:00",
-    "lastSeenAt": "2026-11-16T14:14:17.393Z",
+    "lastSeenAt": "2026-11-17T01:16:55.122Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2107,7 +2143,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-02-07T18:14:42+05:00",
-    "lastSeenAt": "2026-11-16T14:14:17.393Z",
+    "lastSeenAt": "2026-11-17T01:16:55.122Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2143,7 +2179,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-02T16:37:41+05:00",
-    "lastSeenAt": "2026-11-16T14:14:17.393Z",
+    "lastSeenAt": "2026-11-17T01:16:55.122Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2179,7 +2215,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-20T16:29:35+05:00",
-    "lastSeenAt": "2026-11-16T14:14:17.393Z",
+    "lastSeenAt": "2026-11-17T01:16:55.122Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2215,7 +2251,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-03T15:37:48+05:00",
-    "lastSeenAt": "2026-11-16T14:14:17.393Z",
+    "lastSeenAt": "2026-11-17T01:16:55.122Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2251,7 +2287,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-02-07T17:51:41+05:00",
-    "lastSeenAt": "2026-11-16T14:14:17.393Z",
+    "lastSeenAt": "2026-11-17T01:16:55.122Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2287,7 +2323,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-02-06T18:16:39+05:00",
-    "lastSeenAt": "2026-11-16T14:14:17.393Z",
+    "lastSeenAt": "2026-11-17T01:16:55.122Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2323,7 +2359,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-20T16:30:27+05:00",
-    "lastSeenAt": "2026-11-16T14:14:17.393Z",
+    "lastSeenAt": "2026-11-17T01:16:55.122Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2359,7 +2395,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-04-20T13:55:18+05:00",
-    "lastSeenAt": "2026-11-16T14:14:17.393Z",
+    "lastSeenAt": "2026-11-17T01:16:55.122Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2395,7 +2431,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-04-20T13:45:12+05:00",
-    "lastSeenAt": "2026-11-16T14:14:17.393Z",
+    "lastSeenAt": "2026-11-17T01:16:55.122Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2431,7 +2467,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-04-20T13:49:34+05:00",
-    "lastSeenAt": "2026-11-16T14:14:17.393Z",
+    "lastSeenAt": "2026-11-17T01:16:55.122Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2467,7 +2503,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-03-06T12:18:17+05:00",
-    "lastSeenAt": "2026-11-16T14:14:17.393Z",
+    "lastSeenAt": "2026-11-17T01:16:55.122Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2503,7 +2539,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-03T15:38:42+05:00",
-    "lastSeenAt": "2026-11-16T14:14:17.393Z",
+    "lastSeenAt": "2026-11-17T01:16:55.122Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2539,7 +2575,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-03-06T12:15:23+05:00",
-    "lastSeenAt": "2026-11-16T14:14:17.393Z",
+    "lastSeenAt": "2026-11-17T01:16:55.123Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2575,7 +2611,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2024-02-15T14:33:40+05:00",
-    "lastSeenAt": "2026-11-16T14:14:17.393Z",
+    "lastSeenAt": "2026-11-17T01:16:55.123Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2611,7 +2647,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-06-28T12:03:28+05:00",
-    "lastSeenAt": "2026-11-16T14:14:17.393Z",
+    "lastSeenAt": "2026-11-17T01:16:55.123Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2647,7 +2683,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-02T16:44:03+05:00",
-    "lastSeenAt": "2026-11-16T14:14:17.393Z",
+    "lastSeenAt": "2026-11-17T01:16:55.123Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2683,7 +2719,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-04-25T13:04:09+05:00",
-    "lastSeenAt": "2026-11-16T14:14:17.393Z",
+    "lastSeenAt": "2026-11-17T01:16:55.123Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2719,7 +2755,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2023-03-06T13:51:12+05:00",
-    "lastSeenAt": "2026-11-16T14:14:17.393Z",
+    "lastSeenAt": "2026-11-17T01:16:55.123Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2755,7 +2791,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-02-07T17:52:15+05:00",
-    "lastSeenAt": "2026-11-16T14:14:17.393Z",
+    "lastSeenAt": "2026-11-17T01:16:55.123Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2791,7 +2827,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-02-04T13:31:31+05:00",
-    "lastSeenAt": "2026-11-16T14:14:17.393Z",
+    "lastSeenAt": "2026-11-17T01:16:55.123Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2827,7 +2863,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-02-04T13:30:21+05:00",
-    "lastSeenAt": "2026-11-16T14:14:17.393Z",
+    "lastSeenAt": "2026-11-17T01:16:55.123Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2863,7 +2899,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-02-04T13:27:43+05:00",
-    "lastSeenAt": "2026-11-16T14:14:17.393Z",
+    "lastSeenAt": "2026-11-17T01:16:55.123Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2899,7 +2935,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-05-26T13:27:42+05:00",
-    "lastSeenAt": "2026-11-16T14:14:17.393Z",
+    "lastSeenAt": "2026-11-17T01:16:55.123Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2935,7 +2971,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-07-22T15:57:14+05:00",
-    "lastSeenAt": "2026-11-16T14:14:17.393Z",
+    "lastSeenAt": "2026-11-17T01:16:55.123Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2971,7 +3007,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-02-07T17:52:54+05:00",
-    "lastSeenAt": "2026-11-16T14:14:17.393Z",
+    "lastSeenAt": "2026-11-17T01:16:55.123Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3007,7 +3043,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-11T19:57:15+05:00",
-    "lastSeenAt": "2026-11-16T14:14:21.119Z",
+    "lastSeenAt": "2026-11-17T01:16:58.754Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3043,7 +3079,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-12-31T17:04:12+05:00",
-    "lastSeenAt": "2026-11-16T14:14:21.119Z",
+    "lastSeenAt": "2026-11-17T01:16:58.754Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3079,7 +3115,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-11T20:08:00+05:00",
-    "lastSeenAt": "2026-11-16T14:14:21.119Z",
+    "lastSeenAt": "2026-11-17T01:16:58.754Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3115,7 +3151,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-02T14:25:01+05:00",
-    "lastSeenAt": "2026-11-16T14:14:21.119Z",
+    "lastSeenAt": "2026-11-17T01:16:58.754Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3151,7 +3187,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-11T19:48:44+05:00",
-    "lastSeenAt": "2026-11-16T14:14:21.119Z",
+    "lastSeenAt": "2026-11-17T01:16:58.754Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3187,7 +3223,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-28T14:51:26+05:00",
-    "lastSeenAt": "2026-11-16T14:14:21.119Z",
+    "lastSeenAt": "2026-11-17T01:16:58.754Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3223,7 +3259,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-11T19:39:49+05:00",
-    "lastSeenAt": "2026-11-16T14:14:21.120Z",
+    "lastSeenAt": "2026-11-17T01:16:58.754Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3259,7 +3295,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-02T14:55:52+05:00",
-    "lastSeenAt": "2026-11-16T14:14:21.120Z",
+    "lastSeenAt": "2026-11-17T01:16:58.755Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3295,7 +3331,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-28T14:51:15+05:00",
-    "lastSeenAt": "2026-11-16T14:14:21.120Z",
+    "lastSeenAt": "2026-11-17T01:16:58.755Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3331,7 +3367,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-11T19:42:26+05:00",
-    "lastSeenAt": "2026-11-16T14:14:21.120Z",
+    "lastSeenAt": "2026-11-17T01:16:58.755Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3367,7 +3403,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-02T14:52:34+05:00",
-    "lastSeenAt": "2026-11-16T14:14:21.120Z",
+    "lastSeenAt": "2026-11-17T01:16:58.755Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3403,7 +3439,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-28T14:51:17+05:00",
-    "lastSeenAt": "2026-11-16T14:14:21.120Z",
+    "lastSeenAt": "2026-11-17T01:16:58.755Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3439,7 +3475,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-28T14:51:13+05:00",
-    "lastSeenAt": "2026-11-16T14:14:21.120Z",
+    "lastSeenAt": "2026-11-17T01:16:58.755Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3475,7 +3511,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-11T19:45:59+05:00",
-    "lastSeenAt": "2026-11-16T14:14:21.120Z",
+    "lastSeenAt": "2026-11-17T01:16:58.755Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3511,7 +3547,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-02T14:39:12+05:00",
-    "lastSeenAt": "2026-11-16T14:14:21.120Z",
+    "lastSeenAt": "2026-11-17T01:16:58.755Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3547,7 +3583,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-02T14:21:47+05:00",
-    "lastSeenAt": "2026-11-16T14:14:21.120Z",
+    "lastSeenAt": "2026-11-17T01:16:58.755Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3583,7 +3619,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-28T14:51:19+05:00",
-    "lastSeenAt": "2026-11-16T14:14:21.120Z",
+    "lastSeenAt": "2026-11-17T01:16:58.755Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3619,7 +3655,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-02T11:43:55+05:00",
-    "lastSeenAt": "2026-11-16T14:14:21.120Z",
+    "lastSeenAt": "2026-11-17T01:16:58.755Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3655,7 +3691,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-12-31T16:15:21+05:00",
-    "lastSeenAt": "2026-11-16T14:14:21.120Z",
+    "lastSeenAt": "2026-11-17T01:16:58.755Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3691,7 +3727,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-28T14:51:21+05:00",
-    "lastSeenAt": "2026-11-16T14:14:21.120Z",
+    "lastSeenAt": "2026-11-17T01:16:58.755Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3727,7 +3763,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-02T11:57:48+05:00",
-    "lastSeenAt": "2026-11-16T14:14:21.120Z",
+    "lastSeenAt": "2026-11-17T01:16:58.755Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3763,7 +3799,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-28T17:13:19+05:00",
-    "lastSeenAt": "2026-11-16T14:14:21.120Z",
+    "lastSeenAt": "2026-11-17T01:16:58.755Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3799,7 +3835,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-28T14:51:11+05:00",
-    "lastSeenAt": "2026-11-16T14:14:21.120Z",
+    "lastSeenAt": "2026-11-17T01:16:58.755Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3835,7 +3871,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-12-31T17:14:45+05:00",
-    "lastSeenAt": "2026-11-16T14:14:21.120Z",
+    "lastSeenAt": "2026-11-17T01:16:58.755Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3871,7 +3907,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-12-31T16:49:22+05:00",
-    "lastSeenAt": "2026-11-16T14:14:21.120Z",
+    "lastSeenAt": "2026-11-17T01:16:58.755Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3907,7 +3943,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-12-31T16:31:15+05:00",
-    "lastSeenAt": "2026-11-16T14:14:21.120Z",
+    "lastSeenAt": "2026-11-17T01:16:58.755Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3943,7 +3979,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-24T17:49:57+05:00",
-    "lastSeenAt": "2026-11-16T14:14:21.120Z",
+    "lastSeenAt": "2026-11-17T01:16:58.755Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3979,7 +4015,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-24T17:33:23+05:00",
-    "lastSeenAt": "2026-11-16T14:14:21.120Z",
+    "lastSeenAt": "2026-11-17T01:16:58.755Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4015,7 +4051,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-28T17:13:20+05:00",
-    "lastSeenAt": "2026-11-16T14:14:21.120Z",
+    "lastSeenAt": "2026-11-17T01:16:58.755Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4051,7 +4087,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-28T17:13:19+05:00",
-    "lastSeenAt": "2026-11-16T14:14:21.120Z",
+    "lastSeenAt": "2026-11-17T01:16:58.755Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4087,7 +4123,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-05-20T10:06:07+05:00",
-    "lastSeenAt": "2026-11-16T14:14:24.823Z",
+    "lastSeenAt": "2026-11-17T01:17:02.416Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4123,7 +4159,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-05-20T10:26:22+05:00",
-    "lastSeenAt": "2026-11-16T14:14:24.823Z",
+    "lastSeenAt": "2026-11-17T01:17:02.416Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4159,7 +4195,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-18T15:31:19+05:00",
-    "lastSeenAt": "2026-11-16T14:14:24.823Z",
+    "lastSeenAt": "2026-11-17T01:17:02.416Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4195,7 +4231,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-23T11:41:21+05:00",
-    "lastSeenAt": "2026-11-16T14:14:24.823Z",
+    "lastSeenAt": "2026-11-17T01:17:02.416Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4231,7 +4267,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-29T16:58:06+05:00",
-    "lastSeenAt": "2026-11-16T14:14:24.823Z",
+    "lastSeenAt": "2026-11-17T01:17:02.417Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4267,7 +4303,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-29T17:09:10+05:00",
-    "lastSeenAt": "2026-11-16T14:14:24.823Z",
+    "lastSeenAt": "2026-11-17T01:17:02.417Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4303,7 +4339,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-01T15:02:03+05:00",
-    "lastSeenAt": "2026-11-16T14:14:24.823Z",
+    "lastSeenAt": "2026-11-17T01:17:02.417Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4339,7 +4375,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-15T11:46:45+05:00",
-    "lastSeenAt": "2026-11-16T14:14:24.823Z",
+    "lastSeenAt": "2026-11-17T01:17:02.417Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4375,7 +4411,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-16T11:54:48+05:00",
-    "lastSeenAt": "2026-11-16T14:14:24.823Z",
+    "lastSeenAt": "2026-11-17T01:17:02.417Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4411,7 +4447,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-27T16:29:56+05:00",
-    "lastSeenAt": "2026-11-16T14:14:24.823Z",
+    "lastSeenAt": "2026-11-17T01:17:02.417Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4447,7 +4483,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-27T16:39:58+05:00",
-    "lastSeenAt": "2026-11-16T14:14:24.823Z",
+    "lastSeenAt": "2026-11-17T01:17:02.417Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4483,7 +4519,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-03-30T10:29:28+05:00",
-    "lastSeenAt": "2026-11-16T14:14:24.823Z",
+    "lastSeenAt": "2026-11-17T01:17:02.417Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4519,7 +4555,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-04-15T16:14:10+05:00",
-    "lastSeenAt": "2026-11-16T14:14:24.823Z",
+    "lastSeenAt": "2026-11-17T01:17:02.417Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4555,7 +4591,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-05-05T12:52:13+05:00",
-    "lastSeenAt": "2026-11-16T14:14:24.823Z",
+    "lastSeenAt": "2026-11-17T01:17:02.417Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4591,7 +4627,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-05-05T13:05:49+05:00",
-    "lastSeenAt": "2026-11-16T14:14:24.823Z",
+    "lastSeenAt": "2026-11-17T01:17:02.417Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4627,7 +4663,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-05-11T14:23:53+05:00",
-    "lastSeenAt": "2026-11-16T14:14:24.823Z",
+    "lastSeenAt": "2026-11-17T01:17:02.417Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4663,7 +4699,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-05-18T14:43:57+05:00",
-    "lastSeenAt": "2026-11-16T14:14:24.823Z",
+    "lastSeenAt": "2026-11-17T01:17:02.417Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4699,7 +4735,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-05-19T17:13:28+05:00",
-    "lastSeenAt": "2026-11-16T14:14:24.823Z",
+    "lastSeenAt": "2026-11-17T01:17:02.417Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4735,7 +4771,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-05-20T10:10:50+05:00",
-    "lastSeenAt": "2026-11-16T14:14:24.824Z",
+    "lastSeenAt": "2026-11-17T01:17:02.417Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4771,7 +4807,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-05-20T10:29:25+05:00",
-    "lastSeenAt": "2026-11-16T14:14:24.824Z",
+    "lastSeenAt": "2026-11-17T01:17:02.417Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4807,7 +4843,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-23T10:56:03+05:00",
-    "lastSeenAt": "2026-11-16T14:14:24.824Z",
+    "lastSeenAt": "2026-11-17T01:17:02.417Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4843,7 +4879,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-06T10:02:05+05:00",
-    "lastSeenAt": "2026-11-16T14:14:24.824Z",
+    "lastSeenAt": "2026-11-17T01:17:02.417Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4879,7 +4915,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-06T10:08:33+05:00",
-    "lastSeenAt": "2026-11-16T14:14:24.824Z",
+    "lastSeenAt": "2026-11-17T01:17:02.417Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4915,7 +4951,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-06T11:14:27+05:00",
-    "lastSeenAt": "2026-11-16T14:14:24.824Z",
+    "lastSeenAt": "2026-11-17T01:17:02.417Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4951,7 +4987,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-17T10:21:21+05:00",
-    "lastSeenAt": "2026-11-16T14:14:24.824Z",
+    "lastSeenAt": "2026-11-17T01:17:02.417Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4987,7 +5023,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-29T10:15:12+05:00",
-    "lastSeenAt": "2026-11-16T14:14:24.824Z",
+    "lastSeenAt": "2026-11-17T01:17:02.417Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5023,7 +5059,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-29T11:15:44+05:00",
-    "lastSeenAt": "2026-11-16T14:14:24.824Z",
+    "lastSeenAt": "2026-11-17T01:17:02.418Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5059,7 +5095,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-29T14:32:28+05:00",
-    "lastSeenAt": "2026-11-16T14:14:24.824Z",
+    "lastSeenAt": "2026-11-17T01:17:02.418Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5095,7 +5131,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-29T14:43:40+05:00",
-    "lastSeenAt": "2026-11-16T14:14:24.824Z",
+    "lastSeenAt": "2026-11-17T01:17:02.418Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5131,7 +5167,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-29T14:46:04+05:00",
-    "lastSeenAt": "2026-11-16T14:14:24.824Z",
+    "lastSeenAt": "2026-11-17T01:17:02.418Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5167,7 +5203,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T18:47:13+05:00",
-    "lastSeenAt": "2026-11-16T14:14:28.565Z",
+    "lastSeenAt": "2026-11-17T01:17:06.040Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5203,7 +5239,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T18:47:19+05:00",
-    "lastSeenAt": "2026-11-16T14:14:28.565Z",
+    "lastSeenAt": "2026-11-17T01:17:06.040Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5239,7 +5275,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T18:35:33+05:00",
-    "lastSeenAt": "2026-11-16T14:14:28.565Z",
+    "lastSeenAt": "2026-11-17T01:17:06.040Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5275,7 +5311,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T10:11:08+05:00",
-    "lastSeenAt": "2026-11-16T14:14:28.565Z",
+    "lastSeenAt": "2026-11-17T01:17:06.040Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5311,7 +5347,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T10:11:04+05:00",
-    "lastSeenAt": "2026-11-16T14:14:28.565Z",
+    "lastSeenAt": "2026-11-17T01:17:06.040Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5347,7 +5383,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T10:11:03+05:00",
-    "lastSeenAt": "2026-11-16T14:14:28.565Z",
+    "lastSeenAt": "2026-11-17T01:17:06.040Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5383,7 +5419,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T10:11:06+05:00",
-    "lastSeenAt": "2026-11-16T14:14:28.565Z",
+    "lastSeenAt": "2026-11-17T01:17:06.040Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5419,7 +5455,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T10:10:55+05:00",
-    "lastSeenAt": "2026-11-16T14:14:28.565Z",
+    "lastSeenAt": "2026-11-17T01:17:06.040Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5455,7 +5491,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T10:11:10+05:00",
-    "lastSeenAt": "2026-11-16T14:14:28.565Z",
+    "lastSeenAt": "2026-11-17T01:17:06.040Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5491,7 +5527,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T10:16:44+05:00",
-    "lastSeenAt": "2026-11-16T14:14:28.565Z",
+    "lastSeenAt": "2026-11-17T01:17:06.040Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5527,7 +5563,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T10:16:42+05:00",
-    "lastSeenAt": "2026-11-16T14:14:28.565Z",
+    "lastSeenAt": "2026-11-17T01:17:06.040Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5563,7 +5599,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T10:10:57+05:00",
-    "lastSeenAt": "2026-11-16T14:14:28.565Z",
+    "lastSeenAt": "2026-11-17T01:17:06.040Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5599,7 +5635,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T10:10:54+05:00",
-    "lastSeenAt": "2026-11-16T14:14:28.565Z",
+    "lastSeenAt": "2026-11-17T01:17:06.040Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5635,7 +5671,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T14:44:07+05:00",
-    "lastSeenAt": "2026-11-16T14:14:28.565Z",
+    "lastSeenAt": "2026-11-17T01:17:06.040Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5671,7 +5707,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-11T22:05:52+05:00",
-    "lastSeenAt": "2026-11-16T14:14:28.565Z",
+    "lastSeenAt": "2026-11-17T01:17:06.040Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5707,7 +5743,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-11T21:35:52+05:00",
-    "lastSeenAt": "2026-11-16T14:14:28.565Z",
+    "lastSeenAt": "2026-11-17T01:17:06.040Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5743,7 +5779,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-11T22:09:35+05:00",
-    "lastSeenAt": "2026-11-16T14:14:28.565Z",
+    "lastSeenAt": "2026-11-17T01:17:06.040Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5779,7 +5815,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T21:37:17+05:00",
-    "lastSeenAt": "2026-11-16T14:14:28.565Z",
+    "lastSeenAt": "2026-11-17T01:17:06.040Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5815,7 +5851,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T21:37:15+05:00",
-    "lastSeenAt": "2026-11-16T14:14:28.565Z",
+    "lastSeenAt": "2026-11-17T01:17:06.040Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5851,7 +5887,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T21:37:19+05:00",
-    "lastSeenAt": "2026-11-16T14:14:28.565Z",
+    "lastSeenAt": "2026-11-17T01:17:06.040Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5887,7 +5923,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T21:37:21+05:00",
-    "lastSeenAt": "2026-11-16T14:14:28.565Z",
+    "lastSeenAt": "2026-11-17T01:17:06.040Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5923,7 +5959,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T21:31:47+05:00",
-    "lastSeenAt": "2026-11-16T14:14:28.565Z",
+    "lastSeenAt": "2026-11-17T01:17:06.040Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5959,7 +5995,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T21:29:40+05:00",
-    "lastSeenAt": "2026-11-16T14:14:28.565Z",
+    "lastSeenAt": "2026-11-17T01:17:06.040Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5995,7 +6031,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T21:31:06+05:00",
-    "lastSeenAt": "2026-11-16T14:14:28.565Z",
+    "lastSeenAt": "2026-11-17T01:17:06.040Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6031,7 +6067,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T21:30:58+05:00",
-    "lastSeenAt": "2026-11-16T14:14:28.565Z",
+    "lastSeenAt": "2026-11-17T01:17:06.040Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6067,7 +6103,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-06T13:10:50+05:00",
-    "lastSeenAt": "2026-11-16T14:14:32.236Z",
+    "lastSeenAt": "2026-11-17T01:17:09.687Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6103,7 +6139,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-06T13:10:59+05:00",
-    "lastSeenAt": "2026-11-16T14:14:32.236Z",
+    "lastSeenAt": "2026-11-17T01:17:09.687Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6139,7 +6175,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-13T14:39:07+05:00",
-    "lastSeenAt": "2026-11-16T14:14:32.236Z",
+    "lastSeenAt": "2026-11-17T01:17:09.687Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6155,42 +6191,6 @@ export const INITIAL_PRODUCTS: Product[] = [
         "date": "Today",
         "price": 3990,
         "salePrice": 3192
-      }
-    ]
-  },
-  {
-    "id": "alkaram-8031578849460",
-    "brandId": "alkaram",
-    "brandName": "Alkaram Studio",
-    "title": "RTS | SHIRT",
-    "handle": "rts-shirt-br73-26-2-tea-pink",
-    "originalPrice": 1190,
-    "salePrice": 833,
-    "discountPct": 30,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/BR73-26-2-Tea_Pink-1_c3f62e1e-7516-4d64-b766-da8b6ab6351b.jpg?v=1771313943",
-    "category": "pret",
-    "fabric": "Premium Lawn",
-    "pieceCount": "1 Piece",
-    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-br73-26-2-tea-pink",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-02-17T12:39:00+05:00",
-    "lastSeenAt": "2026-11-16T14:14:32.236Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 1190,
-        "salePrice": 1190
-      },
-      {
-        "date": "Oct 24",
-        "price": 1190,
-        "salePrice": 1095
-      },
-      {
-        "date": "Today",
-        "price": 1190,
-        "salePrice": 833
       }
     ]
   },
@@ -6211,7 +6211,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-10-02T18:00:00+05:00",
-    "lastSeenAt": "2026-11-16T14:14:32.236Z",
+    "lastSeenAt": "2026-11-17T01:17:09.687Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6247,7 +6247,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-10-02T17:57:31+05:00",
-    "lastSeenAt": "2026-11-16T14:14:32.236Z",
+    "lastSeenAt": "2026-11-17T01:17:09.687Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6283,7 +6283,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-10-02T17:57:32+05:00",
-    "lastSeenAt": "2026-11-16T14:14:32.236Z",
+    "lastSeenAt": "2026-11-17T01:17:09.687Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6319,7 +6319,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-10T18:18:46+05:00",
-    "lastSeenAt": "2026-11-16T14:14:32.236Z",
+    "lastSeenAt": "2026-11-17T01:17:09.687Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6355,7 +6355,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-06T13:09:37+05:00",
-    "lastSeenAt": "2026-11-16T14:14:32.236Z",
+    "lastSeenAt": "2026-11-17T01:17:09.687Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6371,42 +6371,6 @@ export const INITIAL_PRODUCTS: Product[] = [
         "date": "Today",
         "price": 1490,
         "salePrice": 1043
-      }
-    ]
-  },
-  {
-    "id": "alkaram-8020566081716",
-    "brandId": "alkaram",
-    "brandName": "Alkaram Studio",
-    "title": "RTS  | SHIRT, TROUSER & DUPATTA",
-    "handle": "rts-shirt-trouser-dupatta-efl-11-3p25-peach",
-    "originalPrice": 3390,
-    "salePrice": 2712,
-    "discountPct": 20,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EFL-11-3P25-Peach-1.jpg?v=1783493803",
-    "category": "pret",
-    "fabric": "Premium Lawn",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-efl-11-3p25-peach",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-01-07T17:51:59+05:00",
-    "lastSeenAt": "2026-11-16T14:14:32.236Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 3390,
-        "salePrice": 3390
-      },
-      {
-        "date": "Oct 24",
-        "price": 3390,
-        "salePrice": 3119
-      },
-      {
-        "date": "Today",
-        "price": 3390,
-        "salePrice": 2712
       }
     ]
   },
@@ -6427,7 +6391,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-11-01T00:45:59+05:00",
-    "lastSeenAt": "2026-11-16T14:14:32.236Z",
+    "lastSeenAt": "2026-11-17T01:17:09.687Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6463,7 +6427,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-08-18T17:27:12+05:00",
-    "lastSeenAt": "2026-11-16T14:14:32.236Z",
+    "lastSeenAt": "2026-11-17T01:17:09.687Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6499,7 +6463,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-06T13:10:27+05:00",
-    "lastSeenAt": "2026-11-16T14:14:32.236Z",
+    "lastSeenAt": "2026-11-17T01:17:09.687Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6535,7 +6499,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-04-13T12:49:16+05:00",
-    "lastSeenAt": "2026-11-16T14:14:32.236Z",
+    "lastSeenAt": "2026-11-17T01:17:09.687Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6571,7 +6535,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-06T13:10:20+05:00",
-    "lastSeenAt": "2026-11-16T14:14:32.236Z",
+    "lastSeenAt": "2026-11-17T01:17:09.687Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6607,7 +6571,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-10-02T18:00:09+05:00",
-    "lastSeenAt": "2026-11-16T14:14:32.236Z",
+    "lastSeenAt": "2026-11-17T01:17:09.687Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6643,7 +6607,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-08-18T17:27:05+05:00",
-    "lastSeenAt": "2026-11-16T14:14:32.236Z",
+    "lastSeenAt": "2026-11-17T01:17:09.687Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6679,7 +6643,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-02-17T12:38:43+05:00",
-    "lastSeenAt": "2026-11-16T14:14:32.236Z",
+    "lastSeenAt": "2026-11-17T01:17:09.687Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6715,7 +6679,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-10T18:19:22+05:00",
-    "lastSeenAt": "2026-11-16T14:14:32.236Z",
+    "lastSeenAt": "2026-11-17T01:17:09.687Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6751,7 +6715,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-04-10T16:58:05+05:00",
-    "lastSeenAt": "2026-11-16T14:14:32.236Z",
+    "lastSeenAt": "2026-11-17T01:17:09.687Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6787,7 +6751,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-04-10T16:58:20+05:00",
-    "lastSeenAt": "2026-11-16T14:14:32.236Z",
+    "lastSeenAt": "2026-11-17T01:17:09.687Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6823,7 +6787,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-10-02T17:58:09+05:00",
-    "lastSeenAt": "2026-11-16T14:14:32.236Z",
+    "lastSeenAt": "2026-11-17T01:17:09.687Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6859,7 +6823,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-10-02T17:56:13+05:00",
-    "lastSeenAt": "2026-11-16T14:14:32.236Z",
+    "lastSeenAt": "2026-11-17T01:17:09.688Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6895,7 +6859,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-06T13:11:16+05:00",
-    "lastSeenAt": "2026-11-16T14:14:32.236Z",
+    "lastSeenAt": "2026-11-17T01:17:09.688Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6931,7 +6895,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-04-13T12:49:23+05:00",
-    "lastSeenAt": "2026-11-16T14:14:32.236Z",
+    "lastSeenAt": "2026-11-17T01:17:09.688Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6967,7 +6931,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-10-02T13:47:27+05:00",
-    "lastSeenAt": "2026-11-16T14:14:32.236Z",
+    "lastSeenAt": "2026-11-17T01:17:09.688Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7003,7 +6967,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-13T14:39:08+05:00",
-    "lastSeenAt": "2026-11-16T14:14:32.236Z",
+    "lastSeenAt": "2026-11-17T01:17:09.688Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7039,7 +7003,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-06T13:10:55+05:00",
-    "lastSeenAt": "2026-11-16T14:14:32.236Z",
+    "lastSeenAt": "2026-11-17T01:17:09.688Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7075,7 +7039,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-10T18:17:47+05:00",
-    "lastSeenAt": "2026-11-16T14:14:32.236Z",
+    "lastSeenAt": "2026-11-17T01:17:09.688Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7111,7 +7075,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-10-02T17:58:02+05:00",
-    "lastSeenAt": "2026-11-16T14:14:32.236Z",
+    "lastSeenAt": "2026-11-17T01:17:09.688Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7127,6 +7091,78 @@ export const INITIAL_PRODUCTS: Product[] = [
         "date": "Today",
         "price": 2990,
         "salePrice": 1944
+      }
+    ]
+  },
+  {
+    "id": "alkaram-8079547531444",
+    "brandId": "alkaram",
+    "brandName": "Alkaram Studio",
+    "title": "RTS | SHIRT, TROUSER & DUPATTA",
+    "handle": "rts-shirt-trouser-dupatta-ec340-3p26b-blue",
+    "originalPrice": 4790,
+    "salePrice": 3832,
+    "discountPct": 20,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EC340-3P26B-Blue-1.jpg?v=1783340569",
+    "category": "pret",
+    "fabric": "Premium Lawn",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ec340-3p26b-blue",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-07-06T17:37:53+05:00",
+    "lastSeenAt": "2026-11-17T01:17:09.688Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 4790,
+        "salePrice": 4790
+      },
+      {
+        "date": "Oct 24",
+        "price": 4790,
+        "salePrice": 4407
+      },
+      {
+        "date": "Today",
+        "price": 4790,
+        "salePrice": 3832
+      }
+    ]
+  },
+  {
+    "id": "alkaram-8111785246900",
+    "brandId": "alkaram",
+    "brandName": "Alkaram Studio",
+    "title": "RTS | SHIRT, TROUSER & DUPATTA",
+    "handle": "rts-shirt-trouser-dupatta-ec333-3p26-peach",
+    "originalPrice": 4790,
+    "salePrice": 3353,
+    "discountPct": 30,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EC333-3P26-Peach-2_2df93632-27d3-41dd-ab51-01240f24f647.jpg?v=1787051427",
+    "category": "pret",
+    "fabric": "Premium Lawn",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ec333-3p26-peach",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-08-18T17:27:54+05:00",
+    "lastSeenAt": "2026-11-17T01:17:09.688Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 4790,
+        "salePrice": 4790
+      },
+      {
+        "date": "Oct 24",
+        "price": 4790,
+        "salePrice": 4407
+      },
+      {
+        "date": "Today",
+        "price": 4790,
+        "salePrice": 3353
       }
     ]
   },
@@ -7147,7 +7183,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-11-12T15:40:42+05:00",
-    "lastSeenAt": "2026-11-16T14:14:35.950Z",
+    "lastSeenAt": "2026-11-17T01:17:13.343Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7183,7 +7219,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-11-12T15:40:45+05:00",
-    "lastSeenAt": "2026-11-16T14:14:35.950Z",
+    "lastSeenAt": "2026-11-17T01:17:13.343Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7219,7 +7255,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-11-12T15:40:51+05:00",
-    "lastSeenAt": "2026-11-16T14:14:35.950Z",
+    "lastSeenAt": "2026-11-17T01:17:13.343Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7255,7 +7291,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-11-12T15:40:36+05:00",
-    "lastSeenAt": "2026-11-16T14:14:35.950Z",
+    "lastSeenAt": "2026-11-17T01:17:13.343Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7291,7 +7327,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-11-12T15:40:47+05:00",
-    "lastSeenAt": "2026-11-16T14:14:35.950Z",
+    "lastSeenAt": "2026-11-17T01:17:13.343Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7327,7 +7363,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-11-07T12:40:32+05:00",
-    "lastSeenAt": "2026-11-16T14:14:35.950Z",
+    "lastSeenAt": "2026-11-17T01:17:13.343Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7363,7 +7399,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-11-07T12:40:32+05:00",
-    "lastSeenAt": "2026-11-16T14:14:35.950Z",
+    "lastSeenAt": "2026-11-17T01:17:13.343Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7399,7 +7435,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-11-07T12:40:25+05:00",
-    "lastSeenAt": "2026-11-16T14:14:35.950Z",
+    "lastSeenAt": "2026-11-17T01:17:13.343Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7435,7 +7471,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-11-07T12:40:29+05:00",
-    "lastSeenAt": "2026-11-16T14:14:35.950Z",
+    "lastSeenAt": "2026-11-17T01:17:13.343Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7471,7 +7507,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-11-07T12:40:25+05:00",
-    "lastSeenAt": "2026-11-16T14:14:35.951Z",
+    "lastSeenAt": "2026-11-17T01:17:13.343Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7507,7 +7543,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-11-07T12:40:29+05:00",
-    "lastSeenAt": "2026-11-16T14:14:35.951Z",
+    "lastSeenAt": "2026-11-17T01:17:13.343Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7543,7 +7579,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-11-07T12:40:25+05:00",
-    "lastSeenAt": "2026-11-16T14:14:35.951Z",
+    "lastSeenAt": "2026-11-17T01:17:13.343Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7579,7 +7615,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-11-07T12:40:25+05:00",
-    "lastSeenAt": "2026-11-16T14:14:35.951Z",
+    "lastSeenAt": "2026-11-17T01:17:13.343Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7615,7 +7651,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-11-07T12:40:29+05:00",
-    "lastSeenAt": "2026-11-16T14:14:35.951Z",
+    "lastSeenAt": "2026-11-17T01:17:13.343Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7651,7 +7687,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-11-07T12:40:32+05:00",
-    "lastSeenAt": "2026-11-16T14:14:35.951Z",
+    "lastSeenAt": "2026-11-17T01:17:13.343Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7687,7 +7723,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-11-07T12:40:32+05:00",
-    "lastSeenAt": "2026-11-16T14:14:35.951Z",
+    "lastSeenAt": "2026-11-17T01:17:13.343Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7723,7 +7759,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-08T11:08:21+05:00",
-    "lastSeenAt": "2026-11-16T14:14:35.951Z",
+    "lastSeenAt": "2026-11-17T01:17:13.343Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7759,7 +7795,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-19T15:00:14+05:00",
-    "lastSeenAt": "2026-11-16T14:14:35.951Z",
+    "lastSeenAt": "2026-11-17T01:17:13.343Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7795,7 +7831,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-19T15:01:08+05:00",
-    "lastSeenAt": "2026-11-16T14:14:35.951Z",
+    "lastSeenAt": "2026-11-17T01:17:13.343Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7831,7 +7867,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-19T15:00:28+05:00",
-    "lastSeenAt": "2026-11-16T14:14:35.951Z",
+    "lastSeenAt": "2026-11-17T01:17:13.343Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7867,7 +7903,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-19T15:00:57+05:00",
-    "lastSeenAt": "2026-11-16T14:14:35.951Z",
+    "lastSeenAt": "2026-11-17T01:17:13.343Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7903,7 +7939,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-19T15:00:46+05:00",
-    "lastSeenAt": "2026-11-16T14:14:35.951Z",
+    "lastSeenAt": "2026-11-17T01:17:13.343Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7939,7 +7975,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-19T15:00:40+05:00",
-    "lastSeenAt": "2026-11-16T14:14:35.951Z",
+    "lastSeenAt": "2026-11-17T01:17:13.343Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7975,7 +8011,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-19T15:00:50+05:00",
-    "lastSeenAt": "2026-11-16T14:14:35.951Z",
+    "lastSeenAt": "2026-11-17T01:17:13.343Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -8011,7 +8047,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-19T15:00:36+05:00",
-    "lastSeenAt": "2026-11-16T14:14:35.951Z",
+    "lastSeenAt": "2026-11-17T01:17:13.343Z",
     "priceHistory": [
       {
         "date": "Oct 15",
