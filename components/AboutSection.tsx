@@ -1,7 +1,12 @@
+"use client";
+
 import React from "react";
 import { ShieldCheck, Zap, Heart, Search, CheckCircle2 } from "lucide-react";
+import { useSiteContent } from "@/context/SiteContentContext";
 
 export const AboutSection: React.FC = () => {
+  const { content } = useSiteContent();
+  const about = content.about;
   return (
     <section className="py-16 bg-white border-b border-neutral-200/80">
       <div className="max-w-7xl mx-auto px-4 sm:px-6">
@@ -36,8 +41,8 @@ export const AboutSection: React.FC = () => {
                 <ShieldCheck className="w-6 h-6" />
               </div>
               <div className="text-xs">
-                <div className="font-bold text-neutral-900">Anti-Fake Sale Guarantee</div>
-                <div className="text-neutral-500 text-[11px]">30-day historical price verification on every deal</div>
+                <div className="font-bold text-neutral-900">{about.guaranteeTitle}</div>
+                <div className="text-neutral-500 text-[11px]">{about.guaranteeDescription}</div>
               </div>
             </div>
           </div>
@@ -47,16 +52,16 @@ export const AboutSection: React.FC = () => {
             <div>
               <div className="inline-flex items-center gap-1.5 bg-rose-50 border border-rose-200 text-rose-600 text-xs font-bold uppercase tracking-wider px-3 py-1 rounded-full mb-2">
                 <Heart className="w-3.5 h-3.5 fill-rose-600 text-rose-600" />
-                About Women Fashion
+                {about.badge}
               </div>
               <h2 className="text-3xl sm:text-4xl font-serif font-black text-neutral-900 tracking-tight leading-tight">
-                Pakistan's Dedicated Smart Radar for Women's Clothing Discounts
+                {about.title}
               </h2>
               <p className="text-sm sm:text-base text-neutral-600 leading-relaxed mt-3">
-                Shopping for Pakistani designer lawn, luxury formals, and everyday prêt shouldn't feel like a chore. Every season, top brands launch flash sales, end-of-season clearances, and special discounts. But finding them usually means scrolling endlessly through Instagram or constantly refreshing 20 different brand websites.
+                {about.paragraph1}
               </p>
               <p className="text-sm text-neutral-600 leading-relaxed mt-2">
-                <strong className="text-neutral-900">Women Fashion</strong> solves this by aggregating real-time discounts from Pakistan's most respected fashion houses—including <strong className="text-neutral-900">Gul Ahmed, Baroque, Asim Jofa, Limelight, Sana Safinaz, Junaid Jamshed, and Zellbury</strong>—into one clean, searchable catalog.
+                {about.paragraph2}
               </p>
             </div>
 

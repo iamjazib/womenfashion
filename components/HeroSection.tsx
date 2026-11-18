@@ -4,6 +4,7 @@ import React, { useState } from "react";
 import { Search, Flame, ArrowRight, Zap, Tag, ShieldCheck } from "lucide-react";
 import { Product } from "@/types";
 import { StackedCardShuffle } from "@/components/StackedCardShuffle";
+import { useSiteContent } from "@/context/SiteContentContext";
 
 interface HeroSectionProps {
   searchQuery: string;
@@ -24,6 +25,8 @@ export const HeroSection: React.FC<HeroSectionProps> = ({
   products,
   totalDeals,
 }) => {
+  const { content } = useSiteContent();
+  const hero = content.hero;
   const [internalQuery, setInternalQuery] = useState(searchQuery);
 
   const handleSearchSubmit = (e: React.FormEvent) => {
@@ -61,20 +64,20 @@ export const HeroSection: React.FC<HeroSectionProps> = ({
                 <span className="relative inline-flex rounded-full h-2 w-2 bg-rose-500"></span>
               </span>
               <span className="tracking-wide uppercase text-[11px]">
-                WOMEN FASHION RADAR • {totalDeals} Verified Women's Clothing Discounts
+                {hero.badgeText}
               </span>
             </div>
 
             {/* Main Headline */}
             <div className="space-y-2">
               <h1 className="text-3xl sm:text-4xl lg:text-5xl font-serif font-black tracking-tight leading-[1.15] text-white">
-                Pakistani Women's Fashion Sales. <br />
+                {hero.titleLine1} <br />
                 <span className="text-transparent bg-clip-text bg-gradient-to-r from-rose-400 via-pink-300 to-amber-200">
-                  All Brands In One Luxury Radar.
+                  {hero.titleLine2}
                 </span>
               </h1>
               <p className="text-sm sm:text-base text-neutral-300 leading-relaxed max-w-xl pt-1">
-                Stop jumping between 20 brand tabs. Find real-time verified price drops across <strong className="text-white font-semibold">Gul Ahmed, Baroque, Asim Jofa, Limelight, Sana Safinaz, Junaid Jamshed, Alkaram Studio, and Zellbury</strong>.
+                {hero.subtitle}
               </p>
             </div>
 
@@ -91,7 +94,7 @@ export const HeroSection: React.FC<HeroSectionProps> = ({
                     setInternalQuery(e.target.value);
                     setSearchQuery(e.target.value);
                   }}
-                  placeholder="Search women's 3-piece lawn, chiffon, schiffli, kurta, brand..."
+                  placeholder={hero.searchPlaceholder}
                   style={{ backgroundColor: "transparent", color: "#ffffff" }}
                   className="w-full bg-transparent text-white placeholder:text-neutral-400 text-sm sm:text-base px-2 py-2.5 border-0 outline-none focus:outline-none focus:ring-0 shadow-none"
                 />
@@ -99,7 +102,7 @@ export const HeroSection: React.FC<HeroSectionProps> = ({
                   type="submit"
                   className="bg-gradient-to-r from-rose-600 to-pink-600 hover:from-rose-500 hover:to-pink-500 text-white font-bold text-xs sm:text-sm px-5 py-3 rounded-xl transition-all shadow-lg flex items-center gap-1.5 shrink-0"
                 >
-                  <span>Search Sales</span>
+                  <span>{hero.searchButtonText}</span>
                   <ArrowRight className="w-4 h-4" />
                 </button>
               </div>
@@ -132,15 +135,15 @@ export const HeroSection: React.FC<HeroSectionProps> = ({
             <div className="pt-2 grid grid-cols-3 gap-2 sm:gap-4 border-t border-white/10 max-w-xl text-xs text-neutral-300">
               <div className="flex items-center gap-2">
                 <ShieldCheck className="w-4 h-4 text-emerald-400 shrink-0" />
-                <span className="text-[11px] leading-tight">Zero Fake Markups</span>
+                <span className="text-[11px] leading-tight">{hero.trustBadge1}</span>
               </div>
               <div className="flex items-center gap-2">
                 <Zap className="w-4 h-4 text-amber-400 shrink-0" />
-                <span className="text-[11px] leading-tight">Hourly Auto-Scanned</span>
+                <span className="text-[11px] leading-tight">{hero.trustBadge2}</span>
               </div>
               <div className="flex items-center gap-2">
                 <Tag className="w-4 h-4 text-rose-400 shrink-0" />
-                <span className="text-[11px] leading-tight">Direct Brand Checkout</span>
+                <span className="text-[11px] leading-tight">{hero.trustBadge3}</span>
               </div>
             </div>
 

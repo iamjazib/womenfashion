@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
 import { CompareProvider } from "@/context/CompareContext";
+import { SiteContentProvider } from "@/context/SiteContentContext";
 import { CompareBar } from "@/components/CompareBar";
 
 export const metadata: Metadata = {
@@ -17,10 +18,12 @@ export default function RootLayout({
   return (
     <html lang="en" className="h-full antialiased font-sans">
       <body className="min-h-full flex flex-col">
-        <CompareProvider>
-          {children}
-          <CompareBar />
-        </CompareProvider>
+        <SiteContentProvider>
+          <CompareProvider>
+            {children}
+            <CompareBar />
+          </CompareProvider>
+        </SiteContentProvider>
       </body>
     </html>
   );

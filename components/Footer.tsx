@@ -1,8 +1,12 @@
+"use client";
+
 import React from "react";
 import Link from "next/link";
 import { ShieldCheck, Info, Building2, ExternalLink, ArrowRight } from "lucide-react";
+import { useSiteContent } from "@/context/SiteContentContext";
 
 export const Footer: React.FC = () => {
+  const { content } = useSiteContent();
   return (
     <footer className="bg-neutral-950 text-neutral-400 text-xs border-t border-neutral-900 mt-16">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 py-12">
@@ -179,7 +183,7 @@ export const Footer: React.FC = () => {
               About Women Fashion
             </h4>
             <p className="text-[11px] leading-relaxed text-neutral-400 mb-4">
-              Pakistan's dedicated sale radar for women's fashion. We track real-time price drops across 10 top women's couture and lawn labels (Gul Ahmed, Baroque, Asim Jofa, Nishat Linen, Sapphire, Limelight, Sana Safinaz, J., Alkaram Studio, and Zellbury) with zero fake markups.
+              {content.footer.aboutText}
             </p>
 
             <div className="space-y-2">
@@ -212,7 +216,7 @@ export const Footer: React.FC = () => {
 
         {/* Bottom Credits & Legal Links */}
         <div className="flex flex-col sm:flex-row items-center justify-between gap-4 text-[11px] text-neutral-500">
-          <p>© {new Date().getFullYear()} Women Fashion Deals. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} {content.footer.copyrightText}</p>
           <div className="flex flex-wrap items-center gap-4">
             <Link href="/privacy" className="hover:text-white transition-colors">
               Privacy Policy

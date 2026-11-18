@@ -2,6 +2,7 @@
 
 import React from "react";
 import { useSaleCountdown } from "@/hooks/useSaleCountdown";
+import { useSiteContent } from "@/context/SiteContentContext";
 import {
   Clock,
   Calendar,
@@ -13,6 +14,7 @@ import {
 } from "lucide-react";
 
 export const SaleCountdownSection: React.FC = () => {
+  const { content } = useSiteContent();
   const { days, hours, minutes, seconds, isExpired, formattedEndDate, mounted } =
     useSaleCountdown();
 
@@ -44,15 +46,15 @@ export const SaleCountdownSection: React.FC = () => {
         <div className="text-center max-w-3xl mx-auto mb-10">
           <div className="inline-flex items-center gap-2 bg-rose-500/20 text-rose-300 border border-rose-500/30 text-xs font-bold uppercase tracking-wider px-4 py-1.5 rounded-full mb-3 shadow-xs">
             <Flame className="w-4 h-4 text-rose-500 fill-rose-500 animate-pulse" />
-            <span>30-Day Seasonal Clearance Sale Ender</span>
+            <span>{content.announcement.countdownBadge}</span>
           </div>
 
           <h2 className="text-2xl sm:text-3xl lg:text-4xl font-serif font-black tracking-tight text-white mb-3">
-            Official Brand Sale Countdown
+            {content.announcement.countdownTitle}
           </h2>
 
           <p className="text-xs sm:text-sm text-neutral-300 leading-relaxed max-w-xl mx-auto">
-            Pakistan's biggest 30-day fashion clearance is underway. Once the countdown timer ends, all verified flat 50% clearances and unstitched lawn discounts will revert to regular prices.
+            {content.announcement.countdownSubtitle}
           </p>
         </div>
 

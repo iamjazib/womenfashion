@@ -2,6 +2,7 @@
 
 import React, { useState } from "react";
 import Link from "next/link";
+import { useSiteContent } from "@/context/SiteContentContext";
 import {
   Building2,
   CheckCircle2,
@@ -15,6 +16,7 @@ import {
 } from "lucide-react";
 
 export const BrandPartnerSection: React.FC = () => {
+  const { content } = useSiteContent();
   const [brandName, setBrandName] = useState("");
   const [website, setWebsite] = useState("");
   const [contactEmail, setContactEmail] = useState("");
@@ -72,16 +74,15 @@ export const BrandPartnerSection: React.FC = () => {
           <div className="lg:col-span-7 space-y-6">
             <div className="inline-flex items-center gap-2 bg-rose-500/20 text-rose-300 border border-rose-500/30 text-xs font-bold uppercase tracking-wider px-3.5 py-1.5 rounded-full shadow-xs">
               <Building2 className="w-3.5 h-3.5 text-rose-400" />
-              <span>Brand Partnership Radar</span>
+              <span>{content.partner.badgeText}</span>
             </div>
 
             <h2 className="text-3xl sm:text-4xl lg:text-5xl font-serif font-black tracking-tight text-white leading-tight">
-              Are You a Pakistani Fashion Brand? <br />
-              <span className="text-rose-500">Put Your Sales On Our Radar.</span>
+              {content.partner.title}
             </h2>
 
             <p className="text-sm sm:text-base text-neutral-300 leading-relaxed max-w-xl">
-              Connect directly with thousands of Pakistani women actively hunting for unstitched lawn discounts, designer pret clearances, and festive formals daily.
+              {content.partner.subtitle}
             </p>
 
             {/* 3 Core Partner Advantages */}

@@ -22,10 +22,12 @@ import { CTASection } from "@/components/CTASection";
 import { PriceHistoryModal } from "@/components/PriceHistoryModal";
 import { Footer } from "@/components/Footer";
 import { SearchX, ChevronDown } from "lucide-react";
+import { useSiteContent } from "@/context/SiteContentContext";
 
 const PRODUCTS_PER_PAGE = 12;
 
 export default function Home() {
+  const { content } = useSiteContent();
   const [products] = useState<Product[]>(INITIAL_PRODUCTS);
   const [searchQuery, setSearchQuery] = useState("");
   const [selectedBrand, setSelectedBrand] = useState("all");
@@ -277,6 +279,18 @@ export default function Home() {
 
       {/* Section 6: Live Sale Catalog (With Search & Interactive Filters) */}
       <div id="catalog-section" className="scroll-mt-20">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 pt-10 pb-4 text-center sm:text-left">
+          <div className="inline-flex items-center gap-1.5 text-xs font-bold uppercase tracking-wider text-rose-600 bg-rose-50 border border-rose-200 px-3 py-1 rounded-full mb-2">
+            <span>{content.catalog.badge}</span>
+          </div>
+          <h2 className="text-2xl sm:text-3xl font-serif font-black tracking-tight text-neutral-900">
+            {content.catalog.title}
+          </h2>
+          <p className="text-xs sm:text-sm text-neutral-500 mt-1 max-w-2xl">
+            {content.catalog.subtitle}
+          </p>
+        </div>
+
         {/* Brand Horizontal Carousel / Pill Bar */}
         <BrandBar
           brands={BRANDS}

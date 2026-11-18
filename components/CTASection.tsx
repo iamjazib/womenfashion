@@ -2,8 +2,11 @@
 
 import React, { useState } from "react";
 import { BellRing, CheckCircle, ArrowRight, ShieldCheck, Loader2, MailCheck, AlertCircle } from "lucide-react";
+import { useSiteContent } from "@/context/SiteContentContext";
 
 export const CTASection: React.FC = () => {
+  const { content } = useSiteContent();
+  const cta = content.cta;
   const [emailInput, setEmailInput] = useState("");
   const [status, setStatus] = useState<"idle" | "loading" | "success" | "error">("idle");
   const [message, setMessage] = useState("");
@@ -49,16 +52,15 @@ export const CTASection: React.FC = () => {
         {/* Pulsing Tag */}
         <div className="inline-flex items-center gap-2 bg-rose-500/20 text-rose-300 border border-rose-500/30 text-xs font-bold uppercase tracking-wider px-3.5 py-1 rounded-full mb-4">
           <BellRing className="w-3.5 h-3.5 text-rose-400" />
-          <span>Real-Time VIP Sale Radar</span>
+          <span>{cta.badge}</span>
         </div>
 
         <h2 className="text-3xl sm:text-4xl lg:text-5xl font-serif font-black tracking-tight text-white leading-tight">
-          Never Miss Another Flash Sale <br className="hidden sm:inline" />
-          or Lawn Launch in Pakistan.
+          {cta.title}
         </h2>
 
         <p className="text-sm sm:text-base text-neutral-300 mt-3 max-w-xl mx-auto leading-relaxed">
-          Be the first to know the minute <strong className="text-white">Gul Ahmed, Baroque, Asim Jofa, Nishat Linen, Sapphire, Limelight, or Sana Safinaz</strong> drop prices or announce clearance events.
+          {cta.subtitle}
         </p>
 
         {/* Signup / Alert Form */}
@@ -90,7 +92,7 @@ export const CTASection: React.FC = () => {
                   </>
                 ) : (
                   <>
-                    <span>Get Free Alerts</span>
+                    <span>{cta.buttonText}</span>
                     <ArrowRight className="w-4 h-4" />
                   </>
                 )}

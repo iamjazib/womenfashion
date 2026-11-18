@@ -5,6 +5,7 @@ import Link from "next/link";
 import { Search, Heart, ShieldCheck, ArrowLeftRight, Sparkles, Timer, Building2, BookOpen } from "lucide-react";
 import { useCompare } from "@/context/CompareContext";
 import { useSaleCountdown } from "@/hooks/useSaleCountdown";
+import { useSiteContent } from "@/context/SiteContentContext";
 
 interface HeaderProps {
   searchQuery?: string;
@@ -23,6 +24,7 @@ export const Header: React.FC<HeaderProps> = ({
   setSelectedCategory,
   totalDeals = 263,
 }) => {
+  const { content } = useSiteContent();
   const { compareItems } = useCompare();
   const { days, hours, minutes, seconds, formattedEndDate, mounted } = useSaleCountdown();
 
@@ -42,8 +44,7 @@ export const Header: React.FC<HeaderProps> = ({
           <div className="flex items-center gap-2">
             <span className="inline-block w-2 h-2 rounded-full bg-rose-500 animate-pulse"></span>
             <span className="font-medium text-neutral-200">
-              Women Fashion Live Radar:{" "}
-              <span className="text-rose-400 font-semibold">{totalDeals}</span> active discounts tracked
+              {content.announcement.topBarAlert}
             </span>
           </div>
 
