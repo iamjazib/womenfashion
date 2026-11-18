@@ -184,6 +184,13 @@ export const Footer: React.FC = () => {
 
             <div className="space-y-2">
               <Link
+                href="/blog"
+                className="inline-flex items-center gap-2 bg-rose-600/20 hover:bg-rose-600 text-rose-300 hover:text-white font-semibold text-xs px-3.5 py-2 rounded-xl transition-all border border-rose-500/30 mr-2"
+              >
+                <span>Read Fashion Blog</span>
+              </Link>
+
+              <Link
                 href="/brand-portal"
                 className="inline-flex items-center gap-2 bg-white/10 hover:bg-rose-600 text-white font-semibold text-xs px-3.5 py-2 rounded-xl transition-all border border-white/10 hover:border-rose-500"
               >
@@ -217,6 +224,10 @@ export const Footer: React.FC = () => {
             <span>•</span>
             <Link href="/brand-portal" className="text-rose-400 hover:text-rose-300 transition-colors font-medium">
               Brand Partner Portal
+            </Link>
+            <span>•</span>
+            <Link href="/blog" className="hover:text-white transition-colors">
+              Fashion Blog
             </Link>
             <span>•</span>
             <Link href="/brands" className="hover:text-white transition-colors">

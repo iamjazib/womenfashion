@@ -66,3 +66,30 @@ export interface BrandRegistration {
   status: "pending_review" | "approved" | "live" | "rejected";
   priceGuaranteeAccepted: boolean;
 }
+
+export interface BlogPost {
+  id: string;
+  slug: string;
+  title: string;
+  excerpt: string;
+  content: string;
+  coverImage: string;
+  category: string;
+  tags: string[];
+  author: {
+    name: string;
+    role?: string;
+    avatar?: string;
+  };
+  publishedAt: string;
+  readTimeMinutes: number;
+  featured?: boolean;
+  status: "published" | "draft";
+  seo: {
+    metaTitle: string;
+    metaDescription: string;
+    keywords: string;
+    ogImage?: string;
+    canonical?: string;
+  };
+}

@@ -7,6 +7,7 @@ import { Footer } from "@/components/Footer";
 import { BRANDS } from "@/data/brands";
 import { INITIAL_PRODUCTS } from "@/data/products";
 import { Product, BrandRegistration } from "@/types";
+import { AdminBlogManager } from "@/components/AdminBlogManager";
 import {
   ShieldCheck,
   Search,
@@ -31,6 +32,7 @@ import {
   XCircle,
   Check,
   Clock,
+  BookOpen,
 } from "lucide-react";
 
 interface PageSeo {
@@ -49,7 +51,7 @@ export default function AdminDashboardPage() {
   const [passcode, setPasscode] = useState("");
   const [passcodeError, setPasscodeError] = useState("");
 
-  const [activeTab, setActiveTab] = useState<"seo" | "products" | "brands" | "subscribers">("seo");
+  const [activeTab, setActiveTab] = useState<"seo" | "products" | "brands" | "blogs" | "subscribers">("seo");
 
   // SEO State
   const [pagesSeo, setPagesSeo] = useState<PageSeo[]>([]);
@@ -451,6 +453,18 @@ export default function AdminDashboardPage() {
                     {brandRegistrations.length}
                   </span>
                 )}
+              </button>
+
+              <button
+                onClick={() => setActiveTab("blogs")}
+                className={`flex items-center gap-2 px-4 py-2 rounded-xl text-xs sm:text-sm font-bold transition-all cursor-pointer whitespace-nowrap ${
+                  activeTab === "blogs"
+                    ? "bg-neutral-950 text-white shadow-xs"
+                    : "text-neutral-600 hover:text-neutral-900 hover:bg-neutral-100"
+                }`}
+              >
+                <BookOpen className="w-4 h-4 text-purple-500" />
+                <span>Fashion Blogs & Articles</span>
               </button>
 
               <button
@@ -1210,7 +1224,14 @@ export default function AdminDashboardPage() {
             )}
 
             {/* ======================================================== */}
-            {/* TAB 4: VIP SUBSCRIBERS                                   */}
+            {/* TAB 4: FASHION BLOGS & EDITORIAL MANAGER                 */}
+            {/* ======================================================== */}
+            {activeTab === "blogs" && (
+              <AdminBlogManager />
+            )}
+
+            {/* ======================================================== */}
+            {/* TAB 5: VIP SUBSCRIBERS                                   */}
             {/* ======================================================== */}
             {activeTab === "subscribers" && (
               <div className="space-y-6">
