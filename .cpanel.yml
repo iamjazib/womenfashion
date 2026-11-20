@@ -1,7 +1,7 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home3/ittzonec/public_html/
+    - export DEPLOYPATH=/home3/ittzonec/womenfashion/
     - /bin/mkdir -p $DEPLOYPATH
     - /bin/cp -R * $DEPLOYPATH
     - /bin/cp -R .* $DEPLOYPATH 2>/dev/null || true
