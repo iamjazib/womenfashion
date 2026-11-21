@@ -19,7 +19,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-10-01T15:57:07+05:00",
-    "lastSeenAt": "2026-11-21T04:42:43.604Z",
+    "lastSeenAt": "2026-11-21T13:52:03.321Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -55,7 +55,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-08-27T13:14:01+05:00",
-    "lastSeenAt": "2026-11-21T04:42:43.604Z",
+    "lastSeenAt": "2026-11-21T13:52:03.322Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -91,7 +91,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-02T17:08:50+05:00",
-    "lastSeenAt": "2026-11-21T04:42:43.604Z",
+    "lastSeenAt": "2026-11-21T13:52:03.322Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -127,7 +127,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-10-02T12:48:41+05:00",
-    "lastSeenAt": "2026-11-21T04:42:43.605Z",
+    "lastSeenAt": "2026-11-21T13:52:03.322Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -163,7 +163,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-09-20T18:05:05+05:00",
-    "lastSeenAt": "2026-11-21T04:42:43.605Z",
+    "lastSeenAt": "2026-11-21T13:52:03.323Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -199,7 +199,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-08-03T15:29:23+05:00",
-    "lastSeenAt": "2026-11-21T04:42:43.605Z",
+    "lastSeenAt": "2026-11-21T13:52:03.323Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -235,7 +235,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-10-18T12:33:09+05:00",
-    "lastSeenAt": "2026-11-21T04:42:43.605Z",
+    "lastSeenAt": "2026-11-21T13:52:03.323Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -271,7 +271,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-11-13T15:45:38+05:00",
-    "lastSeenAt": "2026-11-21T04:42:43.605Z",
+    "lastSeenAt": "2026-11-21T13:52:03.323Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -307,7 +307,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-10-06T20:50:29+05:00",
-    "lastSeenAt": "2026-11-21T04:42:43.605Z",
+    "lastSeenAt": "2026-11-21T13:52:03.323Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -343,7 +343,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-15T13:17:54+05:00",
-    "lastSeenAt": "2026-11-21T04:42:43.605Z",
+    "lastSeenAt": "2026-11-21T13:52:03.323Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -379,7 +379,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-15T13:17:56+05:00",
-    "lastSeenAt": "2026-11-21T04:42:43.605Z",
+    "lastSeenAt": "2026-11-21T13:52:03.323Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -415,7 +415,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-03-02T09:58:21+05:00",
-    "lastSeenAt": "2026-11-21T04:42:43.605Z",
+    "lastSeenAt": "2026-11-21T13:52:03.323Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -451,7 +451,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-03-02T09:58:14+05:00",
-    "lastSeenAt": "2026-11-21T04:42:43.605Z",
+    "lastSeenAt": "2026-11-21T13:52:03.323Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -487,7 +487,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-02T17:06:39+05:00",
-    "lastSeenAt": "2026-11-21T04:42:43.605Z",
+    "lastSeenAt": "2026-11-21T13:52:03.323Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -523,7 +523,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-30T12:52:44+05:00",
-    "lastSeenAt": "2026-11-21T04:42:43.605Z",
+    "lastSeenAt": "2026-11-21T13:52:03.323Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -559,7 +559,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-09-20T18:05:28+05:00",
-    "lastSeenAt": "2026-11-21T04:42:43.605Z",
+    "lastSeenAt": "2026-11-21T13:52:03.324Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -595,7 +595,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-09-20T18:05:50+05:00",
-    "lastSeenAt": "2026-11-21T04:42:43.606Z",
+    "lastSeenAt": "2026-11-21T13:52:03.324Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -631,7 +631,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-09-20T18:06:53+05:00",
-    "lastSeenAt": "2026-11-21T04:42:43.606Z",
+    "lastSeenAt": "2026-11-21T13:52:03.324Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -667,7 +667,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-11-10T15:26:08+05:00",
-    "lastSeenAt": "2026-11-21T04:42:43.606Z",
+    "lastSeenAt": "2026-11-21T13:52:03.324Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -703,7 +703,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-12-04T13:01:22+05:00",
-    "lastSeenAt": "2026-11-21T04:42:43.606Z",
+    "lastSeenAt": "2026-11-21T13:52:03.324Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -739,7 +739,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-10-18T12:33:05+05:00",
-    "lastSeenAt": "2026-11-21T04:42:43.606Z",
+    "lastSeenAt": "2026-11-21T13:52:03.324Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -775,7 +775,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-11-13T15:45:17+05:00",
-    "lastSeenAt": "2026-11-21T04:42:43.606Z",
+    "lastSeenAt": "2026-11-21T13:52:03.324Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -811,7 +811,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-15T13:18:06+05:00",
-    "lastSeenAt": "2026-11-21T04:42:43.606Z",
+    "lastSeenAt": "2026-11-21T13:52:03.324Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -847,7 +847,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-15T13:18:08+05:00",
-    "lastSeenAt": "2026-11-21T04:42:43.606Z",
+    "lastSeenAt": "2026-11-21T13:52:03.324Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -883,7 +883,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-14T17:11:27+05:00",
-    "lastSeenAt": "2026-11-21T04:42:47.236Z",
+    "lastSeenAt": "2026-11-21T13:52:07.049Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -919,7 +919,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-14T17:11:25+05:00",
-    "lastSeenAt": "2026-11-21T04:42:47.236Z",
+    "lastSeenAt": "2026-11-21T13:52:07.049Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -955,7 +955,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-14T17:11:15+05:00",
-    "lastSeenAt": "2026-11-21T04:42:47.236Z",
+    "lastSeenAt": "2026-11-21T13:52:07.049Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -991,7 +991,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-14T13:39:11+05:00",
-    "lastSeenAt": "2026-11-21T04:42:47.236Z",
+    "lastSeenAt": "2026-11-21T13:52:07.049Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1027,7 +1027,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-09T17:52:46+05:00",
-    "lastSeenAt": "2026-11-21T04:42:47.236Z",
+    "lastSeenAt": "2026-11-21T13:52:07.049Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1063,7 +1063,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-08T14:32:27+05:00",
-    "lastSeenAt": "2026-11-21T04:42:47.236Z",
+    "lastSeenAt": "2026-11-21T13:52:07.049Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1099,7 +1099,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-07T11:19:03+05:00",
-    "lastSeenAt": "2026-11-21T04:42:47.236Z",
+    "lastSeenAt": "2026-11-21T13:52:07.049Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1135,7 +1135,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-01T12:41:36+05:00",
-    "lastSeenAt": "2026-11-21T04:42:47.236Z",
+    "lastSeenAt": "2026-11-21T13:52:07.049Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1171,7 +1171,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-10-01T12:41:13+05:00",
-    "lastSeenAt": "2026-11-21T04:42:47.236Z",
+    "lastSeenAt": "2026-11-21T13:52:07.049Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1207,7 +1207,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-30T12:08:58+05:00",
-    "lastSeenAt": "2026-11-21T04:42:47.236Z",
+    "lastSeenAt": "2026-11-21T13:52:07.049Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1243,7 +1243,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-29T11:25:43+05:00",
-    "lastSeenAt": "2026-11-21T04:42:47.236Z",
+    "lastSeenAt": "2026-11-21T13:52:07.049Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1279,7 +1279,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-29T11:25:33+05:00",
-    "lastSeenAt": "2026-11-21T04:42:47.237Z",
+    "lastSeenAt": "2026-11-21T13:52:07.049Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1315,7 +1315,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-29T11:25:10+05:00",
-    "lastSeenAt": "2026-11-21T04:42:47.237Z",
+    "lastSeenAt": "2026-11-21T13:52:07.049Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1351,7 +1351,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-26T11:14:12+05:00",
-    "lastSeenAt": "2026-11-21T04:42:47.237Z",
+    "lastSeenAt": "2026-11-21T13:52:07.049Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1387,7 +1387,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-26T11:14:10+05:00",
-    "lastSeenAt": "2026-11-21T04:42:47.237Z",
+    "lastSeenAt": "2026-11-21T13:52:07.049Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1423,7 +1423,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-26T11:13:53+05:00",
-    "lastSeenAt": "2026-11-21T04:42:47.237Z",
+    "lastSeenAt": "2026-11-21T13:52:07.049Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1459,7 +1459,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-26T11:13:50+05:00",
-    "lastSeenAt": "2026-11-21T04:42:47.237Z",
+    "lastSeenAt": "2026-11-21T13:52:07.049Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1495,7 +1495,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-26T11:13:45+05:00",
-    "lastSeenAt": "2026-11-21T04:42:47.237Z",
+    "lastSeenAt": "2026-11-21T13:52:07.049Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1531,7 +1531,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-26T11:13:35+05:00",
-    "lastSeenAt": "2026-11-21T04:42:47.237Z",
+    "lastSeenAt": "2026-11-21T13:52:07.050Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1567,7 +1567,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-24T12:10:55+05:00",
-    "lastSeenAt": "2026-11-21T04:42:47.237Z",
+    "lastSeenAt": "2026-11-21T13:52:07.050Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1603,7 +1603,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-24T12:10:20+05:00",
-    "lastSeenAt": "2026-11-21T04:42:47.237Z",
+    "lastSeenAt": "2026-11-21T13:52:07.050Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1619,42 +1619,6 @@ export const INITIAL_PRODUCTS: Product[] = [
         "date": "Today",
         "price": 12999,
         "salePrice": 9099
-      }
-    ]
-  },
-  {
-    "id": "limelight-9053329457240",
-    "brandId": "limelight",
-    "brandName": "Limelight",
-    "title": "3 Piece Slub Khaddar Suit- Embroidered (Unstitched)",
-    "handle": "u5325su-3pc-168",
-    "originalPrice": 7499,
-    "salePrice": 5249,
-    "discountPct": 30,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/2635/3244/files/U5325SU-3PC-168-3PieceSlubKhaddarSuit-Embroidered_Unstitched_3.jpg?v=1790056429",
-    "category": "unstitched",
-    "fabric": "Cotton Khaddar",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://www.limelight.pk/products/u5325su-3pc-168",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-09-21T17:37:07+05:00",
-    "lastSeenAt": "2026-11-21T04:42:47.237Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 7499,
-        "salePrice": 7499
-      },
-      {
-        "date": "Oct 24",
-        "price": 7499,
-        "salePrice": 6899
-      },
-      {
-        "date": "Today",
-        "price": 7499,
-        "salePrice": 5249
       }
     ]
   },
@@ -1675,7 +1639,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-21T17:37:05+05:00",
-    "lastSeenAt": "2026-11-21T04:42:47.237Z",
+    "lastSeenAt": "2026-11-21T13:52:07.050Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1711,7 +1675,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-17T17:26:16+05:00",
-    "lastSeenAt": "2026-11-21T04:42:47.237Z",
+    "lastSeenAt": "2026-11-21T13:52:07.050Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1747,7 +1711,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-16T11:36:59+05:00",
-    "lastSeenAt": "2026-11-21T04:42:47.237Z",
+    "lastSeenAt": "2026-11-21T13:52:07.050Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1783,7 +1747,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-16T11:36:54+05:00",
-    "lastSeenAt": "2026-11-21T04:42:47.237Z",
+    "lastSeenAt": "2026-11-21T13:52:07.050Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1819,7 +1783,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-16T11:36:44+05:00",
-    "lastSeenAt": "2026-11-21T04:42:47.237Z",
+    "lastSeenAt": "2026-11-21T13:52:07.050Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1855,7 +1819,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-16T11:36:42+05:00",
-    "lastSeenAt": "2026-11-21T04:42:47.237Z",
+    "lastSeenAt": "2026-11-21T13:52:07.050Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1891,7 +1855,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-16T11:36:25+05:00",
-    "lastSeenAt": "2026-11-21T04:42:47.237Z",
+    "lastSeenAt": "2026-11-21T13:52:07.050Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1927,7 +1891,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-16T11:36:24+05:00",
-    "lastSeenAt": "2026-11-21T04:42:47.237Z",
+    "lastSeenAt": "2026-11-21T13:52:07.050Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1943,6 +1907,42 @@ export const INITIAL_PRODUCTS: Product[] = [
         "date": "Today",
         "price": 4299,
         "salePrice": 2999
+      }
+    ]
+  },
+  {
+    "id": "limelight-9033266921560",
+    "brandId": "limelight",
+    "brandName": "Limelight",
+    "title": "Contrast Line Co-ord",
+    "handle": "w2516st-xsl-002",
+    "originalPrice": 7999,
+    "salePrice": 5599,
+    "discountPct": 30,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/2635/3244/files/W2516ST-SML-002-ContrastEdgeCo-ord_2.jpg?v=1789386506",
+    "category": "western",
+    "fabric": "Fine Cotton Lawn",
+    "pieceCount": "1 Piece",
+    "productUrl": "https://www.limelight.pk/products/w2516st-xsl-002",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-09-14T15:48:40+05:00",
+    "lastSeenAt": "2026-11-21T13:52:07.050Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 7999,
+        "salePrice": 7999
+      },
+      {
+        "date": "Oct 24",
+        "price": 7999,
+        "salePrice": 7359
+      },
+      {
+        "date": "Today",
+        "price": 7999,
+        "salePrice": 5599
       }
     ]
   },
@@ -1963,7 +1963,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-02T16:35:37+05:00",
-    "lastSeenAt": "2026-11-21T04:42:50.876Z",
+    "lastSeenAt": "2026-11-21T13:52:10.764Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -1999,7 +1999,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-04-25T13:06:37+05:00",
-    "lastSeenAt": "2026-11-21T04:42:50.876Z",
+    "lastSeenAt": "2026-11-21T13:52:10.764Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2035,7 +2035,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-03T15:38:42+05:00",
-    "lastSeenAt": "2026-11-21T04:42:50.876Z",
+    "lastSeenAt": "2026-11-21T13:52:10.764Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2071,7 +2071,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2023-07-05T16:01:59+05:00",
-    "lastSeenAt": "2026-11-21T04:42:50.876Z",
+    "lastSeenAt": "2026-11-21T13:52:10.764Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2107,7 +2107,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-02-06T18:16:39+05:00",
-    "lastSeenAt": "2026-11-21T04:42:50.876Z",
+    "lastSeenAt": "2026-11-21T13:52:10.764Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2143,7 +2143,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-02-07T18:14:42+05:00",
-    "lastSeenAt": "2026-11-21T04:42:50.876Z",
+    "lastSeenAt": "2026-11-21T13:52:10.764Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2179,7 +2179,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-02T16:44:03+05:00",
-    "lastSeenAt": "2026-11-21T04:42:50.876Z",
+    "lastSeenAt": "2026-11-21T13:52:10.764Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2215,7 +2215,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-20T16:29:35+05:00",
-    "lastSeenAt": "2026-11-21T04:42:50.876Z",
+    "lastSeenAt": "2026-11-21T13:52:10.764Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2251,7 +2251,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-03T15:37:48+05:00",
-    "lastSeenAt": "2026-11-21T04:42:50.876Z",
+    "lastSeenAt": "2026-11-21T13:52:10.764Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2287,7 +2287,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-02-07T17:51:41+05:00",
-    "lastSeenAt": "2026-11-21T04:42:50.876Z",
+    "lastSeenAt": "2026-11-21T13:52:10.764Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2323,7 +2323,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2023-08-03T10:57:59+05:00",
-    "lastSeenAt": "2026-11-21T04:42:50.876Z",
+    "lastSeenAt": "2026-11-21T13:52:10.764Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2359,7 +2359,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-20T16:30:27+05:00",
-    "lastSeenAt": "2026-11-21T04:42:50.876Z",
+    "lastSeenAt": "2026-11-21T13:52:10.764Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2395,7 +2395,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-04-20T13:55:18+05:00",
-    "lastSeenAt": "2026-11-21T04:42:50.876Z",
+    "lastSeenAt": "2026-11-21T13:52:10.765Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2431,7 +2431,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-04-20T13:45:12+05:00",
-    "lastSeenAt": "2026-11-21T04:42:50.876Z",
+    "lastSeenAt": "2026-11-21T13:52:10.765Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2467,7 +2467,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-04-20T13:49:34+05:00",
-    "lastSeenAt": "2026-11-21T04:42:50.876Z",
+    "lastSeenAt": "2026-11-21T13:52:10.765Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2503,7 +2503,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-03-06T12:18:17+05:00",
-    "lastSeenAt": "2026-11-21T04:42:50.876Z",
+    "lastSeenAt": "2026-11-21T13:52:10.765Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2539,7 +2539,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2023-03-29T14:32:58+05:00",
-    "lastSeenAt": "2026-11-21T04:42:50.876Z",
+    "lastSeenAt": "2026-11-21T13:52:10.765Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2575,7 +2575,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-03-06T12:15:23+05:00",
-    "lastSeenAt": "2026-11-21T04:42:50.876Z",
+    "lastSeenAt": "2026-11-21T13:52:10.765Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2611,7 +2611,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-04-25T13:04:09+05:00",
-    "lastSeenAt": "2026-11-21T04:42:50.876Z",
+    "lastSeenAt": "2026-11-21T13:52:10.765Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2647,7 +2647,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-20T16:20:25+05:00",
-    "lastSeenAt": "2026-11-21T04:42:50.876Z",
+    "lastSeenAt": "2026-11-21T13:52:10.765Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2683,7 +2683,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-04-25T13:03:04+05:00",
-    "lastSeenAt": "2026-11-21T04:42:50.876Z",
+    "lastSeenAt": "2026-11-21T13:52:10.765Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2719,7 +2719,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2024-03-19T15:27:10+05:00",
-    "lastSeenAt": "2026-11-21T04:42:50.876Z",
+    "lastSeenAt": "2026-11-21T13:52:10.765Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2755,7 +2755,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-20T16:26:24+05:00",
-    "lastSeenAt": "2026-11-21T04:42:50.876Z",
+    "lastSeenAt": "2026-11-21T13:52:10.765Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2791,7 +2791,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-02-07T17:52:15+05:00",
-    "lastSeenAt": "2026-11-21T04:42:50.876Z",
+    "lastSeenAt": "2026-11-21T13:52:10.765Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2827,7 +2827,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-02-04T13:31:31+05:00",
-    "lastSeenAt": "2026-11-21T04:42:50.876Z",
+    "lastSeenAt": "2026-11-21T13:52:10.765Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2863,7 +2863,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-02-04T13:24:39+05:00",
-    "lastSeenAt": "2026-11-21T04:42:50.876Z",
+    "lastSeenAt": "2026-11-21T13:52:10.765Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2899,7 +2899,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-02-04T13:27:43+05:00",
-    "lastSeenAt": "2026-11-21T04:42:50.876Z",
+    "lastSeenAt": "2026-11-21T13:52:10.765Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2935,7 +2935,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-07-22T15:57:14+05:00",
-    "lastSeenAt": "2026-11-21T04:42:50.876Z",
+    "lastSeenAt": "2026-11-21T13:52:10.765Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -2971,7 +2971,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-02T16:37:41+05:00",
-    "lastSeenAt": "2026-11-21T04:42:50.876Z",
+    "lastSeenAt": "2026-11-21T13:52:10.765Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3007,7 +3007,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-02-07T17:52:54+05:00",
-    "lastSeenAt": "2026-11-21T04:42:50.876Z",
+    "lastSeenAt": "2026-11-21T13:52:10.765Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3023,150 +3023,6 @@ export const INITIAL_PRODUCTS: Product[] = [
         "date": "Today",
         "price": 9950,
         "salePrice": 7463
-      }
-    ]
-  },
-  {
-    "id": "asimjofa-10183849935145",
-    "brandId": "asimjofa",
-    "brandName": "Asim Jofa",
-    "title": "AJUFC-05 Embroidered Chiffon Unstitched 2 Pcs",
-    "handle": "ajufc-05-embroidered-chiffon-unstitched-2-pcs",
-    "originalPrice": 7499,
-    "salePrice": 4499,
-    "discountPct": 40,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/884A7893.jpg?v=1789138005",
-    "category": "unstitched",
-    "fabric": "Pure Chiffon",
-    "pieceCount": "2 Piece",
-    "productUrl": "https://asimjofa.com/products/ajufc-05-embroidered-chiffon-unstitched-2-pcs",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-09-11T19:45:59+05:00",
-    "lastSeenAt": "2026-11-21T04:42:54.547Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 7499,
-        "salePrice": 7499
-      },
-      {
-        "date": "Oct 24",
-        "price": 7499,
-        "salePrice": 6899
-      },
-      {
-        "date": "Today",
-        "price": 7499,
-        "salePrice": 4499
-      }
-    ]
-  },
-  {
-    "id": "asimjofa-10183863402793",
-    "brandId": "asimjofa",
-    "brandName": "Asim Jofa",
-    "title": "AJUFC-12 Embroidered Boski Silk Unstitched 2 Pcs",
-    "handle": "ajufc-12-embroidered-boski-silk-unstitched-2-pcs",
-    "originalPrice": 7499,
-    "salePrice": 4499,
-    "discountPct": 40,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/884A8031.jpg?v=1789138693",
-    "category": "unstitched",
-    "fabric": "Boski Silk",
-    "pieceCount": "1 Piece",
-    "productUrl": "https://asimjofa.com/products/ajufc-12-embroidered-boski-silk-unstitched-2-pcs",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-09-11T19:57:15+05:00",
-    "lastSeenAt": "2026-11-21T04:42:54.547Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 7499,
-        "salePrice": 7499
-      },
-      {
-        "date": "Oct 24",
-        "price": 7499,
-        "salePrice": 6899
-      },
-      {
-        "date": "Today",
-        "price": 7499,
-        "salePrice": 4499
-      }
-    ]
-  },
-  {
-    "id": "asimjofa-10183852589353",
-    "brandId": "asimjofa",
-    "brandName": "Asim Jofa",
-    "title": "AJUFC-06 Embroidered Lawn Silk Unstitched 3 Pcs",
-    "handle": "ajufc-06-embroidered-lawn-silk-unstitched-3-pcs",
-    "originalPrice": 7499,
-    "salePrice": 4499,
-    "discountPct": 40,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/884A8565_5915450d-516f-4ffb-bf81-13749b83e1ec.jpg?v=1789138187",
-    "category": "unstitched",
-    "fabric": "Pure Chiffon",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://asimjofa.com/products/ajufc-06-embroidered-lawn-silk-unstitched-3-pcs",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-09-11T19:48:44+05:00",
-    "lastSeenAt": "2026-11-21T04:42:54.547Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 7499,
-        "salePrice": 7499
-      },
-      {
-        "date": "Oct 24",
-        "price": 7499,
-        "salePrice": 6899
-      },
-      {
-        "date": "Today",
-        "price": 7499,
-        "salePrice": 4499
-      }
-    ]
-  },
-  {
-    "id": "asimjofa-10183884112169",
-    "brandId": "asimjofa",
-    "brandName": "Asim Jofa",
-    "title": "AJUFC-17 Embroidered Chiffon Unstitched 2 Pcs",
-    "handle": "ajufc-17-embroidered-chiffon-unstitched-2-pcs",
-    "originalPrice": 7499,
-    "salePrice": 4499,
-    "discountPct": 40,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/884A7764.jpg?v=1789139344",
-    "category": "unstitched",
-    "fabric": "Pure Chiffon",
-    "pieceCount": "1 Piece",
-    "productUrl": "https://asimjofa.com/products/ajufc-17-embroidered-chiffon-unstitched-2-pcs",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-09-11T20:08:00+05:00",
-    "lastSeenAt": "2026-11-21T04:42:54.547Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 7499,
-        "salePrice": 7499
-      },
-      {
-        "date": "Oct 24",
-        "price": 7499,
-        "salePrice": 6899
-      },
-      {
-        "date": "Today",
-        "price": 7499,
-        "salePrice": 4499
       }
     ]
   },
@@ -3187,7 +3043,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-11T19:42:26+05:00",
-    "lastSeenAt": "2026-11-21T04:42:54.547Z",
+    "lastSeenAt": "2026-11-21T13:52:14.404Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3223,7 +3079,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-11T19:39:49+05:00",
-    "lastSeenAt": "2026-11-21T04:42:54.547Z",
+    "lastSeenAt": "2026-11-21T13:52:14.404Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3259,7 +3115,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-09-11T19:32:47+05:00",
-    "lastSeenAt": "2026-11-21T04:42:54.547Z",
+    "lastSeenAt": "2026-11-21T13:52:14.404Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3295,7 +3151,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-12-31T17:04:12+05:00",
-    "lastSeenAt": "2026-11-21T04:42:54.547Z",
+    "lastSeenAt": "2026-11-21T13:52:14.404Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3331,7 +3187,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-02T14:25:01+05:00",
-    "lastSeenAt": "2026-11-21T04:42:54.548Z",
+    "lastSeenAt": "2026-11-21T13:52:14.404Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3367,7 +3223,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-02T14:52:34+05:00",
-    "lastSeenAt": "2026-11-21T04:42:54.548Z",
+    "lastSeenAt": "2026-11-21T13:52:14.404Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3403,7 +3259,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-02T14:55:52+05:00",
-    "lastSeenAt": "2026-11-21T04:42:54.548Z",
+    "lastSeenAt": "2026-11-21T13:52:14.404Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3439,7 +3295,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-02T14:39:12+05:00",
-    "lastSeenAt": "2026-11-21T04:42:54.548Z",
+    "lastSeenAt": "2026-11-21T13:52:14.404Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3475,7 +3331,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-02T14:21:47+05:00",
-    "lastSeenAt": "2026-11-21T04:42:54.548Z",
+    "lastSeenAt": "2026-11-21T13:52:14.404Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3511,7 +3367,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-02T11:43:55+05:00",
-    "lastSeenAt": "2026-11-21T04:42:54.548Z",
+    "lastSeenAt": "2026-11-21T13:52:14.405Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3547,7 +3403,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-12-31T16:15:21+05:00",
-    "lastSeenAt": "2026-11-21T04:42:54.548Z",
+    "lastSeenAt": "2026-11-21T13:52:14.405Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3583,7 +3439,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-02T11:57:48+05:00",
-    "lastSeenAt": "2026-11-21T04:42:54.548Z",
+    "lastSeenAt": "2026-11-21T13:52:14.405Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3619,7 +3475,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-12-31T17:14:45+05:00",
-    "lastSeenAt": "2026-11-21T04:42:54.548Z",
+    "lastSeenAt": "2026-11-21T13:52:14.405Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3655,7 +3511,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-12-31T16:49:22+05:00",
-    "lastSeenAt": "2026-11-21T04:42:54.548Z",
+    "lastSeenAt": "2026-11-21T13:52:14.405Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3691,7 +3547,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2025-12-31T16:31:15+05:00",
-    "lastSeenAt": "2026-11-21T04:42:54.548Z",
+    "lastSeenAt": "2026-11-21T13:52:14.405Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -3711,398 +3567,542 @@ export const INITIAL_PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "asimjofa-10124982780201",
+    "id": "asimjofa-10183849935145",
     "brandId": "asimjofa",
     "brandName": "Asim Jofa",
-    "title": "AJULC-10 Embroidered Chikankari Unstitched 3 Pcs",
-    "handle": "ajulc-10-embroidered-paper-cotton-unstitched-3-pcs",
-    "originalPrice": 11599,
-    "salePrice": 6959,
+    "title": "AJUFC-05 Embroidered Chiffon Unstitched 2 Pcs",
+    "handle": "ajufc-05-embroidered-chiffon-unstitched-2-pcs",
+    "originalPrice": 7499,
+    "salePrice": 4499,
     "discountPct": 40,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/052A6438.jpg?v=1784620204",
-    "category": "unstitched",
-    "fabric": "Boski Silk",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://asimjofa.com/products/ajulc-10-embroidered-paper-cotton-unstitched-3-pcs",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-07-20T17:51:51+05:00",
-    "lastSeenAt": "2026-11-21T04:42:54.548Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 11599,
-        "salePrice": 11599
-      },
-      {
-        "date": "Oct 24",
-        "price": 11599,
-        "salePrice": 10671
-      },
-      {
-        "date": "Today",
-        "price": 11599,
-        "salePrice": 6959
-      }
-    ]
-  },
-  {
-    "id": "asimjofa-10124979339561",
-    "brandId": "asimjofa",
-    "brandName": "Asim Jofa",
-    "title": "AJULC-09 Embroidered Chikankari Unstitched 3 Pcs",
-    "handle": "ajulc-09-embroidered-paper-cotton-unstitched-3-pcs",
-    "originalPrice": 11699,
-    "salePrice": 7019,
-    "discountPct": 40,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/052A6293.jpg?v=1784620161",
-    "category": "unstitched",
-    "fabric": "Boski Silk",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://asimjofa.com/products/ajulc-09-embroidered-paper-cotton-unstitched-3-pcs",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-07-20T17:44:46+05:00",
-    "lastSeenAt": "2026-11-21T04:42:54.548Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 11699,
-        "salePrice": 11699
-      },
-      {
-        "date": "Oct 24",
-        "price": 11699,
-        "salePrice": 10763
-      },
-      {
-        "date": "Today",
-        "price": 11699,
-        "salePrice": 7019
-      }
-    ]
-  },
-  {
-    "id": "asimjofa-10124974915881",
-    "brandId": "asimjofa",
-    "brandName": "Asim Jofa",
-    "title": "AJULC-06 Embroidered Chikankari Unstitched 3 Pcs",
-    "handle": "ajulc-06-embroidered-paper-cotton-unstitched-3-pcs",
-    "originalPrice": 11599,
-    "salePrice": 6959,
-    "discountPct": 40,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/052A6935.jpg?v=1784619991",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/884A7893.jpg?v=1789138005",
     "category": "unstitched",
     "fabric": "Pure Chiffon",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://asimjofa.com/products/ajulc-06-embroidered-paper-cotton-unstitched-3-pcs",
+    "pieceCount": "2 Piece",
+    "productUrl": "https://asimjofa.com/products/ajufc-05-embroidered-chiffon-unstitched-2-pcs",
     "isLowestPrice": true,
     "onSale": true,
-    "firstSeenAt": "2026-07-20T17:33:52+05:00",
-    "lastSeenAt": "2026-11-21T04:42:54.548Z",
+    "firstSeenAt": "2026-09-11T19:45:59+05:00",
+    "lastSeenAt": "2026-11-21T13:52:14.405Z",
     "priceHistory": [
       {
         "date": "Oct 15",
-        "price": 11599,
-        "salePrice": 11599
+        "price": 7499,
+        "salePrice": 7499
       },
       {
         "date": "Oct 24",
-        "price": 11599,
-        "salePrice": 10671
-      },
-      {
-        "date": "Today",
-        "price": 11599,
-        "salePrice": 6959
-      }
-    ]
-  },
-  {
-    "id": "asimjofa-10124973048105",
-    "brandId": "asimjofa",
-    "brandName": "Asim Jofa",
-    "title": "AJULC-05 Embroidered Chikankari Unstitched 3 Pcs",
-    "handle": "ajulc-05-embroidered-paper-cotton-unstitched-3-pcs",
-    "originalPrice": 11499,
-    "salePrice": 6899,
-    "discountPct": 40,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/052A6706.jpg?v=1784553637",
-    "category": "unstitched",
-    "fabric": "Pure Chiffon",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://asimjofa.com/products/ajulc-05-embroidered-paper-cotton-unstitched-3-pcs",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-07-20T17:29:03+05:00",
-    "lastSeenAt": "2026-11-21T04:42:54.548Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 11499,
-        "salePrice": 11499
-      },
-      {
-        "date": "Oct 24",
-        "price": 11499,
-        "salePrice": 10579
-      },
-      {
-        "date": "Today",
-        "price": 11499,
+        "price": 7499,
         "salePrice": 6899
+      },
+      {
+        "date": "Today",
+        "price": 7499,
+        "salePrice": 4499
       }
     ]
   },
   {
-    "id": "asimjofa-10124970262825",
+    "id": "asimjofa-10183863402793",
     "brandId": "asimjofa",
     "brandName": "Asim Jofa",
-    "title": "AJULC-03 Embroidered Chikankari Unstitched 3 Pcs",
-    "handle": "ajulc-03-embroidered-paper-cotton-unstitched-3-pcs",
-    "originalPrice": 11599,
-    "salePrice": 6959,
+    "title": "AJUFC-12 Embroidered Boski Silk Unstitched 2 Pcs",
+    "handle": "ajufc-12-embroidered-boski-silk-unstitched-2-pcs",
+    "originalPrice": 7499,
+    "salePrice": 4499,
     "discountPct": 40,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/052A7191.jpg?v=1784553153",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/884A8031.jpg?v=1789138693",
+    "category": "unstitched",
+    "fabric": "Boski Silk",
+    "pieceCount": "1 Piece",
+    "productUrl": "https://asimjofa.com/products/ajufc-12-embroidered-boski-silk-unstitched-2-pcs",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-09-11T19:57:15+05:00",
+    "lastSeenAt": "2026-11-21T13:52:14.405Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 7499,
+        "salePrice": 7499
+      },
+      {
+        "date": "Oct 24",
+        "price": 7499,
+        "salePrice": 6899
+      },
+      {
+        "date": "Today",
+        "price": 7499,
+        "salePrice": 4499
+      }
+    ]
+  },
+  {
+    "id": "asimjofa-10183852589353",
+    "brandId": "asimjofa",
+    "brandName": "Asim Jofa",
+    "title": "AJUFC-06 Embroidered Lawn Silk Unstitched 3 Pcs",
+    "handle": "ajufc-06-embroidered-lawn-silk-unstitched-3-pcs",
+    "originalPrice": 7499,
+    "salePrice": 4499,
+    "discountPct": 40,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/884A8565_5915450d-516f-4ffb-bf81-13749b83e1ec.jpg?v=1789138187",
     "category": "unstitched",
     "fabric": "Pure Chiffon",
     "pieceCount": "3 Piece",
-    "productUrl": "https://asimjofa.com/products/ajulc-03-embroidered-paper-cotton-unstitched-3-pcs",
+    "productUrl": "https://asimjofa.com/products/ajufc-06-embroidered-lawn-silk-unstitched-3-pcs",
     "isLowestPrice": true,
     "onSale": true,
-    "firstSeenAt": "2026-07-20T17:19:36+05:00",
-    "lastSeenAt": "2026-11-21T04:42:54.548Z",
+    "firstSeenAt": "2026-09-11T19:48:44+05:00",
+    "lastSeenAt": "2026-11-21T13:52:14.405Z",
     "priceHistory": [
       {
         "date": "Oct 15",
-        "price": 11599,
-        "salePrice": 11599
+        "price": 7499,
+        "salePrice": 7499
       },
       {
         "date": "Oct 24",
-        "price": 11599,
-        "salePrice": 10671
+        "price": 7499,
+        "salePrice": 6899
       },
       {
         "date": "Today",
-        "price": 11599,
-        "salePrice": 6959
+        "price": 7499,
+        "salePrice": 4499
       }
     ]
   },
   {
-    "id": "asimjofa-10124969836841",
+    "id": "asimjofa-10183884112169",
     "brandId": "asimjofa",
     "brandName": "Asim Jofa",
-    "title": "AJULC-02 Embroidered Chikankari Unstitched 3 Pcs",
-    "handle": "ajulc-02-embroidered-paper-cotton-unstitched-3-pcs",
-    "originalPrice": 12299,
-    "salePrice": 7379,
+    "title": "AJUFC-17 Embroidered Chiffon Unstitched 2 Pcs",
+    "handle": "ajufc-17-embroidered-chiffon-unstitched-2-pcs",
+    "originalPrice": 7499,
+    "salePrice": 4499,
     "discountPct": 40,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/052A7434.jpg?v=1784552913",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/884A7764.jpg?v=1789139344",
+    "category": "unstitched",
+    "fabric": "Pure Chiffon",
+    "pieceCount": "1 Piece",
+    "productUrl": "https://asimjofa.com/products/ajufc-17-embroidered-chiffon-unstitched-2-pcs",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-09-11T20:08:00+05:00",
+    "lastSeenAt": "2026-11-21T13:52:14.405Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 7499,
+        "salePrice": 7499
+      },
+      {
+        "date": "Oct 24",
+        "price": 7499,
+        "salePrice": 6899
+      },
+      {
+        "date": "Today",
+        "price": 7499,
+        "salePrice": 4499
+      }
+    ]
+  },
+  {
+    "id": "asimjofa-10130732974377",
+    "brandId": "asimjofa",
+    "brandName": "Asim Jofa",
+    "title": "AJULIH-08 Embroidered Twisted Silk Unstitched 3 Pcs",
+    "handle": "ajulih-08-embroidered-twisted-silk-unstitched-3-pcs",
+    "originalPrice": 7499,
+    "salePrice": 4499,
+    "discountPct": 40,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/052A7682.jpg?v=1784900914",
     "category": "unstitched",
     "fabric": "Boski Silk",
     "pieceCount": "3 Piece",
-    "productUrl": "https://asimjofa.com/products/ajulc-02-embroidered-paper-cotton-unstitched-3-pcs",
+    "productUrl": "https://asimjofa.com/products/ajulih-08-embroidered-twisted-silk-unstitched-3-pcs",
     "isLowestPrice": true,
     "onSale": true,
-    "firstSeenAt": "2026-07-20T17:17:39+05:00",
-    "lastSeenAt": "2026-11-21T04:42:54.548Z",
+    "firstSeenAt": "2026-07-23T20:57:59+05:00",
+    "lastSeenAt": "2026-11-21T13:52:14.405Z",
     "priceHistory": [
       {
         "date": "Oct 15",
-        "price": 12299,
-        "salePrice": 12299
+        "price": 7499,
+        "salePrice": 7499
       },
       {
         "date": "Oct 24",
-        "price": 12299,
-        "salePrice": 11315
+        "price": 7499,
+        "salePrice": 6899
       },
       {
         "date": "Today",
-        "price": 12299,
-        "salePrice": 7379
+        "price": 7499,
+        "salePrice": 4499
       }
     ]
   },
   {
-    "id": "asimjofa-10124966101289",
+    "id": "asimjofa-10118251381033",
     "brandId": "asimjofa",
     "brandName": "Asim Jofa",
-    "title": "AJULC-01 Embroidered Chikankari Unstitched 3 Pcs",
-    "handle": "ajulc-01-embroidered-paper-cotton-unstitched-3-pcs",
-    "originalPrice": 11799,
-    "salePrice": 7079,
+    "title": "AJBPM-02 Embroidered Lawn Stitched 2pcs",
+    "handle": "ajbpm-02-embroidered-lawn-stitched-2pcs",
+    "originalPrice": 9690,
+    "salePrice": 5814,
     "discountPct": 40,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/052A6811.jpg?v=1784552776",
-    "category": "unstitched",
-    "fabric": "Boski Silk",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://asimjofa.com/products/ajulc-01-embroidered-paper-cotton-unstitched-3-pcs",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-07-20T16:57:54+05:00",
-    "lastSeenAt": "2026-11-21T04:42:54.548Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 11799,
-        "salePrice": 11799
-      },
-      {
-        "date": "Oct 24",
-        "price": 11799,
-        "salePrice": 10855
-      },
-      {
-        "date": "Today",
-        "price": 11799,
-        "salePrice": 7079
-      }
-    ]
-  },
-  {
-    "id": "asimjofa-10055378043177",
-    "brandId": "asimjofa",
-    "brandName": "Asim Jofa",
-    "title": "AJULFE-12 Embroidered Zari Check Net Unstitched 3 Pcs",
-    "handle": "ajulfe-12-embroidered-zari-check-net-unstitched-3-pcs",
-    "originalPrice": 9799,
-    "salePrice": 5879,
-    "discountPct": 40,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/884A0012.jpg?v=1776168815",
-    "category": "unstitched",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/022A9712_f13b84fd-4a0a-4a6f-b572-ad6d9cd5e094.jpg?v=1783595826",
+    "category": "pret",
     "fabric": "Premium Lawn",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://asimjofa.com/products/ajulfe-12-embroidered-zari-check-net-unstitched-3-pcs",
+    "pieceCount": "2 Piece",
+    "productUrl": "https://asimjofa.com/products/ajbpm-02-embroidered-lawn-stitched-2pcs",
     "isLowestPrice": true,
     "onSale": true,
-    "firstSeenAt": "2026-04-08T15:52:57+05:00",
-    "lastSeenAt": "2026-11-21T04:42:54.548Z",
+    "firstSeenAt": "2026-07-09T16:17:03+05:00",
+    "lastSeenAt": "2026-11-21T13:52:14.405Z",
     "priceHistory": [
       {
         "date": "Oct 15",
-        "price": 9799,
-        "salePrice": 9799
+        "price": 9690,
+        "salePrice": 9690
       },
       {
         "date": "Oct 24",
-        "price": 9799,
-        "salePrice": 9015
+        "price": 9690,
+        "salePrice": 8915
       },
       {
         "date": "Today",
-        "price": 9799,
-        "salePrice": 5879
+        "price": 9690,
+        "salePrice": 5814
       }
     ]
   },
   {
-    "id": "asimjofa-10055370277161",
+    "id": "asimjofa-10118251315497",
     "brandId": "asimjofa",
     "brandName": "Asim Jofa",
-    "title": "AJULFE-11 Embroidered Chiffon Unstitched 3 Pcs",
-    "handle": "ajulfe-11-embroidered-chiffon-unstitched-3-pcs",
-    "originalPrice": 9699,
-    "salePrice": 5819,
+    "title": "AJBPM-01 Embroidered Lawn Stitched 2pcs",
+    "handle": "ajbpm-01-embroidered-lawn-stitched-2pcs-1",
+    "originalPrice": 9990,
+    "salePrice": 5994,
     "discountPct": 40,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/884A9891.jpg?v=1775646509",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/022A9863_f15cf3b0-ec14-4311-921e-12ff153e0364.jpg?v=1783595823",
+    "category": "pret",
+    "fabric": "Premium Lawn",
+    "pieceCount": "2 Piece",
+    "productUrl": "https://asimjofa.com/products/ajbpm-01-embroidered-lawn-stitched-2pcs-1",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-07-09T16:17:00+05:00",
+    "lastSeenAt": "2026-11-21T13:52:14.405Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 9990,
+        "salePrice": 9990
+      },
+      {
+        "date": "Oct 24",
+        "price": 9990,
+        "salePrice": 9191
+      },
+      {
+        "date": "Today",
+        "price": 9990,
+        "salePrice": 5994
+      }
+    ]
+  },
+  {
+    "id": "asimjofa-10100437254441",
+    "brandId": "asimjofa",
+    "brandName": "Asim Jofa",
+    "title": "AJUBEP-09 Printed Embroidered Cambric Unstitched 3 Pcs",
+    "handle": "ajubep-09-printed-embroidered-cambric-unstitched-3-pcs",
+    "originalPrice": 8499,
+    "salePrice": 5099,
+    "discountPct": 40,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/884A7354_2c01b06f-9ce8-4aa0-83ac-a8355e163a29.jpg?v=1781095334",
     "category": "unstitched",
     "fabric": "Pure Chiffon",
     "pieceCount": "3 Piece",
-    "productUrl": "https://asimjofa.com/products/ajulfe-11-embroidered-chiffon-unstitched-3-pcs",
+    "productUrl": "https://asimjofa.com/products/ajubep-09-printed-embroidered-cambric-unstitched-3-pcs",
     "isLowestPrice": true,
     "onSale": true,
-    "firstSeenAt": "2026-04-08T15:46:15+05:00",
-    "lastSeenAt": "2026-11-21T04:42:54.548Z",
+    "firstSeenAt": "2026-06-10T17:41:32+05:00",
+    "lastSeenAt": "2026-11-21T13:52:14.405Z",
     "priceHistory": [
       {
         "date": "Oct 15",
-        "price": 9699,
-        "salePrice": 9699
+        "price": 8499,
+        "salePrice": 8499
       },
       {
         "date": "Oct 24",
-        "price": 9699,
-        "salePrice": 8923
+        "price": 8499,
+        "salePrice": 7819
       },
       {
         "date": "Today",
-        "price": 9699,
-        "salePrice": 5819
+        "price": 8499,
+        "salePrice": 5099
       }
     ]
   },
   {
-    "id": "asimjofa-10055351435561",
+    "id": "asimjofa-10100437057833",
     "brandId": "asimjofa",
     "brandName": "Asim Jofa",
-    "title": "AJULFE-08 Embroidered Poly Net Unstitched 3 Pcs",
-    "handle": "ajulfe-08-embroidered-poly-net-unstitched-3-pcs",
-    "originalPrice": 9999,
-    "salePrice": 5999,
+    "title": "AJUBEP-08 Printed Embroidered Cambric Unstitched 3 Pcs",
+    "handle": "ajubep-08-printed-embroidered-cambric-unstitched-3-pcs",
+    "originalPrice": 8399,
+    "salePrice": 5039,
     "discountPct": 40,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/884A8820_1f6699b6-99b0-46b7-9646-63b242cfc6b2.jpg?v=1787311338",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/884A8172.jpg?v=1781095195",
     "category": "unstitched",
-    "fabric": "Boski Silk",
+    "fabric": "Pure Chiffon",
     "pieceCount": "3 Piece",
-    "productUrl": "https://asimjofa.com/products/ajulfe-08-embroidered-poly-net-unstitched-3-pcs",
+    "productUrl": "https://asimjofa.com/products/ajubep-08-printed-embroidered-cambric-unstitched-3-pcs",
     "isLowestPrice": true,
     "onSale": true,
-    "firstSeenAt": "2026-04-08T15:31:56+05:00",
-    "lastSeenAt": "2026-11-21T04:42:54.549Z",
+    "firstSeenAt": "2026-06-10T17:39:18+05:00",
+    "lastSeenAt": "2026-11-21T13:52:14.405Z",
     "priceHistory": [
       {
         "date": "Oct 15",
-        "price": 9999,
-        "salePrice": 9999
+        "price": 8399,
+        "salePrice": 8399
       },
       {
         "date": "Oct 24",
-        "price": 9999,
-        "salePrice": 9199
+        "price": 8399,
+        "salePrice": 7727
       },
       {
         "date": "Today",
-        "price": 9999,
-        "salePrice": 5999
+        "price": 8399,
+        "salePrice": 5039
       }
     ]
   },
   {
-    "id": "asimjofa-10055335117097",
+    "id": "asimjofa-10100436992297",
     "brandId": "asimjofa",
     "brandName": "Asim Jofa",
-    "title": "AJULFE-05 Embroidered Raw Silk Unstitched 3 Pcs",
-    "handle": "ajulfe-05-embroidered-raw-silk-unstitched-3-pcs",
-    "originalPrice": 9999,
-    "salePrice": 5999,
+    "title": "AJUBEP-07 Printed Embroidered Cambric Unstitched 3 Pcs",
+    "handle": "ajubep-07-printed-embroidered-cambric-unstitched-3-pcs",
+    "originalPrice": 8199,
+    "salePrice": 4919,
     "discountPct": 40,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/884A8165.jpg?v=1775643874",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/884A6979.jpg?v=1781095097",
     "category": "unstitched",
-    "fabric": "Boski Silk",
+    "fabric": "Pure Chiffon",
     "pieceCount": "3 Piece",
-    "productUrl": "https://asimjofa.com/products/ajulfe-05-embroidered-raw-silk-unstitched-3-pcs",
+    "productUrl": "https://asimjofa.com/products/ajubep-07-printed-embroidered-cambric-unstitched-3-pcs",
     "isLowestPrice": true,
     "onSale": true,
-    "firstSeenAt": "2026-04-08T15:21:39+05:00",
-    "lastSeenAt": "2026-11-21T04:42:54.549Z",
+    "firstSeenAt": "2026-06-10T17:37:37+05:00",
+    "lastSeenAt": "2026-11-21T13:52:14.406Z",
     "priceHistory": [
       {
         "date": "Oct 15",
-        "price": 9999,
-        "salePrice": 9999
+        "price": 8199,
+        "salePrice": 8199
       },
       {
         "date": "Oct 24",
-        "price": 9999,
-        "salePrice": 9199
+        "price": 8199,
+        "salePrice": 7543
       },
       {
         "date": "Today",
-        "price": 9999,
-        "salePrice": 5999
+        "price": 8199,
+        "salePrice": 4919
+      }
+    ]
+  },
+  {
+    "id": "asimjofa-10100434370857",
+    "brandId": "asimjofa",
+    "brandName": "Asim Jofa",
+    "title": "AJUBEP-05 Printed Embroidered Cambric Unstitched 3 Pcs",
+    "handle": "ajubep-05-printed-embroidered-cambric-unstitched-3-pcs",
+    "originalPrice": 8299,
+    "salePrice": 4979,
+    "discountPct": 40,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/884A7623.jpg?v=1781094811",
+    "category": "unstitched",
+    "fabric": "Pure Chiffon",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://asimjofa.com/products/ajubep-05-printed-embroidered-cambric-unstitched-3-pcs",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-06-10T17:32:45+05:00",
+    "lastSeenAt": "2026-11-21T13:52:14.406Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 8299,
+        "salePrice": 8299
+      },
+      {
+        "date": "Oct 24",
+        "price": 8299,
+        "salePrice": 7635
+      },
+      {
+        "date": "Today",
+        "price": 8299,
+        "salePrice": 4979
+      }
+    ]
+  },
+  {
+    "id": "asimjofa-10100431978793",
+    "brandId": "asimjofa",
+    "brandName": "Asim Jofa",
+    "title": "AJUBEP-04 Printed Embroidered Cambric Unstitched 3 Pcs",
+    "handle": "ajubep-04-printed-embroidered-cambric-unstitched-3-pcs",
+    "originalPrice": 8199,
+    "salePrice": 4919,
+    "discountPct": 40,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/884A7140.jpg?v=1781094654",
+    "category": "unstitched",
+    "fabric": "Pure Chiffon",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://asimjofa.com/products/ajubep-04-printed-embroidered-cambric-unstitched-3-pcs",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-06-10T17:29:53+05:00",
+    "lastSeenAt": "2026-11-21T13:52:14.406Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 8199,
+        "salePrice": 8199
+      },
+      {
+        "date": "Oct 24",
+        "price": 8199,
+        "salePrice": 7543
+      },
+      {
+        "date": "Today",
+        "price": 8199,
+        "salePrice": 4919
+      }
+    ]
+  },
+  {
+    "id": "asimjofa-10100414873897",
+    "brandId": "asimjofa",
+    "brandName": "Asim Jofa",
+    "title": "AJUBEP-03 Printed Embroidered Cambric Unstitched 3 Pcs",
+    "handle": "ajubep-03-printed-embroidered-cambric-unstitched-3-pcs",
+    "originalPrice": 8399,
+    "salePrice": 5039,
+    "discountPct": 40,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/884A7910.jpg?v=1781093255",
+    "category": "unstitched",
+    "fabric": "Pure Chiffon",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://asimjofa.com/products/ajubep-03-printed-embroidered-cambric-unstitched-3-pcs",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-06-10T17:06:47+05:00",
+    "lastSeenAt": "2026-11-21T13:52:14.406Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 8399,
+        "salePrice": 8399
+      },
+      {
+        "date": "Oct 24",
+        "price": 8399,
+        "salePrice": 7727
+      },
+      {
+        "date": "Today",
+        "price": 8399,
+        "salePrice": 5039
+      }
+    ]
+  },
+  {
+    "id": "asimjofa-10100412580137",
+    "brandId": "asimjofa",
+    "brandName": "Asim Jofa",
+    "title": "AJUBEP-02 Printed Embroidered Cambric Unstitched 3 Pcs",
+    "handle": "ajubep-02-printed-embroidered-cambric-unstitched-3-pcs",
+    "originalPrice": 8299,
+    "salePrice": 4979,
+    "discountPct": 40,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/884A7789.jpg?v=1781093063",
+    "category": "unstitched",
+    "fabric": "Pure Chiffon",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://asimjofa.com/products/ajubep-02-printed-embroidered-cambric-unstitched-3-pcs",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-06-10T17:03:39+05:00",
+    "lastSeenAt": "2026-11-21T13:52:14.406Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 8299,
+        "salePrice": 8299
+      },
+      {
+        "date": "Oct 24",
+        "price": 8299,
+        "salePrice": 7635
+      },
+      {
+        "date": "Today",
+        "price": 8299,
+        "salePrice": 4979
+      }
+    ]
+  },
+  {
+    "id": "asimjofa-9950778032425",
+    "brandId": "asimjofa",
+    "brandName": "Asim Jofa",
+    "title": "AJULM-06 Embroidered Velvet Unstitched 3 Pcs",
+    "handle": "ajulm-06-embroidered-velvet-unstitched-3-pcs",
+    "originalPrice": 17250,
+    "salePrice": 10350,
+    "discountPct": 40,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/052A7289.jpg?v=1764740959",
+    "category": "unstitched",
+    "fabric": "Pure Chiffon",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://asimjofa.com/products/ajulm-06-embroidered-velvet-unstitched-3-pcs",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2025-12-01T12:34:24+05:00",
+    "lastSeenAt": "2026-11-21T13:52:14.406Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 17250,
+        "salePrice": 17250
+      },
+      {
+        "date": "Oct 24",
+        "price": 17250,
+        "salePrice": 15870
+      },
+      {
+        "date": "Today",
+        "price": 17250,
+        "salePrice": 10350
       }
     ]
   },
@@ -4123,7 +4123,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-29T12:20:39+05:00",
-    "lastSeenAt": "2026-11-21T04:42:58.201Z",
+    "lastSeenAt": "2026-11-21T13:52:18.081Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4159,7 +4159,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-29T12:30:51+05:00",
-    "lastSeenAt": "2026-11-21T04:42:58.201Z",
+    "lastSeenAt": "2026-11-21T13:52:18.081Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4195,7 +4195,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-29T12:39:12+05:00",
-    "lastSeenAt": "2026-11-21T04:42:58.201Z",
+    "lastSeenAt": "2026-11-21T13:52:18.081Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4231,7 +4231,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-29T12:43:14+05:00",
-    "lastSeenAt": "2026-11-21T04:42:58.201Z",
+    "lastSeenAt": "2026-11-21T13:52:18.081Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4267,7 +4267,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-29T15:29:51+05:00",
-    "lastSeenAt": "2026-11-21T04:42:58.201Z",
+    "lastSeenAt": "2026-11-21T13:52:18.081Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4303,7 +4303,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-30T15:32:43+05:00",
-    "lastSeenAt": "2026-11-21T04:42:58.201Z",
+    "lastSeenAt": "2026-11-21T13:52:18.081Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4339,7 +4339,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-30T15:34:56+05:00",
-    "lastSeenAt": "2026-11-21T04:42:58.201Z",
+    "lastSeenAt": "2026-11-21T13:52:18.081Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4375,7 +4375,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-08-07T14:00:34+05:00",
-    "lastSeenAt": "2026-11-21T04:42:58.201Z",
+    "lastSeenAt": "2026-11-21T13:52:18.081Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4411,7 +4411,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-05-20T10:06:07+05:00",
-    "lastSeenAt": "2026-11-21T04:42:58.201Z",
+    "lastSeenAt": "2026-11-21T13:52:18.081Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4447,7 +4447,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-18T15:31:19+05:00",
-    "lastSeenAt": "2026-11-21T04:42:58.201Z",
+    "lastSeenAt": "2026-11-21T13:52:18.081Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4483,7 +4483,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-23T11:41:21+05:00",
-    "lastSeenAt": "2026-11-21T04:42:58.201Z",
+    "lastSeenAt": "2026-11-21T13:52:18.081Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4519,7 +4519,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-29T16:58:06+05:00",
-    "lastSeenAt": "2026-11-21T04:42:58.201Z",
+    "lastSeenAt": "2026-11-21T13:52:18.081Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4555,7 +4555,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-29T17:09:10+05:00",
-    "lastSeenAt": "2026-11-21T04:42:58.201Z",
+    "lastSeenAt": "2026-11-21T13:52:18.081Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4591,7 +4591,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-01T15:02:03+05:00",
-    "lastSeenAt": "2026-11-21T04:42:58.201Z",
+    "lastSeenAt": "2026-11-21T13:52:18.081Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4627,7 +4627,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-15T11:46:45+05:00",
-    "lastSeenAt": "2026-11-21T04:42:58.201Z",
+    "lastSeenAt": "2026-11-21T13:52:18.081Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4663,7 +4663,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-16T11:54:48+05:00",
-    "lastSeenAt": "2026-11-21T04:42:58.201Z",
+    "lastSeenAt": "2026-11-21T13:52:18.081Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4699,7 +4699,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-27T16:29:56+05:00",
-    "lastSeenAt": "2026-11-21T04:42:58.201Z",
+    "lastSeenAt": "2026-11-21T13:52:18.081Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4735,7 +4735,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-27T16:39:58+05:00",
-    "lastSeenAt": "2026-11-21T04:42:58.201Z",
+    "lastSeenAt": "2026-11-21T13:52:18.081Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4771,7 +4771,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-03-30T10:29:28+05:00",
-    "lastSeenAt": "2026-11-21T04:42:58.201Z",
+    "lastSeenAt": "2026-11-21T13:52:18.081Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4807,7 +4807,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-04-15T16:14:10+05:00",
-    "lastSeenAt": "2026-11-21T04:42:58.201Z",
+    "lastSeenAt": "2026-11-21T13:52:18.081Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4843,7 +4843,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-05-05T12:52:13+05:00",
-    "lastSeenAt": "2026-11-21T04:42:58.201Z",
+    "lastSeenAt": "2026-11-21T13:52:18.081Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4879,7 +4879,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-05-05T13:05:49+05:00",
-    "lastSeenAt": "2026-11-21T04:42:58.201Z",
+    "lastSeenAt": "2026-11-21T13:52:18.081Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4915,7 +4915,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-05-11T14:23:53+05:00",
-    "lastSeenAt": "2026-11-21T04:42:58.202Z",
+    "lastSeenAt": "2026-11-21T13:52:18.082Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4951,7 +4951,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-05-19T17:13:28+05:00",
-    "lastSeenAt": "2026-11-21T04:42:58.202Z",
+    "lastSeenAt": "2026-11-21T13:52:18.082Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -4987,7 +4987,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-05-20T10:10:50+05:00",
-    "lastSeenAt": "2026-11-21T04:42:58.202Z",
+    "lastSeenAt": "2026-11-21T13:52:18.082Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5023,7 +5023,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-05-20T10:29:25+05:00",
-    "lastSeenAt": "2026-11-21T04:42:58.202Z",
+    "lastSeenAt": "2026-11-21T13:52:18.082Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5059,7 +5059,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-06-23T10:56:03+05:00",
-    "lastSeenAt": "2026-11-21T04:42:58.202Z",
+    "lastSeenAt": "2026-11-21T13:52:18.082Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5095,7 +5095,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-06T10:02:05+05:00",
-    "lastSeenAt": "2026-11-21T04:42:58.202Z",
+    "lastSeenAt": "2026-11-21T13:52:18.082Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5131,7 +5131,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-06T10:08:33+05:00",
-    "lastSeenAt": "2026-11-21T04:42:58.202Z",
+    "lastSeenAt": "2026-11-21T13:52:18.082Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5167,7 +5167,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-07-06T11:14:27+05:00",
-    "lastSeenAt": "2026-11-21T04:42:58.202Z",
+    "lastSeenAt": "2026-11-21T13:52:18.082Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5203,7 +5203,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T18:47:13+05:00",
-    "lastSeenAt": "2026-11-21T04:43:01.873Z",
+    "lastSeenAt": "2026-11-21T13:52:21.795Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5239,7 +5239,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T18:47:19+05:00",
-    "lastSeenAt": "2026-11-21T04:43:01.874Z",
+    "lastSeenAt": "2026-11-21T13:52:21.795Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5275,7 +5275,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T18:35:33+05:00",
-    "lastSeenAt": "2026-11-21T04:43:01.874Z",
+    "lastSeenAt": "2026-11-21T13:52:21.795Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5311,7 +5311,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T10:11:08+05:00",
-    "lastSeenAt": "2026-11-21T04:43:01.874Z",
+    "lastSeenAt": "2026-11-21T13:52:21.795Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5347,7 +5347,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T10:11:04+05:00",
-    "lastSeenAt": "2026-11-21T04:43:01.874Z",
+    "lastSeenAt": "2026-11-21T13:52:21.795Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5383,7 +5383,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T10:11:03+05:00",
-    "lastSeenAt": "2026-11-21T04:43:01.874Z",
+    "lastSeenAt": "2026-11-21T13:52:21.795Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5419,7 +5419,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T10:11:06+05:00",
-    "lastSeenAt": "2026-11-21T04:43:01.874Z",
+    "lastSeenAt": "2026-11-21T13:52:21.795Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5455,7 +5455,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T10:10:55+05:00",
-    "lastSeenAt": "2026-11-21T04:43:01.874Z",
+    "lastSeenAt": "2026-11-21T13:52:21.795Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5491,7 +5491,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T10:11:10+05:00",
-    "lastSeenAt": "2026-11-21T04:43:01.874Z",
+    "lastSeenAt": "2026-11-21T13:52:21.795Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5527,7 +5527,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T10:16:44+05:00",
-    "lastSeenAt": "2026-11-21T04:43:01.874Z",
+    "lastSeenAt": "2026-11-21T13:52:21.795Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5563,7 +5563,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T10:16:42+05:00",
-    "lastSeenAt": "2026-11-21T04:43:01.874Z",
+    "lastSeenAt": "2026-11-21T13:52:21.795Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5599,7 +5599,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T10:10:57+05:00",
-    "lastSeenAt": "2026-11-21T04:43:01.874Z",
+    "lastSeenAt": "2026-11-21T13:52:21.795Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5635,7 +5635,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T10:10:54+05:00",
-    "lastSeenAt": "2026-11-21T04:43:01.874Z",
+    "lastSeenAt": "2026-11-21T13:52:21.795Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5671,7 +5671,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T14:44:07+05:00",
-    "lastSeenAt": "2026-11-21T04:43:01.874Z",
+    "lastSeenAt": "2026-11-21T13:52:21.795Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5707,7 +5707,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-11T22:05:52+05:00",
-    "lastSeenAt": "2026-11-21T04:43:01.874Z",
+    "lastSeenAt": "2026-11-21T13:52:21.795Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5743,7 +5743,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-11T21:35:52+05:00",
-    "lastSeenAt": "2026-11-21T04:43:01.874Z",
+    "lastSeenAt": "2026-11-21T13:52:21.795Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5779,7 +5779,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-11T22:09:35+05:00",
-    "lastSeenAt": "2026-11-21T04:43:01.874Z",
+    "lastSeenAt": "2026-11-21T13:52:21.795Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5815,7 +5815,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T21:37:17+05:00",
-    "lastSeenAt": "2026-11-21T04:43:01.874Z",
+    "lastSeenAt": "2026-11-21T13:52:21.795Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5851,7 +5851,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T21:37:15+05:00",
-    "lastSeenAt": "2026-11-21T04:43:01.874Z",
+    "lastSeenAt": "2026-11-21T13:52:21.795Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5887,7 +5887,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T21:37:19+05:00",
-    "lastSeenAt": "2026-11-21T04:43:01.874Z",
+    "lastSeenAt": "2026-11-21T13:52:21.795Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5923,7 +5923,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T21:37:21+05:00",
-    "lastSeenAt": "2026-11-21T04:43:01.874Z",
+    "lastSeenAt": "2026-11-21T13:52:21.795Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5959,7 +5959,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T21:31:47+05:00",
-    "lastSeenAt": "2026-11-21T04:43:01.874Z",
+    "lastSeenAt": "2026-11-21T13:52:21.795Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -5995,7 +5995,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T21:29:40+05:00",
-    "lastSeenAt": "2026-11-21T04:43:01.874Z",
+    "lastSeenAt": "2026-11-21T13:52:21.795Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6031,7 +6031,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T21:31:06+05:00",
-    "lastSeenAt": "2026-11-21T04:43:01.874Z",
+    "lastSeenAt": "2026-11-21T13:52:21.795Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6067,7 +6067,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-01-12T21:30:58+05:00",
-    "lastSeenAt": "2026-11-21T04:43:01.874Z",
+    "lastSeenAt": "2026-11-21T13:52:21.795Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -6087,1082 +6087,1082 @@ export const INITIAL_PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "alkaram-8043701141684",
+    "id": "alkaram-8021178810548",
     "brandId": "alkaram",
     "brandName": "Alkaram Studio",
     "title": "RTS | SHIRT, TROUSER & DUPATTA",
-    "handle": "rts-shirt-trouser-dupatta-ef124-26-2-beige",
-    "originalPrice": 6490,
-    "salePrice": 4543,
+    "handle": "rts-shirt-trouser-dupatta-ec87-26-pink",
+    "originalPrice": 5990,
+    "salePrice": 4193,
     "discountPct": 30,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EF124-26-2-Beige-1.jpg?v=1776256166",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EC87-26-Pink-1_24e6748c-1db5-4d15-8cae-219b4f3e4b77.jpg?v=1768051198",
     "category": "pret",
-    "fabric": "Premium Lawn",
+    "fabric": "Pure Chiffon",
     "pieceCount": "3 Piece",
-    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ef124-26-2-beige",
+    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ec87-26-pink",
     "isLowestPrice": true,
     "onSale": true,
-    "firstSeenAt": "2026-04-10T16:57:48+05:00",
-    "lastSeenAt": "2026-11-21T04:43:05.515Z",
+    "firstSeenAt": "2026-01-10T18:19:55+05:00",
+    "lastSeenAt": "2026-11-21T13:52:25.419Z",
     "priceHistory": [
       {
         "date": "Oct 15",
-        "price": 6490,
-        "salePrice": 6490
+        "price": 5990,
+        "salePrice": 5990
       },
       {
         "date": "Oct 24",
-        "price": 6490,
-        "salePrice": 5971
+        "price": 5990,
+        "salePrice": 5511
       },
       {
         "date": "Today",
-        "price": 6490,
-        "salePrice": 4543
+        "price": 5990,
+        "salePrice": 4193
       }
     ]
   },
   {
-    "id": "alkaram-8043701076148",
+    "id": "alkaram-7852320784564",
     "brandId": "alkaram",
     "brandName": "Alkaram Studio",
     "title": "RTS | SHIRT, TROUSER & DUPATTA",
-    "handle": "rts-shirt-trouser-dupatta-ef122-26-2-dark-green",
-    "originalPrice": 6490,
-    "salePrice": 4543,
-    "discountPct": 30,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EF122-26-2-DarkGreen-1.jpg?v=1776256152",
-    "category": "pret",
-    "fabric": "Premium Lawn",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ef122-26-2-dark-green",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-04-10T16:57:44+05:00",
-    "lastSeenAt": "2026-11-21T04:43:05.515Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 6490,
-        "salePrice": 6490
-      },
-      {
-        "date": "Oct 24",
-        "price": 6490,
-        "salePrice": 5971
-      },
-      {
-        "date": "Today",
-        "price": 6490,
-        "salePrice": 4543
-      }
-    ]
-  },
-  {
-    "id": "alkaram-8043701010612",
-    "brandId": "alkaram",
-    "brandName": "Alkaram Studio",
-    "title": "RTS | SHIRT, TROUSER & DUPATTA",
-    "handle": "rts-shirt-trouser-dupatta-ef121-26-2-light-pink",
-    "originalPrice": 6490,
-    "salePrice": 4543,
-    "discountPct": 30,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EF121-26-2-LightPink-1.jpg?v=1776256139",
-    "category": "pret",
-    "fabric": "Premium Lawn",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ef121-26-2-light-pink",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-04-10T16:57:43+05:00",
-    "lastSeenAt": "2026-11-21T04:43:05.515Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 6490,
-        "salePrice": 6490
-      },
-      {
-        "date": "Oct 24",
-        "price": 6490,
-        "salePrice": 5971
-      },
-      {
-        "date": "Today",
-        "price": 6490,
-        "salePrice": 4543
-      }
-    ]
-  },
-  {
-    "id": "alkaram-7994292928692",
-    "brandId": "alkaram",
-    "brandName": "Alkaram Studio",
-    "title": "RTS | SHIRT, TROUSER & DUPATTA",
-    "handle": "rts-shirt-trouser-dupatta-fw-85-1-25-1-beige",
-    "originalPrice": 6990,
-    "salePrice": 4194,
+    "handle": "3-piece-printed-khaddar-suit-with-light-khaddar-dupatta-fw-24-1-24-ferozi",
+    "originalPrice": 4290,
+    "salePrice": 2574,
     "discountPct": 40,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/FW-85.1-25-1-Beige-1.jpg?v=1760350895",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/FW-24.1-24-24-FEROZI-1.jpg?v=1730100931",
+    "category": "pret",
+    "fabric": "Cotton Khaddar",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://www.alkaramstudio.com/products/3-piece-printed-khaddar-suit-with-light-khaddar-dupatta-fw-24-1-24-ferozi",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2024-09-24T12:22:05+05:00",
+    "lastSeenAt": "2026-11-21T13:52:25.419Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 4290,
+        "salePrice": 4290
+      },
+      {
+        "date": "Oct 24",
+        "price": 4290,
+        "salePrice": 3947
+      },
+      {
+        "date": "Today",
+        "price": 4290,
+        "salePrice": 2574
+      }
+    ]
+  },
+  {
+    "id": "alkaram-7995992998068",
+    "brandId": "alkaram",
+    "brandName": "Alkaram Studio",
+    "title": "RTS  | SHIRT",
+    "handle": "rts-shirt-slr-82-25-6-teal",
+    "originalPrice": 1490,
+    "salePrice": 894,
+    "discountPct": 40,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/SLR-82-25-6-Teal-1_3937cbfe-16f1-4724-bd85-21d5d5058514.jpg?v=1760082875",
+    "category": "pret",
+    "fabric": "Cotton Khaddar",
+    "pieceCount": "1 Piece",
+    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-slr-82-25-6-teal",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2025-10-10T12:54:33+05:00",
+    "lastSeenAt": "2026-11-21T13:52:25.419Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 1490,
+        "salePrice": 1490
+      },
+      {
+        "date": "Oct 24",
+        "price": 1490,
+        "salePrice": 1371
+      },
+      {
+        "date": "Today",
+        "price": 1490,
+        "salePrice": 894
+      }
+    ]
+  },
+  {
+    "id": "alkaram-7934058135732",
+    "brandId": "alkaram",
+    "brandName": "Alkaram Studio",
+    "title": "RTS | SHIRT, TROUSER & DUPATTA",
+    "handle": "3-pc-printed-lawn-suit-with-printed-lawn-dupatta-ss-55-25-2-sea-green",
+    "originalPrice": 4590,
+    "salePrice": 2754,
+    "discountPct": 40,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/SS-55-25-2-SEAGREEN-1.jpg?v=1745526358",
+    "category": "pret",
+    "fabric": "Premium Lawn",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://www.alkaramstudio.com/products/3-pc-printed-lawn-suit-with-printed-lawn-dupatta-ss-55-25-2-sea-green",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2025-03-25T07:06:46+05:00",
+    "lastSeenAt": "2026-11-21T13:52:25.419Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 4590,
+        "salePrice": 4590
+      },
+      {
+        "date": "Oct 24",
+        "price": 4590,
+        "salePrice": 4223
+      },
+      {
+        "date": "Today",
+        "price": 4590,
+        "salePrice": 2754
+      }
+    ]
+  },
+  {
+    "id": "alkaram-7994283360436",
+    "brandId": "alkaram",
+    "brandName": "Alkaram Studio",
+    "title": "RTS | SHIRT, TROUSER & DUPATTA",
+    "handle": "rts-shirt-trouser-dupatta-fw-129-25-1-pink",
+    "originalPrice": 4790,
+    "salePrice": 2874,
+    "discountPct": 40,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/FW-129-25-1-Pink-1.jpg?v=1760009802",
     "category": "pret",
     "fabric": "Fine Cotton Lawn",
     "pieceCount": "3 Piece",
-    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-fw-85-1-25-1-beige",
+    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-fw-129-25-1-pink",
     "isLowestPrice": true,
     "onSale": true,
-    "firstSeenAt": "2025-10-02T17:58:33+05:00",
-    "lastSeenAt": "2026-11-21T04:43:05.515Z",
+    "firstSeenAt": "2025-10-02T17:57:32+05:00",
+    "lastSeenAt": "2026-11-21T13:52:25.419Z",
     "priceHistory": [
       {
         "date": "Oct 15",
-        "price": 6990,
-        "salePrice": 6990
+        "price": 4790,
+        "salePrice": 4790
       },
       {
         "date": "Oct 24",
-        "price": 6990,
-        "salePrice": 6431
+        "price": 4790,
+        "salePrice": 4407
       },
       {
         "date": "Today",
-        "price": 6990,
-        "salePrice": 4194
+        "price": 4790,
+        "salePrice": 2874
       }
     ]
   },
   {
-    "id": "alkaram-8079547400372",
+    "id": "alkaram-8021174878388",
     "brandId": "alkaram",
     "brandName": "Alkaram Studio",
     "title": "RTS | SHIRT, TROUSER & DUPATTA",
-    "handle": "rts-shirt-trouser-dupatta-ec323-3p26-black",
-    "originalPrice": 5990,
-    "salePrice": 4193,
+    "handle": "rts-shirt-trouser-dupatta-ef14-26-grey",
+    "originalPrice": 4290,
+    "salePrice": 3003,
     "discountPct": 30,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EC323-3P26-Black-1.jpg?v=1783340565",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EF14-26-Grey-1_71e1a396-f605-4ad7-8ed7-33b1b1c50c70.jpg?v=1768050996",
     "category": "pret",
     "fabric": "Premium Lawn",
     "pieceCount": "3 Piece",
-    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ec323-3p26-black",
+    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ef14-26-grey",
     "isLowestPrice": true,
     "onSale": true,
-    "firstSeenAt": "2026-07-06T17:37:46+05:00",
-    "lastSeenAt": "2026-11-21T04:43:05.515Z",
+    "firstSeenAt": "2026-01-10T18:16:34+05:00",
+    "lastSeenAt": "2026-11-21T13:52:25.419Z",
     "priceHistory": [
       {
         "date": "Oct 15",
-        "price": 5990,
-        "salePrice": 5990
+        "price": 4290,
+        "salePrice": 4290
       },
       {
         "date": "Oct 24",
-        "price": 5990,
-        "salePrice": 5511
+        "price": 4290,
+        "salePrice": 3947
       },
       {
         "date": "Today",
-        "price": 5990,
-        "salePrice": 4193
+        "price": 4290,
+        "salePrice": 3003
       }
     ]
   },
   {
-    "id": "alkaram-8021177860276",
+    "id": "alkaram-10297906266292",
     "brandId": "alkaram",
     "brandName": "Alkaram Studio",
     "title": "RTS | SHIRT, TROUSER & DUPATTA",
-    "handle": "rts-shirt-trouser-dupatta-ec35-26-blue",
-    "originalPrice": 5990,
-    "salePrice": 4193,
+    "handle": "rts-shirt-trouser-dupatta-ec540-3p26b-peach",
+    "originalPrice": 3990,
+    "salePrice": 3192,
+    "discountPct": 20,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EC540-3P26B-Peach-1.jpg?v=1790245144",
+    "category": "pret",
+    "fabric": "Cotton Khaddar",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ec540-3p26b-peach",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-09-24T14:18:02+05:00",
+    "lastSeenAt": "2026-11-21T13:52:25.419Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 3990,
+        "salePrice": 3990
+      },
+      {
+        "date": "Oct 24",
+        "price": 3990,
+        "salePrice": 3671
+      },
+      {
+        "date": "Today",
+        "price": 3990,
+        "salePrice": 3192
+      }
+    ]
+  },
+  {
+    "id": "alkaram-7994294862004",
+    "brandId": "alkaram",
+    "brandName": "Alkaram Studio",
+    "title": "RTS | SHIRT & TROUSER",
+    "handle": "rts-shirt-trouser-fw-121-1-25-1-purple",
+    "originalPrice": 3290,
+    "salePrice": 1974,
+    "discountPct": 40,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/FW-121.1-25-1-Purple-1.jpg?v=1762262575",
+    "category": "pret",
+    "fabric": "Cotton Khaddar",
+    "pieceCount": "2 Piece",
+    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-fw-121-1-25-1-purple",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2025-10-02T18:00:13+05:00",
+    "lastSeenAt": "2026-11-21T13:52:25.419Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 3290,
+        "salePrice": 3290
+      },
+      {
+        "date": "Oct 24",
+        "price": 3290,
+        "salePrice": 3027
+      },
+      {
+        "date": "Today",
+        "price": 3290,
+        "salePrice": 1974
+      }
+    ]
+  },
+  {
+    "id": "alkaram-8020334379188",
+    "brandId": "alkaram",
+    "brandName": "Alkaram Studio",
+    "title": "RTS | SHIRT & TROUSER",
+    "handle": "rts-shirt-trouser-br44-2p26-pale-yellow",
+    "originalPrice": 2590,
+    "salePrice": 1813,
     "discountPct": 30,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EC35-26-Blue-1_83bd1cf0-1e5d-41e9-bef3-0a066d9d99a9.jpg?v=1768051152",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/BR44-2P26-PaleYellow-1.jpg?v=1767768616",
+    "category": "pret",
+    "fabric": "Premium Lawn",
+    "pieceCount": "2 Piece",
+    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-br44-2p26-pale-yellow",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-01-06T13:10:29+05:00",
+    "lastSeenAt": "2026-11-21T13:52:25.419Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 2590,
+        "salePrice": 2590
+      },
+      {
+        "date": "Oct 24",
+        "price": 2590,
+        "salePrice": 2383
+      },
+      {
+        "date": "Today",
+        "price": 2590,
+        "salePrice": 1813
+      }
+    ]
+  },
+  {
+    "id": "alkaram-7978518446260",
+    "brandId": "alkaram",
+    "brandName": "Alkaram Studio",
+    "title": "RTS | SHIRT, TROUSER & DUPATTA",
+    "handle": "rts-shirt-trouser-dupatta-ss-57-25-3-orange",
+    "originalPrice": 3990,
+    "salePrice": 2394,
+    "discountPct": 40,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/SS-57-25-3-Orange-1.jpg?v=1755502183",
     "category": "pret",
     "fabric": "Premium Lawn",
     "pieceCount": "3 Piece",
-    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ec35-26-blue",
+    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ss-57-25-3-orange",
     "isLowestPrice": true,
     "onSale": true,
-    "firstSeenAt": "2026-01-10T18:19:10+05:00",
-    "lastSeenAt": "2026-11-21T04:43:05.515Z",
+    "firstSeenAt": "2025-08-06T13:14:29+05:00",
+    "lastSeenAt": "2026-11-21T13:52:25.419Z",
     "priceHistory": [
       {
         "date": "Oct 15",
-        "price": 5990,
-        "salePrice": 5990
+        "price": 3990,
+        "salePrice": 3990
       },
       {
         "date": "Oct 24",
-        "price": 5990,
-        "salePrice": 5511
+        "price": 3990,
+        "salePrice": 3671
       },
       {
         "date": "Today",
-        "price": 5990,
-        "salePrice": 4193
+        "price": 3990,
+        "salePrice": 2394
       }
     ]
   },
   {
-    "id": "alkaram-8021177696436",
+    "id": "alkaram-8020334641332",
+    "brandId": "alkaram",
+    "brandName": "Alkaram Studio",
+    "title": "RTS | SHIRT & TROUSER",
+    "handle": "rts-shirt-trouser-br53-2p26-grey",
+    "originalPrice": 2590,
+    "salePrice": 1813,
+    "discountPct": 30,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/BR53-2P26-Grey-1.jpg?v=1767768645",
+    "category": "pret",
+    "fabric": "Premium Lawn",
+    "pieceCount": "2 Piece",
+    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-br53-2p26-grey",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-01-06T13:10:48+05:00",
+    "lastSeenAt": "2026-11-21T13:52:25.419Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 2590,
+        "salePrice": 2590
+      },
+      {
+        "date": "Oct 24",
+        "price": 2590,
+        "salePrice": 2383
+      },
+      {
+        "date": "Today",
+        "price": 2590,
+        "salePrice": 1813
+      }
+    ]
+  },
+  {
+    "id": "alkaram-8020334215348",
+    "brandId": "alkaram",
+    "brandName": "Alkaram Studio",
+    "title": "RTS | SHIRT & TROUSER",
+    "handle": "rts-shirt-trouser-bd54-2p26-light-grey",
+    "originalPrice": 2790,
+    "salePrice": 1953,
+    "discountPct": 30,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/BD54-2P26-LightGrey-1.jpg?v=1768645901",
+    "category": "pret",
+    "fabric": "Premium Lawn",
+    "pieceCount": "2 Piece",
+    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-bd54-2p26-light-grey",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-01-06T13:10:20+05:00",
+    "lastSeenAt": "2026-11-21T13:52:25.419Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 2790,
+        "salePrice": 2790
+      },
+      {
+        "date": "Oct 24",
+        "price": 2790,
+        "salePrice": 2567
+      },
+      {
+        "date": "Today",
+        "price": 2790,
+        "salePrice": 1953
+      }
+    ]
+  },
+  {
+    "id": "alkaram-8023017849012",
     "brandId": "alkaram",
     "brandName": "Alkaram Studio",
     "title": "RTS | SHIRT, TROUSER & DUPATTA",
-    "handle": "rts-shirt-trouser-dupatta-ec31-26-grey",
-    "originalPrice": 5990,
-    "salePrice": 4193,
+    "handle": "rts-shirt-trouser-dupatta-ec100-3p26-rust",
+    "originalPrice": 3990,
+    "salePrice": 2793,
     "discountPct": 30,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EC31-26-Grey-1_d9fe2fac-9ecc-4ae2-a536-05d667b3cf4c.jpg?v=1768897076",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EC100-26-Rust-1_3fdcb62a-dd88-421a-8362-b90d082cbb68.jpg?v=1768730038",
+    "category": "pret",
+    "fabric": "Premium Lawn",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ec100-3p26-rust",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-01-18T14:53:55+05:00",
+    "lastSeenAt": "2026-11-21T13:52:25.420Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 3990,
+        "salePrice": 3990
+      },
+      {
+        "date": "Oct 24",
+        "price": 3990,
+        "salePrice": 3671
+      },
+      {
+        "date": "Today",
+        "price": 3990,
+        "salePrice": 2793
+      }
+    ]
+  },
+  {
+    "id": "alkaram-8021587493044",
+    "brandId": "alkaram",
+    "brandName": "Alkaram Studio",
+    "title": "RTS | SHIRT, TROUSER & DUPATTA",
+    "handle": "rts-shirt-trouser-dupatta-ms185-3p26-b-maroon",
+    "originalPrice": 3990,
+    "salePrice": 2793,
+    "discountPct": 30,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/MS-185-26-Maroon-1.jpg?v=1768386502",
+    "category": "pret",
+    "fabric": "Premium Lawn",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ms185-3p26-b-maroon",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-01-13T14:39:25+05:00",
+    "lastSeenAt": "2026-11-21T13:52:25.420Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 3990,
+        "salePrice": 3990
+      },
+      {
+        "date": "Oct 24",
+        "price": 3990,
+        "salePrice": 3671
+      },
+      {
+        "date": "Today",
+        "price": 3990,
+        "salePrice": 2793
+      }
+    ]
+  },
+  {
+    "id": "alkaram-8021175500980",
+    "brandId": "alkaram",
+    "brandName": "Alkaram Studio",
+    "title": "RTS | SHIRT, TROUSER & DUPATTA",
+    "handle": "rts-shirt-trouser-dupatta-ef68-26-beige",
+    "originalPrice": 4790,
+    "salePrice": 3353,
+    "discountPct": 30,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EF68-26-Beige-1_jpg.jpg?v=1775475526",
     "category": "pret",
     "fabric": "Pure Chiffon",
     "pieceCount": "3 Piece",
-    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ec31-26-grey",
+    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ef68-26-beige",
     "isLowestPrice": true,
     "onSale": true,
-    "firstSeenAt": "2026-01-10T18:19:03+05:00",
-    "lastSeenAt": "2026-11-21T04:43:05.515Z",
+    "firstSeenAt": "2026-01-10T18:17:06+05:00",
+    "lastSeenAt": "2026-11-21T13:52:25.420Z",
     "priceHistory": [
       {
         "date": "Oct 15",
-        "price": 5990,
-        "salePrice": 5990
+        "price": 4790,
+        "salePrice": 4790
       },
       {
         "date": "Oct 24",
-        "price": 5990,
-        "salePrice": 5511
+        "price": 4790,
+        "salePrice": 4407
       },
       {
         "date": "Today",
-        "price": 5990,
-        "salePrice": 4193
+        "price": 4790,
+        "salePrice": 3353
       }
     ]
   },
   {
-    "id": "alkaram-8021177663668",
+    "id": "alkaram-8021177401524",
     "brandId": "alkaram",
     "brandName": "Alkaram Studio",
-    "title": "RTS | SHIRT, TROUSER & DUPATTA",
-    "handle": "rts-shirt-trouser-dupatta-ec30-26-purple",
-    "originalPrice": 5990,
-    "salePrice": 4193,
+    "title": "RTS | SHIRT & TROUSER",
+    "handle": "rts-shirt-trouser-ef77-26-brown",
+    "originalPrice": 2990,
+    "salePrice": 2093,
     "discountPct": 30,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EC30-26-Purple-1.jpg?v=1768896833",
-    "category": "pret",
-    "fabric": "Premium Lawn",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ec30-26-purple",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-01-10T18:19:02+05:00",
-    "lastSeenAt": "2026-11-21T04:43:05.515Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 5990,
-        "salePrice": 5990
-      },
-      {
-        "date": "Oct 24",
-        "price": 5990,
-        "salePrice": 5511
-      },
-      {
-        "date": "Today",
-        "price": 5990,
-        "salePrice": 4193
-      }
-    ]
-  },
-  {
-    "id": "alkaram-8021177237684",
-    "brandId": "alkaram",
-    "brandName": "Alkaram Studio",
-    "title": "RTS | SHIRT, TROUSER & DUPATTA",
-    "handle": "rts-shirt-trouser-dupatta-ef62-26-coral",
-    "originalPrice": 5990,
-    "salePrice": 4193,
-    "discountPct": 30,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EF62-26-Coral-1.jpg?v=1768558463",
-    "category": "pret",
-    "fabric": "Premium Lawn",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ef62-26-coral",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-01-10T18:18:38+05:00",
-    "lastSeenAt": "2026-11-21T04:43:05.515Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 5990,
-        "salePrice": 5990
-      },
-      {
-        "date": "Oct 24",
-        "price": 5990,
-        "salePrice": 5511
-      },
-      {
-        "date": "Today",
-        "price": 5990,
-        "salePrice": 4193
-      }
-    ]
-  },
-  {
-    "id": "alkaram-8021176844468",
-    "brandId": "alkaram",
-    "brandName": "Alkaram Studio",
-    "title": "RTS | SHIRT, TROUSER & DUPATTA",
-    "handle": "rts-shirt-trouser-dupatta-ef07-26-beige",
-    "originalPrice": 5990,
-    "salePrice": 4193,
-    "discountPct": 30,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EF07-26-Beige-1_f1eb8d50-e52a-4d1a-a983-c89a3b2ea10c.jpg?v=1768051100",
-    "category": "pret",
-    "fabric": "Premium Lawn",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ef07-26-beige",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-01-10T18:18:17+05:00",
-    "lastSeenAt": "2026-11-21T04:43:05.515Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 5990,
-        "salePrice": 5990
-      },
-      {
-        "date": "Oct 24",
-        "price": 5990,
-        "salePrice": 5511
-      },
-      {
-        "date": "Today",
-        "price": 5990,
-        "salePrice": 4193
-      }
-    ]
-  },
-  {
-    "id": "alkaram-8021176811700",
-    "brandId": "alkaram",
-    "brandName": "Alkaram Studio",
-    "title": "RTS | SHIRT, TROUSER & DUPATTA",
-    "handle": "rts-shirt-trouser-dupatta-ef06-26-light-green",
-    "originalPrice": 5990,
-    "salePrice": 4193,
-    "discountPct": 30,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EF06-26-Light_Green-1_e948e277-6555-4818-b08d-90932afda25b.jpg?v=1768051098",
-    "category": "pret",
-    "fabric": "Premium Lawn",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ef06-26-light-green",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-01-10T18:18:15+05:00",
-    "lastSeenAt": "2026-11-21T04:43:05.515Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 5990,
-        "salePrice": 5990
-      },
-      {
-        "date": "Oct 24",
-        "price": 5990,
-        "salePrice": 5511
-      },
-      {
-        "date": "Today",
-        "price": 5990,
-        "salePrice": 4193
-      }
-    ]
-  },
-  {
-    "id": "alkaram-8021176778932",
-    "brandId": "alkaram",
-    "brandName": "Alkaram Studio",
-    "title": "RTS | SHIRT, TROUSER & DUPATTA",
-    "handle": "rts-shirt-trouser-dupatta-ef05-26-sea-green",
-    "originalPrice": 5990,
-    "salePrice": 4193,
-    "discountPct": 30,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EF05-26-Sea_Green-1_87849f28-0cdd-4b14-9138-c0d52a4fc241.jpg?v=1768051096",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EF77-26-Brown-1_e4f479b0-d5c7-4e2d-8207-13621dd5dc4a.jpg?v=1768051131",
     "category": "pret",
     "fabric": "Soft Cambric",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ef05-26-sea-green",
+    "pieceCount": "2 Piece",
+    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-ef77-26-brown",
     "isLowestPrice": true,
     "onSale": true,
-    "firstSeenAt": "2026-01-10T18:18:13+05:00",
-    "lastSeenAt": "2026-11-21T04:43:05.515Z",
+    "firstSeenAt": "2026-01-10T18:18:49+05:00",
+    "lastSeenAt": "2026-11-21T13:52:25.420Z",
     "priceHistory": [
       {
         "date": "Oct 15",
-        "price": 5990,
-        "salePrice": 5990
+        "price": 2990,
+        "salePrice": 2990
       },
       {
         "date": "Oct 24",
-        "price": 5990,
-        "salePrice": 5511
+        "price": 2990,
+        "salePrice": 2751
       },
       {
         "date": "Today",
-        "price": 5990,
-        "salePrice": 4193
+        "price": 2990,
+        "salePrice": 2093
       }
     ]
   },
   {
-    "id": "alkaram-8021176746164",
+    "id": "alkaram-8043934384308",
     "brandId": "alkaram",
     "brandName": "Alkaram Studio",
-    "title": "RTS | SHIRT, TROUSER & DUPATTA",
-    "handle": "rts-shirt-trouser-dupatta-ef04-26-green",
-    "originalPrice": 5990,
-    "salePrice": 4193,
+    "title": "RTS | SHIRT",
+    "handle": "rts-shirt-br121-26-3-orange",
+    "originalPrice": 1290,
+    "salePrice": 903,
     "discountPct": 30,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EF04-26-Green-1.jpg?v=1768393794",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/BR121-26-3-Orange-1.jpg?v=1776065383",
     "category": "pret",
-    "fabric": "Pure Chiffon",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ef04-26-green",
+    "fabric": "Premium Lawn",
+    "pieceCount": "1 Piece",
+    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-br121-26-3-orange",
     "isLowestPrice": true,
     "onSale": true,
-    "firstSeenAt": "2026-01-10T18:18:12+05:00",
-    "lastSeenAt": "2026-11-21T04:43:05.515Z",
+    "firstSeenAt": "2026-04-13T12:49:04+05:00",
+    "lastSeenAt": "2026-11-21T13:52:25.420Z",
     "priceHistory": [
       {
         "date": "Oct 15",
-        "price": 5990,
-        "salePrice": 5990
+        "price": 1290,
+        "salePrice": 1290
       },
       {
         "date": "Oct 24",
-        "price": 5990,
-        "salePrice": 5511
+        "price": 1290,
+        "salePrice": 1187
       },
       {
         "date": "Today",
-        "price": 5990,
-        "salePrice": 4193
+        "price": 1290,
+        "salePrice": 903
       }
     ]
   },
   {
-    "id": "alkaram-8021176615092",
+    "id": "alkaram-7994282967220",
     "brandId": "alkaram",
     "brandName": "Alkaram Studio",
     "title": "RTS | SHIRT, TROUSER & DUPATTA",
-    "handle": "rts-shirt-trouser-dupatta-ef10-26-cream",
-    "originalPrice": 5990,
-    "salePrice": 4193,
+    "handle": "rts-shirt-trouser-dupatta-fw-129-25-1-lilac",
+    "originalPrice": 4790,
+    "salePrice": 2874,
+    "discountPct": 40,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/FW-129-25-1-Lilac-1.jpg?v=1760009788",
+    "category": "pret",
+    "fabric": "Fine Cotton Lawn",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-fw-129-25-1-lilac",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2025-10-02T17:57:31+05:00",
+    "lastSeenAt": "2026-11-21T13:52:25.420Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 4790,
+        "salePrice": 4790
+      },
+      {
+        "date": "Oct 24",
+        "price": 4790,
+        "salePrice": 4407
+      },
+      {
+        "date": "Today",
+        "price": 4790,
+        "salePrice": 2874
+      }
+    ]
+  },
+  {
+    "id": "alkaram-8020333363380",
+    "brandId": "alkaram",
+    "brandName": "Alkaram Studio",
+    "title": "RTS | SHIRT",
+    "handle": "rts-shirt-bd24-26-purple",
+    "originalPrice": 1390,
+    "salePrice": 973,
     "discountPct": 30,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EF10-26-Cream-1.jpg?v=1768558419",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/BD24-26-Purple-1_b1fc6173-3204-4b60-8470-1fd94d33252c.jpg?v=1767686976",
+    "category": "pret",
+    "fabric": "Premium Lawn",
+    "pieceCount": "1 Piece",
+    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-bd24-26-purple",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-01-06T13:09:33+05:00",
+    "lastSeenAt": "2026-11-21T13:52:25.420Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 1390,
+        "salePrice": 1390
+      },
+      {
+        "date": "Oct 24",
+        "price": 1390,
+        "salePrice": 1279
+      },
+      {
+        "date": "Today",
+        "price": 1390,
+        "salePrice": 973
+      }
+    ]
+  },
+  {
+    "id": "alkaram-8021178089652",
+    "brandId": "alkaram",
+    "brandName": "Alkaram Studio",
+    "title": "RTS | SHIRT, TROUSER & DUPATTA",
+    "handle": "rts-shirt-trouser-dupatta-ec42-3p26-light-blue",
+    "originalPrice": 3990,
+    "salePrice": 2793,
+    "discountPct": 30,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EC42-26-Light_Blue-1_1877b4b1-923b-440d-917f-a6f5eed86156.jpg?v=1768051164",
     "category": "pret",
     "fabric": "Premium Lawn",
     "pieceCount": "3 Piece",
-    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ef10-26-cream",
+    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ec42-3p26-light-blue",
     "isLowestPrice": true,
     "onSale": true,
-    "firstSeenAt": "2026-01-10T18:18:05+05:00",
-    "lastSeenAt": "2026-11-21T04:43:05.515Z",
+    "firstSeenAt": "2026-01-10T18:19:22+05:00",
+    "lastSeenAt": "2026-11-21T13:52:25.420Z",
     "priceHistory": [
       {
         "date": "Oct 15",
-        "price": 5990,
-        "salePrice": 5990
+        "price": 3990,
+        "salePrice": 3990
       },
       {
         "date": "Oct 24",
-        "price": 5990,
-        "salePrice": 5511
+        "price": 3990,
+        "salePrice": 3671
       },
       {
         "date": "Today",
-        "price": 5990,
-        "salePrice": 4193
+        "price": 3990,
+        "salePrice": 2793
       }
     ]
   },
   {
-    "id": "alkaram-8111785083060",
+    "id": "alkaram-8031579439284",
+    "brandId": "alkaram",
+    "brandName": "Alkaram Studio",
+    "title": "RTS | SHIRT & TROUSER",
+    "handle": "rts-shirt-trouser-br107-26-2-olive-grey",
+    "originalPrice": 2590,
+    "salePrice": 2072,
+    "discountPct": 20,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/BR107-26-2-OliveGrey-1.jpg?v=1776619177",
+    "category": "pret",
+    "fabric": "Premium Lawn",
+    "pieceCount": "2 Piece",
+    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-br107-26-2-olive-grey",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-02-17T12:39:27+05:00",
+    "lastSeenAt": "2026-11-21T13:52:25.420Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 2590,
+        "salePrice": 2590
+      },
+      {
+        "date": "Oct 24",
+        "price": 2590,
+        "salePrice": 2383
+      },
+      {
+        "date": "Today",
+        "price": 2590,
+        "salePrice": 2072
+      }
+    ]
+  },
+  {
+    "id": "alkaram-7994260717748",
+    "brandId": "alkaram",
+    "brandName": "Alkaram Studio",
+    "title": "RTS | SHIRT, TROUSER & SHAWL",
+    "handle": "rts-shirt-trouser-shawl-fw-90-25-1-off-white",
+    "originalPrice": 5790,
+    "salePrice": 3474,
+    "discountPct": 40,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/FW-90-25-1-OffWhite-1.jpg?v=1760350991",
+    "category": "pret",
+    "fabric": "Fine Cotton Lawn",
+    "pieceCount": "3 Piece",
+    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-shawl-fw-90-25-1-off-white",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2025-10-02T17:56:13+05:00",
+    "lastSeenAt": "2026-11-21T13:52:25.420Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 5790,
+        "salePrice": 5790
+      },
+      {
+        "date": "Oct 24",
+        "price": 5790,
+        "salePrice": 5327
+      },
+      {
+        "date": "Today",
+        "price": 5790,
+        "salePrice": 3474
+      }
+    ]
+  },
+  {
+    "id": "alkaram-8021587001524",
     "brandId": "alkaram",
     "brandName": "Alkaram Studio",
     "title": "RTS | SHIRT, TROUSER & DUPATTA",
-    "handle": "rts-shirt-trouser-dupatta-ec329-3p26-blue",
-    "originalPrice": 5690,
-    "salePrice": 3983,
+    "handle": "rts-shirt-trouser-dupatta-ms148-3p26-a-green",
+    "originalPrice": 3990,
+    "salePrice": 2793,
     "discountPct": 30,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EC329-3P26-Blue-2_7adb9365-08e8-4ee9-bc4d-c95b7f560c90.jpg?v=1787051427",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/MS-148.1-26-Green-1.jpg?v=1768386279",
     "category": "pret",
     "fabric": "Premium Lawn",
     "pieceCount": "3 Piece",
-    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ec329-3p26-blue",
+    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ms148-3p26-a-green",
     "isLowestPrice": true,
     "onSale": true,
-    "firstSeenAt": "2026-08-18T17:27:46+05:00",
-    "lastSeenAt": "2026-11-21T04:43:05.515Z",
+    "firstSeenAt": "2026-01-13T14:39:05+05:00",
+    "lastSeenAt": "2026-11-21T13:52:25.420Z",
     "priceHistory": [
       {
         "date": "Oct 15",
-        "price": 5690,
-        "salePrice": 5690
+        "price": 3990,
+        "salePrice": 3990
       },
       {
         "date": "Oct 24",
-        "price": 5690,
-        "salePrice": 5235
+        "price": 3990,
+        "salePrice": 3671
       },
       {
         "date": "Today",
-        "price": 5690,
-        "salePrice": 3983
+        "price": 3990,
+        "salePrice": 2793
       }
     ]
   },
   {
-    "id": "alkaram-8100066918580",
+    "id": "alkaram-8021587230900",
     "brandId": "alkaram",
     "brandName": "Alkaram Studio",
     "title": "RTS | SHIRT, TROUSER & DUPATTA",
-    "handle": "rts-shirt-trouser-dupatta-ec327-3p26-beige",
-    "originalPrice": 5690,
-    "salePrice": 3983,
+    "handle": "rts-shirt-trouser-dupatta-ms154-3p36-black",
+    "originalPrice": 3990,
+    "salePrice": 2793,
     "discountPct": 30,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EC327-3P26-Beige-1_0a06967a-d51a-468a-b3c8-5c12d5998f63.jpg?v=1788859959",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/MS-154.1-26-Grey-1.jpg?v=1768386409",
     "category": "pret",
     "fabric": "Premium Lawn",
     "pieceCount": "3 Piece",
-    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ec327-3p26-beige",
+    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ms154-3p36-black",
     "isLowestPrice": true,
     "onSale": true,
-    "firstSeenAt": "2026-08-04T15:09:40+05:00",
-    "lastSeenAt": "2026-11-21T04:43:05.515Z",
+    "firstSeenAt": "2026-01-13T14:39:15+05:00",
+    "lastSeenAt": "2026-11-21T13:52:25.420Z",
     "priceHistory": [
       {
         "date": "Oct 15",
-        "price": 5690,
-        "salePrice": 5690
+        "price": 3990,
+        "salePrice": 3990
       },
       {
         "date": "Oct 24",
-        "price": 5690,
-        "salePrice": 5235
+        "price": 3990,
+        "salePrice": 3671
       },
       {
         "date": "Today",
-        "price": 5690,
-        "salePrice": 3983
+        "price": 3990,
+        "salePrice": 2793
       }
     ]
   },
   {
-    "id": "alkaram-8076431622324",
+    "id": "alkaram-8020333428916",
     "brandId": "alkaram",
     "brandName": "Alkaram Studio",
-    "title": "RTS | SHIRT, TROUSER & DUPATTA",
-    "handle": "rts-shirt-trouser-dupatta-ec154-26-2-lilac",
-    "originalPrice": 5690,
-    "salePrice": 3983,
+    "title": "RTS | SHIRT",
+    "handle": "rts-shirt-bd26-26-beige",
+    "originalPrice": 1490,
+    "salePrice": 1043,
     "discountPct": 30,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EC154-26-2-Lilac-1.jpg?v=1782976114",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/BD26-26-Beige-1_987c8c0d-3370-405a-a83c-bd9666743f47.jpg?v=1767686980",
     "category": "pret",
     "fabric": "Premium Lawn",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ec154-26-2-lilac",
+    "pieceCount": "1 Piece",
+    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-bd26-26-beige",
     "isLowestPrice": true,
     "onSale": true,
-    "firstSeenAt": "2026-07-02T12:07:21+05:00",
-    "lastSeenAt": "2026-11-21T04:43:05.515Z",
+    "firstSeenAt": "2026-01-06T13:09:37+05:00",
+    "lastSeenAt": "2026-11-21T13:52:25.420Z",
     "priceHistory": [
       {
         "date": "Oct 15",
-        "price": 5690,
-        "salePrice": 5690
+        "price": 1490,
+        "salePrice": 1490
       },
       {
         "date": "Oct 24",
-        "price": 5690,
-        "salePrice": 5235
+        "price": 1490,
+        "salePrice": 1371
       },
       {
         "date": "Today",
-        "price": 5690,
-        "salePrice": 3983
+        "price": 1490,
+        "salePrice": 1043
       }
     ]
   },
   {
-    "id": "alkaram-8062181408948",
+    "id": "alkaram-7994291585204",
     "brandId": "alkaram",
     "brandName": "Alkaram Studio",
-    "title": "RTW | SHIRT & TROUSER",
-    "handle": "rtw-shirt-trouser-bs13-1-2p26-light-pink",
-    "originalPrice": 5690,
-    "salePrice": 3983,
-    "discountPct": 30,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/BS13-1-2P26_1.jpg?v=1779352091",
+    "title": "RTS | SHIRT & TROUSER",
+    "handle": "rts-shirt-trouser-fw-140-25-1-beige",
+    "originalPrice": 3290,
+    "salePrice": 1974,
+    "discountPct": 40,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/FW-140-25-1-Beige-1_4e761cdc-6f27-46e4-a388-6b73eff67ce6.jpg?v=1759409891",
     "category": "pret",
     "fabric": "Fine Cotton Lawn",
     "pieceCount": "2 Piece",
-    "productUrl": "https://www.alkaramstudio.com/products/rtw-shirt-trouser-bs13-1-2p26-light-pink",
+    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-fw-140-25-1-beige",
     "isLowestPrice": true,
     "onSale": true,
-    "firstSeenAt": "2026-05-21T13:59:01+05:00",
-    "lastSeenAt": "2026-11-21T04:43:05.515Z",
+    "firstSeenAt": "2025-10-02T17:58:09+05:00",
+    "lastSeenAt": "2026-11-21T13:52:25.420Z",
     "priceHistory": [
       {
         "date": "Oct 15",
-        "price": 5690,
-        "salePrice": 5690
+        "price": 3290,
+        "salePrice": 3290
       },
       {
         "date": "Oct 24",
-        "price": 5690,
-        "salePrice": 5235
+        "price": 3290,
+        "salePrice": 3027
       },
       {
         "date": "Today",
-        "price": 5690,
-        "salePrice": 3983
+        "price": 3290,
+        "salePrice": 1974
       }
     ]
   },
   {
-    "id": "alkaram-8043700977844",
+    "id": "alkaram-8043934646452",
+    "brandId": "alkaram",
+    "brandName": "Alkaram Studio",
+    "title": "RTS | SHIRT & TROUSER",
+    "handle": "rts-shirt-trouser-br168-2p26-3-cream",
+    "originalPrice": 2590,
+    "salePrice": 1813,
+    "discountPct": 30,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/BR168-2P26-3-Cream-1.jpg?v=1776065382",
+    "category": "pret",
+    "fabric": "Premium Lawn",
+    "pieceCount": "2 Piece",
+    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-br168-2p26-3-cream",
+    "isLowestPrice": true,
+    "onSale": true,
+    "firstSeenAt": "2026-04-13T12:49:23+05:00",
+    "lastSeenAt": "2026-11-21T13:52:25.420Z",
+    "priceHistory": [
+      {
+        "date": "Oct 15",
+        "price": 2590,
+        "salePrice": 2590
+      },
+      {
+        "date": "Oct 24",
+        "price": 2590,
+        "salePrice": 2383
+      },
+      {
+        "date": "Today",
+        "price": 2590,
+        "salePrice": 1813
+      }
+    ]
+  },
+  {
+    "id": "alkaram-8021174943924",
     "brandId": "alkaram",
     "brandName": "Alkaram Studio",
     "title": "RTS | SHIRT, TROUSER & DUPATTA",
-    "handle": "rts-shirt-trouser-dupatta-ef120-26-2-blue",
-    "originalPrice": 5690,
-    "salePrice": 3983,
+    "handle": "rts-shirt-trouser-dupatta-ef15-3p26-b-sea-blue",
+    "originalPrice": 3990,
+    "salePrice": 2793,
     "discountPct": 30,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EF120-26-2-Blue-1.jpg?v=1776256099",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/DSC09312-_1_jpg.jpg?v=1787311615",
     "category": "pret",
     "fabric": "Premium Lawn",
     "pieceCount": "3 Piece",
-    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ef120-26-2-blue",
+    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ef15-3p26-b-sea-blue",
     "isLowestPrice": true,
     "onSale": true,
-    "firstSeenAt": "2026-04-10T16:57:41+05:00",
-    "lastSeenAt": "2026-11-21T04:43:05.515Z",
+    "firstSeenAt": "2026-01-10T18:16:37+05:00",
+    "lastSeenAt": "2026-11-21T13:52:25.420Z",
     "priceHistory": [
       {
         "date": "Oct 15",
-        "price": 5690,
-        "salePrice": 5690
+        "price": 3990,
+        "salePrice": 3990
       },
       {
         "date": "Oct 24",
-        "price": 5690,
-        "salePrice": 5235
+        "price": 3990,
+        "salePrice": 3671
       },
       {
         "date": "Today",
-        "price": 5690,
-        "salePrice": 3983
+        "price": 3990,
+        "salePrice": 2793
       }
     ]
   },
   {
-    "id": "alkaram-8043699601588",
+    "id": "alkaram-8021175697588",
     "brandId": "alkaram",
     "brandName": "Alkaram Studio",
     "title": "RTS | SHIRT, TROUSER & DUPATTA",
-    "handle": "rts-shirt-trouser-dupatta-ec163-26-2-green",
-    "originalPrice": 5690,
-    "salePrice": 3983,
+    "handle": "rts-shirt-trouser-dupatta-ef71-3p26-a-purple",
+    "originalPrice": 3990,
+    "salePrice": 2793,
     "discountPct": 30,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EC163-26-2-Green-1.jpg?v=1776249733",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EF71-26-Purple-1.jpg?v=1768897013",
     "category": "pret",
     "fabric": "Premium Lawn",
     "pieceCount": "3 Piece",
-    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ec163-26-2-green",
+    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ef71-3p26-a-purple",
     "isLowestPrice": true,
     "onSale": true,
-    "firstSeenAt": "2026-04-10T16:56:24+05:00",
-    "lastSeenAt": "2026-11-21T04:43:05.515Z",
+    "firstSeenAt": "2026-01-10T18:17:16+05:00",
+    "lastSeenAt": "2026-11-21T13:52:25.420Z",
     "priceHistory": [
       {
         "date": "Oct 15",
-        "price": 5690,
-        "salePrice": 5690
+        "price": 3990,
+        "salePrice": 3990
       },
       {
         "date": "Oct 24",
-        "price": 5690,
-        "salePrice": 5235
+        "price": 3990,
+        "salePrice": 3671
       },
       {
         "date": "Today",
-        "price": 5690,
-        "salePrice": 3983
+        "price": 3990,
+        "salePrice": 2793
       }
     ]
   },
   {
-    "id": "alkaram-8043699536052",
+    "id": "alkaram-8001175093428",
     "brandId": "alkaram",
     "brandName": "Alkaram Studio",
-    "title": "RTS | SHIRT, TROUSER & DUPATTA",
-    "handle": "rts-shirt-trouser-dupatta-ec152-26-2-cream",
-    "originalPrice": 5690,
-    "salePrice": 3983,
-    "discountPct": 30,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EC152-26-2-Cream-1.jpg?v=1776249716",
-    "category": "pret",
-    "fabric": "Premium Lawn",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ec152-26-2-cream",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-04-10T16:56:21+05:00",
-    "lastSeenAt": "2026-11-21T04:43:05.515Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 5690,
-        "salePrice": 5690
-      },
-      {
-        "date": "Oct 24",
-        "price": 5690,
-        "salePrice": 5235
-      },
-      {
-        "date": "Today",
-        "price": 5690,
-        "salePrice": 3983
-      }
-    ]
-  },
-  {
-    "id": "alkaram-7909058085044",
-    "brandId": "alkaram",
-    "brandName": "Alkaram Studio",
-    "title": "RTS | SHIRT, TROUSER & DUPATTA",
-    "handle": "3-piece-printed-lawn-suit-with-printed-zari-dupatta-ss-6-25-1-dark-blue",
-    "originalPrice": 6290,
-    "salePrice": 3774,
+    "title": "RTS | SHIRT & DUPATTA",
+    "handle": "rts-shirt-dupatta-fw-166-25-2-gray",
+    "originalPrice": 3290,
+    "salePrice": 1974,
     "discountPct": 40,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/SS-6-25-1-DARK_BLUE-1_2e2a00b0-2903-4da2-a020-c4d4f1f0a572.jpg?v=1736449549",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/FW-166-25-2-Grey-1.jpg?v=1763366135",
     "category": "pret",
-    "fabric": "Premium Lawn",
+    "fabric": "Fine Cotton Lawn",
     "pieceCount": "3 Piece",
-    "productUrl": "https://www.alkaramstudio.com/products/3-piece-printed-lawn-suit-with-printed-zari-dupatta-ss-6-25-1-dark-blue",
+    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-dupatta-fw-166-25-2-gray",
     "isLowestPrice": true,
     "onSale": true,
-    "firstSeenAt": "2025-01-10T00:05:33+05:00",
-    "lastSeenAt": "2026-11-21T04:43:05.515Z",
+    "firstSeenAt": "2025-11-01T00:45:59+05:00",
+    "lastSeenAt": "2026-11-21T13:52:25.420Z",
     "priceHistory": [
       {
         "date": "Oct 15",
-        "price": 6290,
-        "salePrice": 6290
+        "price": 3290,
+        "salePrice": 3290
       },
       {
         "date": "Oct 24",
-        "price": 6290,
-        "salePrice": 5787
+        "price": 3290,
+        "salePrice": 3027
       },
       {
         "date": "Today",
-        "price": 6290,
-        "salePrice": 3774
-      }
-    ]
-  },
-  {
-    "id": "alkaram-8021587296436",
-    "brandId": "alkaram",
-    "brandName": "Alkaram Studio",
-    "title": "RTS | SHIRT, TROUSER & DUPATTA",
-    "handle": "rts-shirt-trouser-dupatta-ms-177-26-off-white",
-    "originalPrice": 5390,
-    "salePrice": 3773,
-    "discountPct": 30,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/MS-177-26-OffWhite-1_jpg.jpg?v=1783929821",
-    "category": "pret",
-    "fabric": "Premium Lawn",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ms-177-26-off-white",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-01-13T14:39:18+05:00",
-    "lastSeenAt": "2026-11-21T04:43:05.516Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 5390,
-        "salePrice": 5390
-      },
-      {
-        "date": "Oct 24",
-        "price": 5390,
-        "salePrice": 4959
-      },
-      {
-        "date": "Today",
-        "price": 5390,
-        "salePrice": 3773
-      }
-    ]
-  },
-  {
-    "id": "alkaram-8111785509044",
-    "brandId": "alkaram",
-    "brandName": "Alkaram Studio",
-    "title": "RTS | SHIRT, TROUSER & DUPATTA",
-    "handle": "rts-shirt-trouser-dupatta-ec339-3p26b-mustard",
-    "originalPrice": 5190,
-    "salePrice": 3633,
-    "discountPct": 30,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EC339-3P26B-Mustard-1_fa528036-63b9-483d-9c67-65bb9d5cafb3.jpg?v=1787051428",
-    "category": "pret",
-    "fabric": "Premium Lawn",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ec339-3p26b-mustard",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-08-18T17:28:06+05:00",
-    "lastSeenAt": "2026-11-21T04:43:05.516Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 5190,
-        "salePrice": 5190
-      },
-      {
-        "date": "Oct 24",
-        "price": 5190,
-        "salePrice": 4775
-      },
-      {
-        "date": "Today",
-        "price": 5190,
-        "salePrice": 3633
-      }
-    ]
-  },
-  {
-    "id": "alkaram-8111785312436",
-    "brandId": "alkaram",
-    "brandName": "Alkaram Studio",
-    "title": "RTS | SHIRT, TROUSER & DUPATTA",
-    "handle": "rts-shirt-trouser-dupatta-ec334-3p26-blue",
-    "originalPrice": 5190,
-    "salePrice": 3633,
-    "discountPct": 30,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EC334-3P26-Blue-2_c968dad6-216d-4f25-b9f0-8e00da81354e.jpg?v=1787051428",
-    "category": "pret",
-    "fabric": "Pure Chiffon",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ec334-3p26-blue",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-08-18T17:27:56+05:00",
-    "lastSeenAt": "2026-11-21T04:43:05.516Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 5190,
-        "salePrice": 5190
-      },
-      {
-        "date": "Oct 24",
-        "price": 5190,
-        "salePrice": 4775
-      },
-      {
-        "date": "Today",
-        "price": 5190,
-        "salePrice": 3633
-      }
-    ]
-  },
-  {
-    "id": "alkaram-8079547465908",
-    "brandId": "alkaram",
-    "brandName": "Alkaram Studio",
-    "title": "RTS | SHIRT, TROUSER & DUPATTA",
-    "handle": "rts-shirt-trouser-dupatta-ec339-3p26a-red",
-    "originalPrice": 5190,
-    "salePrice": 3633,
-    "discountPct": 30,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EC339-3P26A-Red-1.jpg?v=1783340568",
-    "category": "pret",
-    "fabric": "Premium Lawn",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ec339-3p26a-red",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-07-06T17:37:50+05:00",
-    "lastSeenAt": "2026-11-21T04:43:05.516Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 5190,
-        "salePrice": 5190
-      },
-      {
-        "date": "Oct 24",
-        "price": 5190,
-        "salePrice": 4775
-      },
-      {
-        "date": "Today",
-        "price": 5190,
-        "salePrice": 3633
-      }
-    ]
-  },
-  {
-    "id": "alkaram-8079547433140",
-    "brandId": "alkaram",
-    "brandName": "Alkaram Studio",
-    "title": "RTS | SHIRT, TROUSER & DUPATTA",
-    "handle": "rts-shirt-trouser-dupatta-ec338-3p26-peach",
-    "originalPrice": 5190,
-    "salePrice": 3633,
-    "discountPct": 30,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EC338-3P26-Peach-1.jpg?v=1783340567",
-    "category": "pret",
-    "fabric": "Premium Lawn",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ec338-3p26-peach",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-07-06T17:37:48+05:00",
-    "lastSeenAt": "2026-11-21T04:43:05.516Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 5190,
-        "salePrice": 5190
-      },
-      {
-        "date": "Oct 24",
-        "price": 5190,
-        "salePrice": 4775
-      },
-      {
-        "date": "Today",
-        "price": 5190,
-        "salePrice": 3633
-      }
-    ]
-  },
-  {
-    "id": "alkaram-7526056198324",
-    "brandId": "alkaram",
-    "brandName": "Alkaram Studio",
-    "title": "RTS | SHIRT, TROUSER & DUPATTA",
-    "handle": "3-pc-embroidered-lawn-suit-with-chiffon-dupatta-ss-43-24-yellow",
-    "originalPrice": 5940,
-    "salePrice": 3564,
-    "discountPct": 40,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/products/SS-43-24-Yellow-1.jpg?v=1718536808",
-    "category": "pret",
-    "fabric": "Pure Chiffon",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://www.alkaramstudio.com/products/3-pc-embroidered-lawn-suit-with-chiffon-dupatta-ss-43-24-yellow",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2024-03-01T14:50:17+05:00",
-    "lastSeenAt": "2026-11-21T04:43:05.516Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 5940,
-        "salePrice": 5940
-      },
-      {
-        "date": "Oct 24",
-        "price": 5940,
-        "salePrice": 5465
-      },
-      {
-        "date": "Today",
-        "price": 5940,
-        "salePrice": 3564
-      }
-    ]
-  },
-  {
-    "id": "alkaram-8045311393972",
-    "brandId": "alkaram",
-    "brandName": "Alkaram Studio",
-    "title": "RTS | SHIRT, TROUSER & DUPATTA",
-    "handle": "rts-shirt-trouser-dupatta-ef132-26a-2-blue",
-    "originalPrice": 4990,
-    "salePrice": 3493,
-    "discountPct": 30,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EF132-26A-2-Blue-1.jpg?v=1776935342",
-    "category": "pret",
-    "fabric": "Premium Lawn",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ef132-26a-2-blue",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-04-23T14:21:43+05:00",
-    "lastSeenAt": "2026-11-21T04:43:05.516Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 4990,
-        "salePrice": 4990
-      },
-      {
-        "date": "Oct 24",
-        "price": 4990,
-        "salePrice": 4591
-      },
-      {
-        "date": "Today",
-        "price": 4990,
-        "salePrice": 3493
-      }
-    ]
-  },
-  {
-    "id": "alkaram-8023017717940",
-    "brandId": "alkaram",
-    "brandName": "Alkaram Studio",
-    "title": "RTS | SHIRT, TROUSER & DUPATTA",
-    "handle": "rts-shirt-trouser-dupatta-ef72-26-sea-green",
-    "originalPrice": 4990,
-    "salePrice": 3493,
-    "discountPct": 30,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EF72-26-Sea_Green-1_9dc98927-361c-4b16-91c5-d8d211002586.jpg?v=1768730030",
-    "category": "pret",
-    "fabric": "Pure Chiffon",
-    "pieceCount": "3 Piece",
-    "productUrl": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ef72-26-sea-green",
-    "isLowestPrice": true,
-    "onSale": true,
-    "firstSeenAt": "2026-01-18T14:53:48+05:00",
-    "lastSeenAt": "2026-11-21T04:43:05.516Z",
-    "priceHistory": [
-      {
-        "date": "Oct 15",
-        "price": 4990,
-        "salePrice": 4990
-      },
-      {
-        "date": "Oct 24",
-        "price": 4990,
-        "salePrice": 4591
-      },
-      {
-        "date": "Today",
-        "price": 4990,
-        "salePrice": 3493
+        "price": 3290,
+        "salePrice": 1974
       }
     ]
   },
@@ -7183,7 +7183,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-11-16T11:36:39+05:00",
-    "lastSeenAt": "2026-11-21T04:43:09.134Z",
+    "lastSeenAt": "2026-11-21T13:52:29.078Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7219,7 +7219,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-11-16T11:36:43+05:00",
-    "lastSeenAt": "2026-11-21T04:43:09.134Z",
+    "lastSeenAt": "2026-11-21T13:52:29.078Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7255,7 +7255,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-11-16T11:36:43+05:00",
-    "lastSeenAt": "2026-11-21T04:43:09.134Z",
+    "lastSeenAt": "2026-11-21T13:52:29.078Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7291,7 +7291,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-11-16T11:36:43+05:00",
-    "lastSeenAt": "2026-11-21T04:43:09.134Z",
+    "lastSeenAt": "2026-11-21T13:52:29.078Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7327,7 +7327,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-11-16T11:36:44+05:00",
-    "lastSeenAt": "2026-11-21T04:43:09.134Z",
+    "lastSeenAt": "2026-11-21T13:52:29.078Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7363,7 +7363,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-11-16T11:36:39+05:00",
-    "lastSeenAt": "2026-11-21T04:43:09.134Z",
+    "lastSeenAt": "2026-11-21T13:52:29.079Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7399,7 +7399,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-11-16T11:36:39+05:00",
-    "lastSeenAt": "2026-11-21T04:43:09.134Z",
+    "lastSeenAt": "2026-11-21T13:52:29.079Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7435,7 +7435,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-11-16T11:36:39+05:00",
-    "lastSeenAt": "2026-11-21T04:43:09.134Z",
+    "lastSeenAt": "2026-11-21T13:52:29.079Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7471,7 +7471,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-11-16T11:36:46+05:00",
-    "lastSeenAt": "2026-11-21T04:43:09.134Z",
+    "lastSeenAt": "2026-11-21T13:52:29.079Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7507,7 +7507,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-11-12T15:40:42+05:00",
-    "lastSeenAt": "2026-11-21T04:43:09.134Z",
+    "lastSeenAt": "2026-11-21T13:52:29.079Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7543,7 +7543,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-11-12T15:40:45+05:00",
-    "lastSeenAt": "2026-11-21T04:43:09.134Z",
+    "lastSeenAt": "2026-11-21T13:52:29.079Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7579,7 +7579,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-11-12T15:40:51+05:00",
-    "lastSeenAt": "2026-11-21T04:43:09.134Z",
+    "lastSeenAt": "2026-11-21T13:52:29.079Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7615,7 +7615,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-11-12T15:40:36+05:00",
-    "lastSeenAt": "2026-11-21T04:43:09.134Z",
+    "lastSeenAt": "2026-11-21T13:52:29.079Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7651,7 +7651,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-11-12T15:40:47+05:00",
-    "lastSeenAt": "2026-11-21T04:43:09.134Z",
+    "lastSeenAt": "2026-11-21T13:52:29.079Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7687,7 +7687,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-11-12T15:40:44+05:00",
-    "lastSeenAt": "2026-11-21T04:43:09.134Z",
+    "lastSeenAt": "2026-11-21T13:52:29.079Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7723,7 +7723,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-11-12T15:40:50+05:00",
-    "lastSeenAt": "2026-11-21T04:43:09.134Z",
+    "lastSeenAt": "2026-11-21T13:52:29.079Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7759,7 +7759,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-11-12T15:40:33+05:00",
-    "lastSeenAt": "2026-11-21T04:43:09.134Z",
+    "lastSeenAt": "2026-11-21T13:52:29.079Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7795,7 +7795,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-11-12T15:40:50+05:00",
-    "lastSeenAt": "2026-11-21T04:43:09.134Z",
+    "lastSeenAt": "2026-11-21T13:52:29.079Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7831,7 +7831,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-11-07T12:40:32+05:00",
-    "lastSeenAt": "2026-11-21T04:43:09.134Z",
+    "lastSeenAt": "2026-11-21T13:52:29.079Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7867,7 +7867,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-11-07T12:40:32+05:00",
-    "lastSeenAt": "2026-11-21T04:43:09.134Z",
+    "lastSeenAt": "2026-11-21T13:52:29.079Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7903,7 +7903,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-11-07T12:40:25+05:00",
-    "lastSeenAt": "2026-11-21T04:43:09.134Z",
+    "lastSeenAt": "2026-11-21T13:52:29.079Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7939,7 +7939,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-11-07T12:40:29+05:00",
-    "lastSeenAt": "2026-11-21T04:43:09.134Z",
+    "lastSeenAt": "2026-11-21T13:52:29.079Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -7975,7 +7975,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-11-07T12:40:25+05:00",
-    "lastSeenAt": "2026-11-21T04:43:09.134Z",
+    "lastSeenAt": "2026-11-21T13:52:29.079Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -8011,7 +8011,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-11-07T12:40:29+05:00",
-    "lastSeenAt": "2026-11-21T04:43:09.134Z",
+    "lastSeenAt": "2026-11-21T13:52:29.079Z",
     "priceHistory": [
       {
         "date": "Oct 15",
@@ -8047,7 +8047,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "isLowestPrice": true,
     "onSale": true,
     "firstSeenAt": "2026-11-07T12:40:25+05:00",
-    "lastSeenAt": "2026-11-21T04:43:09.134Z",
+    "lastSeenAt": "2026-11-21T13:52:29.079Z",
     "priceHistory": [
       {
         "date": "Oct 15",
